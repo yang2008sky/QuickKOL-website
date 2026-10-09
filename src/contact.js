@@ -35,7 +35,7 @@ export function mountContact(initialLocale) {
 
       <section class="contact-layout" aria-label="${copy('咨询与支持', 'Questions and support')}">
         <aside class="contact-guide" aria-label="${copy('联系 QuickKOL', 'Contact QuickKOL')}">
-          <div class="contact-illustration"><img src="/assets/contact-conversation.png" alt="" width="1122" height="1402" /></div>
+          <div class="contact-illustration"><img src="/assets/contact-conversation.png" alt="${copy('蓝色信封与聊天气泡，联系 QuickKOL', 'Blue envelope and chat bubbles for contacting QuickKOL')}" width="1122" height="1402" /></div>
           <div class="contact-email"><p>${copy('也可以直接发邮件', 'PREFER EMAIL?')}</p><a href="mailto:${supportEmail}">${supportEmail} ${arrow}</a></div>
         </aside>
 

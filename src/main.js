@@ -1,4 +1,5 @@
 import "./styles.css";
+import { initSeo } from "./seo.js";
 import { renderCreatorShowcase, mountCreatorShowcase } from "./creator-showcase.js";
 import { createCampaignWorkflow } from "./campaign-workflow.js";
 import { renderCapabilityDemo, mountCapabilityDemo, capabilityPlaybackDuration } from "./capability-demos.js";
@@ -192,7 +193,7 @@ const renderTestimonialCards = (hidden = false) => `<div class="testimonial-grou
   <article class="testimonial-card testimonial-${item.tone}" tabindex="${hidden ? -1 : 0}">
     <div class="testimonial-card-top"><b class="testimonial-context">${item.role.split(" · ")[0]}</b><span class="testimonial-metric">${item.metric}</span></div>
     <blockquote>“${item.quote}”</blockquote>
-    <div class="testimonial-person"><img class="testimonial-avatar" src="${item.avatar}" alt="" loading="lazy" /><div><b>${item.name}</b><small>${item.role}</small></div></div>
+    <div class="testimonial-person"><img class="testimonial-avatar" src="${item.avatar}" alt="${item.name}" loading="lazy" /><div><b>${item.name}</b><small>${item.role}</small></div></div>
   </article>
 `).join("")}</div>`;
 
@@ -227,7 +228,7 @@ const siteMarkup = `
   <div class="scroll-progress" aria-hidden="true"><span data-scroll-progress></span></div>
   <header class="site-header" data-header>
     <a class="brand" href="#top" aria-label="QuickKOL 首页">
-      <img src="/assets/quickkol-logo.svg" alt="" />
+      <img src="/assets/quickkol-logo.svg" alt="QuickKOL" />
       <span>Quick<span>KOL</span></span>
     </a>
     <nav class="desktop-nav" aria-label="主要导航">
@@ -269,13 +270,14 @@ const siteMarkup = `
         <div class="hero-actions">
           <button class="button button-primary" type="button" data-start>免费开始 ${icon("arrow_forward")}</button>
           <a class="button chrome-extension-button" href="https://chromewebstore.google.com/detail/quickkol/pibnaegnljjogommepodcjdgmaobpeag" target="_blank" rel="noopener noreferrer" aria-label="添加 QuickKOL 到 Chrome（新窗口打开）">
-            <span class="chrome-icon"><img src="/assets/chrome-logo.png" alt="" /></span>
+            <span class="chrome-icon"><img src="/assets/chrome-logo.png" alt="Google Chrome" /></span>
             <span>添加到 Chrome</span>
           </a>
         </div>
       </div>
 
       <section class="capability-showcase" id="capabilities" aria-label="QuickKOL 功能展示" data-reveal>
+        <h2 class="sr-only">QuickKOL 功能展示</h2>
         <div class="capability-tabs" role="tablist" aria-label="QuickKOL 功能展示">
           ${capabilityTabs.map((tab, index) => `
             <button class="capability-tab ${index === 0 ? "is-active" : ""}" type="button" role="tab" data-capability-tab="${tab.key}" aria-selected="${index === 0}" aria-controls="capability-panel">
@@ -296,7 +298,7 @@ const siteMarkup = `
           <ul aria-label="支持的平台">
             <li aria-label="YouTube"><svg width="22" height="18" viewBox="0 0 24 18" aria-hidden="true"><rect y="1" width="24" height="16" rx="4" fill="#ff0033" /><path d="M10 5.5 16 9 10 12.5Z" fill="#fff" /></svg></li>
             <li aria-label="TikTok"><i class="ph ph-tiktok-logo" aria-hidden="true"></i></li>
-            <li aria-label="Instagram"><img src="/assets/instagram-logo.png" alt="" /></li>
+            <li aria-label="Instagram"><img src="/assets/instagram-logo.png" alt="Instagram" /></li>
             <li aria-label="X (Twitter)"><span class="platform-x">X</span></li>
           </ul>
         </div>
@@ -424,13 +426,13 @@ const siteMarkup = `
   <footer class="site-footer" data-reveal>
     <div class="footer-main">
       <div class="footer-brand-block">
-        <a class="brand" href="#top" aria-label="QuickKOL 首页"><img src="/assets/quickkol-logo.svg" alt="" /><span>Quick<span>KOL</span></span></a>
+        <a class="brand" href="#top" aria-label="QuickKOL 首页"><img src="/assets/quickkol-logo.svg" alt="QuickKOL" /><span>Quick<span>KOL</span></span></a>
         <p>用 AI 连接品牌与合适的创作者，<br>将达人发现、数据分析与个性化触达，<br>串成一条可控的营销工作流。</p>
         <div class="footer-contact-row">
           <div class="footer-socials" aria-label="社交媒体">
-            <span class="footer-social-icon" role="img" aria-label="X"><img src="/assets/ai-logos/x.svg" alt="" /></span>
-            <span class="footer-social-icon" role="img" aria-label="LinkedIn"><img src="/assets/ai-logos/linkedin.svg" alt="" /></span>
-            <span class="footer-social-icon" role="img" aria-label="WhatsApp"><img src="/assets/ai-logos/whatsapp.svg" alt="" /></span>
+            <span class="footer-social-icon" role="img" aria-label="X"><img src="/assets/ai-logos/x.svg" alt="X" /></span>
+            <span class="footer-social-icon" role="img" aria-label="LinkedIn"><img src="/assets/ai-logos/linkedin.svg" alt="LinkedIn" /></span>
+            <span class="footer-social-icon" role="img" aria-label="WhatsApp"><img src="/assets/ai-logos/whatsapp.svg" alt="WhatsApp" /></span>
           </div>
           <a class="footer-contact" href="mailto:support@quickkol.com">support@quickkol.com</a>
         </div>
@@ -468,10 +470,10 @@ const siteMarkup = `
         <div class="footer-ask-ai">
           <p>向 AI 了解 QuickKOL</p>
           <div class="footer-ai-links" aria-label="选择 AI 对话工具">
-            <a href="${footerAiLinks.chatgpt}" target="_blank" rel="noopener noreferrer" data-footer-ai aria-label="在 ChatGPT 中询问 QuickKOL（新窗口）" title="ChatGPT"><img src="/assets/ai-logos/chatgpt.svg" alt="" aria-hidden="true" /></a>
-            <a href="${footerAiLinks.claude}" target="_blank" rel="noopener noreferrer" data-footer-ai aria-label="在 Claude 中询问 QuickKOL（新窗口）" title="Claude"><img src="/assets/ai-logos/claude.svg" alt="" aria-hidden="true" /></a>
-            <a href="${footerAiLinks.perplexity}" target="_blank" rel="noopener noreferrer" data-footer-ai aria-label="在 Perplexity 中询问 QuickKOL（新窗口）" title="Perplexity"><img src="/assets/ai-logos/perplexity.svg" alt="" aria-hidden="true" /></a>
-            <a href="${footerAiLinks.gemini}" target="_blank" rel="noopener noreferrer" data-footer-ai aria-label="在 Gemini 中询问 QuickKOL（新窗口）" title="Gemini"><img src="/assets/ai-logos/gemini.svg" alt="" aria-hidden="true" /></a>
+            <a href="${footerAiLinks.chatgpt}" target="_blank" rel="noopener noreferrer" data-footer-ai aria-label="在 ChatGPT 中询问 QuickKOL（新窗口）" title="ChatGPT"><img src="/assets/ai-logos/chatgpt.svg" alt="ChatGPT" aria-hidden="true" /></a>
+            <a href="${footerAiLinks.claude}" target="_blank" rel="noopener noreferrer" data-footer-ai aria-label="在 Claude 中询问 QuickKOL（新窗口）" title="Claude"><img src="/assets/ai-logos/claude.svg" alt="Claude" aria-hidden="true" /></a>
+            <a href="${footerAiLinks.perplexity}" target="_blank" rel="noopener noreferrer" data-footer-ai aria-label="在 Perplexity 中询问 QuickKOL（新窗口）" title="Perplexity"><img src="/assets/ai-logos/perplexity.svg" alt="Perplexity" aria-hidden="true" /></a>
+            <a href="${footerAiLinks.gemini}" target="_blank" rel="noopener noreferrer" data-footer-ai aria-label="在 Gemini 中询问 QuickKOL（新窗口）" title="Gemini"><img src="/assets/ai-logos/gemini.svg" alt="Gemini" aria-hidden="true" /></a>
           </div>
         </div>
         <a class="footer-back-to-top" href="#" aria-label="返回顶部" title="返回顶部">${icon("arrow_upward")}</a>
@@ -1105,3 +1107,5 @@ window.addEventListener("scroll", () => {
 updateScrollEffects();
 
 }
+
+initSeo();

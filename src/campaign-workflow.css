@@ -43,8 +43,8 @@
 .wf-outreach-funnel div { display: grid; gap: 6px; padding: 14px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); }
 .wf-outreach-funnel strong { color: var(--blue); font-size: 22px; }
 .wf-outreach-funnel small { color: var(--muted); font-size: 10px; }
-.wf-output-head h4 { margin: 5px 0; font-size: 15px; }
-.wf-output-head > span, .wf-output-head h4 span { color: var(--muted); font-size: 10px; font-weight: 400; }
+.wf-output-head .wf-output-title { margin: 5px 0; font-size: 15px; line-height: inherit; }
+.wf-output-head > span, .wf-output-head .wf-output-title span { color: var(--muted); font-size: 10px; font-weight: 400; }
 .wf-brief-facts { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; margin-top: 16px; }
 .wf-brief-facts div { display: grid; gap: 7px; }
 .wf-brief-facts small { color: var(--muted); font-size: 10px; }
@@ -262,7 +262,7 @@
 .wf-output-draft .wf-email textarea { height: 100%; min-height: 0; resize: none; }
 .campaign-workflow:is([data-phase="email"], [data-phase="sending"]) .wf-output-draft { flex: 1 1 auto; padding: 14px; border: 1px solid var(--line); border-radius: 14px; background: var(--bg-soft); }
 .campaign-workflow:is([data-phase="email"], [data-phase="sending"]) .wf-output-draft .wf-email { background: var(--surface); }
-.wf-output-draft .wf-output-head h4 { flex: 0 0 auto; white-space: nowrap; }
+.wf-output-draft .wf-output-head .wf-output-title { flex: 0 0 auto; white-space: nowrap; }
 .wf-recipient-strip { min-width: 0; flex: 1; margin-left: 18px; overflow: hidden; }
 .campaign-workflow:is([data-phase="email"], [data-phase="sending"]) .wf-recipient-strip .wf-creators { display: flex; align-items: center; gap: 6px; margin: 0; padding: 3px 4px; overflow-x: auto; overflow-y: hidden; overscroll-behavior-x: contain; scrollbar-gutter: auto; scroll-snap-type: x proximity; touch-action: pan-x; -webkit-overflow-scrolling: touch; }
 .campaign-workflow:is([data-phase="email"], [data-phase="sending"]) .wf-recipient-avatar:first-child { margin-left: auto; }

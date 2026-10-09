@@ -8,7 +8,7 @@ function renderCreator(creator, duplicate) {
   const link = creator.url ? `href="${creator.url}" target="_blank" rel="noopener noreferrer" ${duplicate ? 'tabindex="-1"' : ""}` : "";
   return `<${tag} class="creator-showcase-card" ${link}>
     <div class="creator-showcase-portrait">
-      <img src="${creator.avatar}" alt="" width="120" height="120" loading="lazy" draggable="false" />
+      <img src="${creator.avatar}" alt="${creator.name}" width="120" height="120" loading="lazy" draggable="false" />
       <span class="creator-showcase-platform" title="${creator.platform}" data-i18n-ignore><i class="ph ph-${platformIcons[creator.platform]}" aria-hidden="true"></i><span class="sr-only">${creator.platform}</span></span>
     </div>
     <strong data-i18n-ignore>${creator.name}</strong>

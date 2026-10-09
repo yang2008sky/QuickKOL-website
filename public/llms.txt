@@ -1,0 +1,26 @@
+# QuickKOL
+
+> QuickKOL is an AI-assisted creator marketing platform for brands and marketing teams. It helps turn a campaign brief into creator discovery, profile analysis, shortlists, and personalized outreach.
+
+The website includes product information, pricing, creator marketing guides, and free planning tools. Core platform coverage includes YouTube, TikTok, Instagram, and X (Twitter); available data and features vary by plan and platform. Website workflow previews use example data and simulated progress.
+
+## Product and support
+
+- [Home](https://www.quickkol.com/): Product capabilities and campaign workflow previews.
+- [About](https://www.quickkol.com/about/): The QuickKOL product story and team context.
+- [Pricing](https://www.quickkol.com/pricing/): Plans, included usage, and credit billing.
+- [FAQ](https://www.quickkol.com/faq/): Answers about discovery, AI Agent, subscriptions, and credits.
+- [Contact](https://www.quickkol.com/contact/): Product questions and support; support@quickkol.com.
+
+## Guides and tools
+
+- [Blog](https://www.quickkol.com/blog/): Creator marketing guides with publication dates, team attribution, and source links.
+- [Creator rate calculator](https://www.quickkol.com/tools/creator-rate-calculator/): Estimate a creator's content fee range using planning assumptions.
+- [Campaign cost calculator](https://www.quickkol.com/tools/influencer-campaign-cost-calculator/): Estimate a campaign budget or the creator mix a budget can support.
+- [Invoice generator](https://www.quickkol.com/tools/invoice-generator/): Create and export invoices.
+
+## Optional
+
+- [Terms of service](https://www.quickkol.com/terms.html): Service conditions and responsibilities.
+- [Privacy policy](https://www.quickkol.com/privacy.html): Information handling and privacy contacts.
+- [XML sitemap](https://www.quickkol.com/sitemap.xml): Canonical public page URLs.

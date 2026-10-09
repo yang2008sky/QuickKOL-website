@@ -346,10 +346,10 @@ export function createCampaignWorkflow(root, onBusy) {
     const selected = state.creators.filter((creator) => creator.selected);
     const canSelect = state.phase === "shortlist";
     const showDelivery = ["sending", "complete"].includes(state.phase);
-    return `<section class="wf-output wf-output-candidates"><div class="wf-output-head"><div><h4>${state.creators.length} 位候选达人${state.insight.requestedCount ? ` <span>目标合作 ${state.insight.requestedCount} 位 / 计划触达 ${economics.outreach} 位 · 当前仅演示 ${state.creators.length} 位</span>` : ""}</h4></div><span>已选 ${selected.length} 位</span></div>
+    return `<section class="wf-output wf-output-candidates"><div class="wf-output-head"><div><h3 class="wf-output-title">${state.creators.length} 位候选达人${state.insight.requestedCount ? ` <span>目标合作 ${state.insight.requestedCount} 位 / 计划触达 ${economics.outreach} 位 · 当前仅演示 ${state.creators.length} 位</span>` : ""}</h3></div><span>已选 ${selected.length} 位</span></div>
       <div class="wf-creators">${state.creators.map((creator, index) => `<label class="wf-creator" style="--wf-delay:${index * 55}ms">
         <input type="checkbox" data-wf-creator="${creator.id}" ${creator.selected ? "checked" : ""} ${canSelect ? "" : "disabled"} aria-label="选择 ${creator.handle}">
-        <span class="wf-creator-head"><span class="wf-avatar"><img src="${creator.avatar}" alt=""></span><span><b>${creator.handle}</b><small>${escapeHtml(creator.platform)} · <span>${escapeHtml(creator.country)}</span></small></span></span>
+        <span class="wf-creator-head"><span class="wf-avatar"><img src="${creator.avatar}" alt="${escapeHtml(creator.handle)}"></span><span><b>${creator.handle}</b><small>${escapeHtml(creator.platform)} · <span>${escapeHtml(creator.country)}</span></small></span></span>
         <span class="wf-match"><b>${creator.match}%</b><small>匹配度</small></span>
         <span class="wf-creator-tags"><i>${creator.category}</i><i>${creator.format}</i></span>
         <span class="wf-creator-metrics"><span><small>粉丝</small><b>${creator.followers >= 1000 ? `${(creator.followers / 1000).toFixed(creator.followers >= 100000 ? 0 : 1)}K` : creator.followers}</b></span><span><small>平均观看</small><b>${creator.views >= 1000 ? `${(creator.views / 1000).toFixed(creator.views >= 100000 ? 0 : 1)}K` : creator.views}</b></span></span>
@@ -369,10 +369,10 @@ export function createCampaignWorkflow(root, onBusy) {
     const draft = state.drafts.find((item) => item.id === state.preview) || state.drafts[0];
     const editable = state.phase === "email";
     const recipients = state.creators.filter((creator) => creator.selected).map((creator) => `<button type="button" class="wf-recipient-avatar ${creator.id === state.preview ? "is-active" : ""}" data-wf-preview-card="${creator.id}" aria-label="预览 ${creator.handle} 的邮件" aria-pressed="${creator.id === state.preview}">
-      <span class="wf-avatar"><img src="${creator.avatar}" alt=""></span>
+      <span class="wf-avatar"><img src="${creator.avatar}" alt="${escapeHtml(creator.handle)}"></span>
       ${state.phase === "sending" ? `<span class="wf-delivery ${creator.delivery}" data-wf-delivery="${creator.id}">${creator.replied ? "已回复" : ({ pending: "等待发送", sent: "投递成功", failed: "投递失败" })[creator.delivery]}</span>` : ""}
     </button>`).join("");
-    return `<section class="wf-output wf-output-draft"><div class="wf-output-head"><h4>Email Outreach</h4><div class="wf-recipient-strip" aria-label="邮件收件人"><div class="wf-creators">${recipients}</div></div></div><div class="wf-email"><p>收件人 <b>${draft.email}</b></p><label>${localizeCopy("主题", "Subject")}<input data-i18n-ignore data-wf-subject="${draft.id}" value="${escapeHtml(draft.subjectEdited ? draft.subject : localizeText(draft.subject))}" ${editable ? "" : "readonly"}></label><label>邮件正文<textarea data-i18n-ignore data-wf-body="${draft.id}" ${editable ? "" : "readonly"}>${escapeHtml(draft.bodyEdited ? draft.body : localizeText(draft.body))}</textarea></label></div>${state.phase === "sending" ? `<div class="wf-progress"><span style="width:${state.processed / state.drafts.length * 100}%"></span></div><p class="wf-note" data-wf-send-progress role="status">正在触达 ${state.processed} / ${state.drafts.length} 位达人</p>` : ""}</section>`;
+    return `<section class="wf-output wf-output-draft"><div class="wf-output-head"><h3 class="wf-output-title">Email Outreach</h3><div class="wf-recipient-strip" aria-label="邮件收件人"><div class="wf-creators">${recipients}</div></div></div><div class="wf-email"><p>收件人 <b>${draft.email}</b></p><label>${localizeCopy("主题", "Subject")}<input data-i18n-ignore data-wf-subject="${draft.id}" value="${escapeHtml(draft.subjectEdited ? draft.subject : localizeText(draft.subject))}" ${editable ? "" : "readonly"}></label><label>邮件正文<textarea data-i18n-ignore data-wf-body="${draft.id}" ${editable ? "" : "readonly"}>${escapeHtml(draft.bodyEdited ? draft.body : localizeText(draft.body))}</textarea></label></div>${state.phase === "sending" ? `<div class="wf-progress"><span style="width:${state.processed / state.drafts.length * 100}%"></span></div><p class="wf-note" data-wf-send-progress role="status">正在触达 ${state.processed} / ${state.drafts.length} 位达人</p>` : ""}</section>`;
   }
 
   function renderReport() {
@@ -381,7 +381,7 @@ export function createCampaignWorkflow(root, onBusy) {
     const delivered = state.creators.filter((creator) => creator.delivery === "sent").length;
     const failed = contacted - delivered;
     const replies = state.creators.filter((creator) => creator.replied).length;
-    return `<section class="wf-report"><div class="wf-output-head"><div><h4>${contacted ? "本次合作触达反馈" : "达人搜索已完成，未安排触达"}</h4></div></div><div class="wf-metrics">${[[contacted, "触达总数"], [delivered, "投递成功"], [failed, "投递失败"], [state.tracked ? replies : "—", "收到回复"], [state.tracked ? `${delivered ? Math.round(replies / delivered * 100) : 0}%` : "—", "回复率"]].map(([value, label]) => `<article><strong data-i18n-ignore>${value}</strong><small>${label}</small></article>`).join("")}</div><p class="wf-note">回复率 = 收到回复 ÷ 投递成功。${state.tracked ? "示例回复已模拟更新；失败记录可在名单中查看。" : "本计划未执行回复追踪。"}</p></section>`;
+    return `<section class="wf-report"><div class="wf-output-head"><div><h3 class="wf-output-title">${contacted ? "本次合作触达反馈" : "达人搜索已完成，未安排触达"}</h3></div></div><div class="wf-metrics">${[[contacted, "触达总数"], [delivered, "投递成功"], [failed, "投递失败"], [state.tracked ? replies : "—", "收到回复"], [state.tracked ? `${delivered ? Math.round(replies / delivered * 100) : 0}%` : "—", "回复率"]].map(([value, label]) => `<article><strong data-i18n-ignore>${value}</strong><small>${label}</small></article>`).join("")}</div><p class="wf-note">回复率 = 收到回复 ÷ 投递成功。${state.tracked ? "示例回复已模拟更新；失败记录可在名单中查看。" : "本计划未执行回复追踪。"}</p></section>`;
   }
 
   function render(replayPreview = false) {

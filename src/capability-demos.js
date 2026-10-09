@@ -38,7 +38,7 @@ const crawlPeople = [
 const evaluationPeople = discoveryPeople.map((person, index) => ({ ...person, matchReason: ["内容符合", "观看达标", "领域相关", "受众待核验", "内容待核验"][index] }));
 const rankingOrders = [[2, 0, 3, 1, 4], [0, 2, 1, 3, 4], [0, 1, 2, 3, 4]];
 
-const mark = (person) => `<span class="demo-avatar" aria-hidden="true"><img src="${person.avatar}" alt="" /></span>`;
+const mark = (person) => `<span class="demo-avatar" aria-hidden="true"><img src="${person.avatar}" alt="${person.name}" /></span>`;
 const heading = (title, action = "", showMeta = true) => `<div class="demo-window-bar"><span><i class="ph ph-sparkle" aria-hidden="true"></i> ${title}</span><div>${showMeta ? "<small>交互演示 · 示例数据</small>" : ""}${action}</div></div>`;
 const phases = [
   { duration: 4200, summary: "正在拆解内容关键词、受众画像与内容信号" },
@@ -94,7 +94,7 @@ export function renderCapabilityDemo(key) {
       </section>
       <section class="discovery-crawl" data-discovery-view="crawl" hidden>
         <div class="discovery-view-heading"><div><b>基于分析结果搜索匹配</b><small>跨平台持续抓取公开账号与内容信号</small></div><strong class="crawl-count"><span>+<b data-discovery-crawl-count>0</b></span><small>已发现</small></strong></div>
-        <div class="crawler-axis"><div class="crawler-track">${crawlPeople.map((person, index) => `<span class="crawler-person" data-crawler-person="${index}" title="${person.handle}"><img src="${person.avatar}" alt="" /><i></i></span>`).join("")}</div></div>
+        <div class="crawler-axis"><div class="crawler-track">${crawlPeople.map((person, index) => `<span class="crawler-person" data-crawler-person="${index}" title="${person.handle}"><img src="${person.avatar}" alt="${person.handle}" /><i></i></span>`).join("")}</div></div>
         <div class="crawl-feed-heading"><span>实时匹配推送</span><small><i></i>持续搜索中</small></div>
         <div class="crawl-match-list">${discoveryPeople.map((person, index) => `<article data-crawl-match="${index}">${mark(person)}<div><b>${person.handle}</b></div><span>${["内容主题匹配", "受众画像匹配", "互动质量匹配", "场景内容匹配", "产品体验匹配"][index]}</span><div class="crawl-match-metrics"><span><small>粉丝量</small><b>${person.followers}</b></span><span><small>平均观看量</small><b>${person.averageViews}</b></span></div></article>`).join("")}</div>
       </section>
@@ -126,7 +126,7 @@ export function renderCapabilityDemo(key) {
     ${heading("Personalized Outreach", "", false)}
     <div class="outreach-queue-heading"><b>美国 · 无线降噪耳机测评</b><small>计划触达 144 位 · 展示 3 位</small></div>
     <div class="outreach-recipient-list" role="group" aria-label="选择邮件收件人">${outreachPeople.map((person, index) => `<button type="button" data-outreach-person="${index}" aria-pressed="${index === 1}">${mark(person)}<span><b>${person.name}</b><small data-outreach-state="${index}">${index === 0 ? "已发送" : "待确认"}</small></span></button>`).join("")}</div>
-    <div class="outreach-mail"><div class="outreach-address"><small>收件人</small><span data-outreach-email></span></div><h4 data-outreach-subject lang="en"></h4><div class="outreach-context"><i class="ph ph-sparkle" aria-hidden="true"></i><span data-outreach-context></span></div><div class="outreach-body" lang="en"><p data-outreach-greeting></p><p data-outreach-body></p><p>Best,<br />QuickKOL Campaign Team</p></div></div>
+    <div class="outreach-mail"><div class="outreach-address"><small>收件人</small><span data-outreach-email></span></div><h3 data-outreach-subject lang="en"></h3><div class="outreach-context"><i class="ph ph-sparkle" aria-hidden="true"></i><span data-outreach-context></span></div><div class="outreach-body" lang="en"><p data-outreach-greeting></p><p data-outreach-body></p><p>Best,<br />QuickKOL Campaign Team</p></div></div>
     <div class="outreach-send-footer"><div><small>个性化邮件 · 模拟进度</small><b><span data-outreach-count>1</span> / 144</b></div><button type="button" data-outreach-send disabled>发送中…</button></div><div class="outreach-send-progress"><span data-outreach-progress style="--share:0.7%"></span></div>
   </div>`;
 }

@@ -7,7 +7,19 @@ npm install
 npm run dev
 ```
 
-The page opens in English by default and includes an English/Chinese switcher.
+The page defaults to Chinese and includes a language switcher.
+
+## Static HTML and GEO
+
+`npm run build` uses the existing page renderers to generate complete HTML for
+every sitemap URL, including route styles, headings, canonical/social metadata,
+and Organization, WebSite, WebPage/FAQPage structured data. Articles include
+their existing team attribution, publication dates, and source citations.
+The client scripts still provide language switching and interactive tools.
+`public/llms.txt` lists the canonical product, support, guide, and tool pages.
+
+After building, run `node --test tests/*.test.js` to verify the calculations,
+translations, and generated HTML. Deploy the resulting `dist` directory.
 
 ## Launch configuration
 
