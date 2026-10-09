@@ -1,0 +1,17 @@
+{
+  "name": "quickkol-landing",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node scripts/build-blog-pages.js",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.1.2"
+  },
+  "dependencies": {
+    "@phosphor-icons/web": "^2.1.2"
+  }
+}

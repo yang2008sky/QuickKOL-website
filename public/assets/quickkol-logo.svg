@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <title>QuickKOL</title>
+  <defs>
+    <linearGradient id="quickkol-blue" x1="18" y1="24" x2="146" y2="146" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#267bff"/>
+      <stop offset=".55" stop-color="#2680ff"/>
+      <stop offset="1" stop-color="#47a2ff"/>
+    </linearGradient>
+    <mask id="quickkol-cutout" maskUnits="userSpaceOnUse" x="0" y="0" width="160" height="160">
+      <rect width="160" height="160" fill="white"/>
+      <path d="M98 100 134 137" fill="none" stroke="black" stroke-width="40" stroke-linecap="round"/>
+    </mask>
+  </defs>
+  <circle cx="76" cy="76" r="52" fill="none" stroke="url(#quickkol-blue)" stroke-width="32" mask="url(#quickkol-cutout)"/>
+  <path d="M98 100 134 137" fill="none" stroke="url(#quickkol-blue)" stroke-width="30" stroke-linecap="round"/>
+</svg>

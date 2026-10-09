@@ -1,0 +1,109 @@
+.campaign-page .rate-intro { padding-bottom: 22px; }
+.campaign-modes { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; padding: 0 30px 26px; }
+.campaign-modes button { display: flex; align-items: center; gap: 12px; min-width: 0; padding: 16px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); color: var(--text); font: inherit; cursor: pointer; text-align: left; }
+.campaign-modes button > i:first-child { display: grid; place-items: center; width: 36px; height: 36px; border-radius: 9px; background: var(--bg-soft); font-size: 21px; }
+.campaign-modes button > i:last-child { margin-left: auto; color: var(--muted); opacity: .4; font-size: 19px; }
+.campaign-modes b { display: block; font-size: 13px; }
+.campaign-modes small { display: block; margin-top: 5px; color: var(--muted); font-size: 11px; }
+.campaign-modes button[aria-pressed="true"] { border-color: var(--blue); background: #267bff08; }
+.campaign-modes button[aria-pressed="true"] > i { color: var(--blue); opacity: 1; }
+.campaign-page button:focus-visible, .campaign-page a:focus-visible, .campaign-page summary:focus-visible { outline: 2px solid var(--blue); outline-offset: 3px; }
+.campaign-layout { grid-template-columns: 1.35fr 1fr; }
+.campaign-platforms { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; border: 0; margin: 0 0 20px; padding: 0; }
+.campaign-platforms legend { margin-bottom: 9px; font-size: 12px; font-weight: 700; }
+.campaign-platforms label { position: relative; cursor: pointer; }
+.campaign-platforms input { position: absolute; inset: 0; opacity: 0; margin: 0; width: 100%; height: 100%; cursor: pointer; }
+.campaign-platforms span { display: block; padding: 13px 4px; border: 1px solid var(--line); border-radius: 9px; background: var(--surface); text-align: center; font-size: 12px; font-weight: 600; }
+.campaign-platforms input:checked + span { color: var(--cyan); border-color: var(--blue); background: #267bff08; }
+.campaign-platforms input:focus-visible + span { outline: 2px solid var(--blue); outline-offset: 2px; }
+.campaign-fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; gap: 20px 16px; }
+.campaign-select { position: relative; }
+.campaign-select select { appearance: none; width: 100%; min-width: 0; height: 44px; padding: 0 30px 0 12px; border: 1px solid var(--line); border-radius: 9px; background: var(--surface); color: var(--text); font: inherit; font-size: 12px; text-overflow: ellipsis; cursor: pointer; }
+.campaign-select select:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
+.campaign-select i { position: absolute; right: 11px; top: 50%; transform: translateY(-50%); font-size: 12px; color: var(--muted); pointer-events: none; }
+.campaign-primary-field input { font-size: 21px; font-weight: 700; border-color: #267bff60; background: #267bff06; }
+.campaign-primary-field .rate-presets { gap: 5px; }
+.campaign-primary-field .rate-presets button { font-size: 10px; padding-inline: 7px; }
+.campaign-strategy { display: flex; gap: 8px; margin: 20px 0; padding: 12px 14px; border-radius: 9px; background: var(--bg-soft); color: var(--muted); font-size: 11px; line-height: 1.7; }
+.campaign-advanced { border-top: 1px solid var(--line); padding-top: 18px; }
+.campaign-advanced summary { display: flex; align-items: center; gap: 8px; font-size: 12px; font-weight: 600; cursor: pointer; list-style: none; }
+.campaign-advanced summary::-webkit-details-marker { display: none; }
+.campaign-advanced summary > i:last-child { margin-left: auto; }
+.campaign-advanced[open] summary > i:last-child { transform: rotate(180deg); }
+.campaign-advanced > div > p { font-size: 10px; color: var(--muted); line-height: 1.7; margin: 14px 0; }
+.campaign-views { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin-bottom: 18px; }
+.campaign-views label { font-size: 10px; }
+.campaign-crosslink { display: inline-flex; align-items: center; gap: 5px; margin-top: 26px; color: var(--muted); font-size: 11px; line-height: 1.6; }
+.campaign-crosslink:hover { color: var(--blue); }
+.campaign-result .rate-price { margin: 24px 0; }
+.campaign-result .rate-price output { font-size: clamp(26px, 2.8vw, 38px); }
+.campaign-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 20px 12px; padding: 24px 0; border-bottom: 1px solid var(--line); }
+.campaign-stats span { display: block; color: var(--muted); font-size: 10px; margin-bottom: 7px; }
+.campaign-stats b { font-size: 19px; font-weight: 700; letter-spacing: -.025em; }
+.campaign-mix { margin-top: 22px; }
+.campaign-mix h2 { font-size: 13px; margin: 0 0 14px; }
+.campaign-mix-bar { display: flex; gap: 3px; height: 7px; overflow: hidden; border-radius: 5px; margin-bottom: 12px; }
+.campaign-tier-nano { background: #a4caff; }
+.campaign-tier-micro { background: #76a9ff; }
+.campaign-tier-mid { background: #367bfa; }
+.campaign-tier-macro { background: #2449b3; }
+.campaign-tier-mega { background: #172d6e; }
+.campaign-mix-row { display: flex; justify-content: space-between; gap: 10px; padding: 9px 0; font-size: 12px; }
+.campaign-mix-row > span { display: flex; align-items: center; gap: 8px; }
+.campaign-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; }
+.campaign-mix-row small { color: var(--muted); font-size: 10px; font-weight: 400; }
+.campaign-result .rate-breakdown { border-top: 1px solid var(--line); padding-top: 18px; margin-top: 14px; }
+.campaign-budget-note { font-size: 10px; color: var(--muted); line-height: 1.7; margin: 15px 0 0; }
+.campaign-cta { display: flex; align-items: center; justify-content: center; gap: 10px; padding: 13px 10px; margin-top: 22px; border-radius: 9px; background: var(--blue); color: #fff; font-size: 12px; font-weight: 700; }
+.campaign-cta:hover { filter: brightness(1.08); }
+.campaign-empty { padding: 50px 8px; text-align: center; }
+.campaign-empty > i { color: var(--muted); font-size: 36px; }
+.campaign-empty h2 { font-size: 18px; margin-top: 18px; }
+.campaign-empty p { font-size: 12px; line-height: 1.8; color: var(--muted); }
+@media (max-width: 900px) { .campaign-form { padding-inline: 22px; } .campaign-result { padding-inline: 20px; } .campaign-modes b { font-size: 12px; } }
+@media (max-width: 700px) {
+  .campaign-layout { grid-template-columns: 1fr; }
+  .campaign-modes { gap: 8px; padding: 0 20px 22px; }
+  .campaign-modes button { padding: 12px; gap: 8px; align-items: flex-start; }
+  .campaign-modes button > i:first-child { width: auto; height: auto; background: transparent; font-size: 18px; }
+  .campaign-modes button > i:last-child { display: none; }
+  .campaign-modes small { font-size: 10px; line-height: 1.6; }
+  .campaign-stats b { font-size: 22px; }
+}
+@media (max-width: 450px) {
+  .campaign-fields { gap: 16px 12px; }
+  .campaign-select select { padding-left: 9px; font-size: 11px; }
+  .campaign-form, .campaign-result { padding: 22px 20px; }
+  .campaign-platforms { gap: 6px; }
+  .campaign-platforms span { font-size: 11px; }
+  .campaign-views { grid-template-columns: 1fr; }
+  .campaign-page .rate-field label { font-size: 11px; min-height: 16px; }
+}
+.campaign-platforms legend { display: flex; align-items: baseline; justify-content: space-between; width: 100%; }
+.campaign-platforms legend small { color: var(--muted); font-size: 10px; font-weight: 400; }
+.campaign-total-budget { margin-top: 20px; }
+.campaign-allocation-heading { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: 24px; }
+.campaign-allocation-heading h3 { margin: 0; font-size: 12px; }
+.campaign-allocation-note { color: var(--muted); font-size: 10px; line-height: 1.7; margin: 8px 0 12px; }
+.campaign-platform-plans { display: grid; gap: 12px; }
+.campaign-platform-plan { min-width: 0; padding: 14px; border: 1px solid var(--line); border-radius: 10px; }
+.campaign-platform-plan-heading { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 12px; }
+.campaign-platform-plan h4 { font-size: 12px; margin: 0; }
+.campaign-platform-plan-heading > span { color: var(--cyan); font-size: 12px; font-weight: 600; }
+.campaign-platform-plan label { font-size: 10px; line-height: 1.5; min-height: 15px; }
+.campaign-allocation-total { font-size: 11px; color: var(--muted); margin: 10px 0 0; }
+.campaign-views { grid-template-columns: 1fr; }
+.campaign-platform-views h4 { font-size: 12px; margin: 0 0 10px; }
+.campaign-views-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.campaign-platform-views label { font-size: 9px; line-height: 1.5; }
+.campaign-platform-results { margin-top: 22px; }
+.campaign-platform-results h2 { font-size: 13px; margin: 0 0 6px; }
+.campaign-platform-results > div { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 12px 0; border-bottom: 1px solid var(--line); font-size: 12px; }
+.campaign-platform-results small { display: block; color: var(--muted); font-size: 10px; font-weight: 400; line-height: 1.6; margin-top: 4px; }
+.campaign-platform-results strong { font-size: 11px; text-align: right; }
+@media (max-width: 450px) {
+  .campaign-platform-plan { padding: 12px; }
+  .campaign-platform-plan .campaign-fields { grid-template-columns: 1fr; gap: 12px; }
+  .campaign-views-grid { grid-template-columns: 1fr; }
+  .campaign-platform-results > div { flex-wrap: wrap; }
+}

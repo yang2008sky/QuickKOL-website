@@ -1,0 +1,147 @@
+.rate-page { padding: 120px 28px 80px; background: radial-gradient(ellipse 70% 500px at 50% 0, #267bff0c, transparent 80%), var(--bg); }
+.rate-breadcrumb { width: min(1120px, 100%); margin: 0 auto 24px; display: flex; flex-wrap: wrap; gap: 12px; color: var(--muted); font-size: 12px; }
+.rate-breadcrumb a:hover { color: var(--blue); }
+.rate-calculator { width: min(1120px, 100%); margin: auto; padding: 0; border: 1px solid var(--line); border-radius: 24px; background: var(--surface); color: var(--text); box-shadow: 0 20px 70px #0719330d; overflow: hidden; }
+.rate-calculator *, .rate-calculator *::before { box-sizing: border-box; }
+.rate-calculator input[type="number"] { appearance: textfield; -moz-appearance: textfield; }
+.rate-calculator input[type="number"]::-webkit-inner-spin-button, .rate-calculator input[type="number"]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
+.rate-header { padding: 22px 30px 0; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.rate-header > div { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; }
+.rate-brand { display: inline-flex; align-items: center; gap: 8px; color: var(--blue); font-size: 10px; font-weight: 800; letter-spacing: .12em; }
+.rate-brand i { font-size: 20px; }
+.rate-prototype { padding: 5px 8px; border: 1px solid var(--line); border-radius: 5px; color: var(--muted); font-size: 9px; letter-spacing: .06em; }
+.rate-intro { padding: 20px 30px 26px; }
+.rate-intro h1 { max-width: 850px; margin: 0; font-size: clamp(25px, 3vw, 34px); line-height: 1.2; letter-spacing: -.045em; }
+.rate-intro p { margin: 12px 0 0; color: var(--muted); font-size: 13px; line-height: 1.7; }
+.rate-layout { display: grid; grid-template-columns: 1.65fr 1fr; border-top: 1px solid var(--line); }
+.rate-form { min-width: 0; padding: 26px 30px 30px; }
+.rate-section-heading { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 18px; }
+.rate-section-heading h2 { margin: 0; font-size: 13px; font-weight: 800; }
+.rate-section-heading h2 > span { margin-right: 6px; color: var(--blue); font-size: 10px; }
+.rate-reset { display: inline-flex; align-items: center; gap: 5px; padding: 4px; border: 0; background: transparent; color: var(--muted); font: inherit; font-size: 11px; cursor: pointer; }
+.rate-fields { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.rate-field { min-width: 0; }
+.rate-field label { display: flex; align-items: center; gap: 6px; margin-bottom: 9px; font-size: 12px; font-weight: 700; }
+.rate-field input { width: 100%; min-width: 0; height: 44px; padding: 0 12px; border: 1px solid var(--line); border-radius: 9px; background: var(--surface); color: var(--text); font: inherit; font-size: 15px; }
+.rate-field input:focus { outline: 2px solid var(--blue); outline-offset: 2px; }
+.rate-presets { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.rate-presets button { flex: 0 1 auto; min-height: 26px; padding: 4px 9px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--muted); font: inherit; font-size: 11px; cursor: pointer; }
+.rate-presets button[aria-pressed="true"] { border-color: #267bff; background: #267bff12; color: var(--cyan); font-weight: 800; }
+.rate-field-note, .rate-field small { display: block; margin: 8px 0 0; color: var(--muted); font-size: 10px; line-height: 1.6; }
+.rate-views input { border-color: #267bff60; background: #267bff06; }
+.rate-metrics input { font-size: 20px; font-weight: 700; height: 46px; }
+.rate-market-heading { margin-top: 24px; }
+.rate-error { margin: 12px 0 0; color: #db4545; font-size: 11px; line-height: 1.6; }
+.rate-error[hidden] { display: none; }
+.rate-result { min-width: 0; padding: 26px; border-left: 1px solid var(--line); background: var(--bg-soft); }
+.rate-price-card { padding: 24px; border-radius: 16px; background: radial-gradient(ellipse at 100% 0, #6b93f7aa, transparent 70%), linear-gradient(135deg, #1c55ce, #2845af); color: #fff; box-shadow: 0 12px 24px #2149ba20; }
+.rate-result-heading { display: flex; align-items: center; gap: 7px; font-size: 12px; }
+.rate-result-heading > span { margin-left: auto; padding: 4px 7px; border: 1px solid #ffffff40; border-radius: 5px; font-size: 9px; }
+.rate-price { margin-top: 27px; }
+.rate-price output { display: block; font-size: clamp(24px, 2.6vw, 36px); font-weight: 700; line-height: 1.2; letter-spacing: -.045em; overflow-wrap: anywhere; font-variant-numeric: tabular-nums; }
+.rate-price > span { display: block; margin-top: 8px; font-size: 12px; color: #e2eaff; }
+.rate-price-card > p { margin: 22px 0 18px; color: #d4e1ff; font-size: 11px; }
+.rate-market { display: flex; align-items: center; gap: 7px; padding-top: 15px; border-top: 1px solid #ffffff30; font-size: 11px; }
+.rate-breakdown { margin-top: 24px; }
+.rate-breakdown summary { display: flex; justify-content: space-between; align-items: center; gap: 12px; font-size: 13px; font-weight: 700; cursor: pointer; list-style: none; }
+.rate-breakdown summary::-webkit-details-marker { display: none; }
+.rate-breakdown[open] summary i { transform: rotate(180deg); }
+.rate-breakdown > div > div { display: flex; justify-content: space-between; gap: 10px; margin-top: 12px; font-size: 12px; }
+.rate-breakdown > div > div > span { color: var(--muted); }
+.rate-formula { padding: 12px; border: 1px dashed var(--line); border-radius: 8px; color: var(--muted); font-size: 11px; text-align: center; overflow-wrap: anywhere; }
+.rate-method-note { display: flex; align-items: flex-start; gap: 8px; margin-top: 22px; color: var(--muted); }
+.rate-method-note i { margin-top: 2px; flex-shrink: 0; }
+.rate-method-note p { margin: 0; font-size: 10px; line-height: 1.8; }
+@media (max-width: 700px) {
+  .rate-page { padding: 100px 16px 48px; }
+  .rate-calculator { width: 100%; border-radius: 18px; }
+  .rate-header { padding: 18px 20px 0; }
+  .rate-header > div { gap: 8px; }
+  .rate-intro { padding: 20px; }
+  .rate-layout { grid-template-columns: 1fr; }
+  .rate-form, .rate-result { padding: 22px 20px; }
+  .rate-result { border-left: 0; border-top: 1px solid var(--line); }
+  .rate-fields { gap: 12px; }
+}
+
+.rate-platforms { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; margin: 0; padding: 0; border: 0; }
+.rate-platforms legend { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; width: 100%; margin-bottom: 10px; font-size: 12px; font-weight: 700; }
+.rate-platform-note { color: var(--muted); font-size: 10px; font-weight: 400; text-align: right; }
+.rate-platform-card { min-width: 0; position: relative; padding: 0 8px 9px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); cursor: pointer; user-select: none; }
+.rate-platform-card:has([name="platform"]:checked) { border-color: var(--blue); background: #267bff0a; }
+.rate-platform-card > label { display: block; position: relative; padding: 13px 0 8px; text-align: center; cursor: pointer; font-size: 13px; font-weight: 700; }
+.rate-platform-card > label input, .rate-choices input { position: absolute; inset: 0; opacity: 0; width: 100%; height: 100%; margin: 0; cursor: pointer; }
+.rate-platform-card > label:has(input:checked) { color: var(--cyan); }
+.rate-platform-card > label:has(input:focus-visible) { outline: 2px solid var(--blue); outline-offset: 2px; border-radius: 5px; }
+.rate-platform-cpm { position: relative; display: flex; align-items: center; justify-content: center; min-height: 24px; color: var(--muted); font-size: 12px; }
+.rate-platform-cpm button { position: absolute; right: 0; display: grid; place-items: center; width: 24px; height: 24px; padding: 0; border: 0; border-radius: 5px; background: transparent; color: var(--muted); cursor: pointer; }
+.rate-platform-cpm button:hover { color: var(--cyan); background: #267bff12; }
+.rate-platform-cpm input { min-width: 0; width: 65px; max-width: calc(100% - 48px); height: 26px; padding: 0 5px; border: 1px solid var(--blue); border-radius: 5px; background: var(--surface); color: var(--text); font: inherit; text-align: center; cursor: text; user-select: text; }
+.rate-platform-cpm [hidden] { display: none; }
+.rate-metrics { margin-top: 22px; }
+.rate-country-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); gap: 16px; margin-top: 24px; }
+.rate-country-select { position: relative; }
+.rate-country-select select { width: 100%; height: 44px; padding: 0 30px 0 10px; appearance: none; border: 1px solid var(--line); border-radius: 9px; background: var(--surface); color: var(--text); font: inherit; font-size: 12px; cursor: pointer; }
+.rate-country-select select:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
+.rate-country-select i { position: absolute; top: 50%; right: 10px; transform: translateY(-50%); pointer-events: none; font-size: 12px; color: var(--muted); }
+.rate-country-shortcuts > span { display: block; margin-bottom: 9px; color: var(--muted); font-size: 11px; line-height: 15px; }
+.rate-country-shortcuts > div { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; }
+.rate-country-shortcuts button { min-width: 0; min-height: 28px; padding: 4px 5px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--text); font: inherit; font-size: 10px; cursor: pointer; }
+.rate-country-shortcuts button[aria-pressed="true"] { border-color: var(--blue); background: #267bff0a; color: var(--cyan); }
+.rate-country-shortcuts button:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
+.rate-quality-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.rate-niche-field label { margin-bottom: 10px; }
+.rate-niche-select { position: relative; }
+.rate-niche-select button { color: var(--text); font: inherit; font-size: 12px; cursor: pointer; }
+.rate-niche-select [data-niche-toggle] { display: flex; align-items: center; justify-content: space-between; gap: 8px; width: 100%; height: 52px; padding: 0 10px; border: 1px solid var(--line); border-radius: 9px; background: var(--surface); text-align: left; }
+.rate-niche-select [data-niche-selection] { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.rate-niche-select [data-niche-selection] > span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.rate-niche-select i { flex-shrink: 0; color: var(--muted); font-size: 16px; }
+.rate-niche-select [data-niche-toggle] > i { font-size: 12px; }
+.rate-niche-select button:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
+#rate-niche-options { position: absolute; right: 0; bottom: calc(100% + 6px); z-index: 20; width: max(100%, 240px); max-height: min(320px, 60vh); padding: 5px; overflow-y: auto; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); box-shadow: 0 8px 28px #07193322; }
+#rate-niche-options[hidden] { display: none; }
+#rate-niche-options button { display: flex; align-items: center; gap: 9px; width: 100%; min-height: 34px; padding: 7px 8px; border: 0; border-radius: 5px; background: transparent; text-align: left; }
+#rate-niche-options button:hover, #rate-niche-options button[aria-selected="true"] { background: #267bff0a; }
+#rate-niche-options small { margin-left: auto; color: var(--muted); font-size: 10px; }
+@media (max-width: 700px) {
+  .rate-quality-grid { grid-template-columns: 1fr; gap: 16px; }
+}
+.rate-choices { min-width: 0; margin: 0; padding: 0; border: 0; }
+.rate-choices legend { margin-bottom: 10px; font-size: 12px; font-weight: 700; }
+.rate-choices > div { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; }
+.rate-choices label { position: relative; min-width: 0; cursor: pointer; }
+.rate-choices label > span { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 5px; height: 52px; padding: 7px 4px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); font-size: 11px; font-weight: 600; text-align: center; }
+.rate-choices small { color: var(--muted); font-size: 9px; font-weight: 500; }
+.rate-choices input:checked + span { border-color: var(--blue); background: #267bff0a; color: var(--cyan); }
+.rate-choices input:focus-visible + span { outline: 2px solid var(--blue); outline-offset: 2px; }
+.rate-explanation { margin-top: 24px; }
+.rate-explanation h2 { margin: 0 0 10px; font-size: 13px; }
+.rate-explanation p { margin: 0; color: var(--muted); font-size: 12px; line-height: 1.8; }
+.rate-value-guide { margin-top: 20px; }
+.rate-value-guide > div { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 7px; padding: 12px; border-bottom: 1px solid var(--line); font-size: 10px; color: var(--muted); }
+.rate-value-guide > div:nth-child(2) { border: 1px solid #267bff40; border-radius: 8px; background: #267bff0a; color: var(--cyan); }
+.rate-value-guide b { font-weight: 600; }
+@media (max-width: 400px) {
+  .rate-platforms { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .rate-form, .rate-result { padding: 22px 16px; }
+  .rate-price-card { padding: 20px; }
+}
+@media (max-width: 900px) and (min-width: 701px) {
+  .rate-form { padding-inline: 22px; }
+  .rate-result { padding: 22px 18px; }
+  .rate-quality-grid { grid-template-columns: 1fr; }
+  .rate-country-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 450px) {
+  .rate-fields { gap: 8px; }
+  .rate-field label { font-size: 10px; gap: 3px; }
+  .rate-field input { padding-inline: 8px; font-size: 18px; }
+  .rate-presets { gap: 4px; }
+  .rate-presets button { padding: 4px 5px; font-size: 9px; }
+  .rate-quality-grid { grid-template-columns: 1fr; gap: 16px; }
+  .rate-country-grid { grid-template-columns: 1fr; gap: 12px; }
+}
+
+.rate-campaign-link { display: inline-flex; align-items: center; gap: 5px; margin-top: 26px; color: var(--muted); font-size: 11px; line-height: 1.6; }
+.rate-campaign-link:hover { color: var(--blue); }
