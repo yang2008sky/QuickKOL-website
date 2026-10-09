@@ -27,3 +27,21 @@ for (const page of pages) {
   await writeFile(new URL('index.html', dir), html.replace(/<title>[^<]*<\/title>/, `<title>${escapeHtml(page.title)}</title>`).replace(/(<meta name="description" content=")[^"]*("\s*\/?>)/, `$1${escapeHtml(page.description)}$2`));
 }
 console.log(`Generated ${pages.length} FAQ, contact, about, pricing and blog entry points.`);
+
+const siteOrigin = 'https://www.quickkol.com';
+const sitemapPaths = ['/', '/terms.html', '/privacy.html', ...pages.map((page) => `/${page.path}/`)];
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${sitemapPaths.map((path) => `  <url><loc>${escapeHtml(new URL(path, siteOrigin).href)}</loc></url>`).join('\n')}
+</urlset>
+`;
+const robots = `User-agent: *
+Allow: /
+
+Sitemap: ${siteOrigin}/sitemap.xml
+`;
+for (const directory of ['public', 'dist']) {
+  await writeFile(new URL(`../${directory}/sitemap.xml`, import.meta.url), sitemap);
+  await writeFile(new URL(`../${directory}/robots.txt`, import.meta.url), robots);
+}
+console.log(`Generated sitemap.xml with ${sitemapPaths.length} URLs and robots.txt.`);

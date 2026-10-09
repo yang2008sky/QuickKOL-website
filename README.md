@@ -31,6 +31,13 @@ Chinese followed by English. Covers live in `public/assets/blog/`.
 `npm run build` emits an HTML entry point for the library and every article
 under `dist/blog/`, allowing direct links on static hosts.
 
+## Sitemap
+
+`npm run build` also generates `sitemap.xml` and `robots.txt` in `public/` and
+`dist/` for `https://www.quickkol.com`. The sitemap includes the homepage,
+all generated site and blog pages, and the terms and privacy pages. New blog
+articles are included automatically on the next build.
+
 ## Creator rate calculator
 
 Visit `/tools/creator-rate-calculator/`. V1 sponsorship benchmarks live in
