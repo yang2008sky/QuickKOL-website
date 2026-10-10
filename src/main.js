@@ -285,7 +285,13 @@ const siteMarkup = `
             </button>
           `).join("")}
         </div>
-        <div class="capability-panel" id="capability-panel" role="tabpanel" aria-live="polite" data-capability-panel></div>
+        <div class="capability-panel" id="capability-panel" role="tabpanel" aria-live="polite" data-capability-panel>
+          <div class="capability-visual" data-capability-visual></div>
+          ${capabilityTabs.map((tab, index) => {
+            const copy = capabilityCopy[tab.key];
+            return `<div class="capability-copy" data-capability-copy="${tab.key}" ${index === 0 ? "" : "hidden"}><p class="eyebrow">${copy.eyebrow}</p><h3>${copy.title}</h3><p>${copy.description}</p><ul>${copy.points.map((point) => `<li>${icon("check")} ${point}</li>`).join("")}</ul></div>`;
+          }).join("")}
+        </div>
       </section>
 
       <section class="trust-block" id="extension" aria-label="QuickKOL 核心能力" data-reveal>
@@ -861,10 +867,14 @@ function selectCapability(key) {
       button.parentElement.scrollTo({ left: button.offsetLeft - (button.parentElement.clientWidth - button.clientWidth) / 2, behavior: reducedMotion ? "instant" : "smooth" });
     }
   });
-  const copy = capabilityCopy[selected.key];
   const panel = document.querySelector("[data-capability-panel]");
   panel.classList.toggle("is-discovery", selected.key === "discover");
-  panel.innerHTML = `<div class="capability-visual ${["discover", "analytics", "outreach"].includes(selected.key) ? "capability-visual-detailed" : ""}">${renderCapabilityPreview(selected.key)}</div><div class="capability-copy"><p class="eyebrow">${copy.eyebrow}</p><h3>${copy.title}</h3><p>${copy.description}</p><ul>${copy.points.map((point) => `<li>${icon("check")} ${point}</li>`).join("")}</ul></div>`;
+  const visual = panel.querySelector("[data-capability-visual]");
+  visual.classList.toggle("capability-visual-detailed", ["discover", "analytics", "outreach"].includes(selected.key));
+  visual.innerHTML = renderCapabilityPreview(selected.key);
+  panel.querySelectorAll("[data-capability-copy]").forEach((copy) => {
+    copy.hidden = copy.dataset.capabilityCopy !== selected.key;
+  });
   disposeCapabilityDemo = mountCapabilityDemo(panel, reducedMotion);
   panel.classList.remove("is-switching");
   void panel.offsetWidth;

@@ -14,6 +14,11 @@ test('every sitemap page ships readable, styled content and canonical metadata',
     try {
       window.document.write(await readFile(`dist${path.endsWith('/') ? `${path}index.html` : path}`, 'utf8'));
       const document = window.document;
+      const googleTags = [...document.head.querySelectorAll('script[src*="googletagmanager.com/gtag/js"]')];
+      assert.equal(googleTags.length, 1, `${path}: one Google tag`);
+      assert.equal(googleTags[0].getAttribute('src'), 'https://www.googletagmanager.com/gtag/js?id=G-KGZ31XZD0N', path);
+      assert.ok(googleTags[0].hasAttribute('async'), path);
+      assert.equal([...document.head.querySelectorAll('script:not([src])')].filter((script) => script.textContent.includes("gtag('config', 'G-KGZ31XZD0N')")).length, 1, `${path}: one GA4 configuration`);
       assert.equal(document.querySelectorAll('h1').length, 1, path);
       assert.ok(document.querySelector('main').textContent.trim().length > 200, path);
       assert.equal(document.querySelectorAll('link[rel="canonical"]').length, 1, path);

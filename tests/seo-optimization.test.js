@@ -56,3 +56,24 @@ test('English invoice content and page schema declare English', async () => {
     assert.equal(graph.find((entity) => entity['@id'].endsWith('#webpage')).inLanguage, 'en');
   });
 });
+
+test('homepage ships all four capability explanations without JavaScript', async () => {
+  await withPage('/', (document) => {
+    const titles = [
+      '更快找到真正合适的达人',
+      '把内容与受众数据变成判断',
+      '让每一封触达都更像真人',
+      '把重复工作交给 Agent 推进',
+    ];
+    const copies = [...document.querySelectorAll('[data-capability-copy]')];
+    assert.equal(copies.length, 4);
+    assert.deepEqual(copies.map((copy) => copy.querySelector('h3').textContent), titles);
+    for (const copy of copies) {
+      assert.ok(copy.querySelector('p:not(.eyebrow)').textContent.length > 20);
+      assert.equal(copy.querySelectorAll('li').length, 3);
+    }
+    assert.equal(copies.filter((copy) => !copy.hidden).length, 1);
+    assert.equal(copies.find((copy) => !copy.hidden).dataset.capabilityCopy, 'discover');
+    assert.equal(document.querySelectorAll('[data-faq-answer]').length, 6);
+  });
+});
