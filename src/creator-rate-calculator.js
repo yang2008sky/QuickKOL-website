@@ -32,7 +32,7 @@ export function mountCreatorRateCalculator(initialLocale) {
       <div class="rate-breadcrumb"><a href="/">${copy('首页', 'Home')}</a><span>/</span><span>${copy('合作价格计算器', 'Creator rate calculator')}</span></div>
       <section class="rate-calculator" aria-labelledby="rate-title">
         <header class="rate-header"><div><span class="rate-brand">${icon('calculator')} QUICKKOL TOOLS</span><span class="rate-prototype">${copy('V1 · 参考估算', 'V1 · BENCHMARK ESTIMATE')}</span></div></header>
-        <div class="rate-intro"><h1 id="rate-title">${copy('找到合作价格的参考起点。', 'A starting point for your next creator deal.')}</h1><p>${copy('以平均播放量为核心，结合互动表现与内容价值，估算单条内容的合作价格区间。', 'Estimate a sponsorship range for one creator post, led by average views and refined by engagement and content value.')}</p></div>
+        <div class="rate-intro"><h1 id="rate-title">${copy('达人合作价格计算器', 'Creator rate calculator')}</h1><p>${copy('以平均播放量为核心，结合互动表现与内容价值，估算单条内容的合作价格区间。', 'Estimate a sponsorship range for one creator post, led by average views and refined by engagement and content value.')}</p></div>
         <div class="rate-layout">
           <form class="rate-form" novalidate>
             <div class="rate-section-heading"><h2><span>01</span> ${copy('达人表现', 'Creator performance')}</h2><button type="button" class="rate-reset" data-rate-reset>${icon('arrow-counter-clockwise')} ${copy('重置', 'Reset')}</button></div>
@@ -67,6 +67,14 @@ export function mountCreatorRateCalculator(initialLocale) {
             <div class="rate-method-note">${icon('info')}<p>${copy('基于您填写的数据和 QuickKOL 参考参数估算，实际报价取决于合作需求。额外制作、内容授权与独家合作费用需另议。', 'A reference estimate based on your inputs and QuickKOL benchmarks. Final rates depend on campaign requirements. Additional production, usage rights and exclusivity are negotiated separately.')}</p></div>
           </aside>
         </div>
+        <section class="rate-methodology" aria-labelledby="rate-method-title">
+          <h2 id="rate-method-title">${copy('估算方法与示例', 'Method and example')}</h2>
+          <p>${copy('估算中点 = 平均观看量 ÷ 1,000 × 平台 CPM × 粉丝、互动、国家、受众、内容与领域系数。应用平台最低报价后，以中点的 80%–120% 生成区间，再按报价档位取整。', 'Midpoint = average views / 1,000 × platform CPM × follower, engagement, country, audience, content and niche multipliers. After applying the platform minimum, the range is 80%–120% of the midpoint, rounded to quote increments.')}</p>
+          <h3>${copy('参数来源与限制', 'Assumptions and limits')}</h3>
+          <p>${copy('V1 参数由 QuickKOL 内部设定，并非市场统计或广告平台 CPM，尚未提供外部样本校准。可用实际合作数据修改 CPM。结果不含额外制作、内容授权与排他费用，也不承诺观看量或成交。', 'V1 parameters are internal QuickKOL assumptions, not market statistics or advertising CPMs; no external sample calibration is provided. Edit CPM using your own deal data. Extra production, usage rights and exclusivity are excluded; views and sales are not guaranteed.')}</p>
+          <h3>${copy('计算示例', 'Worked example')}</h3>
+          <p>${copy('假设 Instagram 平均观看 10,000、粉丝 25,000、互动率 2%，选择美国、一般受众、良好内容及默认领域，CPM 为 $15：基准为 $150，各系数均为 1，参考区间为 $120–$180。这是计算示例，不是实际达人报价。', 'Assume Instagram: 10,000 average views, 25,000 followers, 2% engagement, United States, Average audience, Good content and Default niche, with $15 CPM. The base is $150, all multipliers are 1, and the range is $120–$180. This is an example, not a real creator quote.')}</p>
+        </section>
       </section>`;
     Object.entries(values).forEach(([name, value]) => {
       if (['platform', 'audience', 'content'].includes(name)) main.querySelector(`[name="${name}"][value="${value}"]`).checked = true;

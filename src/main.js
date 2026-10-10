@@ -266,7 +266,7 @@ const siteMarkup = `
       <div class="hero-backdrop" aria-hidden="true"></div>
       <div class="hero-copy hero-enter">
         <h1>找对达人，<span>更快触达</span></h1>
-        <p class="hero-description">从一份 Brief 到 Campaign 计划、达人候选名单和个性化外联，由 QuickKOL 协助推进。</p>
+        <p class="hero-description">QuickKOL 是 AI 达人营销平台，从一份 Brief 到 Campaign 计划、达人发现与分析，再到个性化外联，协助品牌推进合作。</p>
         <div class="hero-actions">
           <button class="button button-primary" type="button" data-start>免费开始 ${icon("arrow_forward")}</button>
           <a class="button chrome-extension-button" href="https://chromewebstore.google.com/detail/quickkol/pibnaegnljjogommepodcjdgmaobpeag" target="_blank" rel="noopener noreferrer" aria-label="添加 QuickKOL 到 Chrome（新窗口打开）">

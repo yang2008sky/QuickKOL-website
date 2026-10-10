@@ -6,6 +6,7 @@ import { expansionBlogPosts } from '../src/blog-expansion-posts.js';
 import { growthBlogPosts } from '../src/blog-growth-posts.js';
 import { renderSeoTags, siteOrigin } from '../src/seo.js';
 import { createPrerenderer } from './prerender.js';
+import { BLOG_PAGE_SIZE, blogPagePath } from '../src/blog-pagination.js';
 
 const blogPosts = [...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts];
 
@@ -30,6 +31,10 @@ const pages = [
   { path: 'about', title: '关于 QuickKOL — 从达人营销实战，到 AI 工作流', description: '了解 QuickKOL 的故事：从人工寻找海外达人与传统 SaaS 达人库，到 AI 实时搜索、内容画像、个性化邮件触达和 Campaign 自动化。' },
   { path: 'pricing', title: 'QuickKOL 定价 — 为下一次达人合作，选择合适的计划', description: '比较 QuickKOL Launch、Performance 和 Max 的月付与年付价格，查看每月用量与套餐权益。所有价格均以美元 USD 显示。' },
   { path: 'blog', title: 'QuickKOL Blog — 达人营销洞察与实战指南', description: '探索达人发现、数据洞察、个性化外联与 AI 营销的实战指南。' },
+  ...Array.from({ length: Math.ceil(blogPosts.length / BLOG_PAGE_SIZE) - 1 }, (_, index) => ({
+    path: blogPagePath(index + 2).slice(1, -1),
+    title: 'QuickKOL Blog — 达人营销洞察与实战指南', description: '探索达人发现、数据洞察、个性化外联与 AI 营销的实战指南。',
+  })),
   ...blogPosts.map((post) => ({ path: `blog/${post.slug}`, title: `${post.title[0]} | QuickKOL Blog`, description: post.metaDescription[0], type: 'article', ...(!post.cover.endsWith('.svg') ? { image: `/assets/blog/${post.cover}`, imageAlt: post.coverAlt[0] } : {}) })),
 ];
 for (const page of pages) {

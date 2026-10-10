@@ -1,5 +1,6 @@
 import './blog.css';
 import { canonicalUrl, siteOrigin } from './seo.js';
+import { BLOG_PAGE_SIZE as PAGE_SIZE, blogPagePath } from './blog-pagination.js';
 import { blogPosts as baseBlogPosts, blogTopics } from './blog-posts.js';
 import { additionalBlogPosts } from './blog-additional-posts.js';
 import { seriesBlogPosts } from './blog-series-posts.js';
@@ -12,7 +13,6 @@ import { expansionBlogEnhancements } from './blog-expansion-enhancements.js';
 import { growthBlogEnhancements } from './blog-growth-enhancements.js';
 import { initI18n, setPageLocale, localizeCopy, applyTranslations, loadLocale, localizeText } from './i18n.js';
 
-const PAGE_SIZE = 12;
 const enhancements = { ...blogEnhancements, ...additionalBlogEnhancements, ...seriesBlogEnhancements, ...expansionBlogEnhancements, ...growthBlogEnhancements };
 const blogPosts = [...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
 const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
@@ -26,8 +26,9 @@ export function mountBlog(initialLocale) {
   let query = params.get('q') || '';
   let topic = blogTopics.some(({ key }) => key === params.get('topic')) ? params.get('topic') : '';
   let tag = params.get('tag') || '';
-  let page = Math.max(1, Number.parseInt(params.get('page'), 10) || 1);
-  const slug = window.location.pathname.replace(/^\/blog\/?/, '').replace(/\/$/, '');
+  const pageRoute = window.location.pathname.match(/^\/blog\/page\/(\d+)\/?$/);
+  let page = Math.max(1, Number.parseInt(pageRoute?.[1] || params.get('page'), 10) || 1);
+  const slug = pageRoute ? '' : window.location.pathname.replace(/^\/blog\/?/, '').replace(/\/$/, '');
   const post = blogPosts.find((item) => item.slug === slug);
   const allTags = [...new Set(blogPosts.flatMap((item) => item.tags))];
   const tagCounts = new Map(allTags.map((item) => [item, blogPosts.filter((post) => post.tags.includes(item)).length]));
@@ -213,7 +214,8 @@ export function mountBlog(initialLocale) {
     document.title = post ? `${text(post.title)} | QuickKOL Blog` : 'QuickKOL Blog — ' + copy('达人营销洞察与实战指南', 'Creator marketing insights & guides');
     const description = post ? text(post.metaDescription) : copy('探索达人发现、数据洞察、个性化外联与 AI 营销的实战指南。', 'Practical guides to creator discovery, data, outreach, campaign operations and AI marketing.');
     document.querySelector('meta[name="description"]').content = description;
-    const pageUrl = canonicalUrl(post ? `/blog/${post.slug}/` : '/blog/');
+    const pageUrl = canonicalUrl(post ? `/blog/${post.slug}/` : blogPagePath(page));
+    document.querySelector('meta[name="robots"]').content = !post && (query || topic || tag) ? 'noindex,follow' : 'index,follow';
     let structured = document.querySelector('script[data-blog-structured]');
     if (!structured) {
       structured = document.createElement('script');
@@ -246,14 +248,17 @@ export function mountBlog(initialLocale) {
     return `<a class="blog-card" href="${escapeHtml(postUrl(item))}"><div class="blog-cover"><img src="${coverUrl(item)}" alt="${escapeHtml(text(item.coverAlt))}" loading="lazy" width="640" height="360" /></div><div class="blog-card-meta"><span class="blog-badge">${topicName(item.topic)}</span><time datetime="${item.date}">${date(item.date)}</time></div><h3>${escapeHtml(text(item.title))}</h3><p class="blog-card-description">${escapeHtml(text(item.summary))}</p><div class="blog-card-bottom"><small>QuickKOL Strategy Team · ${readTime(item)} ${copy('分钟阅读', 'min read')}</small><span>${copy('阅读', 'Read')} ${arrow}</span></div></a>`;
   }
 
-  function syncUrl() {
+  function resultsUrl(pageNumber) {
     const next = new URLSearchParams();
     if (query) next.set('q', query);
     if (topic) next.set('topic', topic);
     if (tag) next.set('tag', tag);
-    if (page > 1) next.set('page', page);
     const search = next.size ? `?${next}` : '';
-    window.history.replaceState(null, '', `/blog/${search}`);
+    return `${blogPagePath(pageNumber)}${search}`;
+  }
+
+  function syncUrl() {
+    window.history.replaceState(null, '', resultsUrl(page));
   }
 
   function renderResults() {
@@ -272,7 +277,11 @@ export function mountBlog(initialLocale) {
     document.querySelector('[data-blog-count]').textContent = copy(`显示 ${range} / ${matching.length} 篇匹配文章 · 共 ${blogPosts.length} 篇`, `Showing ${range} of ${matching.length} matching articles · ${blogPosts.length} published.`);
     document.querySelector('[data-blog-grid]').innerHTML = matching.length ? matching.slice(start, start + PAGE_SIZE).map(renderCard).join('') : `<div class="blog-empty"><i class="ph ph-magnifying-glass" aria-hidden="true"></i><h3>${copy('还没有匹配的文章', 'No articles found')}</h3><p>${copy('试试其他关键词，或清除筛选查看全部文章。', 'Try another keyword or clear the filters to see all articles.')}</p><button class="button button-secondary button-small" data-blog-clear>${copy('清除筛选', 'Clear filters')}</button></div>`;
     document.querySelector('[data-blog-grid]').classList.toggle('blog-grid', matching.length > 0);
-    document.querySelector('[data-blog-pagination]').innerHTML = matching.length ? `<span>${copy(`第 ${page} / ${pages} 页`, `PAGE ${page} OF ${pages}`)}</span><div class="blog-page-buttons"><button data-blog-page="${page - 1}" ${page === 1 ? 'disabled' : ''} aria-label="${copy('上一页', 'Previous page')}">←</button>${Array.from({length: pages}, (_, index) => `<button data-blog-page="${index + 1}" ${page === index + 1 ? 'aria-current="page"' : ''} aria-label="${copy(`第 ${index + 1} 页`, `Page ${index + 1}`)}">${index + 1}</button>`).join('')}<button data-blog-page="${page + 1}" ${page === pages ? 'disabled' : ''} aria-label="${copy('下一页', 'Next page')}">→</button></div>` : '';
+    const pageLink = (target, label, ariaLabel, disabled = false) => disabled
+      ? `<span aria-disabled="true" aria-label="${ariaLabel}">${label}</span>`
+      : `<a href="${escapeHtml(resultsUrl(target))}" data-blog-page="${target}" ${target === page ? 'aria-current="page"' : ''} aria-label="${ariaLabel}">${label}</a>`;
+    document.querySelector('[data-blog-pagination]').innerHTML = matching.length ? `<span>${copy(`第 ${page} / ${pages} 页`, `PAGE ${page} OF ${pages}`)}</span><div class="blog-page-buttons">${pageLink(page - 1, '←', copy('上一页', 'Previous page'), page === 1)}${Array.from({length: pages}, (_, index) => pageLink(index + 1, index + 1, copy(`第 ${index + 1} 页`, `Page ${index + 1}`))).join('')}${pageLink(page + 1, '→', copy('下一页', 'Next page'), page === pages)}</div>` : '';
+    metadata();
   }
 
   function updateBlogTool(container) {
@@ -538,7 +547,9 @@ export function mountBlog(initialLocale) {
     const topicButton = event.target.closest('[data-blog-topic]');
     const tagButton = event.target.closest('[data-blog-tag]');
     const pageButton = event.target.closest('[data-blog-page]');
+    if (pageButton && (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey)) return;
     if (topicButton || tagButton || pageButton || event.target.closest('[data-blog-clear]')) {
+      if (pageButton) event.preventDefault();
       if (topicButton) { topic = topicButton.dataset.blogTopic; page = 1; }
       else if (tagButton) { tag = tag === tagButton.dataset.blogTag ? '' : tagButton.dataset.blogTag; page = 1; }
       else if (pageButton) page = Number(pageButton.dataset.blogPage);

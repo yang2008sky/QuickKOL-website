@@ -71,6 +71,14 @@ export function mountCampaignCostCalculator(initialLocale) {
           </form>
           <aside class="rate-result campaign-result" aria-label="${copy('Campaign 预算方案', 'Your campaign estimate')}" data-campaign-result></aside>
         </div>
+        <section class="rate-methodology" aria-labelledby="campaign-method-title">
+          <h2 id="campaign-method-title">${copy('估算方法与示例', 'Method and example')}</h2>
+          <p>${copy('先根据达人体量的观看量假设、平台 CPM 区间、内容形式及调整系数估算达人费用，再计算（达人费用 + 额外费用）×（1 + 预算预留比例）。按预算规划时，以费用上限选择整数合作人次。', 'Estimate creator fees from tier view assumptions, platform CPM ranges, content formats and adjustment multipliers. Total = (creator fees + additional costs) × (1 + contingency). Budget mode selects whole partnerships using upper-end costs.')}</p>
+          <h3>${copy('参数来源与限制', 'Assumptions and limits')}</h3>
+          <p>${copy('V1 CPM、默认观看量与组合均为内部规划假设，尚未提供外部样本校准。每位达人按一条内容或所选组合估算；跨平台人次不去重，观看量浮动 ±20% 是情景范围。授权、投流、税费等只有填入额外费用才计入。', 'V1 CPMs, default views and mixes are internal planning assumptions; no external sample calibration is provided. Each creator supplies one post or selected bundle. Partnerships are not deduplicated across platforms; ±20% views is a scenario range. Rights, paid media and taxes count only if entered as additional costs.')}</p>
+          <h3>${copy('计算示例', 'Worked example')}</h3>
+          <p>${copy('假设 10 位美国小型达人各发布一条 Instagram Reel，默认领域、每位观看 8,000，内部 CPM 为 $15–$20：达人费用 $1,200–$1,600。加入 $200 额外费用及 20% 预留，总预算为 $1,680–$2,160；不代表实际报价或承诺曝光。', 'Assume 10 US Micro creators each publish one Instagram Reel, Default niche, 8,000 views each and internal CPM of $15–$20. Creator fees are $1,200–$1,600. Add $200 costs and 20% contingency for a total of $1,680–$2,160. This is not a real quote or a reach guarantee.')}</p>
+        </section>
       </section>`;
     for (const [name, value] of Object.entries(values)) {
       const field = main.querySelector(`[name="${name}"]`);

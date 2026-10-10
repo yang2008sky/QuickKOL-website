@@ -4,7 +4,7 @@ import templateMenu from './invoice-templates.html?raw';
 import colorMenu from './invoice-colors.html?raw';
 import downloadMenu from './invoice-download.html?raw';
 import { buildInvoiceDocument, calculateInvoice, escapeInvoiceText as escape, invoiceCurrencies, invoiceMoney } from './invoice.js';
-import { initI18n, loadLocale, setPageLocale } from './i18n.js';
+import { initI18n, loadLocale, setPageLocale, currentLocale } from './i18n.js';
 
 const templateKey = 'quickkol-invoice-template';
 const fieldNames = ['title', 'number', 'po', 'currency', 'date', 'due', 'from', 'billTo', 'tax', 'discount', 'shipping', 'paid', 'payment', 'notes'];
@@ -13,6 +13,7 @@ const styleNames = { blue: 'QuickKOL Blue', minimal: 'Classic Minimal' };
 export function mountInvoiceGenerator(initialLocale) {
   const main = document.querySelector('#main');
   main.classList.add('invoice-tool');
+  main.lang = 'en';
   main.dataset.i18nIgnore = '';
   main.innerHTML = markup;
   document.title = 'Invoice Generator | QuickKOL';
@@ -253,6 +254,12 @@ export function mountInvoiceGenerator(initialLocale) {
     document.querySelector('[data-scroll-progress]').style.transform = `scaleX(${max > 0 ? window.scrollY / max : 0})`;
   }
   window.addEventListener('scroll', updateScroll, { passive: true });
+  function syncLanguage() {
+    document.documentElement.lang = 'en';
+    document.querySelector('[data-header]').lang = currentLocale();
+    document.querySelector('.site-footer').lang = currentLocale();
+  }
+  window.addEventListener('quickkol:locale', syncLanguage);
   initI18n(initialLocale);
   updateTheme();
   updateScroll();

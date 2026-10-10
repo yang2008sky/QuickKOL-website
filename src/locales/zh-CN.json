@@ -978,5 +978,16 @@
   "Gaming": "游戏",
   "Food": "美食",
   "Fitness": "健身",
-  "Find the right creators with QuickKOL AI. Discover influencers, analyze profiles, plan campaigns, and prepare personalized outreach from one brief. Start free.": "用 QuickKOL AI 找到适合品牌的创作者，分析达人内容与受众，从一份 Brief 规划 Campaign、筛选达人名单并准备个性化外联。让品牌与营销团队更快推进合作，免费开始。"
+  "Find the right creators with QuickKOL AI. Discover influencers, analyze profiles, plan campaigns, and prepare personalized outreach from one brief. Start free.": "用 QuickKOL AI 找到适合品牌的创作者，分析达人内容与受众，从一份 Brief 规划 Campaign、筛选达人名单并准备个性化外联。让品牌与营销团队更快推进合作，免费开始。",
+  "Method and example": "估算方法与示例",
+  "Midpoint = average views / 1,000 × platform CPM × follower, engagement, country, audience, content and niche multipliers. After applying the platform minimum, the range is 80%–120% of the midpoint, rounded to quote increments.": "估算中点 = 平均观看量 ÷ 1,000 × 平台 CPM × 粉丝、互动、国家、受众、内容与领域系数。应用平台最低报价后，以中点的 80%–120% 生成区间，再按报价档位取整。",
+  "Assumptions and limits": "参数来源与限制",
+  "V1 parameters are internal QuickKOL assumptions, not market statistics or advertising CPMs; no external sample calibration is provided. Edit CPM using your own deal data. Extra production, usage rights and exclusivity are excluded; views and sales are not guaranteed.": "V1 参数由 QuickKOL 内部设定，并非市场统计或广告平台 CPM，尚未提供外部样本校准。可用实际合作数据修改 CPM。结果不含额外制作、内容授权与排他费用，也不承诺观看量或成交。",
+  "Worked example": "计算示例",
+  "Assume Instagram: 10,000 average views, 25,000 followers, 2% engagement, United States, Average audience, Good content and Default niche, with $15 CPM. The base is $150, all multipliers are 1, and the range is $120–$180. This is an example, not a real creator quote.": "假设 Instagram 平均观看 10,000、粉丝 25,000、互动率 2%，选择美国、一般受众、良好内容及默认领域，CPM 为 $15：基准为 $150，各系数均为 1，参考区间为 $120–$180。这是计算示例，不是实际达人报价。",
+  "Estimate creator fees from tier view assumptions, platform CPM ranges, content formats and adjustment multipliers. Total = (creator fees + additional costs) × (1 + contingency). Budget mode selects whole partnerships using upper-end costs.": "先根据达人体量的观看量假设、平台 CPM 区间、内容形式及调整系数估算达人费用，再计算（达人费用 + 额外费用）×（1 + 预算预留比例）。按预算规划时，以费用上限选择整数合作人次。",
+  "V1 CPMs, default views and mixes are internal planning assumptions; no external sample calibration is provided. Each creator supplies one post or selected bundle. Partnerships are not deduplicated across platforms; ±20% views is a scenario range. Rights, paid media and taxes count only if entered as additional costs.": "V1 CPM、默认观看量与组合均为内部规划假设，尚未提供外部样本校准。每位达人按一条内容或所选组合估算；跨平台人次不去重，观看量浮动 ±20% 是情景范围。授权、投流、税费等只有填入额外费用才计入。",
+  "Assume 10 US Micro creators each publish one Instagram Reel, Default niche, 8,000 views each and internal CPM of $15–$20. Creator fees are $1,200–$1,600. Add $200 costs and 20% contingency for a total of $1,680–$2,160. This is not a real quote or a reach guarantee.": "假设 10 位美国小型达人各发布一条 Instagram Reel，默认领域、每位观看 8,000，内部 CPM 为 $15–$20：达人费用 $1,200–$1,600。加入 $200 额外费用及 20% 预留，总预算为 $1,680–$2,160；不代表实际报价或承诺曝光。",
+  "AI Influencer Marketing Platform: Discovery, Analysis & Outreach | QuickKOL": "AI 达人营销平台：发现、分析与外联 | QuickKOL",
+  "QuickKOL is an AI influencer marketing platform that helps brands turn a brief into a campaign plan, creator discovery and analysis, and personalized outreach.": "QuickKOL 是 AI 达人营销平台，从一份 Brief 到 Campaign 计划、达人发现与分析，再到个性化外联，协助品牌推进合作。"
 }

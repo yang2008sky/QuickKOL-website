@@ -52,6 +52,10 @@
 .rate-method-note { display: flex; align-items: flex-start; gap: 8px; margin-top: 22px; color: var(--muted); }
 .rate-method-note i { margin-top: 2px; flex-shrink: 0; }
 .rate-method-note p { margin: 0; font-size: 10px; line-height: 1.8; }
+.rate-methodology { padding: 26px 30px; border-top: 1px solid var(--line); }
+.rate-methodology h2 { margin: 0 0 14px; font-size: 18px; }
+.rate-methodology h3 { margin: 20px 0 8px; font-size: 14px; }
+.rate-methodology p { max-width: 900px; margin: 0; color: var(--muted); font-size: 13px; line-height: 1.8; }
 @media (max-width: 700px) {
   .rate-page { padding: 100px 16px 48px; }
   .rate-calculator { width: 100%; border-radius: 18px; }
@@ -60,6 +64,7 @@
   .rate-intro { padding: 20px; }
   .rate-layout { grid-template-columns: 1fr; }
   .rate-form, .rate-result { padding: 22px 20px; }
+  .rate-methodology { padding: 22px 20px; }
   .rate-result { border-left: 0; border-top: 1px solid var(--line); }
   .rate-fields { gap: 12px; }
 }
