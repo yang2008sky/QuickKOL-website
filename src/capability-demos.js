@@ -62,7 +62,7 @@ export const capabilityPlaybackDuration = {
 
 export function renderCapabilityDemo(key) {
   if (key === "discover") return `<div class="capability-ui discovery-demo" aria-live="off">
-    ${heading("AI Discovery", '<button type="button" class="demo-text-button" data-discovery-toggle>暂停演示</button>', false)}
+    ${heading("AI Discovery", "", false)}
     <div class="discovery-source-switch" role="group" aria-label="搜索入口">
       <button type="button" data-discovery-mode="similar" aria-pressed="true">找相似达人</button><button type="button" data-discovery-mode="keywords" aria-pressed="false">关键词搜索</button>
     </div>
@@ -132,6 +132,31 @@ export function renderCapabilityDemo(key) {
 }
 
 export function mountCapabilityDemo(root, reducedMotion) {
+  let paused = reducedMotion;
+  let elapsed = 0;
+  let lastFrame = performance.now();
+  let clockFrame;
+  const scheduled = new Set();
+  const scheduleTask = (callback, delay, repeat = false) => {
+    const task = { callback, delay, repeat, at: elapsed + delay };
+    scheduled.add(task);
+    return task;
+  };
+  const cancel = (task) => scheduled.delete(task);
+  const tickClock = (now) => {
+    const delta = now - lastFrame;
+    lastFrame = now;
+    if (!paused && !document.hidden && delta < 250) elapsed += delta;
+    for (const task of [...scheduled]) {
+      if (!scheduled.has(task) || task.at > elapsed || paused) continue;
+      if (task.repeat) task.at = elapsed + task.delay;
+      else cancel(task);
+      task.callback();
+    }
+    clockFrame = window.requestAnimationFrame(tickClock);
+  };
+  root.dataset.paused = String(paused);
+  clockFrame = window.requestAnimationFrame(tickClock);
   let timer;
   let crawlTimer;
   let rankingTimer;
@@ -139,9 +164,6 @@ export function mountCapabilityDemo(root, reducedMotion) {
   const discovery = root.querySelector(".discovery-demo");
   if (discovery) {
     let phase = reducedMotion ? 2 : 0;
-    let paused = reducedMotion;
-    let remaining = phases[phase].duration;
-    let phaseStartedAt;
     let crawlCount = reducedMotion ? 144 : 0;
     let rankingStage = reducedMotion ? 2 : 0;
     const paintRanking = () => {
@@ -152,10 +174,10 @@ export function mountCapabilityDemo(root, reducedMotion) {
         person.classList.toggle("is-top", slot === 0);
       });
     };
-    const stopRanking = () => { window.clearTimeout(rankingTimer); rankingTimer = undefined; };
+    const stopRanking = () => { cancel(rankingTimer); rankingTimer = undefined; };
     const startRanking = () => {
       if (rankingTimer || paused || phase !== 2 || rankingStage === 2) return;
-      rankingTimer = window.setTimeout(() => {
+      rankingTimer = scheduleTask(() => {
         rankingTimer = undefined;
         rankingStage += 1;
         paintRanking();
@@ -167,18 +189,17 @@ export function mountCapabilityDemo(root, reducedMotion) {
       discovery.querySelectorAll("[data-crawler-person]").forEach((person, index) => person.classList.toggle("is-found", crawlCount >= Math.ceil((index + 1) * 144 / crawlPeople.length)));
       discovery.querySelectorAll("[data-crawl-match]").forEach((match, index) => match.classList.toggle("is-visible", crawlCount >= [24, 56, 92, 128, 144][index]));
     };
-    const stopCrawler = () => { window.clearInterval(crawlTimer); crawlTimer = undefined; };
+    const stopCrawler = () => { cancel(crawlTimer); crawlTimer = undefined; };
     const startCrawler = () => {
       if (crawlTimer || paused || phase !== 1 || crawlCount >= 144) return;
-      crawlTimer = window.setInterval(() => {
+      crawlTimer = scheduleTask(() => {
         crawlCount = Math.min(crawlCount + 3, 144);
         updateCrawl();
         if (crawlCount === 144) stopCrawler();
-      }, 72);
+      }, 72, true);
     };
     const paint = () => {
       discovery.dataset.phase = phase;
-      discovery.dataset.paused = String(paused);
       discovery.querySelector("[data-discovery-summary]").textContent = phases[phase].summary;
       discovery.querySelectorAll("[data-discovery-view]").forEach((view, index) => { view.hidden = index !== phase; });
       discovery.querySelectorAll("[data-discovery-step]").forEach((step, index) => {
@@ -188,24 +209,18 @@ export function mountCapabilityDemo(root, reducedMotion) {
       });
       if (phase === 1) { updateCrawl(); startCrawler(); } else stopCrawler();
       if (phase === 2) { paintRanking(); startRanking(); } else stopRanking();
-      const toggle = discovery.querySelector("[data-discovery-toggle]");
-      toggle.textContent = paused ? "播放演示" : "暂停演示";
-      toggle.setAttribute("aria-label", paused ? "播放 AI 搜索演示" : "暂停 AI 搜索演示");
     };
     const schedule = () => {
-      window.clearTimeout(timer);
-      if (paused) return;
-      phaseStartedAt = performance.now();
-      timer = window.setTimeout(() => {
+      cancel(timer);
+      timer = scheduleTask(() => {
         if (!document.hidden) {
           phase = (phase + 1) % phases.length;
           if (phase === 1) crawlCount = 0;
           if (phase === 2) rankingStage = 0;
           paint();
         }
-        remaining = phases[phase].duration;
         schedule();
-      }, remaining);
+      }, phases[phase].duration);
     };
     discovery.addEventListener("click", (event) => {
       const audienceTab = event.target.closest("[data-audience-tab]");
@@ -225,16 +240,8 @@ export function mountCapabilityDemo(root, reducedMotion) {
         const stepLabels = similar ? ["读取与分析", "搜索匹配", "AI 筛选排序"] : ["理解条件", "搜索匹配", "AI 筛选排序"];
         discovery.querySelectorAll("[data-discovery-step-label]").forEach((label, index) => { label.textContent = stepLabels[index]; });
         phase = reducedMotion ? 2 : 0;
-        remaining = phases[phase].duration;
         crawlCount = reducedMotion ? 144 : 0;
         rankingStage = reducedMotion ? 2 : 0;
-      } else if (event.target.closest("[data-discovery-toggle]")) {
-        paused = !paused;
-        if (paused) {
-          remaining = Math.max(0, remaining - (performance.now() - phaseStartedAt));
-          stopCrawler();
-          stopRanking();
-        }
       }
       else return;
       paint();
@@ -252,12 +259,12 @@ export function mountCapabilityDemo(root, reducedMotion) {
       if (reducedMotion) return;
       counters.forEach((counter) => { counter.textContent = "0%"; });
       bars.forEach((bar) => { bar.style.setProperty("--animated-share", "0%"); });
-      const startedAt = performance.now();
+      const startedAt = elapsed;
       const duration = 1800;
       let frame;
-      const tick = (now) => {
+      const tick = () => {
         animationFrames.delete(frame);
-        const progress = Math.min((now - startedAt) / duration, 1);
+        const progress = Math.min((elapsed - startedAt) / duration, 1);
         const eased = 1 - Math.pow(1 - progress, 2);
         counters.forEach((counter) => {
           const target = Number(counter.dataset.intelligenceScore ?? counter.dataset.intelligencePercent);
@@ -303,6 +310,7 @@ export function mountCapabilityDemo(root, reducedMotion) {
   if (outreach) {
     let selected = 1;
     let sentCount = reducedMotion ? 144 : 1;
+    const sendStartedAt = elapsed;
     const paintProgress = () => {
       outreach.querySelector("[data-outreach-count]").textContent = sentCount;
       outreach.querySelector("[data-outreach-progress]").style.setProperty("--share", `${sentCount / 144 * 100}%`);
@@ -328,8 +336,8 @@ export function mountCapabilityDemo(root, reducedMotion) {
     paintProgress();
     const advance = () => {
       if (sentCount === 144) return;
-      timer = window.setTimeout(() => {
-        sentCount += 1;
+      timer = scheduleTask(() => {
+        sentCount = Math.min(144, 1 + Math.floor((elapsed - sendStartedAt) / 20));
         paintProgress();
         advance();
       }, 20);
@@ -362,9 +370,8 @@ export function mountCapabilityDemo(root, reducedMotion) {
       });
     };
     const schedule = () => {
-      window.clearTimeout(timer);
-      if (reducedMotion) return;
-      timer = window.setTimeout(() => {
+      cancel(timer);
+      timer = scheduleTask(() => {
         stage = (stage + 1) % stages.length;
         paint();
         schedule();
@@ -373,10 +380,16 @@ export function mountCapabilityDemo(root, reducedMotion) {
     paint();
     schedule();
   }
-  return () => {
-    window.clearTimeout(timer);
-    window.clearInterval(crawlTimer);
-    window.clearTimeout(rankingTimer);
-    animationFrames.forEach((frame) => cancelAnimationFrame(frame));
+  return {
+    get paused() { return paused; },
+    setPaused(value) {
+      paused = value;
+      root.dataset.paused = String(paused);
+    },
+    dispose() {
+      window.cancelAnimationFrame(clockFrame);
+      scheduled.clear();
+      animationFrames.forEach((frame) => cancelAnimationFrame(frame));
+    },
   };
 }

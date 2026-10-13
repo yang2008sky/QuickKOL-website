@@ -3,6 +3,7 @@ import { initSeo } from "./seo.js";
 import { renderCreatorShowcase, mountCreatorShowcase } from "./creator-showcase.js";
 import { createCampaignWorkflow } from "./campaign-workflow.js";
 import { renderCapabilityDemo, mountCapabilityDemo, capabilityPlaybackDuration } from "./capability-demos.js";
+import { mountHeroParticles } from "./hero-particles.js";
 import { initI18n, setPageLocale, languages, resolveLocale, localizeText, isLocaleAvailable, loadLocale } from "./i18n.js";
 import "@phosphor-icons/web/regular";
 
@@ -21,6 +22,8 @@ const iconNames = {
   menu: "ph-list",
   close: "ph-x",
   play_circle: "ph-play-circle",
+  pause: "ph-pause",
+  play: "ph-play",
   description: "ph-file-text",
   attach_file: "ph-paperclip",
   search: "ph-magnifying-glass",
@@ -263,7 +266,7 @@ const siteMarkup = `
 
   <main id="main">
     <section class="hero" id="top">
-      <div class="hero-backdrop" aria-hidden="true"></div>
+      <div class="hero-backdrop" aria-hidden="true"><canvas class="hero-particles" data-hero-particles></canvas></div>
       <div class="hero-copy hero-enter">
         <h1>找对达人，<span>更快触达</span></h1>
         <p class="hero-description">QuickKOL 是 AI 达人营销平台，从一份 Brief 到 Campaign 计划、达人发现与分析，再到个性化外联，协助品牌推进合作。</p>
@@ -280,9 +283,12 @@ const siteMarkup = `
         <h2 class="sr-only">QuickKOL 功能展示</h2>
         <div class="capability-tabs" role="tablist" aria-label="QuickKOL 功能展示">
           ${capabilityTabs.map((tab, index) => `
+            <div class="capability-tab-item">
             <button class="capability-tab ${index === 0 ? "is-active" : ""}" type="button" role="tab" data-capability-tab="${tab.key}" aria-selected="${index === 0}" aria-controls="capability-panel">
               ${icon(tab.icon)}<span>${tab.label}</span>
             </button>
+            <button class="capability-playback" type="button" data-capability-playback="${tab.key}" aria-label="暂停演示" title="暂停演示" ${index === 0 ? "" : "hidden"}>${icon("pause")}</button>
+            </div>
           `).join("")}
         </div>
         <div class="capability-panel" id="capability-panel" role="tabpanel" aria-live="polite" data-capability-panel>
@@ -534,6 +540,7 @@ if (isInvoiceGeneratorPage) {
 
 const toast = document.querySelector("[data-toast]");
 const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+mountHeroParticles(document.querySelector("[data-hero-particles]"), reducedMotion);
 mountCreatorShowcase();
 const agentBrief = document.querySelector("#agent-team-brief");
 const agentTeamLaunchButton = document.querySelector("[data-agent-team-launch]");
@@ -829,12 +836,21 @@ function renderCapabilityPreview(key) {
   </div>`;
 }
 
-let disposeCapabilityDemo = () => {};
+let capabilityDemo;
 let capabilityPlaybackFrame;
+function updateCapabilityPlaybackControl() {
+  document.querySelectorAll("[data-capability-playback]").forEach((button) => {
+    const active = document.querySelector(`[data-capability-tab="${button.dataset.capabilityPlayback}"]`).classList.contains("is-active");
+    button.hidden = !active;
+    setIcon(button.querySelector(".ph"), capabilityDemo?.paused ? "play" : "pause");
+    const label = capabilityDemo?.paused ? "播放演示" : "暂停演示";
+    button.setAttribute("aria-label", label);
+    button.title = label;
+  });
+}
 function startCapabilityPlayback(key) {
   window.cancelAnimationFrame(capabilityPlaybackFrame);
   const button = document.querySelector(`[data-capability-tab="${key}"]`);
-  const panel = document.querySelector("[data-capability-panel]");
   let elapsed = 0;
   let lastFrame = performance.now();
   button.style.setProperty("--capability-progress", "0");
@@ -842,7 +858,7 @@ function startCapabilityPlayback(key) {
   const tick = (now) => {
     const delta = now - lastFrame;
     lastFrame = now;
-    if (!document.hidden && delta < 250 && panel.querySelector(".discovery-demo")?.dataset.paused !== "true") elapsed += delta;
+    if (!document.hidden && delta < 250 && !capabilityDemo.paused) elapsed += delta;
     button.style.setProperty("--capability-progress", String(Math.min(elapsed / capabilityPlaybackDuration[key], 1)));
     if (elapsed >= capabilityPlaybackDuration[key]) {
       const index = capabilityTabs.findIndex((tab) => tab.key === key);
@@ -855,7 +871,7 @@ function startCapabilityPlayback(key) {
 }
 
 function selectCapability(key) {
-  disposeCapabilityDemo();
+  capabilityDemo?.dispose();
   const selected = capabilityTabs.find((tab) => tab.key === key) || capabilityTabs[0];
   document.querySelectorAll("[data-capability-tab]").forEach((button) => {
     const active = button.dataset.capabilityTab === selected.key;
@@ -863,8 +879,9 @@ function selectCapability(key) {
     button.setAttribute("aria-selected", String(active));
     button.tabIndex = active ? 0 : -1;
     button.style.setProperty("--capability-progress", "0");
-    if (active && button.parentElement.scrollWidth > button.parentElement.clientWidth) {
-      button.parentElement.scrollTo({ left: button.offsetLeft - (button.parentElement.clientWidth - button.clientWidth) / 2, behavior: reducedMotion ? "instant" : "smooth" });
+    const tablist = button.closest(".capability-tabs");
+    if (active && tablist.scrollWidth > tablist.clientWidth) {
+      tablist.scrollTo({ left: button.parentElement.offsetLeft - (tablist.clientWidth - button.clientWidth) / 2, behavior: reducedMotion ? "instant" : "smooth" });
     }
   });
   const panel = document.querySelector("[data-capability-panel]");
@@ -875,7 +892,8 @@ function selectCapability(key) {
   panel.querySelectorAll("[data-capability-copy]").forEach((copy) => {
     copy.hidden = copy.dataset.capabilityCopy !== selected.key;
   });
-  disposeCapabilityDemo = mountCapabilityDemo(panel, reducedMotion);
+  capabilityDemo = mountCapabilityDemo(panel, reducedMotion);
+  updateCapabilityPlaybackControl();
   panel.classList.remove("is-switching");
   void panel.offsetWidth;
   panel.classList.add("is-switching");
@@ -908,6 +926,11 @@ if (reducedMotion || !("IntersectionObserver" in window)) {
 }
 
 document.addEventListener("click", async (event) => {
+  if (event.target.closest("[data-capability-playback]")) {
+    capabilityDemo.setPaused(!capabilityDemo.paused);
+    updateCapabilityPlaybackControl();
+    return;
+  }
   const capabilityTab = event.target.closest("[data-capability-tab]");
   if (capabilityTab) selectCapability(capabilityTab.dataset.capabilityTab);
   if (event.target.closest("[data-discovery-mode]")) startCapabilityPlayback("discover");

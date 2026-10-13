@@ -14,7 +14,6 @@
 .demo-window-bar > span .ph { color: var(--blue); font-size: 16px; }
 .demo-window-bar > div { display: flex; align-items: center; gap: 7px; justify-content: flex-end; }
 .demo-window-bar > div > small { font-size: 8px; white-space: nowrap; }
-.demo-text-button { padding: 0; border: 0; background: none; color: var(--blue); font-size: 10px; cursor: pointer; }
 .demo-avatar { width: 34px; height: 34px; flex-shrink: 0; display: grid; place-items: center; overflow: hidden; border: 1px solid var(--line); border-radius: 50%; background: var(--bg-soft); }
 .demo-avatar img { width: 100%; height: 100%; display: block; object-fit: cover; }
 .demo-status-pill { padding: 5px 8px; border-radius: 6px; background: rgba(38, 123, 255, .08); color: var(--blue); font-size: 9px; white-space: nowrap; }
