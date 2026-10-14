@@ -1,0 +1,17 @@
+{
+  "mode": "built-in image_gen",
+  "date": "2026-10-14",
+  "prompts": {
+    "small-business-first-month": "Photorealistic-natural, final wide 16:9 QuickKOL editorial blog cover about a small business launching its first creator collaboration. Candid documentary moment: a middle-aged Latina owner in her tiny ceramics shop preparing a product demonstration, arranging three handmade mugs in window daylight, a small real camera on a tripod and her paper calendar nearby. Clearly a retail shop with shelves of handmade pottery, not a desk office meeting. Half-body medium-wide composition, natural skin and realistic gesture, realistic textures, understated cobalt blue apron and warm cream pottery. No readable text, numbers, logos, watermark, or fake interfaces. Subject legible in thumbnail. Make the composition original.",
+    "small-team-commerce": "Photorealistic-natural, final wide 16:9 QuickKOL editorial cover about a small ecommerce team managing creator gifting and product shipments. No people. Side-lit packing station inside a compact store backroom with a partly open kraft parcel, two blank-label product bottles, tissue paper, a blue fabric ribbon, a stack of folded shipping cartons, one orange tape dispenser. Strong asymmetric close still-life composition from low oblique angle, real corrugated cardboard and tactile surfaces, natural cream and cobalt palette with small coral accents. No readable words, numbers, logos, screens, watermark. Authentic contemporary editorial product photography, not vector or 3D.",
+    "creator-platform-earnings": "Photorealistic-natural, final wide 16:9 QuickKOL editorial cover about a creator evaluating paid brand collaborations. Candid solo subject: a Black male independent audio creator in his early 30s, natural imperfect skin and short beard, seated in a warm home recording room with an acoustic guitar, a real microphone and headphones. He is thoughtfully reviewing a few blank paper proposal sheets while the microphone sits prominent in the foreground. Medium-wide side angle, natural window light, relaxed real posture, no staged posing, no office desk monitors, no meeting. Cream, wood, deep navy and small cobalt details. No readable words, numbers, logos, fake UI, watermark. Believable anatomy and equipment.",
+    "travel-creator-platform": "Photorealistic-natural, final wide 16:9 QuickKOL editorial cover about travel niche creators arranging destination partnerships. A solo white European woman around 40 wearing a practical rust-colored jacket, candidly scouting a scenic coastal overlook in Portugal with a small mirrorless camera hanging from a realistic strap. Looking toward the coastline rather than posing at camera, backpack, natural breeze, blue sea, sunlit stone ledge and distant white buildings. Wide environmental documentary composition, natural skin and imperfect travel details, not generic laptop image or crowded office. Contemporary commercial editorial, cream stone and cobalt sea with coral jacket accent. No readable text, numbers, logos, watermarks. Realistic hands and equipment."
+  },
+  "image_files": {
+    "small-business-first-month": "public/assets/blog/small-business-first-month.jpg",
+    "small-team-commerce": "public/assets/blog/small-team-commerce.jpg",
+    "creator-platform-earnings": "public/assets/blog/creator-platform-earnings.jpg",
+    "travel-creator-platform": "public/assets/blog/travel-creator-platform.jpg"
+  },
+  "vector_source": "scripts/generate-platform-covers.mjs"
+}

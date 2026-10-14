@@ -6,6 +6,7 @@ import { additionalBlogPosts } from './blog-additional-posts.js';
 import { seriesBlogPosts } from './blog-series-posts.js';
 import { expansionBlogPosts } from './blog-expansion-posts.js';
 import { growthBlogPosts } from './blog-growth-posts.js';
+import { platformBlogPosts } from './blog-platform-posts.js';
 import { blogEnhancements } from './blog-enhancements.js';
 import { additionalBlogEnhancements } from './blog-additional-enhancements.js';
 import { seriesBlogEnhancements } from './blog-series-enhancements.js';
@@ -14,7 +15,7 @@ import { growthBlogEnhancements } from './blog-growth-enhancements.js';
 import { initI18n, setPageLocale, localizeCopy, applyTranslations, loadLocale, localizeText } from './i18n.js';
 
 const enhancements = { ...blogEnhancements, ...additionalBlogEnhancements, ...seriesBlogEnhancements, ...expansionBlogEnhancements, ...growthBlogEnhancements };
-const blogPosts = [...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
+const blogPosts = [...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
 const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
 const arrow = '<i class="ph ph-arrow-up-right" aria-hidden="true"></i>';
 
@@ -36,6 +37,7 @@ export function mountBlog(initialLocale) {
   if (!allTags.includes(tag)) tag = '';
   const text = (pair) => localizeCopy(...pair);
   const copy = localizeCopy;
+  const tagLabel = (value) => value === 'PlatformSelection' ? copy('平台选型', 'Platform selection') : localizeText(value);
   const topicName = (key) => text(blogTopics.find((item) => item.key === key).label);
   const date = (value) => new Intl.DateTimeFormat(locale, { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(new Date(`${value}T00:00:00Z`));
   const readTime = (item) => {
@@ -168,9 +170,9 @@ export function mountBlog(initialLocale) {
   const linkedParagraph = (item, paragraph, sourceIds = []) => {
     const sourceRules = sourceIds.map((id) => {
       const source = item.sources.find((candidate) => candidate.id === id);
-      const candidates = (sourceAnchorTerms[id]?.[locale === 'zh-CN' ? 'zh' : 'en'] || []).map(localizeText);
+      const candidates = (source?.terms ? [text(source.terms)] : sourceAnchorTerms[id]?.[locale === 'zh-CN' ? 'zh' : 'en'] || []).map(localizeText);
       const term = candidates.find((candidate) => paragraph.includes(candidate));
-      return source && term ? { term, url: source.url, external: true } : null;
+      return source && term ? { term, url: source.url, external: /^https?:/.test(source.url) } : null;
     }).filter(Boolean);
     const internalRules = internalAnchorRules.map((rule) => {
       const term = localizeText(rule.terms[locale === 'zh-CN' ? 0 : 1]);
@@ -229,12 +231,13 @@ export function mountBlog(initialLocale) {
       headline: text(post.title),
       description,
       datePublished: post.date,
-      dateModified: post.date,
+      dateModified: post.updatedDate || post.date,
       mainEntityOfPage: pageUrl,
       image: new URL(coverUrl(post), siteOrigin).href,
       author: { '@type': 'Organization', name: 'QuickKOL Strategy Team', url: `${siteOrigin}/about/` },
       publisher: { '@type': 'Organization', '@id': `${siteOrigin}/#organization`, name: 'QuickKOL', url: siteOrigin },
       citation: post.sources?.map((source) => source.url) || [],
+      ...(post.primaryKeyword ? { keywords: post.primaryKeyword } : {}),
     } : {
       '@context': 'https://schema.org',
       '@type': 'CollectionPage',
@@ -388,6 +391,26 @@ export function mountBlog(initialLocale) {
       return;
     }
     const format = (number, digits = 2) => new Intl.NumberFormat(locale, { maximumFractionDigits: digits }).format(number);
+    if (kind === 'platform-time-value') {
+      const cost = value('subscription') + value('otherFees');
+      const savedValue = value('savedHours') * value('hourlyCost');
+      const breakEven = value('hourlyCost') ? cost / value('hourlyCost') : null;
+      result.innerHTML = `<div><strong>${format(cost)}</strong><span>${copy('月工具总成本', 'monthly tool cost')}</span></div><div><strong>${breakEven === null ? '—' : format(breakEven)}</strong><span>${copy('需要节省的小时', 'break-even hours saved')}</span></div><div><strong>${format(savedValue)}</strong><span>${copy('节省人力价值情景', 'labor value saved')}</span></div><div><strong>${format(savedValue - cost)}</strong><span>${copy('人力价值减工具成本', 'labor value less tool cost')}</span></div><small>${copy('请用实际节省时间；人力价值不等于现金利润，结果未包含达人、产品与广告费用。', 'Use actual time saved. Labor value is not cash profit; creator, product and media costs are excluded.')}</small>`;
+      return;
+    }
+    if (kind === 'platform-agency-cost') {
+      const internalCost = value('subscription') + value('internalHours') * value('hourlyCost') + value('extraCosts');
+      const agencyCost = value('agencyFee') + value('approvalHours') * value('hourlyCost');
+      result.innerHTML = `<div><strong>${format(internalCost)}</strong><span>${copy('平台自营运营成本', 'in-house operating cost')}</span></div><div><strong>${format(agencyCost)}</strong><span>${copy('代理加品牌审批成本', 'agency plus client approval cost')}</span></div><div><strong>${format(agencyCost - internalCost)}</strong><span>${copy('代理成本减自营成本', 'agency less in-house cost')}</span></div><div><strong>${format(value('internalHours') - value('approvalHours'))}</strong><span>${copy('内部小时差', 'internal hours difference')}</span></div><small>${copy('先对齐双方范围和币种。差额可以为负，不代表较低成本模式的执行质量一定更好。', 'Align scope and currency first. The difference can be negative; lower cost does not establish better execution quality.')}</small>`;
+      return;
+    }
+    if (kind === 'creator-offer-net') {
+      const gross = value('fixedFee') + value('commission');
+      const costs = value('production') + value('fees');
+      const net = gross - costs;
+      result.innerHTML = `<div><strong>${format(gross)}</strong><span>${copy('现金收入情景', 'scenario cash income')}</span></div><div><strong>${format(costs)}</strong><span>${copy('制作与付款成本', 'production and payment costs')}</span></div><div><strong>${format(net)}</strong><span>${copy('税前净额', 'net before tax')}</span></div><div><strong>${value('hours') ? format(net / value('hours')) : '—'}</strong><span>${copy('税前每小时净额', 'net per hour before tax')}</span></div><small>${copy('未计赠品标价、税费和排他机会成本；未确认佣金请设为零。', 'Excludes retail value of gifts, tax and exclusivity opportunity cost. Set unconfirmed commission to zero.')}</small>`;
+      return;
+    }
     if (kind === 'country-rate-compare') {
       const creatorFee = value('creatorFee');
       const addOns = value('rightsCost') + value('localizationCost');
@@ -498,10 +521,10 @@ export function mountBlog(initialLocale) {
       const renderDeepDive = () => post.deepDive.map((section, index) => `<section id="deep-dive-${index + 1}"><h2>${escapeHtml(text(section.heading))}</h2>${linkedParagraphs(post, section.body, section.citations)}</section>`).join('');
       const sourceList = `<section class="blog-sources" id="sources"><h2>${copy('资料来源与延伸阅读', 'Sources and further reading')}</h2><ul>${post.sources.map((source, index) => `<li><span class="blog-list-index">${String(index + 1).padStart(2, '0')}</span><a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(text(source.label))} ${arrow}</a></li>`).join('')}</ul><p>${copy('外部页面可能更新；平台规则、合同与当地法规应在 Campaign 启动前再次确认。', 'External pages can change. Recheck platform rules, contracts and local law before launch.')}</p></section>`;
       const toc = `<nav class="blog-toc" aria-label="${copy('文章目录', 'Article contents')}"><p>${copy('本文目录', 'IN THIS ARTICLE')}</p><a href="#answer">${copy('先给结论', 'The short answer')}</a>${post.sections.map(([heading], index) => `<a href="#section-${index + 1}">${escapeHtml(text(heading))}</a>`).join('')}${post.deepDive.map((section, index) => `<a href="#deep-dive-${index + 1}">${escapeHtml(text(section.heading))}</a>`).join('')}<a href="#evidence-table">${escapeHtml(text(post.table.title))}</a><a href="#interactive-tool">${escapeHtml(text(post.tool.title))}</a><a href="#sources">${copy('资料来源与延伸阅读', 'Sources')}</a></nav>`;
-      main.innerHTML = `<article><div class="blog-article-hero"><a class="blog-back" href="${escapeHtml(listUrl())}">← ${copy('所有文章', 'All articles')}</a><p class="blog-kicker">QUICKKOL BLOG / ${topicName(post.topic)}</p><h1>${escapeHtml(text(post.title))}</h1><p class="blog-intro">${escapeHtml(text(post.summary))}</p><div class="blog-article-meta"><span><a href="/about/" rel="author">QuickKOL Strategy Team</a></span><time datetime="${post.date}">${date(post.date)}</time><span>${readTime(post)} ${copy('分钟阅读', 'min read')}</span></div></div><div class="blog-article-layout"><div class="blog-article-inner">${toc}<div class="blog-article-content"><img class="blog-article-cover" src="${coverUrl(post)}" alt="${escapeHtml(text(post.coverAlt))}" width="640" height="360" /><section class="blog-answer" id="answer"><p class="blog-answer-label">${copy('总结', 'THE SHORT ANSWER')}</p>${renderAnswer(post)}</section>${post.sections.map(([heading, body], index) => `<section id="section-${index + 1}"><h2>${escapeHtml(text(heading))}</h2>${linkedParagraphs(post, body)}</section>`).join('')}${renderDeepDive()}${renderTable(post)}${renderTool(post.tool)}<aside class="blog-product-note"><p class="blog-kicker">IN QUICKKOL</p><h2>${copy('把方法变成可执行的 Campaign', 'Turn the method into an executable campaign')}</h2><p>${copy('用 QuickKOL Agent 整理需求、发现达人、准备个性化外联，并把关键状态留在同一条工作流里。', 'Use QuickKOL Agent to structure requirements, discover creators, prepare personalized outreach and keep campaign decisions in one workflow.')}</p><a href="/#agent-team">${copy('体验 QuickKOL Agent', 'Try QuickKOL Agent')} ${arrow}</a></aside>${sourceList}<div class="blog-related"><p class="blog-kicker">${copy('继续阅读', 'KEEP READING')}</p>${blogPosts.filter((item) => item.slug !== post.slug).sort((a, b) => Number(b.topic === post.topic) - Number(a.topic === post.topic)).slice(0, 2).map((item, index) => `<a href="${escapeHtml(postUrl(item))}"><span class="blog-list-index">${String(index + 1).padStart(2, '0')}</span><span>${escapeHtml(text(item.title))} ${arrow}</span></a>`).join('')}</div></div></div></div></article>${cta()}`;
+      main.innerHTML = `<article><div class="blog-article-hero"><a class="blog-back" href="${escapeHtml(listUrl())}">← ${copy('所有文章', 'All articles')}</a><p class="blog-kicker">QUICKKOL BLOG / ${topicName(post.topic)}</p><h1>${escapeHtml(text(post.title))}</h1><p class="blog-intro">${escapeHtml(text(post.summary))}</p><div class="blog-article-meta"><span><a href="/about/" rel="author">QuickKOL Strategy Team</a></span><time datetime="${post.date}">${date(post.date)}</time><span>${readTime(post)} ${copy('分钟阅读', 'min read')}</span></div></div><div class="blog-article-layout"><div class="blog-article-inner">${toc}<div class="blog-article-content"><img class="blog-article-cover" src="${coverUrl(post)}" alt="${escapeHtml(text(post.coverAlt))}" width="640" height="360" /><section class="blog-answer" id="answer"><p class="blog-answer-label">${copy('总结', 'THE SHORT ANSWER')}</p>${renderAnswer(post)}</section>${post.sections.map(([heading, body, citations = []], index) => `<section id="section-${index + 1}"><h2>${escapeHtml(text(heading))}</h2>${linkedParagraphs(post, body, citations)}</section>`).join('')}${renderDeepDive()}${renderTable(post)}${renderTool(post.tool)}<aside class="blog-product-note"><p class="blog-kicker">IN QUICKKOL</p><h2>${copy('把方法变成可执行的 Campaign', 'Turn the method into an executable campaign')}</h2><p>${copy('用 QuickKOL Agent 整理需求、发现达人、准备个性化外联，并把关键状态留在同一条工作流里。', 'Use QuickKOL Agent to structure requirements, discover creators, prepare personalized outreach and keep campaign decisions in one workflow.')}</p><a href="/#agent-team">${copy('体验 QuickKOL Agent', 'Try QuickKOL Agent')} ${arrow}</a></aside>${sourceList}<div class="blog-related"><p class="blog-kicker">${copy('继续阅读', 'KEEP READING')}</p>${blogPosts.filter((item) => item.slug !== post.slug).sort((a, b) => Number(b.topic === post.topic) - Number(a.topic === post.topic)).slice(0, 2).map((item, index) => `<a href="${escapeHtml(postUrl(item))}"><span class="blog-list-index">${String(index + 1).padStart(2, '0')}</span><span>${escapeHtml(text(item.title))} ${arrow}</span></a>`).join('')}</div></div></div></div></article>${cta()}`;
       document.querySelectorAll('[data-blog-tool]').forEach(updateBlogTool);
     } else {
-      main.innerHTML = `<section class="blog-hero"><p class="blog-kicker">QUICKKOL / INSIGHTS</p><h1>THE QUICKKOL <span>BLOG.</span></h1><p class="blog-intro">${copy('给品牌和营销团队的达人营销实战指南：从发现与评估，到外联、执行和复盘，让每一个判断都有证据。', 'Practical creator marketing guides for brand and marketing teams—from discovery and evaluation to outreach, execution and review, with evidence behind every decision.')}</p></section><section class="blog-library" aria-label="${copy('文章库', 'Article library')}"><aside class="blog-sidebar"><label class="blog-search"><i class="ph ph-magnifying-glass" aria-hidden="true"></i><input type="search" data-blog-search placeholder="${copy('搜索文章', 'Search insights')}" aria-label="${copy('搜索 Blog 文章', 'Search blog articles')}" value="${escapeHtml(query)}" /></label><p class="blog-filter-title">${copy('探索主题', 'Explore topics')}</p><div class="blog-topics" role="group" aria-label="${copy('按主题筛选', 'Filter by topic')}">${[{key:'',label:['全部文章','All articles']}, ...blogTopics].map((item) => `<button class="blog-topic" data-blog-topic="${item.key}" aria-pressed="${topic === item.key}"><span>${text(item.label)}</span><span>${blogPosts.filter((post) => !item.key || post.topic === item.key).length}</span></button>`).join('')}</div><div class="blog-tags-panel"><p class="blog-filter-title">${copy('热门标签', 'Popular tags')}</p><div class="blog-tags" role="group" aria-label="${copy('按标签筛选', 'Filter by tag')}">${tags.map((item) => `<button class="blog-tag" data-blog-tag="${item}" aria-pressed="${tag === item}"><b>#</b>${escapeHtml(localizeText(item))} <small>${tagCounts.get(item)}</small></button>`).join('')}</div></div></aside><div class="blog-results"><h2 class="blog-count" data-blog-count role="status" aria-live="polite"></h2><div class="blog-grid" data-blog-grid></div><nav class="blog-pagination" data-blog-pagination aria-label="${copy('文章分页', 'Article pagination')}"></nav></div></section>${cta()}`;
+      main.innerHTML = `<section class="blog-hero"><p class="blog-kicker">QUICKKOL / INSIGHTS</p><h1>THE QUICKKOL <span>BLOG.</span></h1><p class="blog-intro">${copy('给品牌和营销团队的达人营销实战指南：从发现与评估，到外联、执行和复盘，让每一个判断都有证据。', 'Practical creator marketing guides for brand and marketing teams—from discovery and evaluation to outreach, execution and review, with evidence behind every decision.')}</p></section><section class="blog-library" aria-label="${copy('文章库', 'Article library')}"><aside class="blog-sidebar"><label class="blog-search"><i class="ph ph-magnifying-glass" aria-hidden="true"></i><input type="search" data-blog-search placeholder="${copy('搜索文章', 'Search insights')}" aria-label="${copy('搜索 Blog 文章', 'Search blog articles')}" value="${escapeHtml(query)}" /></label><p class="blog-filter-title">${copy('探索主题', 'Explore topics')}</p><div class="blog-topics" role="group" aria-label="${copy('按主题筛选', 'Filter by topic')}">${[{key:'',label:['全部文章','All articles']}, ...blogTopics].map((item) => `<button class="blog-topic" data-blog-topic="${item.key}" aria-pressed="${topic === item.key}"><span>${text(item.label)}</span><span>${blogPosts.filter((post) => !item.key || post.topic === item.key).length}</span></button>`).join('')}</div><div class="blog-tags-panel"><p class="blog-filter-title">${copy('热门标签', 'Popular tags')}</p><div class="blog-tags" role="group" aria-label="${copy('按标签筛选', 'Filter by tag')}">${tags.map((item) => `<button class="blog-tag" data-blog-tag="${item}" aria-pressed="${tag === item}"><b>#</b>${escapeHtml(tagLabel(item))} <small>${tagCounts.get(item)}</small></button>`).join('')}</div></div></aside><div class="blog-results"><h2 class="blog-count" data-blog-count role="status" aria-live="polite"></h2><div class="blog-grid" data-blog-grid></div><nav class="blog-pagination" data-blog-pagination aria-label="${copy('文章分页', 'Article pagination')}"></nav></div></section>${cta()}`;
       renderResults();
     }
     metadata();

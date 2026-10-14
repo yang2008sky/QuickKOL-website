@@ -4,11 +4,12 @@ import { additionalBlogPosts } from '../src/blog-additional-posts.js';
 import { seriesBlogPosts } from '../src/blog-series-posts.js';
 import { expansionBlogPosts } from '../src/blog-expansion-posts.js';
 import { growthBlogPosts } from '../src/blog-growth-posts.js';
+import { platformBlogPosts } from '../src/blog-platform-posts.js';
 import { renderSeoTags, siteOrigin } from '../src/seo.js';
 import { createPrerenderer } from './prerender.js';
 import { BLOG_PAGE_SIZE, blogPagePath } from '../src/blog-pagination.js';
 
-const blogPosts = [...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts];
+const blogPosts = [...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts];
 
 // Emit real HTML entry points so static hosts do not need SPA fallback rules.
 const html = await readFile(new URL('../dist/index.html', import.meta.url), 'utf8');
