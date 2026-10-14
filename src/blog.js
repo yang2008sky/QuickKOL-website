@@ -7,6 +7,7 @@ import { seriesBlogPosts } from './blog-series-posts.js';
 import { expansionBlogPosts } from './blog-expansion-posts.js';
 import { growthBlogPosts } from './blog-growth-posts.js';
 import { platformBlogPosts } from './blog-platform-posts.js';
+import { microBlogPosts } from './blog-micro-posts.js';
 import { blogEnhancements } from './blog-enhancements.js';
 import { additionalBlogEnhancements } from './blog-additional-enhancements.js';
 import { seriesBlogEnhancements } from './blog-series-enhancements.js';
@@ -15,7 +16,7 @@ import { growthBlogEnhancements } from './blog-growth-enhancements.js';
 import { initI18n, setPageLocale, localizeCopy, applyTranslations, loadLocale, localizeText } from './i18n.js';
 
 const enhancements = { ...blogEnhancements, ...additionalBlogEnhancements, ...seriesBlogEnhancements, ...expansionBlogEnhancements, ...growthBlogEnhancements };
-const blogPosts = [...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
+const blogPosts = [...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
 const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
 const arrow = '<i class="ph ph-arrow-up-right" aria-hidden="true"></i>';
 
@@ -293,18 +294,26 @@ export function mountBlog(initialLocale) {
     const value = (name) => Math.max(0, Number(container.querySelector(`[name="${name}"]`)?.value) || 0);
     if (kind === 'pipeline') {
       const target = value('target');
-      const response = value('response') / 100;
-      const acceptance = value('acceptance') / 100;
+      const response = Math.min(value('response'), 100) / 100;
+      const acceptance = Math.min(value('acceptance'), 100) / 100;
+      if (!response || !acceptance) {
+        result.innerHTML = `<strong>—</strong><span>${copy('无法估算联系人数', 'contact estimate unavailable')}</span><small>${copy('回复率与接受比例都需要大于零；请填入自己的历史数据或明确情景。', 'Response and acceptance rates must both exceed zero. Use your own history or an explicit scenario.')}</small>`;
+        return;
+      }
       const contacts = response && acceptance ? Math.ceil(target / response / acceptance) : 0;
       const replies = Math.ceil(contacts * response);
       result.innerHTML = `<strong>${contacts.toLocaleString(locale)}</strong><span>${copy('建议初始联系人数', 'estimated initial contacts')}</span><small>${copy(`预计约 ${replies} 个回复，再筛选出 ${target} 个合作对象。`, `About ${replies} replies to reach ${target} accepted creators.`)}</small>`;
       return;
     }
     if (kind === 'engagement') {
+      if ([...container.querySelectorAll('input')].some((input) => input.value.trim() === '')) {
+        result.innerHTML = `<strong>—</strong><span>${copy('请补齐可获得的数据', 'complete the available dataset')}</span><small>${copy('留空表示信息缺失，不能当成零计算；明确采用的互动组合后再比较。', 'A blank field is missing information, not zero. Define the interaction set before comparing.')}</small>`;
+        return;
+      }
       const interactions = ['likes', 'comments', 'saves', 'shares'].reduce((sum, key) => sum + value(key), 0);
       const followerRate = value('followers') ? interactions / value('followers') * 100 : 0;
       const viewRate = value('views') ? interactions / value('views') * 100 : 0;
-      result.innerHTML = `<div><strong>${followerRate.toFixed(2)}%</strong><span>${copy('粉丝口径', 'by followers')}</span></div><div><strong>${viewRate.toFixed(2)}%</strong><span>${copy('观看口径', 'by views')}</span></div><small>${copy(`总互动 ${interactions.toLocaleString(locale)}；报告时必须写明分母。`, `${interactions.toLocaleString(locale)} total interactions; always label the denominator.`)}</small>`;
+      result.innerHTML = `<div><strong>${value('followers') ? followerRate.toFixed(2) + '%' : '—'}</strong><span>${copy('粉丝口径', 'by followers')}</span></div><div><strong>${value('views') ? viewRate.toFixed(2) + '%' : '—'}</strong><span>${copy('观看口径', 'by views')}</span></div><small>${copy(`总互动 ${interactions.toLocaleString(locale)}；报告时必须写明分母。`, `${interactions.toLocaleString(locale)} total interactions; always label the denominator.`)}</small>`;
       return;
     }
     if (kind === 'budget-plan') {
