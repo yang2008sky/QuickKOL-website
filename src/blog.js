@@ -8,6 +8,7 @@ import { expansionBlogPosts } from './blog-expansion-posts.js';
 import { growthBlogPosts } from './blog-growth-posts.js';
 import { platformBlogPosts } from './blog-platform-posts.js';
 import { microBlogPosts } from './blog-micro-posts.js';
+import { programBlogPosts } from './blog-program-posts.js';
 import { blogEnhancements } from './blog-enhancements.js';
 import { additionalBlogEnhancements } from './blog-additional-enhancements.js';
 import { seriesBlogEnhancements } from './blog-series-enhancements.js';
@@ -16,7 +17,7 @@ import { growthBlogEnhancements } from './blog-growth-enhancements.js';
 import { initI18n, setPageLocale, localizeCopy, applyTranslations, loadLocale, localizeText } from './i18n.js';
 
 const enhancements = { ...blogEnhancements, ...additionalBlogEnhancements, ...seriesBlogEnhancements, ...expansionBlogEnhancements, ...growthBlogEnhancements };
-const blogPosts = [...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
+const blogPosts = [...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
 const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
 const arrow = '<i class="ph ph-arrow-up-right" aria-hidden="true"></i>';
 
@@ -54,7 +55,7 @@ export function mountBlog(initialLocale) {
   const coverUrl = (item) => `/assets/blog/${item.cover}`;
   const listUrl = () => `/blog/${window.location.search}`;
   const postUrl = (item) => `/blog/${item.slug}/${window.location.search}`;
-  const cta = () => `<section class="blog-cta"><div><p class="blog-kicker">FROM INSIGHT TO ACTION</p><h2>${copy('把下一个想法，变成下一次合作。', 'Turn your next idea into your next campaign.')}</h2><p>${copy('从一份 Brief 开始，让 QuickKOL 帮你连接合适的创作者。', 'Start with a brief. Let QuickKOL help you find the right creators.')}</p></div><a class="button button-primary" href="/#agent-team">${copy('体验 QuickKOL Agent', 'Try QuickKOL Agent')} ${arrow}</a></section>`;
+  const cta = () => `<section class="blog-cta"><div><p class="blog-kicker">FROM INSIGHT TO ACTION</p><h2>${post?.cta ? escapeHtml(text(post.cta.title)) : copy('把下一个想法，变成下一次合作。', 'Turn your next idea into your next campaign.')}</h2><p>${post?.cta ? escapeHtml(text(post.cta.body)) : copy('从一份 Brief 开始，让 QuickKOL 帮你连接合适的创作者。', 'Start with a brief. Let QuickKOL help you find the right creators.')}</p></div><a class="button button-primary" href="${escapeHtml(post?.cta?.href || '/#agent-team')}">${post?.cta ? escapeHtml(text(post.cta.label)) : copy('体验 QuickKOL Agent', 'Try QuickKOL Agent')} ${arrow}</a></section>`;
   const sourceAnchorTerms = {
     iab2025: { zh: ['IAB'], en: ['IAB'] },
     ftcDisclosure: { zh: ['FTC'], en: ['FTC'] },
@@ -91,6 +92,8 @@ export function mountBlog(initialLocale) {
     oecdPpp: { zh: ['OECD'], en: ['OECD'] },
   };
   const internalAnchorRules = [
+    { terms: ['2026 平台选型指南', '2026 platform selection guide'], slug: 'best-influencer-marketing-platforms-2026', hash: 'answer' },
+    { terms: ['多品牌企业平台指南', 'multi-brand enterprise platform guide'], slug: 'top-influencer-marketing-platforms-2026', hash: 'answer' },
     { terms: ['受众质量', 'audience quality'], slug: 'audit-creator-audience-quality', hash: 'evidence-table' },
     { terms: ['达人层级', 'creator tier'], slug: 'nano-micro-macro-creator-mix', hash: 'answer' },
     { terms: ['指标口径', 'metric definition'], slug: 'creator-metric-definitions', hash: 'evidence-table' },
@@ -394,12 +397,46 @@ export function mountBlog(initialLocale) {
       const units = Math.ceil(creators * (1 + Math.min(value('replacementRate'), 100) / 100));
       const usable = Math.floor(creators * Math.min(value('successRate'), 100) / 100);
       const cost = units * value('unitCost') + creators * value('shippingCost');
-      const costPerUsable = usable ? cost / usable : 0;
-      const format = (number) => new Intl.NumberFormat(locale, { maximumFractionDigits: 0 }).format(number);
-      result.innerHTML = `<div><strong>${units}</strong><span>${copy('需要预留的样品', 'units to reserve')}</span></div><div><strong>${usable}</strong><span>${copy('期望可用合作人数', 'expected usable recipients')}</span></div><div><strong>${format(cost)}</strong><span>${copy('样品与基础物流成本', 'product and base shipping cost')}</span></div><div><strong>${format(costPerUsable)}</strong><span>${copy('每个期望可用合作成本', 'cost per expected usable recipient')}</span></div><small>${copy('未含关税、包装、退货和额外操作成本；比例应使用 Campaign 自己的历史数据。', 'Excludes duties, packaging, returns and extra handling; use campaign-specific historical rates.')}</small>`;
+      const costPerUsable = usable ? cost / usable : null;
+      const format = (number, digits = 0) => new Intl.NumberFormat(locale, { maximumFractionDigits: digits }).format(number);
+      result.innerHTML = `<div><strong>${units}</strong><span>${copy('需要预留的样品', 'units to reserve')}</span></div><div><strong>${usable}</strong><span>${copy('期望可用合作人数', 'expected usable recipients')}</span></div><div><strong>${format(cost)}</strong><span>${copy('样品与基础物流成本', 'product and base shipping cost')}</span></div><div><strong>${costPerUsable === null ? '—' : format(costPerUsable, 2)}</strong><span>${copy('每个期望可用合作成本', 'cost per expected usable recipient')}</span></div><small>${copy('未含关税、包装、退货和额外操作成本；比例应使用 Campaign 自己的历史数据。', 'Excludes duties, packaging, returns and extra handling; use campaign-specific historical rates.')}</small>`;
       return;
     }
     const format = (number, digits = 2) => new Intl.NumberFormat(locale, { maximumFractionDigits: digits }).format(number);
+    if (['platform-billing-horizon', 'creator-payment-overhead', 'media-value-sensitivity'].includes(kind) && [...container.querySelectorAll('input')].some((input) => input.value.trim() === '')) {
+      result.innerHTML = `<strong>—</strong><span>${copy('请补齐计算输入', 'complete the calculation inputs')}</span><small>${copy('缺失信息不能默认当成零。', 'Missing information is not automatically zero.')}</small>`;
+      return;
+    }
+    if (kind === 'platform-billing-horizon') {
+      const months = value('months');
+      if (months < 1 || months > 12 || !Number.isInteger(months)) {
+        result.innerHTML = `<strong>—</strong><span>${copy('使用月数需为 1–12 的整数', 'enter one to twelve whole months')}</span>`;
+        return;
+      }
+      const monthly = value('monthlyRate') * months;
+      const annual = value('annualPrice');
+      const crossover = value('monthlyRate') ? annual / value('monthlyRate') : null;
+      result.innerHTML = `<div><strong>${format(monthly)}</strong><span>${copy(`${months} 个月的月付现金`, `monthly-billed cash for ${months} months`)}</span></div><div><strong>${format(annual)}</strong><span>${copy('全年预付现金', 'full annual upfront cash')}</span></div><div><strong>${format(annual - monthly)}</strong><span>${copy('年付减月付现金', 'annual less monthly cash')}</span></div><div><strong>${crossover === null ? '—' : format(crossover)}</strong><span>${copy('订阅现金临界月数', 'subscription-cash crossover months')}</span></div><small>${copy('仅比较同范围订阅，未含税费、实施、退款与额外用量；年付按全年承诺计算。', 'Equivalent subscription scope only; excludes tax, implementation, refunds and extra usage. Annual cash reflects the full commitment.')}</small>`;
+      return;
+    }
+    if (kind === 'creator-payment-overhead') {
+      const principal = value('principal');
+      const processing = principal * Math.min(value('processingPercent'), 100) / 100;
+      const fx = principal * Math.min(value('fxPercent'), 100) / 100;
+      const overhead = processing + fx + value('fixedFee');
+      result.innerHTML = `<div><strong>${format(principal)}</strong><span>${copy('约定应付本金', 'agreed principal')}</span></div><div><strong>${format(processing)}</strong><span>${copy('处理费情景', 'processing-fee scenario')}</span></div><div><strong>${format(overhead)}</strong><span>${copy('付款方附加成本', 'payer overhead')}</span></div><div><strong>${format(principal + overhead)}</strong><span>${copy('付款方总出款情景', 'payer outflow scenario')}</span></div><small>${copy('百分比均按本金计算，假设品牌另付费用；不含收款端扣费、逐级换汇或税费，不承诺实际到账额。', 'Percentages use principal and assume payer-borne fees. Excludes recipient deductions, sequential FX and tax; actual receipt is not guaranteed.')}</small>`;
+      return;
+    }
+    if (kind === 'media-value-sensitivity') {
+      if (value('highCpm') < value('lowCpm')) {
+        result.innerHTML = `<strong>—</strong><span>${copy('高单价不能低于低单价', 'the high rate must not be below the low rate')}</span>`;
+        return;
+      }
+      const low = value('impressions') / 1000 * value('lowCpm');
+      const high = value('impressions') / 1000 * value('highCpm');
+      result.innerHTML = `<div><strong>${format(low)}–${format(high)}</strong><span>${copy('假设曝光等价估值区间', 'assumed impression-equivalent range')}</span></div><div><strong>${format(high - low)}</strong><span>${copy('系数改变的估值差额', 'value difference from coefficients')}</span></div><div><strong>${format(value('actualRevenue'))}</strong><span>${copy('实际确认收入，单独列示', 'actual revenue, reported separately')}</span></div><div><strong>${format(value('campaignCost'))}</strong><span>${copy('实际成本，单独列示', 'actual cost, reported separately')}</span></div><small>${copy('这是用户假设下的敏感性情景，不是供应商 EMV 公式或行业基准；估值不等于收入、利润或增量。', 'This sensitivity scenario uses your assumptions, not a vendor EMV formula or benchmark. Value is not revenue, profit or incrementality.')}</small>`;
+      return;
+    }
     if (kind === 'platform-time-value') {
       const cost = value('subscription') + value('otherFees');
       const savedValue = value('savedHours') * value('hourlyCost');
@@ -530,7 +567,7 @@ export function mountBlog(initialLocale) {
       const renderDeepDive = () => post.deepDive.map((section, index) => `<section id="deep-dive-${index + 1}"><h2>${escapeHtml(text(section.heading))}</h2>${linkedParagraphs(post, section.body, section.citations)}</section>`).join('');
       const sourceList = `<section class="blog-sources" id="sources"><h2>${copy('资料来源与延伸阅读', 'Sources and further reading')}</h2><ul>${post.sources.map((source, index) => `<li><span class="blog-list-index">${String(index + 1).padStart(2, '0')}</span><a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(text(source.label))} ${arrow}</a></li>`).join('')}</ul><p>${copy('外部页面可能更新；平台规则、合同与当地法规应在 Campaign 启动前再次确认。', 'External pages can change. Recheck platform rules, contracts and local law before launch.')}</p></section>`;
       const toc = `<nav class="blog-toc" aria-label="${copy('文章目录', 'Article contents')}"><p>${copy('本文目录', 'IN THIS ARTICLE')}</p><a href="#answer">${copy('先给结论', 'The short answer')}</a>${post.sections.map(([heading], index) => `<a href="#section-${index + 1}">${escapeHtml(text(heading))}</a>`).join('')}${post.deepDive.map((section, index) => `<a href="#deep-dive-${index + 1}">${escapeHtml(text(section.heading))}</a>`).join('')}<a href="#evidence-table">${escapeHtml(text(post.table.title))}</a><a href="#interactive-tool">${escapeHtml(text(post.tool.title))}</a><a href="#sources">${copy('资料来源与延伸阅读', 'Sources')}</a></nav>`;
-      main.innerHTML = `<article><div class="blog-article-hero"><a class="blog-back" href="${escapeHtml(listUrl())}">← ${copy('所有文章', 'All articles')}</a><p class="blog-kicker">QUICKKOL BLOG / ${topicName(post.topic)}</p><h1>${escapeHtml(text(post.title))}</h1><p class="blog-intro">${escapeHtml(text(post.summary))}</p><div class="blog-article-meta"><span><a href="/about/" rel="author">QuickKOL Strategy Team</a></span><time datetime="${post.date}">${date(post.date)}</time><span>${readTime(post)} ${copy('分钟阅读', 'min read')}</span></div></div><div class="blog-article-layout"><div class="blog-article-inner">${toc}<div class="blog-article-content"><img class="blog-article-cover" src="${coverUrl(post)}" alt="${escapeHtml(text(post.coverAlt))}" width="640" height="360" /><section class="blog-answer" id="answer"><p class="blog-answer-label">${copy('总结', 'THE SHORT ANSWER')}</p>${renderAnswer(post)}</section>${post.sections.map(([heading, body, citations = []], index) => `<section id="section-${index + 1}"><h2>${escapeHtml(text(heading))}</h2>${linkedParagraphs(post, body, citations)}</section>`).join('')}${renderDeepDive()}${renderTable(post)}${renderTool(post.tool)}<aside class="blog-product-note"><p class="blog-kicker">IN QUICKKOL</p><h2>${copy('把方法变成可执行的 Campaign', 'Turn the method into an executable campaign')}</h2><p>${copy('用 QuickKOL Agent 整理需求、发现达人、准备个性化外联，并把关键状态留在同一条工作流里。', 'Use QuickKOL Agent to structure requirements, discover creators, prepare personalized outreach and keep campaign decisions in one workflow.')}</p><a href="/#agent-team">${copy('体验 QuickKOL Agent', 'Try QuickKOL Agent')} ${arrow}</a></aside>${sourceList}<div class="blog-related"><p class="blog-kicker">${copy('继续阅读', 'KEEP READING')}</p>${blogPosts.filter((item) => item.slug !== post.slug).sort((a, b) => Number(b.topic === post.topic) - Number(a.topic === post.topic)).slice(0, 2).map((item, index) => `<a href="${escapeHtml(postUrl(item))}"><span class="blog-list-index">${String(index + 1).padStart(2, '0')}</span><span>${escapeHtml(text(item.title))} ${arrow}</span></a>`).join('')}</div></div></div></div></article>${cta()}`;
+      main.innerHTML = `<article><div class="blog-article-hero"><a class="blog-back" href="${escapeHtml(listUrl())}">← ${copy('所有文章', 'All articles')}</a><p class="blog-kicker">QUICKKOL BLOG / ${topicName(post.topic)}</p><h1>${escapeHtml(text(post.title))}</h1><p class="blog-intro">${escapeHtml(text(post.summary))}</p><div class="blog-article-meta"><span><a href="/about/" rel="author">QuickKOL Strategy Team</a></span><time datetime="${post.date}">${date(post.date)}</time><span>${readTime(post)} ${copy('分钟阅读', 'min read')}</span></div></div><div class="blog-article-layout"><div class="blog-article-inner">${toc}<div class="blog-article-content"><img class="blog-article-cover" src="${coverUrl(post)}" alt="${escapeHtml(text(post.coverAlt))}" width="640" height="360" /><section class="blog-answer" id="answer"><p class="blog-answer-label">${copy('总结', 'THE SHORT ANSWER')}</p>${renderAnswer(post)}</section>${post.sections.map(([heading, body, citations = []], index) => `<section id="section-${index + 1}"><h2>${escapeHtml(text(heading))}</h2>${linkedParagraphs(post, body, citations)}</section>`).join('')}${renderDeepDive()}${renderTable(post)}${renderTool(post.tool)}<aside class="blog-product-note"><p class="blog-kicker">IN QUICKKOL</p><h2>${post.cta ? escapeHtml(text(post.cta.title)) : copy('把方法变成可执行的 Campaign', 'Turn the method into an executable campaign')}</h2><p>${post.cta ? escapeHtml(text(post.cta.body)) : copy('用 QuickKOL Agent 整理需求、发现达人、准备个性化外联，并把关键状态留在同一条工作流里。', 'Use QuickKOL Agent to structure requirements, discover creators, prepare personalized outreach and keep campaign decisions in one workflow.')}</p><a href="${escapeHtml(post.cta?.href || '/#agent-team')}">${post.cta ? escapeHtml(text(post.cta.label)) : copy('体验 QuickKOL Agent', 'Try QuickKOL Agent')} ${arrow}</a></aside>${sourceList}<div class="blog-related"><p class="blog-kicker">${copy('继续阅读', 'KEEP READING')}</p>${blogPosts.filter((item) => item.slug !== post.slug).sort((a, b) => Number(b.topic === post.topic) - Number(a.topic === post.topic)).slice(0, 2).map((item, index) => `<a href="${escapeHtml(postUrl(item))}"><span class="blog-list-index">${String(index + 1).padStart(2, '0')}</span><span>${escapeHtml(text(item.title))} ${arrow}</span></a>`).join('')}</div></div></div></div></article>${cta()}`;
       document.querySelectorAll('[data-blog-tool]').forEach(updateBlogTool);
     } else {
       main.innerHTML = `<section class="blog-hero"><p class="blog-kicker">QUICKKOL / INSIGHTS</p><h1>THE QUICKKOL <span>BLOG.</span></h1><p class="blog-intro">${copy('给品牌和营销团队的达人营销实战指南：从发现与评估，到外联、执行和复盘，让每一个判断都有证据。', 'Practical creator marketing guides for brand and marketing teams—from discovery and evaluation to outreach, execution and review, with evidence behind every decision.')}</p></section><section class="blog-library" aria-label="${copy('文章库', 'Article library')}"><aside class="blog-sidebar"><label class="blog-search"><i class="ph ph-magnifying-glass" aria-hidden="true"></i><input type="search" data-blog-search placeholder="${copy('搜索文章', 'Search insights')}" aria-label="${copy('搜索 Blog 文章', 'Search blog articles')}" value="${escapeHtml(query)}" /></label><p class="blog-filter-title">${copy('探索主题', 'Explore topics')}</p><div class="blog-topics" role="group" aria-label="${copy('按主题筛选', 'Filter by topic')}">${[{key:'',label:['全部文章','All articles']}, ...blogTopics].map((item) => `<button class="blog-topic" data-blog-topic="${item.key}" aria-pressed="${topic === item.key}"><span>${text(item.label)}</span><span>${blogPosts.filter((post) => !item.key || post.topic === item.key).length}</span></button>`).join('')}</div><div class="blog-tags-panel"><p class="blog-filter-title">${copy('热门标签', 'Popular tags')}</p><div class="blog-tags" role="group" aria-label="${copy('按标签筛选', 'Filter by tag')}">${tags.map((item) => `<button class="blog-tag" data-blog-tag="${item}" aria-pressed="${tag === item}"><b>#</b>${escapeHtml(tagLabel(item))} <small>${tagCounts.get(item)}</small></button>`).join('')}</div></div></aside><div class="blog-results"><h2 class="blog-count" data-blog-count role="status" aria-live="polite"></h2><div class="blog-grid" data-blog-grid></div><nav class="blog-pagination" data-blog-pagination aria-label="${copy('文章分页', 'Article pagination')}"></nav></div></section>${cta()}`;
