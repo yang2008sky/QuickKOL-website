@@ -6,21 +6,21 @@ The website includes product information, pricing, creator marketing guides, and
 
 ## Product and support
 
-- [Home](https://www.quickkol.com/): Product capabilities and campaign workflow previews.
-- [About](https://www.quickkol.com/about/): The QuickKOL product story and team context.
-- [Pricing](https://www.quickkol.com/pricing/): Plans, included usage, and credit billing.
-- [FAQ](https://www.quickkol.com/faq/): Answers about discovery, AI Agent, subscriptions, and credits.
-- [Contact](https://www.quickkol.com/contact/): Product questions and support; support@quickkol.com.
+- [Home](https://www.quickkol.com/en/): Product capabilities and campaign workflow previews.
+- [About](https://www.quickkol.com/en/about/): The QuickKOL product story and team context.
+- [Pricing](https://www.quickkol.com/en/pricing/): Plans, included usage, and credit billing.
+- [FAQ](https://www.quickkol.com/en/faq/): Answers about discovery, AI Agent, subscriptions, and credits.
+- [Contact](https://www.quickkol.com/en/contact/): Product questions and support; support@quickkol.com.
 
 ## Guides and tools
 
-- [Blog](https://www.quickkol.com/blog/): Creator marketing guides with publication dates, team attribution, and source links.
-- [Creator rate calculator](https://www.quickkol.com/tools/creator-rate-calculator/): Estimate a creator's content fee range using planning assumptions.
-- [Campaign cost calculator](https://www.quickkol.com/tools/influencer-campaign-cost-calculator/): Estimate a campaign budget or the creator mix a budget can support.
+- [Blog](https://www.quickkol.com/en/blog/): Creator marketing guides with publication dates, Daniel Craig attribution, and source links.
+- [Creator rate calculator](https://www.quickkol.com/en/tools/creator-rate-calculator/): Estimate a creator's content fee range using planning assumptions.
+- [Campaign cost calculator](https://www.quickkol.com/en/tools/influencer-campaign-cost-calculator/): Estimate a campaign budget or the creator mix a budget can support.
 - [Invoice generator](https://www.quickkol.com/tools/invoice-generator/): Create and export invoices.
 
 ## Optional
 
-- [Terms of service](https://www.quickkol.com/terms.html): Service conditions and responsibilities.
-- [Privacy policy](https://www.quickkol.com/privacy.html): Information handling and privacy contacts.
+- [Terms of service](https://www.quickkol.com/en/terms.html): Service conditions and responsibilities.
+- [Privacy policy](https://www.quickkol.com/en/privacy.html): Information handling and privacy contacts.
 - [XML sitemap](https://www.quickkol.com/sitemap.xml): Canonical public page URLs.

@@ -3,6 +3,7 @@ import { resolve } from 'node:path';
 import { build } from 'esbuild';
 import { Window } from 'happy-dom';
 import { siteOrigin } from '../src/seo.js';
+import { routePath } from '../src/localized-paths.js';
 
 // Run the same page renderers at build time; ship their HTML with the Vite assets.
 export async function createPrerenderer() {
@@ -35,7 +36,8 @@ export async function createPrerenderer() {
       window.document.write(html);
       await window.eval(code);
       const document = window.document;
-      const module = path.startsWith('/blog/') ? 'blog' : path.endsWith('.html') ? 'legal' : path.includes('/influencer-campaign-cost-calculator/') ? 'campaign-cost-calculator' : path.split('/').filter(Boolean).pop();
+      const route = routePath(path);
+      const module = route.startsWith('/blog/') ? 'blog' : route.endsWith('.html') ? 'legal' : route.includes('/influencer-campaign-cost-calculator/') ? 'campaign-cost-calculator' : route.split('/').filter(Boolean).pop();
       const styles = new Set();
       function collectStyles(key) {
         const chunk = manifest[key];

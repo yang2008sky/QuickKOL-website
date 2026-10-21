@@ -5,15 +5,17 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && node --disallow-code-generation-from-strings --frozen-intrinsics scripts/build-blog-pages.js",
+    "build": "node scripts/build-share-images.js && vite build && node --disallow-code-generation-from-strings --frozen-intrinsics scripts/build-blog-pages.js",
     "preview": "vite preview"
   },
   "devDependencies": {
     "esbuild": "^0.28.2",
     "happy-dom": "^20.14.6",
+    "sharp": "^0.35.5",
     "vite": "^7.1.2"
   },
   "dependencies": {
-    "@phosphor-icons/web": "^2.1.2"
+    "@phosphor-icons/web": "^2.1.2",
+    "@vercel/functions": "^3.10.1"
   }
 }

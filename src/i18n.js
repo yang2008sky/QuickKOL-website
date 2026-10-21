@@ -1,5 +1,6 @@
 import englishCatalog from "./locales/en.json";
 import chineseCatalog from "./locales/zh-CN.json";
+import { localizedPath, pathLocale, routePath } from './localized-paths.js';
 
 export const languages = [
   { code: "en", label: "English", shortLabel: "EN" },
@@ -173,6 +174,17 @@ export function applyTranslations(root = document.body) {
       textSources.set(element, next);
       if (element.content !== next.output) element.content = next.output;
     }
+  }
+  for (const link of document.querySelectorAll('a[href^="/"]')) {
+    const href = link.getAttribute('href');
+    if (href.startsWith('//')) continue;
+    const base = routePath(href);
+    if (!/^\/(?:$|[?#]|blog(?:\/|$)|tools\/|pricing(?:\/|$)|about(?:\/|$)|contact(?:\/|$)|faq(?:\/|$)|(?:privacy|terms)\.html(?:[?#]|$))/.test(base)) continue;
+    const language = link.dataset.languageOption || pathLocale(window.location.pathname);
+    const target = link.dataset.languageOption
+      ? localizedPath(window.location.pathname, language) + window.location.search + window.location.hash
+      : localizedPath(href, language);
+    if (href !== target) link.setAttribute('href', target);
   }
   observer?.observe(document.documentElement, { subtree: true, childList: true, characterData: true, attributes: true, attributeFilter: [...translatedAttributes, "content"] });
 }

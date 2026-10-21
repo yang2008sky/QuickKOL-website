@@ -1,0 +1,80 @@
+export const p = (zh, en) => [zh, en];
+export const s = (zhTitle, enTitle, zh, en, citations = []) => [p(zhTitle, enTitle), p(zh, en), citations];
+const source = (id, term, zh, en, url) => ({ id, terms: p(term, term), label: p(zh, en), url });
+export const evidence = {
+  iab: source('semIab', 'IAB', 'IAB：2025 美国创作者广告支出研究', 'IAB: 2025 US creator advertising expenditure study', 'https://www.iab.com/news/creator-economy-ad-spend-to-reach-37-billion-in-2025-growing-4x-faster-than-total-media-industry-according-to-iab/'),
+  ftc: source('semFtc', 'FTC', 'FTC：社交媒体推荐披露指南', 'FTC: Disclosures 101 for social media influencers', 'https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers'),
+  endorsements: source('semEndorsements', 'FTC', 'FTC：推荐指南问答', 'FTC: Endorsement Guides questions and answers', 'https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking'),
+  health: source('semHealth', 'FTC', 'FTC：健康产品广告声明依据', 'FTC: Health Products Compliance Guidance', 'https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance'),
+  filters: source('semFilters', 'Modash', 'Modash：搜索筛选条件', 'Modash: Search filters', 'https://help.modash.io/en/articles/5688853-find-the-perfect-match-using-search-filters'),
+  fraud: source('semFraud', 'Modash', 'Modash：假粉估算方法与限制', 'Modash: Audience quality methodology and limitations', 'https://help.modash.io/en/articles/5649607-fake-followers-101-understanding-audience-quality'),
+  er: source('semEr', 'Modash', 'Modash：各平台互动率口径', 'Modash: Platform-specific engagement formulas', 'https://help.modash.io/en/articles/6542471-understanding-engagement-rate-and-how-modash-calculates-it'),
+  modash: source('semModash', 'Modash', 'Modash：品牌平台官方产品说明', 'Modash: Official brand platform overview', 'https://www.modash.io/'),
+  aspire: source('semAspire', 'Aspire', 'Aspire：品牌创作者营销工作流', 'Aspire: Brand creator marketing workflows', 'https://www.aspire.io/'),
+  collabstr: source('semCollabstr', 'Collabstr', 'Collabstr：创作者市场与合作管理', 'Collabstr: Creator marketplace and collaboration management', 'https://collabstr.com/'),
+  tiktok: source('semTiktok', 'TikTok One', 'TikTok：TikTok One 广告主说明', 'TikTok: TikTok One for advertisers', 'https://ads.tiktok.com/resources/help/article/about-tiktok-one?lang=en'),
+  youtube: source('semYoutube', 'YouTube', 'YouTube：Advanced Mode 数据比较与导出', 'YouTube: Advanced Mode comparison and export', 'https://support.google.com/youtube/answer/9717005?hl=en'),
+  youtubeAds: source('semYoutubeAds', 'YouTube', 'YouTube：嵌入式赞助政策', 'YouTube: Embedded sponsorship policy', 'https://support.google.com/youtube/answer/3364658?hl=en'),
+  utm: source('semUtm', 'Google Analytics', 'Google Analytics：Campaign URL 参数', 'Google Analytics: Campaign URL parameters', 'https://support.google.com/analytics/answer/10917952?hl=en'),
+  attribution: source('semAttribution', 'Google Analytics', 'Google Analytics：归因模型说明', 'Google Analytics: Attribution models', 'https://support.google.com/analytics/answer/10596866?hl=en'),
+  transactions: source('semTransactions', 'Google Analytics', 'Google Analytics：使用交易 ID 去重', 'Google Analytics: Transaction-ID deduplication', 'https://support.google.com/analytics/answer/12313109?hl=en'),
+  singapore: source('semSingapore', 'ASAS', 'ASAS：新加坡广告规范与社交媒体指南', 'ASAS: Singapore advertising code and social media guidelines', 'https://asas.org.sg/about/code'),
+  caroline: source('semCaroline', 'Caroline Girvan', 'Caroline Girvan：训练内容与项目', 'Caroline Girvan: Training content and programs', 'https://carolinegirvan.com/'),
+  jeff: source('semJeff', 'Jeff Nippard', 'Jeff Nippard：力量训练内容', 'Jeff Nippard: Strength training content', 'https://jeffnippard.com/'),
+  hybrid: source('semHybrid', 'Hybrid Calisthenics', 'Hybrid Calisthenics：动作与训练体系', 'Hybrid Calisthenics: Movement and training content', 'https://www.hybridcalisthenics.com/'),
+  adriene: source('semAdriene', 'Yoga with Adriene', 'Yoga with Adriene：瑜伽内容', 'Yoga with Adriene: Yoga content', 'https://yogawithadriene.com/'),
+  lisa: source('semLisa', 'Lisa Eldridge', 'Lisa Eldridge：专业彩妆与内容', 'Lisa Eldridge: Makeup and editorial work', 'https://www.lisaeldridge.com/'),
+  jackie: source('semJackie', 'Jackie Aina', 'Jackie Aina：美妆内容', 'Jackie Aina: Beauty content', 'https://jackieaina.com/'),
+  lab: source('semLab', 'Lab Muffin', 'Lab Muffin：美妆科学内容', 'Lab Muffin: Beauty science content', 'https://labmuffin.com/'),
+  ieat: source('semIeat', 'ieatishootipost', 'ieatishootipost：新加坡饮食内容', 'ieatishootipost: Singapore food coverage', 'https://ieatishootipost.sg/'),
+  seth: source('semSeth', 'SETHLUI', 'SETHLUI：饮食媒体与商务入口', 'SETHLUI: Food publication and business information', 'https://sethlui.com/'),
+  tam: source('semTam', 'Miss Tam Chiak', 'Miss Tam Chiak：美食指南与广告入口', 'Miss Tam Chiak: Food guides and advertising information', 'https://www.misstamchiak.com/'),
+  daniel: source('semDaniel', 'DanielFoodDiary', 'DanielFoodDiary：新加坡分区饮食指南', 'DanielFoodDiary: Singapore food guides', 'https://danielfooddiary.com/'),
+  rick: source('semRick', 'Rick Shiels', 'Rick Shiels：高尔夫视频', 'Rick Shiels: Golf video formats', 'https://www.rickshiels.com/'),
+  nlu: source('semNlu', 'No Laying Up', 'No Laying Up：视频、播客与社区', 'No Laying Up: Video, podcasts and community', 'https://nolayingup.com/'),
+  good: source('semGood', 'Good Good', 'Good Good：高尔夫品牌与内容生态', 'Good Good: Golf brand and content ecosystem', 'https://goodgoodgolf.com/'),
+  sorry: source('semSorry', 'The Sorry Girls', 'The Sorry Girls：DIY 与家居项目', 'The Sorry Girls: DIY and home projects', 'https://www.thesorrygirls.com/'),
+  alex: source('semAlex', 'Alexandra Gater', 'Alexandra Gater：家居改造与设计', 'Alexandra Gater: Home makeovers and design', 'https://alexandragater.com/'),
+  lone: source('semLone', 'Lone Fox', 'Lone Fox：Drew 的家居项目与商品', 'Lone Fox: Home projects and products', 'https://lonefox.com/'),
+  mark: source('semMark', 'Markiplier', 'Markiplier：官方 YouTube 频道', 'Markiplier: Official YouTube channel', 'https://www.youtube.com/@markiplier'),
+  dan: source('semDan', 'DanTDM', 'DanTDM：官方 YouTube 频道', 'DanTDM: Official YouTube channel', 'https://www.youtube.com/@DanTDM'),
+  jack: source('semJack', 'jacksepticeye', 'jacksepticeye：官方 YouTube 频道', 'jacksepticeye: Official YouTube channel', 'https://www.youtube.com/@jacksepticeye'),
+  chris: source('semChris', 'ChrisFix', 'ChrisFix：汽车 DIY 内容', 'ChrisFix: Automotive DIY content', 'https://www.chris-fix.com/'),
+  throttle: source('semThrottle', 'Throttle House', 'Throttle House：汽车视频与赛道内容', 'Throttle House: Automotive videos and track content', 'https://www.thethrottlehouse.com/'),
+  engineering: source('semEngineering', 'Engineering Explained', 'Engineering Explained：官方频道', 'Engineering Explained: Official YouTube channel', 'https://www.youtube.com/@EngineeringExplained'),
+  smitten: source('semSmitten', 'Smitten Kitchen', 'Smitten Kitchen：作者背景与不接赞助政策', 'Smitten Kitchen: Author and no-sponsored-endorsement policy', 'https://smittenkitchen.com/about/'),
+  nami: source('semNami', 'Just One Cookbook', 'Just One Cookbook：Nami 与编辑团队', 'Just One Cookbook: Nami and editorial team', 'https://www.justonecookbook.com/about/'),
+  nagi: source('semNagi', 'RecipeTin Eats', 'RecipeTin Eats：Nagi 与食谱项目', 'RecipeTin Eats: Nagi and recipe publishing', 'https://www.recipetineats.com/nagi-recipetin-eats/'),
+};
+
+export const link = (zh, en, slug, hash = 'answer') => ({ terms: p(zh, en), url: `/blog/${slug}/#${hash}` });
+export function article(post) {
+  return {
+    date: '2026-10-21', updatedDate: '2026-10-21',
+    tags: {
+      discovery: ['CreatorStrategy', 'CreatorDiscovery'],
+      analytics: ['CreatorAnalytics', 'Measurement'],
+      campaign: ['CreatorOperations', 'CampaignPlanning'],
+      outreach: ['CreatorOutreach', 'CreatorOperations'],
+      commercial: ['PlatformSelection', 'CreatorStrategy'],
+    }[post.topic],
+    cover: `semrush-${String(post.number).padStart(2, '0')}.jpg`,
+    ...post,
+    sources: post.sources.map(key => evidence[key]),
+    table: {
+      title: post.tableTitle, headers: post.headers,
+      rows: post.rows, note: post.tableNote || p('以下为编辑分析或明确标注的假设算例，不是表现排名、报价或效果保证。', 'Editorial analysis and labeled hypothetical examples, not performance rankings, quotes or guarantees.'),
+    },
+    tool: post.tool || {
+      kind: 'reference-list', title: p('开始执行前确认', 'Before you put this into practice'),
+      intro: p('把以下答案写入本次项目记录。', 'Record the answers in the campaign working file.'),
+      items: post.checklist,
+    },
+    deepDive: [{ heading: p('研究依据、日期与边界', 'Research date, evidence and limitations'), body: post.researchNote, citations: [] }],
+    cta: {
+      title: p('把这次品牌需求变成达人搜索与外联起点', 'Turn your brand brief into a creator search'),
+      body: p('用 QuickKOL 整理 Brief、发现相关达人、理解内容并准备个性化外联；受众数据、合作条件与结果仍需按来源核验。', 'Use QuickKOL for brief interpretation, creator discovery, content understanding and personalized outreach preparation. Verify audience evidence, commercial terms and outcomes at their source.'),
+      label: p('注册 QuickKOL', 'Start with QuickKOL'), href: 'https://app.quickkol.com/en/login',
+    },
+  };
+}

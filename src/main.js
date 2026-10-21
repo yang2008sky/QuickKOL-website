@@ -1,17 +1,17 @@
 import "./styles.css";
+import { routePath, pathLocale, localizedPath } from "./localized-paths.js";
 import { initSeo } from "./seo.js";
 import { renderCreatorShowcase, mountCreatorShowcase } from "./creator-showcase.js";
 import { createCampaignWorkflow } from "./campaign-workflow.js";
 import { renderCapabilityDemo, mountCapabilityDemo, capabilityPlaybackDuration } from "./capability-demos.js";
 import { mountHeroParticles } from "./hero-particles.js";
-import { initI18n, setPageLocale, languages, resolveLocale, localizeText, isLocaleAvailable, loadLocale } from "./i18n.js";
+import { initI18n, setPageLocale, languages, resolveLocale, localizeText, isLocaleAvailable, loadLocale, applyTranslations } from "./i18n.js";
 import "@phosphor-icons/web/regular";
 
 const savedTheme = window.localStorage.getItem("quickkol-theme");
 document.documentElement.dataset.theme = savedTheme === "dark" ? "dark" : "light";
 
-const savedLanguage = window.localStorage.getItem("quickkol-language");
-let currentLanguage = resolveLocale(savedLanguage);
+let currentLanguage = pathLocale(window.location.pathname);
 await loadLocale(currentLanguage);
 document.documentElement.lang = currentLanguage;
 
@@ -211,21 +211,33 @@ const footerAiLinks = {
   gemini: `https://gemini.google.com/app?prompt=${encodedFooterAiQuestion}`,
 };
 
-const renderLanguageOptions = () => languages.map((language) => `
-  <button class="language-option ${language.code === currentLanguage ? "is-active" : ""}" type="button" role="option" data-language-option="${language.code}" aria-selected="${language.code === currentLanguage}" ${isLocaleAvailable(language.code) ? "" : "disabled"}>
+const renderLanguageOptions = () => languages.map((language) => {
+  const linked = language.code === 'en' || language.code === 'zh-CN';
+  const tag = linked ? 'a' : 'button';
+  const target = localizedPath(window.location.pathname, language.code) + window.location.search + window.location.hash;
+  return `
+  <${tag} class="language-option ${language.code === currentLanguage ? "is-active" : ""}" ${linked ? `href="${target.replace(/&/g, '&amp;').replace(/"/g, '&quot;')}"` : 'type="button"'} role="option" data-language-option="${language.code}" aria-selected="${language.code === currentLanguage}" ${isLocaleAvailable(language.code) ? "" : "disabled"}>
     <span data-i18n-ignore>${language.label}</span>
-  </button>
-`).join("");
+  </${tag}>
+`;
+}).join("");
 
-const isBlogPage = /^\/blog(?:\/|$)/.test(window.location.pathname);
-const isPricingPage = /^\/pricing\/?$/.test(window.location.pathname);
-const isAboutPage = /^\/about\/?$/.test(window.location.pathname);
-const isContactPage = /^\/contact\/?$/.test(window.location.pathname);
-const isFaqPage = /^\/faq\/?$/.test(window.location.pathname);
-const isCampaignCalculatorPage = /^\/tools\/influencer-campaign-cost-calculator\/?$/.test(window.location.pathname);
-const isRateCalculatorPage = /^\/tools\/creator-rate-calculator\/?$/.test(window.location.pathname);
-const isInvoiceGeneratorPage = /^\/tools\/invoice-generator\/?$/.test(window.location.pathname);
-const legalPageType = window.location.pathname === "/terms.html" ? "terms" : window.location.pathname === "/privacy.html" ? "privacy" : null;
+// Let Chinese/English links navigate normally, before individual page menu handlers run.
+document.addEventListener('click', (event) => {
+  if (event.target.closest('a[data-language-option]')) event.stopImmediatePropagation();
+}, { capture: true });
+
+const pathname = routePath(window.location.pathname);
+
+const isBlogPage = /^\/blog(?:\/|$)/.test(pathname);
+const isPricingPage = /^\/pricing\/?$/.test(pathname);
+const isAboutPage = /^\/about\/?$/.test(pathname);
+const isContactPage = /^\/contact\/?$/.test(pathname);
+const isFaqPage = /^\/faq\/?$/.test(pathname);
+const isCampaignCalculatorPage = /^\/tools\/influencer-campaign-cost-calculator\/?$/.test(pathname);
+const isRateCalculatorPage = /^\/tools\/creator-rate-calculator\/?$/.test(pathname);
+const isInvoiceGeneratorPage = /^\/tools\/invoice-generator\/?$/.test(pathname);
+const legalPageType = pathname === "/terms.html" ? "terms" : pathname === "/privacy.html" ? "privacy" : null;
 const siteMarkup = `
   <a class="skip-link" href="#main">跳到主要内容</a>
   <div class="scroll-progress" aria-hidden="true"><span data-scroll-progress></span></div>
@@ -1141,4 +1153,5 @@ updateScrollEffects();
 
 }
 
+applyTranslations();
 initSeo();

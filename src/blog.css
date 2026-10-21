@@ -218,6 +218,10 @@ html[lang^='zh'] .blog-page .mobile-menu-button::before { content: '菜单'; }
 .blog-toc a:hover { border-color: #1f72e7; color: #1f72e7; }
 .blog-article-content { min-width: 0; }
 .blog-article-cover { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 14px; }
+.blog-cover-credit, .blog-inline-figure figcaption { color: #66645f; font-size: 13px; line-height: 1.6; }
+.blog-inline-figure { margin: 32px 0; }
+.blog-inline-figure img { display: block; width: 100%; height: auto; border-radius: 10px; }
+.blog-inline-figure figcaption { margin-top: 10px; }
 .blog-answer { margin: 34px 0 52px; padding: 30px 34px 32px; scroll-margin-top: 28px; border: 1px solid #c9dcf6; border-radius: 16px; background: #f7faff; box-shadow: 0 12px 28px rgba(31, 114, 231, .045); }
 .blog-answer .blog-answer-label { margin: 0 0 17px; color: #176bdc; font-family: Inter, Arial, sans-serif; font-size: 10px; font-weight: 800; line-height: 1.4; letter-spacing: .13em; text-transform: uppercase; }
 .blog-answer p:not(.blog-answer-label) { max-width: 34em; margin: 0 0 22px; color: #272722; font-family: Georgia, 'Times New Roman', serif; font-size: 21px; font-weight: 400; line-height: 1.62; letter-spacing: -.016em; }

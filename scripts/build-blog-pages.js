@@ -7,11 +7,14 @@ import { growthBlogPosts } from '../src/blog-growth-posts.js';
 import { platformBlogPosts } from '../src/blog-platform-posts.js';
 import { microBlogPosts } from '../src/blog-micro-posts.js';
 import { programBlogPosts } from '../src/blog-program-posts.js';
-import { renderSeoTags, siteOrigin } from '../src/seo.js';
+import { toolBlogPosts } from '../src/blog-tool-posts.js';
+import { semrushBlogPosts } from '../src/blog-semrush-posts.js';
+import { renderSeoTags, siteOrigin, articleShareImage } from '../src/seo.js';
+import { localizedPath } from '../src/localized-paths.js';
 import { createPrerenderer } from './prerender.js';
 import { BLOG_PAGE_SIZE, blogPagePath } from '../src/blog-pagination.js';
 
-const blogPosts = [...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts];
+const blogPosts = [...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts];
 
 // Emit real HTML entry points so static hosts do not need SPA fallback rules.
 const html = await readFile(new URL('../dist/index.html', import.meta.url), 'utf8');
@@ -38,9 +41,13 @@ const pages = [
     path: blogPagePath(index + 2).slice(1, -1),
     title: 'QuickKOL Blog — 达人营销洞察与实战指南', description: '探索达人发现、数据洞察、个性化外联与 AI 营销的实战指南。',
   })),
-  ...blogPosts.map((post) => ({ path: `blog/${post.slug}`, title: `${post.title[0]} | QuickKOL Blog`, description: post.metaDescription[0], type: 'article', ...(!post.cover.endsWith('.svg') ? { image: `/assets/blog/${post.cover}`, imageAlt: post.coverAlt[0] } : {}) })),
+  ...blogPosts.map((post) => ({ path: `blog/${post.slug}`, title: `${post.title[0]} | QuickKOL Blog`, description: post.metaDescription[0], type: 'article', image: articleShareImage(`/assets/blog/${post.cover}`), imageAlt: post.coverAlt[0] })),
 ];
-for (const page of pages) {
+const localizedPages = pages.flatMap((page) => {
+  const english = localizedPath(`/${page.path}/`, 'en').slice(1, -1);
+  return english === page.path ? [page] : [page, { ...page, path: english }];
+});
+for (const page of localizedPages) {
   const dir = new URL(`../dist/${page.path}/`, import.meta.url);
   await mkdir(dir, { recursive: true });
   await writeFile(new URL('index.html', dir), await prerender(pageHtml(html, page), `/${page.path}/`));
@@ -49,15 +56,20 @@ for (const filename of ['index.html', 'terms.html', 'privacy.html']) {
   const file = new URL(`../dist/${filename}`, import.meta.url);
   const source = await readFile(file, 'utf8');
   const path = filename === 'index.html' ? '/' : `/${filename}`;
-  await writeFile(file, await prerender(pageHtml(source, {
-    path: filename === 'index.html' ? '/' : `/${filename}`,
-    title: source.match(/<title>([^<]*)<\/title>/)[1],
-    description: source.match(/<meta name="description" content="([^"]*)"/)[1],
-  }), path));
+  await mkdir(new URL('../dist/en/', import.meta.url), { recursive: true });
+  for (const language of ['zh-CN', 'en']) {
+    const target = localizedPath(path, language);
+    const output = new URL(`../dist${target.endsWith('/') ? `${target}index.html` : target}`, import.meta.url);
+    await writeFile(output, await prerender(pageHtml(source, {
+      path: target,
+      title: source.match(/<title>([^<]*)<\/title>/)[1],
+      description: source.match(/<meta name="description" content="([^"]*)"/)[1],
+    }), target));
+  }
 }
-console.log(`Generated ${pages.length} FAQ, contact, about, pricing and blog entry points.`);
+console.log(`Generated ${localizedPages.length + 6} Chinese/English site, tool and blog entry points.`);
 
-const sitemapPaths = ['/', '/terms.html', '/privacy.html', ...pages.map((page) => `/${page.path}/`)];
+const sitemapPaths = ['/', '/terms.html', '/privacy.html', '/en/', '/en/terms.html', '/en/privacy.html', ...localizedPages.map((page) => `/${page.path}/`)];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${sitemapPaths.map((path) => `  <url><loc>${escapeHtml(new URL(path, siteOrigin).href)}</loc></url>`).join('\n')}

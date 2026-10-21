@@ -7,15 +7,24 @@ npm install
 npm run dev
 ```
 
-The page defaults to Chinese and includes a language switcher.
+Chinese pages keep their existing URLs. English pages use `/en/`, including
+the homepage, pricing, tools and every blog article. Chinese/English language
+links navigate to the matching URL; other languages remain interactive previews.
+The URL determines the initial language, regardless of a saved preference.
 
 ## Static HTML and GEO
 
 `npm run build` uses the existing page renderers to generate complete HTML for
 every sitemap URL, including route styles, headings, canonical/social metadata,
 and Organization, WebSite, WebPage/FAQPage structured data. Articles include
-their existing team attribution, publication dates, and source citations.
+Daniel Craig attribution, publication dates, and source citations.
 The client scripts still provide language switching and interactive tools.
+Every translated page has its own canonical and reciprocal hreflang links.
+The English-only invoice editor keeps its existing URL. SVG blog covers are
+exported to JPEG share images during the build; do not edit those generated files.
+Vercel runs `middleware.js` to redirect legacy pagination and URL aliases with 308
+responses, preserving other query parameters. Vite preview serves static output
+only and does not execute this deployment middleware.
 `public/llms.txt` lists the canonical product, support, guide, and tool pages.
 
 After building, run `node --test tests/*.test.js` to verify the calculations,

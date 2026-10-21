@@ -69,6 +69,14 @@ export function mountAbout(initialLocale) {
         ].map(([zh, en, detailZh, detailEn], index) => `<article><span class="about-value-number">0${index + 1}</span><h3>${copy(zh, en)}</h3><p>${copy(detailZh, detailEn)}</p></article>`).join('')}</div>
       </section>
 
+      <section class="about-origin about-wrap" id="daniel-craig" aria-labelledby="author-title">
+        <div class="about-section-label"><p class="about-kicker">BLOG AUTHOR</p><h2 id="author-title">Daniel Craig</h2></div>
+        <div class="about-origin-copy">
+          <p>${copy('Daniel Craig 是 QuickKOL Blog 的作者，撰写达人发现、数据分析、外联与 Campaign 管理相关内容。', 'Daniel Craig writes the QuickKOL Blog, covering creator discovery, analytics, outreach and campaign management.')}</p>
+          <p>${copy('文章在资料来源区域列出参考链接，并将计算示例、规划假设与真实观测区分说明。有关文章内容或更正建议，请联系 support@quickkol.com。', 'Articles link to references in their sources section and distinguish worked examples and planning assumptions from observations. For questions or corrections, contact support@quickkol.com.')}</p>
+        </div>
+      </section>
+
       <section class="about-cta" aria-labelledby="about-cta-title"><p class="about-kicker">BUILT BY MARKETERS, FOR MARKETERS</p><h2 id="about-cta-title">${copy('让下一次达人合作，<br>从更轻松的开始出发。', 'A simpler start.<br>Your next creator campaign.')}</h2><p>${copy('带上你的 Brief，和 QuickKOL 一起试试新的工作方式。', 'Bring your brief. Explore a new way to work with QuickKOL.')}</p><div class="about-cta-actions"><a class="button" href="${workspaceUrl}">${copy('免费开始', 'Start free')} ${arrow}</a><a class="button about-cta-secondary" href="/#agent-team"><i class="ph ph-play-circle" aria-hidden="true"></i>${copy('先体验 Agent', 'Try Agent first')}</a></div></section>
     `;
     document.title = copy('关于 QuickKOL — 从达人营销实战，到 AI 工作流', 'About QuickKOL — From creator marketing to an AI workflow');

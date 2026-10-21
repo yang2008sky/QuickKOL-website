@@ -1,7 +1,13 @@
+import { languageAlternates, routePath } from './localized-paths.js';
+
 export const siteOrigin = 'https://www.quickkol.com';
 
 const shareImage = '/assets/blog/workflow.jpg';
 const shareImageAlt = 'A creator and production team making product content together';
+
+export function articleShareImage(image) {
+  return image.endsWith('.svg') ? image.replace(/\/([^/]+)\.svg$/, '/share/$1.jpg') : image;
+}
 
 export function canonicalUrl(path) {
   const url = new URL(path, siteOrigin);
@@ -43,10 +49,11 @@ export function pageStructuredData({ path, title, description, language, questio
     '@context': 'https://schema.org',
     '@graph': [
       { '@type': 'Organization', '@id': organization, name: 'QuickKOL', url: siteOrigin,
-        logo: `${siteOrigin}/assets/quickkol-logo.svg`, email: 'support@quickkol.com' },
+        logo: `${siteOrigin}/assets/quickkol-logo.svg`, email: 'support@quickkol.com',
+        contactPoint: { '@type': 'ContactPoint', email: 'support@quickkol.com', contactType: 'customer support', url: `${siteOrigin}/contact/` } },
       { '@type': 'WebSite', '@id': website, name: 'QuickKOL', url: siteOrigin,
         publisher: { '@id': organization } },
-      { '@type': questions.length ? 'FAQPage' : path.startsWith('/about') ? 'AboutPage' : path.startsWith('/contact') ? 'ContactPage' : 'WebPage',
+      { '@type': questions.length ? 'FAQPage' : routePath(path).startsWith('/about') ? 'AboutPage' : routePath(path).startsWith('/contact') ? 'ContactPage' : 'WebPage',
         '@id': `${url}#webpage`, url, name: title, description, inLanguage: language,
         isPartOf: { '@id': website }, author: { '@id': organization }, publisher: { '@id': organization },
         ...(dateModified ? { dateModified } : {}),
@@ -70,14 +77,22 @@ export function initSeo() {
     }
     const url = canonicalUrl(window.location.pathname);
     if (canonical.href !== url) canonical.href = url;
+    const alternates = languageAlternates(new URL(url).pathname);
+    for (const link of document.querySelectorAll('link[rel="alternate"][hreflang]')) link.remove();
+    for (const alternate of alternates) {
+      const link = document.createElement('link');
+      link.rel = 'alternate';
+      link.hreflang = alternate.language;
+      link.href = canonicalUrl(alternate.path);
+      document.head.append(link);
+    }
     const cover = document.querySelector('.blog-article-cover');
-    const useCover = cover && !cover.getAttribute('src').endsWith('.svg');
     const metadata = socialMetadata({
       path: window.location.pathname,
       title: document.title,
       description: document.querySelector('meta[name="description"]').content,
-      image: useCover ? cover.getAttribute('src') : shareImage,
-      imageAlt: useCover ? cover.alt : shareImageAlt,
+      image: cover ? articleShareImage(cover.getAttribute('src')) : shareImage,
+      imageAlt: cover ? cover.alt : shareImageAlt,
       type: cover ? 'article' : 'website',
     });
     for (const [key, value] of Object.entries(metadata)) {

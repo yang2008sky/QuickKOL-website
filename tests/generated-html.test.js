@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import test from 'node:test';
 import { access, readFile } from 'node:fs/promises';
 import { Window } from 'happy-dom';
+import { routePath } from '../src/localized-paths.js';
 
 // Run after npm run build: parse the files without executing any page JavaScript.
 test('every sitemap page ships readable, styled content and canonical metadata', async () => {
@@ -29,7 +30,7 @@ test('every sitemap page ships readable, styled content and canonical metadata',
       assert.equal(document.querySelectorAll('meta[property^="og:"], meta[name^="twitter:"]').length, 12, path);
       assert.equal(document.querySelectorAll('img:not([alt]), img[alt=""]').length, 0, path);
       for (const link of document.querySelectorAll('link[rel="stylesheet"]')) await access(`dist${link.getAttribute('href')}`);
-      if (path !== '/') assert.ok(document.querySelectorAll('link[rel="stylesheet"]').length > 1, path);
+      if (routePath(path) !== '/') assert.ok(document.querySelectorAll('link[rel="stylesheet"]').length > 1, path);
       let previous = 0;
       for (const heading of document.querySelectorAll('main h1, main h2, main h3, main h4, main h5, main h6')) {
         const level = Number(heading.tagName[1]);
@@ -63,5 +64,5 @@ test('every sitemap page ships readable, styled content and canonical metadata',
       await window.happyDOM.close();
     }
   }
-  assert.ok((await readFile('dist/llms.txt', 'utf8')).includes('https://www.quickkol.com/blog/'));
+  assert.ok((await readFile('dist/llms.txt', 'utf8')).includes('https://www.quickkol.com/en/blog/'));
 });
