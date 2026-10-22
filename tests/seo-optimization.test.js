@@ -57,8 +57,8 @@ test('English invoice content and page schema declare English', async () => {
   });
 });
 
-test('homepage ships all four capability explanations without JavaScript', async () => {
-  await withPage('/', (document) => {
+test('Chinese homepage ships all four capability explanations without JavaScript', async () => {
+  await withPage('/zh/', (document) => {
     const titles = [
       '更快找到真正合适的达人',
       '把内容与受众数据变成判断',

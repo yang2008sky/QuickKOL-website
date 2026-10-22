@@ -1,15 +1,15 @@
 export function routePath(path) {
-  return path.replace(/^\/en(?=\/|$)/, '') || '/';
+  return path.replace(/^\/(?:en|zh)(?=\/|$)/, '') || '/';
 }
 
 export function pathLocale(path) {
-  return /^\/en(?:\/|$)/.test(path) ? 'en' : 'zh-CN';
+  return /^\/zh(?:\/|$)/.test(path) ? 'zh-CN' : 'en';
 }
 
 export function localizedPath(path, language) {
   const base = routePath(path);
   if (base.split(/[?#]/)[0] === '/tools/invoice-generator/') return base;
-  return language === 'en' ? `/en${base}` : base;
+  return language === 'zh-CN' ? `/zh${base}` : base;
 }
 
 export function languageAlternates(path) {
@@ -18,6 +18,6 @@ export function languageAlternates(path) {
   return [
     { language: 'zh-CN', path: localizedPath(path, 'zh-CN') },
     { language: 'en', path: localizedPath(path, 'en') },
-    { language: 'x-default', path: localizedPath(path, 'zh-CN') },
+    { language: 'x-default', path: localizedPath(path, 'en') },
   ];
 }

@@ -40,7 +40,7 @@ for(const post of posts){
  const cover=await sharp(fileURLToPath(new URL(`../public/assets/blog/${post.cover}`,import.meta.url))).metadata();
  assert.equal(cover.width,1672);assert.equal(cover.height,941);assert.equal(cover.space,'srgb');assert.equal(cover.format,'jpeg');
  const locales=[];
- for(const [prefix,language,index] of [['','zh-CN',0],['/en','en',1]]){
+ for(const [prefix,language,index] of [['/zh','zh-CN',0],['','en',1]]){
   const path=`${prefix}/blog/${post.slug}/`;
   const window=new Window();
   try {
@@ -65,7 +65,7 @@ for(const post of posts){
      try{ targetWindow.document.write(await readFile(file,'utf8'));assert.ok(targetWindow.document.getElementById(target.hash.slice(1)),`${path}: broken fragment ${a.getAttribute('href')}`); }
      finally{await targetWindow.happyDOM.close();}
     }
-    if(prefix&&a.closest('main'))assert.ok(target.pathname.startsWith('/en/'),`${path}: unlocalized internal link`);
+    if(a.closest('main'))assert.equal(target.pathname.startsWith('/zh/'),language==='zh-CN',`${path}: unlocalized internal link`);
    }
    for(const image of d.querySelectorAll('.blog-article-content img')){
     assert.ok(image.alt,path);await access(`dist${image.getAttribute('src')}`);
@@ -80,10 +80,10 @@ for(const post of posts){
  report.push({number:post.number,keyword:post.primaryKeyword,slug:post.slug,angle:post.title[1],englishProseWords:words,chineseProseCharacters:[post.answer[0],...post.sections.map(s=>s[1][0])].join('').length,sources:post.sources.map(s=>s.url),cover:{file:post.cover,width:cover.width,height:cover.height,space:cover.space},locales});
 }
 await writeFile(new URL('content-audit.json',directory),JSON.stringify({checkedAt:new Date().toISOString(),articles:report.length,localizedPages:report.length*2,englishProseRange:[Math.min(...report.map(x=>x.englishProseWords)),Math.max(...report.map(x=>x.englishProseWords))],checks:'Unique slugs, body length, bilingual pairs, topics, citations, contextual links and targets, localization, static metadata, image dimensions, table rows, inline figures and cover family rhythm',limitations:'Source facts received editorial review; this structural audit does not independently validate vendor claims or external-page availability.',posts:report},null,2)+'\n');
-const markdown=`# QuickKOL：30 个关键词 / 30 篇独立双语文章\n\n本地预览：http://127.0.0.1:4173/en/blog/\n\n每篇保留独立角度；以下为本批次索引，线上 URL 在部署后才生效。\n\n| # | 关键词 | 文章角度 | 英文正文词数 | 本地预览 |\n|---|---|---|---:|---|\n${report.map(p=>`| ${p.number} | ${p.keyword} | ${p.angle} | ${p.englishProseWords} | [English](http://127.0.0.1:4173/en/blog/${p.slug}/) / [中文](http://127.0.0.1:4173/blog/${p.slug}/) |`).join('\n')}\n\n## 使用与边界\n\n- 英文正文达到内容 skill 的 1,000–2,000 词目标；正文计数不含导航、表格和 CTA。\n- 数据按来源、时间与口径说明；预算、访问和订单算例均为明确标注的假设，不是客户案例。\n- 具名名单是内容研究入口，不是当前粉丝或转化排名。商业意愿、报价和私有受众需另外确认。\n- 30 张独立封面：9 张内置 imagegen 场景图，21 张确定性排版与数据图，全部导出为 1672 × 941 sRGB JPEG。\n- 2 个可交互互动率计算器，4 篇配有正文解释图，所有文章都有情境内链、外链、表格与执行清单。\n- 已完成本地接入与检查，未替本批内容执行 Git push 或线上部署。\n`;
+const markdown=`# QuickKOL：30 个关键词 / 30 篇独立双语文章\n\n本地预览：http://127.0.0.1:4173/blog/\n\n每篇保留独立角度；以下为本批次索引，线上 URL 在部署后才生效。\n\n| # | 关键词 | 文章角度 | 英文正文词数 | 本地预览 |\n|---|---|---|---:|---|\n${report.map(p=>`| ${p.number} | ${p.keyword} | ${p.angle} | ${p.englishProseWords} | [English](http://127.0.0.1:4173/blog/${p.slug}/) / [中文](http://127.0.0.1:4173/zh/blog/${p.slug}/) |`).join('\n')}\n\n## 使用与边界\n\n- 英文正文达到内容 skill 的 1,000–2,000 词目标；正文计数不含导航、表格和 CTA。\n- 数据按来源、时间与口径说明；预算、访问和订单算例均为明确标注的假设，不是客户案例。\n- 具名名单是内容研究入口，不是当前粉丝或转化排名。商业意愿、报价和私有受众需另外确认。\n- 30 张独立封面：9 张内置 imagegen 场景图，21 张确定性排版与数据图，全部导出为 1672 × 941 sRGB JPEG。\n- 2 个可交互互动率计算器，4 篇配有正文解释图，所有文章都有情境内链、外链、表格与执行清单。\n- 已完成本地接入与检查，未替本批内容执行 Git push 或线上部署。\n`;
 await writeFile(new URL('keyword-map.md',directory),markdown);
 await mkdir(new URL('articles/',directory),{recursive:true});
-for(const post of posts)for(const [i,language,prefix] of [[0,'zh-CN',''],[1,'en','/en']]){
+for(const post of posts)for(const [i,language,prefix] of [[0,'zh-CN','/zh'],[1,'en','']]){
  const pair=value=>value[i];
  const sourceLinks=post.sources.map(source=>`- [${pair(source.label)}](${source.url})`).join('\n');
  const table=[post.table.headers,...post.table.rows].map((row,index)=>`${index===1?'|'+post.table.headers.map(()=>'---').join('|')+'|\n':''}| ${row.map(pair).join(' | ')} |`).join('\n');
@@ -93,7 +93,7 @@ for(const post of posts)for(const [i,language,prefix] of [[0,'zh-CN',''],[1,'en'
  await writeFile(new URL(`articles/${String(post.number).padStart(2,'0')}-${post.slug}.${language}.md`,directory),content);
 }
 const escape=value=>value.replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('"','&quot;');
-const contact=`<!doctype html><html lang="en"><meta charset="utf-8"><title>QuickKOL: 30 cover review</title><style>*{box-sizing:border-box}body{margin:0;padding:32px;background:#f3eee3;color:#18263e;font:16px Arial}h1{font-size:30px;margin:0 0 10px}p{margin:0 0 28px}main{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}figure{margin:0}img{width:100%;display:block;border-radius:8px}figcaption{padding:9px 0 0;font-size:14px;line-height:1.5}small{color:#5b6679}@media(max-width:700px){main{grid-template-columns:1fr}}</style><h1>QuickKOL / 30 independent editorial covers</h1><p>9 generated scenes + 21 typography and data concepts · 1672 × 941 sRGB JPEG</p><main>${posts.map(p=>`<figure><a href="/en/blog/${p.slug}/"><img src="/assets/blog/${p.cover}" alt="${escape(p.coverAlt[1])}"></a><figcaption><b>${p.number}. ${escape(p.primaryKeyword)}</b><br><small>${escape(p.title[1])}</small></figcaption></figure>`).join('')}</main></html>`;
+const contact=`<!doctype html><html lang="en"><meta charset="utf-8"><title>QuickKOL: 30 cover review</title><style>*{box-sizing:border-box}body{margin:0;padding:32px;background:#f3eee3;color:#18263e;font:16px Arial}h1{font-size:30px;margin:0 0 10px}p{margin:0 0 28px}main{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}figure{margin:0}img{width:100%;display:block;border-radius:8px}figcaption{padding:9px 0 0;font-size:14px;line-height:1.5}small{color:#5b6679}@media(max-width:700px){main{grid-template-columns:1fr}}</style><h1>QuickKOL / 30 independent editorial covers</h1><p>9 generated scenes + 21 typography and data concepts · 1672 × 941 sRGB JPEG</p><main>${posts.map(p=>`<figure><a href="/blog/${p.slug}/"><img src="/assets/blog/${p.cover}" alt="${escape(p.coverAlt[1])}"></a><figcaption><b>${p.number}. ${escape(p.primaryKeyword)}</b><br><small>${escape(p.title[1])}</small></figcaption></figure>`).join('')}</main></html>`;
 await writeFile(new URL('cover-review.html',directory),contact);
 await copyFile(new URL('cover-review.html',directory),'dist/cover-review.html');
 console.log(JSON.stringify({articles:report.length,localizedPages:report.length*2,minEnglishWords:Math.min(...report.map(p=>p.englishProseWords)),maxEnglishWords:Math.max(...report.map(p=>p.englishProseWords)),status:'passed'}));

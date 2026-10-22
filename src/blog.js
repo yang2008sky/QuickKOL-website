@@ -12,6 +12,8 @@ import { microBlogPosts } from './blog-micro-posts.js';
 import { programBlogPosts } from './blog-program-posts.js';
 import { toolBlogPosts } from './blog-tool-posts.js';
 import { semrushBlogPosts } from './blog-semrush-posts.js';
+import { semrushBatchTwoPosts } from './blog-semrush-b2-posts.js';
+import { aggregateEngagement, compareEngagement, viewEngagement } from './blog-engagement-math.js';
 import { blogEnhancements } from './blog-enhancements.js';
 import { additionalBlogEnhancements } from './blog-additional-enhancements.js';
 import { seriesBlogEnhancements } from './blog-series-enhancements.js';
@@ -20,7 +22,7 @@ import { growthBlogEnhancements } from './blog-growth-enhancements.js';
 import { initI18n, setPageLocale, localizeCopy, applyTranslations, loadLocale, localizeText } from './i18n.js';
 
 const enhancements = { ...blogEnhancements, ...additionalBlogEnhancements, ...seriesBlogEnhancements, ...expansionBlogEnhancements, ...growthBlogEnhancements };
-const blogPosts = [...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
+const blogPosts = [...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
 const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
 const arrow = '<i class="ph ph-arrow-up-right" aria-hidden="true"></i>';
 
@@ -314,6 +316,26 @@ export function mountBlog(initialLocale) {
     const kind = container.dataset.toolKind;
     const result = container.querySelector('[data-blog-tool-result]');
     const value = (name) => Math.max(0, Number(container.querySelector(`[name="${name}"]`)?.value) || 0);
+    if (['engagement-aggregate', 'engagement-baseline', 'tiktok-engagement'].includes(kind)) {
+      const inputs = [...container.querySelectorAll('input')];
+      if (inputs.some(input => input.value.trim() === '' || !Number.isFinite(Number(input.value)) || Number(input.value) < 0)) {
+        result.innerHTML = `<strong>—</strong><span>${copy('请填写完整、非负的有效数据；未知不是零。', 'Enter complete, valid nonnegative data; unknown is not zero.')}</span>`;
+        return;
+      }
+      const tile = (number, label, suffix = '%') => `<div><strong>${number === null ? '—' : number.toFixed(2) + suffix}</strong><span>${label}</span></div>`;
+      const unavailable = `<strong>—</strong><span>${copy('分母需要大于零，结果不可计算。', 'A denominator must exceed zero; result unavailable.')}</span>`;
+      if (kind === 'engagement-aggregate') {
+        const rates = aggregateEngagement(value('interactionsA'), value('followersA'), value('interactionsB'), value('followersB'));
+        result.innerHTML = rates ? `${tile(rates.rateA, copy('A 比率', 'A rate'))}${tile(rates.rateB, copy('B 比率', 'B rate'))}${tile(rates.mean, copy('逐帖简单均值', 'simple post mean'))}${tile(rates.pooled, copy('合并比率', 'pooled ratio'))}<small>${copy('合并粉丝基数不是去重触达。', 'Pooled follower bases are not deduplicated reach.')}</small>` : unavailable;
+      } else if (kind === 'engagement-baseline') {
+        const rates = compareEngagement(value('sponsoredInteractions'), value('sponsoredFollowers'), value('baselineInteractions'), value('baselineFollowers'));
+        result.innerHTML = rates ? `${tile(rates.sponsoredRate, copy('赞助帖', 'sponsored rate'))}${tile(rates.referenceRate, copy('匹配参考', 'reference rate'))}${tile(rates.points, copy('百分点差', 'percentage-point difference'), ' pp')}${tile(rates.ratio, copy('比率之比', 'rate ratio'), '×')}<small>${copy('描述性对照，不代表因果；零参考率时比率之比不可用。', 'Descriptive, not causal; the ratio is unavailable with a zero reference rate.')}</small>` : unavailable;
+      } else {
+        const computed = viewEngagement(value('likes'), value('comments'), value('shares'), value('saves'), value('views'));
+        result.innerHTML = computed === null ? unavailable : `${tile(computed, copy('动作 / 观看', 'interactions / views'))}<small>${copy('赞＋评论＋分享＋收藏；不代表独立参与人数。', 'Likes + comments + shares + saves; not distinct engaged people.')}</small>`;
+      }
+      return;
+    }
     if (kind === 'pipeline') {
       const target = value('target');
       const response = Math.min(value('response'), 100) / 100;

@@ -1,0 +1,302 @@
+[
+  {
+    "number": 1,
+    "family": "human-action",
+    "method": "independent builtin image generation",
+    "file": "semrush-01.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 2,
+    "family": "typography",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-02.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 3,
+    "family": "solo-portrait",
+    "method": "independent builtin image generation",
+    "file": "semrush-03.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 4,
+    "family": "editorial-collage",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-04.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 5,
+    "family": "solo-portrait",
+    "method": "independent builtin image generation",
+    "file": "semrush-05.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 6,
+    "family": "editorial-collage",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-06.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 7,
+    "family": "data-abstract",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-07.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 8,
+    "family": "typography",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-08.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 9,
+    "family": "editorial-collage",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-09.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 10,
+    "family": "data-abstract",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-10.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 11,
+    "family": "typography",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-11.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 12,
+    "family": "editorial-collage",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-12.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 13,
+    "family": "solo-portrait",
+    "method": "independent builtin image generation",
+    "file": "semrush-13.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 14,
+    "family": "data-abstract",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-14.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 15,
+    "family": "typography",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-15.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 16,
+    "family": "data-abstract",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-16.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 17,
+    "family": "solo-portrait",
+    "method": "independent builtin image generation",
+    "file": "semrush-17.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 18,
+    "family": "solo-portrait",
+    "method": "independent builtin image generation",
+    "file": "semrush-18.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 19,
+    "family": "editorial-collage",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-19.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 20,
+    "family": "typography",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-20.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 21,
+    "family": "data-abstract",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-21.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 22,
+    "family": "editorial-collage",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-22.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 23,
+    "family": "object-environment",
+    "method": "independent builtin image generation",
+    "file": "semrush-23.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 24,
+    "family": "typography",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-24.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 25,
+    "family": "object-environment",
+    "method": "independent builtin image generation",
+    "file": "semrush-25.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 26,
+    "family": "data-abstract",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-26.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 27,
+    "family": "editorial-collage",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-27.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 28,
+    "family": "typography",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-28.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 29,
+    "family": "editorial-collage",
+    "method": "deterministic editorial SVG",
+    "file": "semrush-29.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  },
+  {
+    "number": 30,
+    "family": "solo-portrait",
+    "method": "independent builtin image generation",
+    "file": "semrush-30.jpg",
+    "width": 1672,
+    "height": 941,
+    "colourspace": "srgb",
+    "jpegQuality": 85
+  }
+]

@@ -1,6 +1,12 @@
 export const invoiceCurrencies = ['USD', 'EUR', 'GBP', 'HKD', 'CNY', 'JPY'];
 
 export const escapeInvoiceText = (value) => String(value ?? '').replace(/[&<>"']/g, (character) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[character]));
+export function invoiceFileName(invoice) {
+  const number = invoice.number.trim() || 'Invoice';
+  const po = invoice.po.trim();
+  return `${number}${po ? `_${po}` : ''}`.replace(/[<>:"/\\|?*\u0000-\u001f]/g, '_');
+}
+
 const amount = (value) => Number.isFinite(Number(value)) ? Math.max(0, Number(value)) : 0;
 const round = (value) => Math.round((value + Number.EPSILON) * 100) / 100;
 

@@ -6,7 +6,7 @@ await mkdir(output, { recursive: true });
 const font = 'font-family="Arial, Helvetica, sans-serif"';
 const label = (text, x, y, color = '#2377ee') => `<text x="${x}" y="${y}" fill="${color}" ${font} font-size="17" font-weight="700" letter-spacing="3">${text}</text>`;
 const title = (lines, x, y, color = '#101828', size = 62) => `<text x="${x}" y="${y}" fill="${color}" ${font} font-size="${size}" font-weight="800" letter-spacing="-2">${lines.map((line, index) => `<tspan x="${x}" dy="${index ? size * 1.02 : 0}">${line}</tspan>`).join('')}</text>`;
-const footer = (color = '#667085') => `<text x="60" y="674" fill="${color}" ${font} font-size="14" font-weight="700" letter-spacing="1.5">QUICKKOL STRATEGY TEAM</text>`;
+const footer = (color = '#667085') => `<text x="60" y="674" fill="${color}" ${font} font-size="14" font-weight="700" letter-spacing="1.5">DANIEL CRAIG</text>`;
 const wrap = (background, content, description) => `<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="cover-title cover-desc"><title id="cover-title">QuickKOL editorial cover</title><desc id="cover-desc">${description}</desc><rect width="1280" height="720" fill="${background}"/>${content}</svg>`;
 
 const covers = {

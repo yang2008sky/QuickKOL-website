@@ -2,7 +2,7 @@ import { writeFile } from 'node:fs/promises';
 
 const output = new URL('../public/assets/blog/', import.meta.url);
 const type = (x, y, text, size = 24, fill = '#142541', weight = 700) => `<text x="${x}" y="${y}" font-family="Arial,Helvetica,sans-serif" font-size="${size}" font-weight="${weight}" fill="${fill}">${text}</text>`;
-const cover = (title, background, body, ink = '#142541') => `<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1280 720" role="img"><title>${title}</title><rect width="1280" height="720" fill="${background}"/>${type(62,52,'QUICKKOL / FIELD NOTES',16,ink)}${body}${type(62,675,'QUICKKOL STRATEGY TEAM',14,ink)}</svg>`;
+const cover = (title, background, body, ink = '#142541') => `<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1280 720" role="img"><title>${title}</title><rect width="1280" height="720" fill="${background}"/>${type(62,52,'QUICKKOL / FIELD NOTES',16,ink)}${body}${type(62,675,'DANIEL CRAIG',14,ink)}</svg>`;
 
 const covers = {
   'micro-pilot-budget.svg': cover('Eight creators and a bounded pilot budget', '#247df2', `${type(54,288,'START',104,'#ffffff',900)}${type(54,399,'SMALL.',104,'#ffffff',900)}${type(65,478,'ONE JOB. A COMPLETE BUDGET.',24,'#dceaff')}<g transform="translate(670 70)">${type(0,455,'8',560,'#eef4ff',900)}<rect x="-40" y="475" width="525" height="92" rx="4" fill="#142541"/>${Array.from({length:16},(_,i)=>`<path d="M${-20+i*31} 476v${i%5===0?43:20}" stroke="#8eb7f8" stroke-width="2"/>`).join('')}${type(-12,546,'DEFINE THE PILOT, NOT THE PROMISE.',17,'#ffffff')}</g>`,'#dceaff'),

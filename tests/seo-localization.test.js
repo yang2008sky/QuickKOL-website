@@ -17,13 +17,13 @@ test('translated HTML, language pairs, author identity and share images agree ac
       window.document.write(await readFile(`dist${path.endsWith('/') ? `${path}index.html` : path}`, 'utf8'));
       const document = window.document;
       const invoice = path === '/tools/invoice-generator/';
-      const english = path.startsWith('/en/');
+      const english = !path.startsWith('/zh/');
       assert.equal(document.documentElement.lang, english || invoice ? 'en' : 'zh-CN', path);
       const alternates = [...document.querySelectorAll('link[rel="alternate"][hreflang]')];
       assert.equal(alternates.length, invoice ? 0 : 3, path);
       for (const link of alternates) {
         assert.ok(urlSet.has(link.href), `${path}: missing alternate ${link.href}`);
-        const language = link.hreflang === 'en' ? 'en' : 'zh-CN';
+        const language = link.hreflang === 'zh-CN' ? 'zh-CN' : 'en';
         assert.equal(new URL(link.href).pathname, localizedPath(path, language), path);
       }
       if (english) {
@@ -33,7 +33,7 @@ test('translated HTML, language pairs, author identity and share images agree ac
         for (const link of document.querySelectorAll('a[href^="/"]')) {
           const href = link.getAttribute('href');
           if (link.dataset.languageOption || href.startsWith('//')) continue;
-          assert.ok(href.startsWith('/en/') || href === '/tools/invoice-generator/', `${path}: English navigation escaped to ${href}`);
+          assert.ok(!/^\/(?:en|zh)(?:\/|$)/.test(href), `${path}: English navigation escaped to ${href}`);
         }
       }
       if (document.querySelector('.blog-article-content')) {
@@ -60,12 +60,20 @@ test('translated HTML, language pairs, author identity and share images agree ac
 test('legacy pagination and aliases redirect once while preserving filters and tracking', () => {
   const cases = [
     ['/blog/?page=2', '/blog/page/2/'],
-    ['/en/blog/?page=3&q=creator&topic=discovery&tag=AI&utm_source=email', '/en/blog/page/3/?q=creator&topic=discovery&tag=AI&utm_source=email'],
+    ['/en/', '/'],
+    ['/en', '/'],
+    ['/en/privacy.html?ref=old', '/privacy.html?ref=old'],
+    ['/zh', '/zh/'],
+    ['/zh/index.html?ref=launch', '/zh/?ref=launch'],
+    ['/zh/blog/?page=2&q=creator', '/zh/blog/page/2/?q=creator'],
+    ['/zh/about', '/zh/about/'],
+    ['/zh/tools/invoice-generator/', '/tools/invoice-generator/'],
+    ['/en/blog/?page=3&q=creator&topic=discovery&tag=AI&utm_source=email', '/blog/page/3/?q=creator&topic=discovery&tag=AI&utm_source=email'],
     ['/blog?page=1&q=creator', '/blog/?q=creator'],
     ['/index.html?ref=launch', '/?ref=launch'],
-    ['/en/index.html?ref=launch', '/en/?ref=launch'],
+    ['/en/index.html?ref=launch', '/?ref=launch'],
     ['/about?ref=footer', '/about/?ref=footer'],
-    ['/en/blog/creator-discovery', '/en/blog/creator-discovery/'],
+    ['/en/blog/creator-discovery', '/blog/creator-discovery/'],
   ];
   for (const [source, target] of cases) {
     const response = middleware(new Request(`https://www.quickkol.com${source}`));
@@ -73,7 +81,7 @@ test('legacy pagination and aliases redirect once while preserving filters and t
     assert.equal(response.headers.get('location'), `https://www.quickkol.com${target}`, source);
     assert.equal(middleware(new Request(response.headers.get('location'))).headers.get('location'), null, `redirect loop: ${source}`);
   }
-  for (const path of ['/terms.html', '/privacy.html', '/en/privacy.html', '/blog/?page=0', '/blog/?page=-2', '/blog/?page=2.5', '/blog/?page=abc', '/blog/?q=creator']) {
+  for (const path of ['/terms.html', '/privacy.html', '/zh/privacy.html', '/blog/?page=0', '/blog/?page=-2', '/blog/?page=2.5', '/blog/?page=abc', '/blog/?q=creator']) {
     assert.equal(middleware(new Request(`https://www.quickkol.com${path}`)).headers.get('location'), null, path);
   }
 });

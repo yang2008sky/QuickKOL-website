@@ -64,5 +64,5 @@ test('every sitemap page ships readable, styled content and canonical metadata',
       await window.happyDOM.close();
     }
   }
-  assert.ok((await readFile('dist/llms.txt', 'utf8')).includes('https://www.quickkol.com/en/blog/'));
+  assert.ok((await readFile('dist/llms.txt', 'utf8')).includes('https://www.quickkol.com/blog/'));
 });

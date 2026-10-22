@@ -1,12 +1,12 @@
 import './invoice-generator.css';
 import markup from './invoice-generator.html?raw';
-import templateMenu from './invoice-templates.html?raw';
 import colorMenu from './invoice-colors.html?raw';
 import downloadMenu from './invoice-download.html?raw';
-import { buildInvoiceDocument, calculateInvoice, escapeInvoiceText as escape, invoiceCurrencies, invoiceMoney } from './invoice.js';
+import { buildInvoiceDocument, calculateInvoice, escapeInvoiceText as escape, invoiceCurrencies, invoiceFileName, invoiceMoney } from './invoice.js';
 import { initI18n, loadLocale, setPageLocale, currentLocale } from './i18n.js';
 
 const templateKey = 'quickkol-invoice-template';
+const templatesKey = 'quickkol-invoice-templates';
 const fieldNames = ['title', 'number', 'po', 'currency', 'date', 'due', 'from', 'billTo', 'tax', 'discount', 'shipping', 'paid', 'payment', 'notes'];
 const styleNames = { blue: 'QuickKOL Blue', minimal: 'Classic Minimal' };
 
@@ -38,12 +38,12 @@ export function mountInvoiceGenerator(initialLocale) {
   controls.find((input) => input.name === 'number').value = `INV${dateString(today).replaceAll('-', '')}`;
   let style = 'blue';
   let logo = '';
+  let activeTemplateId = null;
   const readInvoice = () => ({ ...Object.fromEntries(controls.map((input) => [input.name, input.value])), items: [...lines.children].map((row) => {
     const [description, qty, price] = row.querySelectorAll('input');
     return { description: description.value, qty: qty.value, price: price.value };
   }), style, logo });
-  const example = readInvoice();
-  const fileName = () => (readInvoice().number.trim() || 'Invoice').replace(/[<>:"/\\|?*\u0000-\u001f]/g, '_');
+  const fileName = () => invoiceFileName(readInvoice());
   window.addEventListener('beforeprint', () => { document.title = fileName(); });
   window.addEventListener('afterprint', () => { document.title = 'Invoice Generator | QuickKOL'; });
   const money = (value) => invoiceMoney(value, readInvoice().currency);
@@ -55,7 +55,10 @@ export function mountInvoiceGenerator(initialLocale) {
     notice.className = 'invoice-notice';
     notice.setAttribute('role', 'status');
     notice.textContent = message;
-    main.append(notice);
+    const header = main.querySelector('.invoice-tool-header');
+    const title = header.querySelector('h1').getBoundingClientRect();
+    notice.style.top = `${title.top + title.height / 2 - header.getBoundingClientRect().top}px`;
+    header.append(notice);
     noticeTimer = setTimeout(() => notice.remove(), 3500);
   }
   function updatePreview() {
@@ -78,8 +81,8 @@ export function mountInvoiceGenerator(initialLocale) {
     const rows = [['Subtotal', totals.subtotal], [`Tax (${Math.max(0, Number(invoice.tax) || 0)}%)`, totals.tax], ['Shipping', totals.shipping], ['Discount', -totals.discount], ['Total', totals.total], ...(totals.paid ? [['Amount paid', -totals.paid]] : []), ['Total amount', totals.balance]];
     preview.querySelector('.invoice-totals').innerHTML = rows.map(([label, value], index) => `<div${index === rows.length - 1 ? ' class="invoice-balance"' : ''}><dt>${escape(label)}</dt><dd>${money(value)}</dd></div>`).join('');
     lines.querySelectorAll('.invoice-remove').forEach((button) => { button.disabled = lines.children.length === 1; });
-    menus[1].querySelector('.invoice-action-trigger > span:nth-child(2)').textContent = styleNames[style];
-    menus[1].querySelectorAll('[role="menuitem"]').forEach((button, index) => {
+    menus[0].querySelector('.invoice-action-trigger > span:nth-child(2)').textContent = styleNames[style];
+    menus[0].querySelectorAll('[role="menuitem"]').forEach((button, index) => {
       const selected = Object.keys(styleNames)[index] === style;
       button.classList.toggle('is-selected', selected);
       button.querySelector('.invoice-menu-check')?.remove();
@@ -105,31 +108,62 @@ export function mountInvoiceGenerator(initialLocale) {
     }
     updatePreview();
   }
-  const menus = [...main.querySelectorAll('.invoice-action-menu')];
-  [templateMenu, colorMenu, downloadMenu].forEach((menu, index) => {
+  const menus = [...main.querySelectorAll('.invoice-action-menu:not(.invoice-saved-templates)')];
+  [colorMenu, downloadMenu].forEach((menu, index) => {
     menus[index].insertAdjacentHTML('beforeend', menu);
     menus[index].querySelector('.invoice-action-popover').hidden = true;
     menus[index].querySelector('.invoice-action-trigger').setAttribute('aria-controls', `invoice-menu-${index}`);
     menus[index].querySelector('.invoice-action-popover').id = `invoice-menu-${index}`;
   });
-  colorCheck = menus[1].querySelector('.invoice-menu-check').outerHTML;
+  const savedMenu = main.querySelector('.invoice-saved-templates');
+  savedMenu.insertAdjacentHTML('beforeend', '<div class="invoice-action-popover invoice-saved-popover" role="menu" id="invoice-saved-menu" hidden></div>');
+  savedMenu.querySelector('.invoice-action-trigger').setAttribute('aria-controls', 'invoice-saved-menu');
+  const savedPopover = savedMenu.querySelector('.invoice-action-popover');
+  const savedIcon = savedMenu.querySelector('.invoice-action-icon').innerHTML;
+  function readTemplates() {
+    const validInvoice = (invoice) => invoice && Array.isArray(invoice.items) && invoice.items.every((item) => item && typeof item === 'object') && invoiceCurrencies.includes(invoice.currency);
+    const stored = localStorage.getItem(templatesKey);
+    if (stored !== null) {
+      const templates = JSON.parse(stored);
+      if (!Array.isArray(templates) || !templates.every((entry) => entry && typeof entry.id === 'string' && validInvoice(entry.invoice))) throw new Error('Invalid saved templates');
+      return templates;
+    }
+    const legacy = JSON.parse(localStorage.getItem(templateKey));
+    return validInvoice(legacy) ? [{ id: 'legacy', invoice: legacy }] : [];
+  }
+  function renderSavedTemplates() {
+    const action = (name, label, detail) => `<button type="button" role="menuitem" data-template-action="${name}"><span class="invoice-menu-icon">${savedIcon}</span><span class="invoice-menu-copy"><strong>${label}</strong><small>${detail}</small></span></button>`;
+    savedPopover.innerHTML = action('save', 'Save template', activeTemplateId ? 'Update the opened template' : 'Save current invoice in this browser') + (activeTemplateId ? action('new', 'Save as new template', 'Keep the opened template unchanged') : '');
+    savedPopover.insertAdjacentHTML('beforeend', '<div class="invoice-menu-divider" role="separator"></div>');
+    try {
+      const templates = readTemplates();
+      savedPopover.insertAdjacentHTML('beforeend', templates.length ? templates.map(({ id, invoice }) => {
+        const name = escape(invoiceFileName({ number: invoice.number || '', po: invoice.po || '' }));
+        return `<div class="invoice-template-row ${id === activeTemplateId ? 'is-selected' : ''}" role="none"><button type="button" role="menuitem" data-template-id="${escape(id)}" class="invoice-template-open"><span class="invoice-menu-icon">${savedIcon}</span><span class="invoice-menu-copy"><strong>${name}</strong><small>${escape(invoice.billTo?.trim().split(/\r?\n/)[0] || 'No Bill To information')}</small></span>${id === activeTemplateId ? colorCheck : ''}</button><button type="button" role="menuitem" class="invoice-template-delete" data-delete-template="${escape(id)}" aria-label="Delete template ${name}"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6h18M9 6V4h6v2M5 6l1 14h12l1-14M10 10v6M14 10v6"></path></svg></button></div>`;
+      }).join('') : '<p class="invoice-menu-empty">No saved templates yet.</p>');
+    } catch { savedPopover.insertAdjacentHTML('beforeend', '<p class="invoice-menu-empty">Unable to load saved templates.</p>'); }
+  }
+  colorCheck = menus[0].querySelector('.invoice-menu-check').outerHTML;
+  const actionMenus = [...menus, savedMenu];
   function closeMenus() {
-    menus.forEach((menu) => {
+    actionMenus.forEach((menu) => {
       menu.classList.remove('is-open');
       menu.querySelector('.invoice-action-trigger').setAttribute('aria-expanded', 'false');
       menu.querySelector('.invoice-action-popover').hidden = true;
     });
   }
-  menus.forEach((menu) => {
+  actionMenus.forEach((menu) => {
     const trigger = menu.querySelector('.invoice-action-trigger');
     trigger.addEventListener('click', () => {
       const open = !menu.classList.contains('is-open');
       closeMenus();
+      if (menu === savedMenu && open) renderSavedTemplates();
       menu.classList.toggle('is-open', open);
       trigger.setAttribute('aria-expanded', String(open));
       menu.querySelector('.invoice-action-popover').hidden = !open;
     });
     menu.addEventListener('keydown', (event) => {
+      if (menu === savedMenu && !menu.classList.contains('is-open') && ['ArrowDown', 'ArrowUp', 'Home', 'End'].includes(event.key)) renderSavedTemplates();
       const buttons = [...menu.querySelectorAll('[role="menuitem"]')];
       const index = buttons.indexOf(document.activeElement);
       if (event.key === 'Escape') { closeMenus(); trigger.focus(); }
@@ -143,25 +177,51 @@ export function mountInvoiceGenerator(initialLocale) {
     });
   });
   document.addEventListener('click', (event) => { if (!event.target.closest('.invoice-action-menu')) closeMenus(); });
-  menus[0].querySelectorAll('[role="menuitem"]').forEach((button, index) => button.addEventListener('click', () => {
-    closeMenus();
-    if (index === 0) loadInvoice(example);
-    if (index === 1) loadInvoice({ ...example, from: '', billTo: '', payment: '', notes: '', items: [{ description: '', qty: '1', price: '' }] });
-    if (index === 2) {
+  savedPopover.addEventListener('click', (event) => {
+    const button = event.target.closest('button');
+    if (!button) return;
+    if (button.dataset.deleteTemplate) {
       try {
-        const saved = JSON.parse(localStorage.getItem(templateKey));
-        if (!saved || !Array.isArray(saved.items) || !invoiceCurrencies.includes(saved.currency)) { notify('No saved template in this browser yet.'); return; }
-        loadInvoice(saved);
+        const templates = readTemplates();
+        const saved = templates.find(({ id }) => id === button.dataset.deleteTemplate);
+        if (!saved) { notify('This template is no longer available.'); return; }
+        const name = invoiceFileName({ number: saved.invoice.number || '', po: saved.invoice.po || '' });
+        if (!window.confirm(`Delete template "${name}"? This cannot be undone.`)) return;
+        localStorage.setItem(templatesKey, JSON.stringify(templates.filter(({ id }) => id !== saved.id)));
+        if (saved.id === 'legacy') localStorage.removeItem(templateKey);
+        if (activeTemplateId === saved.id) activeTemplateId = null;
+        renderSavedTemplates();
+        savedMenu.querySelector('.invoice-action-trigger').focus();
+        notify('Template deleted.');
+      } catch { notify('Unable to delete the template. Browser storage may be unavailable.'); }
+      return;
+    }
+    if (button.dataset.templateId) {
+      try {
+        const saved = readTemplates().find(({ id }) => id === button.dataset.templateId);
+        if (!saved) { notify('This template is no longer available.'); return; }
+        loadInvoice(saved.invoice);
+        activeTemplateId = saved.id;
+        closeMenus();
         notify('Saved template loaded.');
       } catch { notify('Unable to load the saved template.'); }
+      return;
     }
-  }));
-  main.querySelector('.invoice-save-action').addEventListener('click', () => {
-    try { localStorage.setItem(templateKey, JSON.stringify(readInvoice())); notify('Template saved in this browser.'); }
-    catch { notify('Unable to save the template. Browser storage may be full or unavailable.'); }
+    try {
+      const templates = readTemplates();
+      const id = button.dataset.templateAction === 'new' ? crypto.randomUUID() : activeTemplateId || crypto.randomUUID();
+      const entry = { id, invoice: readInvoice() };
+      const index = templates.findIndex((template) => template.id === id);
+      if (index < 0) templates.unshift(entry);
+      else templates[index] = entry;
+      localStorage.setItem(templatesKey, JSON.stringify(templates));
+      activeTemplateId = id;
+      closeMenus();
+      notify('Template saved in this browser.');
+    } catch { notify('Unable to save the template. Browser storage may be full or unavailable.'); }
   });
-  menus[1].querySelectorAll('[role="menuitem"]').forEach((button, index) => button.addEventListener('click', () => { style = Object.keys(styleNames)[index]; closeMenus(); updatePreview(); }));
-  menus[2].querySelectorAll('[role="menuitem"]').forEach((button, index) => button.addEventListener('click', () => {
+  menus[0].querySelectorAll('[role="menuitem"]').forEach((button, index) => button.addEventListener('click', () => { style = Object.keys(styleNames)[index]; closeMenus(); updatePreview(); }));
+  menus[1].querySelectorAll('[role="menuitem"]').forEach((button, index) => button.addEventListener('click', () => {
     closeMenus();
     if (index === 0) { document.title = fileName(); window.print(); return; }
     const invoice = readInvoice();

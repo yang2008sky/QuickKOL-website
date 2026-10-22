@@ -1,8 +1,17 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { calculateInvoice, buildInvoiceDocument, invoiceMoney } from '../src/invoice.js';
+import { calculateInvoice, buildInvoiceDocument, invoiceFileName, invoiceMoney } from '../src/invoice.js';
 
 const invoice = { title: 'Invoice', number: 'INV20261009', po: 'PO-12', currency: 'USD', date: '2026-10-09', due: '2026-10-23', from: 'Acme\nStudio', billTo: 'Example Brand', tax: '10', discount: '20', shipping: '15', paid: '50', payment: 'Example Bank', notes: 'Thanks', style: 'blue', items: [{ description: 'Campaign', qty: '2', price: '100' }, { description: 'Editing', qty: '1', price: '50' }] };
+
+test('download names append a PO only when supplied and sanitize filename characters', () => {
+  assert.equal(invoiceFileName(invoice), 'INV20261009_PO-12');
+  assert.equal(invoiceFileName({ number: ' INV20261022 ', po: ' PO26102000441 ' }), 'INV20261022_PO26102000441');
+  assert.equal(invoiceFileName({ ...invoice, po: '' }), 'INV20261009');
+  assert.equal(invoiceFileName({ ...invoice, po: '   ' }), 'INV20261009');
+  assert.equal(invoiceFileName({ number: '', po: '' }), 'Invoice');
+  assert.equal(invoiceFileName({ number: 'INV/22', po: 'PO:1' }), 'INV_22_PO_1');
+});
 
 test('invoice reconciles line items, tax, discount, shipping and partial payment', () => {
   assert.deepEqual(calculateInvoice(invoice), { subtotal: 250, tax: 25, discount: 20, shipping: 15, paid: 50, total: 270, balance: 220 });

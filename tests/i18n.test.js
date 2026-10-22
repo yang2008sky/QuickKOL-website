@@ -85,9 +85,9 @@ test('persists the selected locale and safely rejects invalid choices', () => {
   i18n.setPageLocale('en');
   assert.equal(document.documentElement.lang, 'en');
   assert.equal(storage.get('quickkol-language'), 'en');
-  assert.equal(i18n.resolveLocale('invalid'), 'zh-CN');
+  assert.equal(i18n.resolveLocale('invalid'), 'en');
   for (const { code } of i18n.languages) {
-    if (!i18n.isLocaleAvailable(code)) assert.equal(i18n.resolveLocale(code), 'zh-CN');
+    if (!i18n.isLocaleAvailable(code)) assert.equal(i18n.resolveLocale(code), 'en');
   }
 });
 

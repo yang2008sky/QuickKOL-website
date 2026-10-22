@@ -7,6 +7,8 @@ test('canonical URLs use the production domain and discard filters and fragments
   assert.equal(canonicalUrl('/blog/creator-discovery/index.html'), 'https://www.quickkol.com/blog/creator-discovery/');
   assert.equal(canonicalUrl('/terms.html?utm_source=test'), 'https://www.quickkol.com/terms.html');
   assert.equal(canonicalUrl('/#agent-team'), 'https://www.quickkol.com/');
+  assert.equal(canonicalUrl('/en/pricing/?ref=old'), 'https://www.quickkol.com/pricing/');
+  assert.equal(canonicalUrl('/zh/pricing/'), 'https://www.quickkol.com/zh/pricing/');
 });
 
 test('article sharing uses its own title, description and production image URL', () => {

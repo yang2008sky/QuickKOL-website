@@ -12,6 +12,7 @@ export function articleShareImage(image) {
 export function canonicalUrl(path) {
   const url = new URL(path, siteOrigin);
   let pathname = url.pathname.replace(/\/index\.html$/, '/');
+  pathname = pathname.replace(/^\/en(?=\/|$)/, '') || '/';
   if (!pathname.endsWith('/') && !pathname.split('/').pop().includes('.')) pathname += '/';
   return new URL(pathname, siteOrigin).href;
 }

@@ -35,7 +35,7 @@ export async function loadLocale(code) {
 }
 
 export function resolveLocale(value) {
-  return languages.some(({ code }) => code === value) && isLocaleAvailable(value) ? value : "zh-CN";
+  return languages.some(({ code }) => code === value) && isLocaleAvailable(value) ? value : "en";
 }
 
 const english = englishCatalog;
@@ -44,7 +44,7 @@ const textSources = new WeakMap();
 const attributeSources = new WeakMap();
 const valueSources = new WeakMap();
 const translatedAttributes = ["aria-label", "title", "placeholder", "alt"];
-let locale = "zh-CN";
+let locale = "en";
 let observer;
 let scheduled = false;
 
