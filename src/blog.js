@@ -1,3 +1,5 @@
+import { instagramActionGoal } from './blog-instagram-goal-math.js';
+import { semrushBatchFourPosts } from './blog-semrush-b4-posts.js';
 import './blog.css';
 import { canonicalUrl, siteOrigin, articleShareImage } from './seo.js';
 import { routePath, localizedPath, pathLocale } from './localized-paths.js';
@@ -13,7 +15,9 @@ import { programBlogPosts } from './blog-program-posts.js';
 import { toolBlogPosts } from './blog-tool-posts.js';
 import { semrushBlogPosts } from './blog-semrush-posts.js';
 import { semrushBatchTwoPosts } from './blog-semrush-b2-posts.js';
+import { semrushBatchThreePosts } from './blog-semrush-b3-posts.js';
 import { aggregateEngagement, compareEngagement, viewEngagement } from './blog-engagement-math.js';
+import { followerNetChange } from './blog-follower-math.js';
 import { blogEnhancements } from './blog-enhancements.js';
 import { additionalBlogEnhancements } from './blog-additional-enhancements.js';
 import { seriesBlogEnhancements } from './blog-series-enhancements.js';
@@ -22,7 +26,7 @@ import { growthBlogEnhancements } from './blog-growth-enhancements.js';
 import { initI18n, setPageLocale, localizeCopy, applyTranslations, loadLocale, localizeText } from './i18n.js';
 
 const enhancements = { ...blogEnhancements, ...additionalBlogEnhancements, ...seriesBlogEnhancements, ...expansionBlogEnhancements, ...growthBlogEnhancements };
-const blogPosts = [...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
+const blogPosts = [...semrushBatchFourPosts, ...semrushBatchThreePosts, ...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
 const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
 const arrow = '<i class="ph ph-arrow-up-right" aria-hidden="true"></i>';
 
@@ -221,7 +225,7 @@ export function mountBlog(initialLocale) {
   const renderTool = (tool) => {
     if (!tool) return '';
     if (tool.kind === 'reference-list') {
-      return `<section class="blog-tool blog-tool-reference" id="interactive-tool"><div class="blog-tool-heading"><p class="blog-kicker">${copy('检查清单', 'CHECKLIST')}</p><h2>${escapeHtml(text(tool.title))}</h2><p>${escapeHtml(text(tool.intro))}</p></div><ol class="blog-tool-reference-list">${tool.items.map((item) => `<li>${escapeHtml(text(item))}</li>`).join('')}</ol></section>`;
+      return `<section class="blog-tool blog-tool-reference" id="interactive-tool"><div class="blog-tool-heading"><p class="blog-kicker">${copy('检查清单', 'CHECKLIST')}</p><h2>${escapeHtml(text(tool.title))}</h2><p>${escapeHtml(text(tool.intro))}</p></div><ol class="blog-tool-reference-list">${tool.items.map((item) => `<li>${escapeHtml(text(item))}</li>`).join('')}</ol>${(tool.downloads || []).map(item => `<p><a href="${escapeHtml(item.url)}" download>${escapeHtml(text(item.label))} ↓</a></p>`).join('')}</section>`;
     }
     const fields = `<div class="blog-tool-fields">${tool.inputs.map((input) => `<label><span>${escapeHtml(text(input.label))}</span><div class="blog-tool-control"><input type="number" name="${input.key}" min="${input.min ?? 0}" ${input.max !== undefined ? `max="${input.max}"` : ''} step="${input.step ?? 1}" value="${input.value}" /></div></label>`).join('')}</div>`;
     return `<section class="blog-tool" id="interactive-tool" data-blog-tool data-tool-kind="${tool.kind}"><div class="blog-tool-heading"><p class="blog-kicker">${copy('实用工具', 'PRACTICAL TOOL')}</p><h2>${escapeHtml(text(tool.title))}</h2><p>${escapeHtml(text(tool.intro))}</p></div>${fields}<div class="blog-tool-result" data-blog-tool-result aria-live="polite"></div></section>`;
@@ -316,6 +320,25 @@ export function mountBlog(initialLocale) {
     const kind = container.dataset.toolKind;
     const result = container.querySelector('[data-blog-tool-result]');
     const value = (name) => Math.max(0, Number(container.querySelector(`[name="${name}"]`)?.value) || 0);
+    if (kind === 'instagram-action-goal') {
+      const inputs = [...container.querySelectorAll('input')];
+      const complete = inputs.every(input => input.value.trim() !== '');
+      const metrics = complete ? instagramActionGoal(...['likes', 'comments', 'shares', 'saves', 'followers', 'target'].map(name => Number(container.querySelector(`[name="${name}"]`).value))) : null;
+      const tile = (number, label) => `<div><strong>${number}</strong><span>${label}</span></div>`;
+      result.innerHTML = metrics
+        ? `${tile(metrics.actions.toLocaleString(locale), copy('总动作', 'total actions'))}${tile(metrics.rate.toFixed(2) + '%', copy('动作 / 粉丝基数', 'actions / follower base'))}${tile(metrics.targetActions.toLocaleString(locale), copy('目标最少动作', 'minimum target actions'))}${tile(metrics.gap.toLocaleString(locale), copy('距离目标差额', 'remaining action gap'))}<small>${copy('目标为自选情景，不是预测。动作不等于独立参与人数。', 'The chosen goal is a scenario, not a forecast. Actions are not distinct people.')}</small>`
+        : `<strong>—</strong><span>${copy('填写完整的非负整数动作与大于零的粉丝基数；目标率需有效且非负。未知不是零。', 'Enter complete nonnegative whole action counts and a positive follower base; the goal must be finite and nonnegative. Unknown is not zero.')}</span>`;
+      return;
+    }
+    if (kind === 'follower-net-change') {
+      const inputs = [...container.querySelectorAll('input')];
+      const complete = inputs.every(input => input.value.trim() !== '');
+      const change = complete ? followerNetChange(Number(inputs[0].value), Number(inputs[1].value)) : null;
+      result.innerHTML = change
+        ? `<div><strong>${change.net > 0 ? '+' : ''}${change.net.toLocaleString(locale)}</strong><span>${copy('期间净变化', 'interval net change')}</span></div><div><strong>${change.percent === null ? '—' : (change.percent > 0 ? '+' : '') + change.percent.toFixed(2) + '%'}</strong><span>${copy('以期初为基数的变化', 'change relative to start')}</span></div><small>${copy('起始为零时百分比不可用。净变化不能反推出新增、取关或因果增量。', 'Percentage is unavailable at a zero start. Net change does not reveal gross follows, unfollows or causal lift.')}</small>`
+        : `<strong>—</strong><span>${copy('请填写两个完整、非负的有效整数；未知不是零。', 'Enter two complete, valid nonnegative whole counts; unknown is not zero.')}</span>`;
+      return;
+    }
     if (['engagement-aggregate', 'engagement-baseline', 'tiktok-engagement'].includes(kind)) {
       const inputs = [...container.querySelectorAll('input')];
       if (inputs.some(input => input.value.trim() === '' || !Number.isFinite(Number(input.value)) || Number(input.value) < 0)) {
