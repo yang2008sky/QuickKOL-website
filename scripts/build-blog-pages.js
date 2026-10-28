@@ -1,3 +1,4 @@
+import { laInfluencerPosts } from '../src/blog-la-influencer.js';
 import { semrushBatchFourPosts } from '../src/blog-semrush-b4-posts.js';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { blogPosts as baseBlogPosts } from '../src/blog-posts.js';
@@ -17,7 +18,7 @@ import { localizedPath } from '../src/localized-paths.js';
 import { createPrerenderer } from './prerender.js';
 import { BLOG_PAGE_SIZE, blogPagePath } from '../src/blog-pagination.js';
 
-const blogPosts = [...semrushBatchFourPosts, ...semrushBatchThreePosts, ...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts];
+const blogPosts = [...laInfluencerPosts, ...semrushBatchFourPosts, ...semrushBatchThreePosts, ...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts];
 
 // Emit real HTML entry points so static hosts do not need SPA fallback rules.
 const html = await readFile(new URL('../dist/index.html', import.meta.url), 'utf8');
