@@ -1,0 +1,58 @@
+{
+  "checkedAt": "2026-10-29",
+  "type": "Editorial handoff only; not a production site build",
+  "articles": [
+    {
+      "primaryKeyword": "influencer marketing",
+      "slug": "influencer-marketing-brand-playbook",
+      "englishBodyWords": 1677,
+      "chineseCharacters": 3098,
+      "bodySources": 3,
+      "configuredInternalLinks": 3,
+      "datePublished": "2026-10-21",
+      "proposedDateModified": "2026-10-29",
+      "cover": {
+        "width": 1672,
+        "height": 941,
+        "space": "srgb",
+        "format": "jpeg"
+      }
+    },
+    {
+      "primaryKeyword": "instagram follower tracker",
+      "slug": "instagram-followers-check-change-log",
+      "englishBodyWords": 1698,
+      "chineseCharacters": 3074,
+      "bodySources": 3,
+      "configuredInternalLinks": 2,
+      "datePublished": "2026-10-22",
+      "proposedDateModified": "2026-10-29",
+      "cover": {
+        "width": 1672,
+        "height": 941,
+        "space": "srgb",
+        "format": "jpeg"
+      }
+    },
+    {
+      "primaryKeyword": "influencer",
+      "slug": "influencers-types-for-brand-teams",
+      "englishBodyWords": 1657,
+      "chineseCharacters": 3104,
+      "bodySources": 3,
+      "configuredInternalLinks": 4,
+      "datePublished": "2026-10-21",
+      "proposedDateModified": "2026-10-29",
+      "cover": {
+        "width": 1672,
+        "height": 941,
+        "space": "srgb",
+        "format": "jpeg"
+      }
+    }
+  ],
+  "verifiedInternalTargets": 28,
+  "scope": "All files newly added under outputs/blog/seo-three-keywords-2026-10-29",
+  "productionBuild": "Not run; no application code changed",
+  "visual": "Covers and desktop review inspected; full production/mobile acceptance remains with repository owner"
+}

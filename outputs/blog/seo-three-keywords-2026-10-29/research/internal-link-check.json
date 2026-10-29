@@ -1,0 +1,394 @@
+[
+  {
+    "url": "https://www.quickkol.com/blog/creator-campaign-incrementality/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/blog/creator-campaign-incrementality/",
+    "h1": [
+      "How to measure creator campaign incrementality beyond attributed orders"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/blog/creator-campaign-incrementality/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/blog/creator-payment-invoice-operations/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/blog/creator-payment-invoice-operations/",
+    "h1": [
+      "How to design creator payment and invoice operations that reduce delays"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/blog/creator-payment-invoice-operations/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/blog/engagement-rate-denominators/",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/blog/engagement-rate-denominators/",
+    "h1": [
+      "Engagement rate explained: choose the denominator before comparing creators"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/blog/engagement-rate-denominators/"
+    ],
+    "fragment": "",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/blog/evaluate-creator-rate-cards/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/blog/evaluate-creator-rate-cards/",
+    "h1": [
+      "How to evaluate creator rate cards on comparable scope"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/blog/evaluate-creator-rate-cards/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/blog/fake-follower-check-audience-categories/",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/blog/fake-follower-check-audience-categories/",
+    "h1": [
+      "Fake follower check: interpret the audience categories first"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/blog/fake-follower-check-audience-categories/"
+    ],
+    "fragment": "",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/blog/free-instagram-influencer-search-follower-filter/",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/blog/free-instagram-influencer-search-follower-filter/",
+    "h1": [
+      "Free Instagram influencer search: verify what the follower filter actually gives you"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/blog/free-instagram-influencer-search-follower-filter/"
+    ],
+    "fragment": "",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/blog/influencer-campaign-budget-planning/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/blog/influencer-campaign-budget-planning/",
+    "h1": [
+      "How to build a complete influencer campaign budget"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/blog/influencer-campaign-budget-planning/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/blog/influencer-content-licensing-paid-media-schedule/",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/blog/influencer-content-licensing-paid-media-schedule/",
+    "h1": [
+      "Influencer content licensing agreements: build a usage-rights schedule for paid media"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/blog/influencer-content-licensing-paid-media-schedule/"
+    ],
+    "fragment": "",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/blog/personalized-creator-outreach/",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/blog/personalized-creator-outreach/",
+    "h1": [
+      "How to write creator outreach that earns a useful reply"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/blog/personalized-creator-outreach/"
+    ],
+    "fragment": "",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/blog/personalized-creator-outreach/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/blog/personalized-creator-outreach/",
+    "h1": [
+      "How to write creator outreach that earns a useful reply"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/blog/personalized-creator-outreach/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/blog/price-creator-exclusivity/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/blog/price-creator-exclusivity/",
+    "h1": [
+      "How to scope and estimate creator exclusivity cost"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/blog/price-creator-exclusivity/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/blog/track-influencer-conversions-ga4/",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/blog/track-influencer-conversions-ga4/",
+    "h1": [
+      "How to track influencer conversions from campaign links to reconciled orders"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/blog/track-influencer-conversions-ga4/"
+    ],
+    "fragment": "",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/blog/write-a-useful-campaign-brief/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/blog/write-a-useful-campaign-brief/",
+    "h1": [
+      "How to write an influencer campaign brief teams can execute"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/blog/write-a-useful-campaign-brief/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/creator-campaign-incrementality/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/creator-campaign-incrementality/",
+    "h1": [
+      "达人 Campaign 如何做增量测量，而不只看归因订单"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/creator-campaign-incrementality/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/creator-landing-page-conversion/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/creator-landing-page-conversion/",
+    "h1": [
+      "达人流量到了落地页却不转化，应该从哪里查"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/creator-landing-page-conversion/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/creator-payment-invoice-operations/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/creator-payment-invoice-operations/",
+    "h1": [
+      "达人付款与发票流程怎么设计，才能减少催款和延误"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/creator-payment-invoice-operations/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/creator-rates-usage-rights/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/creator-rates-usage-rights/",
+    "h1": [
+      "达人报价怎么谈：发布费、使用权、放大和排他要怎么拆？"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/creator-rates-usage-rights/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/creator-shortlist-workflow/#evidence-table",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/creator-shortlist-workflow/",
+    "h1": [
+      "达人候选名单怎么做，团队才能直接接着用？"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/creator-shortlist-workflow/"
+    ],
+    "fragment": "evidence-table",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/engagement-rate-denominators/",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/engagement-rate-denominators/",
+    "h1": [
+      "互动率到底在衡量什么：先选分母，再比较达人"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/engagement-rate-denominators/"
+    ],
+    "fragment": "",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/evaluate-creator-rate-cards/",
+    "h1": [
+      "达人 Rate Card 怎么看，才能比较同一范围"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/evaluate-creator-rate-cards/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/fake-follower-check-audience-categories/",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/fake-follower-check-audience-categories/",
+    "h1": [
+      "Fake follower check：先读懂受众分类，再作合作决定"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/fake-follower-check-audience-categories/"
+    ],
+    "fragment": "",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/free-instagram-influencer-search-follower-filter/",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/free-instagram-influencer-search-follower-filter/",
+    "h1": [
+      "免费 Instagram 达人搜索：怎样验证粉丝筛选真正可用"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/free-instagram-influencer-search-follower-filter/"
+    ],
+    "fragment": "",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/influencer-campaign-budget-planning/",
+    "h1": [
+      "达人营销预算怎么做，才不会只算达人发布费？"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/influencer-campaign-budget-planning/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/influencer-content-licensing-paid-media-schedule/",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/influencer-content-licensing-paid-media-schedule/",
+    "h1": [
+      "达人内容许可协议：为付费媒体建立可执行的使用权附表"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/influencer-content-licensing-paid-media-schedule/"
+    ],
+    "fragment": "",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/influencer-product-seeding-logistics/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/influencer-product-seeding-logistics/",
+    "h1": [
+      "达人寄样怎么管理：地址、库存、物流与替补计划"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/influencer-product-seeding-logistics/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/personalized-creator-outreach/",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/personalized-creator-outreach/",
+    "h1": [
+      "达人合作邮件怎么写，才能获得有用的回复？"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/personalized-creator-outreach/"
+    ],
+    "fragment": "",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/price-creator-exclusivity/#interactive-tool",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/price-creator-exclusivity/",
+    "h1": [
+      "达人排他条款怎么定范围和估算成本"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/price-creator-exclusivity/"
+    ],
+    "fragment": "interactive-tool",
+    "fragmentValid": true,
+    "validArticle": true
+  },
+  {
+    "url": "https://www.quickkol.com/zh/blog/track-influencer-conversions-ga4/",
+    "status": 200,
+    "resolved": "https://www.quickkol.com/zh/blog/track-influencer-conversions-ga4/",
+    "h1": [
+      "达人转化怎么追踪：从内容链接到去重订单"
+    ],
+    "canonical": [
+      "https://www.quickkol.com/zh/blog/track-influencer-conversions-ga4/"
+    ],
+    "fragment": "",
+    "fragmentValid": true,
+    "validArticle": true
+  }
+]

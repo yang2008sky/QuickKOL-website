@@ -1,0 +1,106 @@
+{
+  "preparedAt": "2026-10-29",
+  "scope": "outputs/blog/seo-three-keywords-2026-10-29",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 4220,
+      "sha256": "f88f427c03159343fdcbd36fb7653b47740ce1de16c8fb92ccedac10ead5755b"
+    },
+    {
+      "file": "articles/influencer-marketing-brand-playbook.en.md",
+      "bytes": 15625,
+      "sha256": "164ed9345dd0515ba6baa4c01b87e7c6167f9ce55cc05f7ff998652ab628d4f5"
+    },
+    {
+      "file": "articles/influencer-marketing-brand-playbook.zh.md",
+      "bytes": 14153,
+      "sha256": "696022961edec42eba83427b2ba00b6ac2eaae7ccdecde9c7d39d16ba1fa6615"
+    },
+    {
+      "file": "articles/influencers-types-for-brand-teams.en.md",
+      "bytes": 15786,
+      "sha256": "586f584258eaeabec298075a9e9b9f2d7262c9943cf51d15d085dfa7ffebc29e"
+    },
+    {
+      "file": "articles/influencers-types-for-brand-teams.zh.md",
+      "bytes": 14298,
+      "sha256": "5c2767e93206b7ce974ed06eb4de00c97a36dfaa27c8a5810aeb7f1b111ecdd6"
+    },
+    {
+      "file": "articles/instagram-followers-check-change-log.en.md",
+      "bytes": 15671,
+      "sha256": "a1422781a70952ab80441294e52e54ad6a82c155eb3ff177c64ba798e35cf5f3"
+    },
+    {
+      "file": "articles/instagram-followers-check-change-log.zh.md",
+      "bytes": 14401,
+      "sha256": "3433556560dc23d03c0444311a7b751c2183ef07bf89a643e744a084479c7061"
+    },
+    {
+      "file": "public/assets/blog/influencer-marketing-brand-planning-guide.jpg",
+      "bytes": 297898,
+      "sha256": "ee2ec0e0409588e4a042d5f3c7321ad37fcb8cc8b157701311c1d26922d5faa0"
+    },
+    {
+      "file": "public/assets/blog/instagram-follower-tracker-brand-guide.jpg",
+      "bytes": 106956,
+      "sha256": "93e89899b4b331aba5d79a106dd56f83358a050b733fd1da909fc1ee11018fe6"
+    },
+    {
+      "file": "public/assets/blog/instagram-follower-tracker-brand-guide.svg",
+      "bytes": 2722,
+      "sha256": "9a024c1c1d059bef8ab14066039ecb9bbe83152df639eb7a42eb9fbbb10add2c"
+    },
+    {
+      "file": "public/assets/blog/what-is-an-influencer-brand-guide.jpg",
+      "bytes": 303515,
+      "sha256": "2aadab6de737a299d091d98441b54cb71c82165a8c00c29cb46274c2b434bb6c"
+    },
+    {
+      "file": "public/downloads/instagram-follower-observation-log.csv",
+      "bytes": 463,
+      "sha256": "b710b2f93ca8575f96e9645d164272f2993ddeeaffd2ece2f5c22d412ce54ca7"
+    },
+    {
+      "file": "research/cover-prompts.json",
+      "bytes": 2199,
+      "sha256": "b07f7cbd0820d646de6fe22f016ece2c0323de6983af168e0c8026be5125aca7"
+    },
+    {
+      "file": "research/internal-link-check.json",
+      "bytes": 13389,
+      "sha256": "1689a1a5eba3e25d6944ec41196596d4e69d77bd315d0ac488cd347b6870baf4"
+    },
+    {
+      "file": "research/package-audit.json",
+      "bytes": 1730,
+      "sha256": "295ebb50ec7c982ee63a019251e34ca09cedc12127f598b99685c199464c65ea"
+    },
+    {
+      "file": "research/rendered-content-audit.json",
+      "bytes": 5349,
+      "sha256": "8d17e7f8e650c74643273f728006c5d68d9270d460e95a97711cd654284da57f"
+    },
+    {
+      "file": "research/source-evidence.md",
+      "bytes": 4983,
+      "sha256": "f1c12d302a5f5378c465c70b5edd23b482c2263247cfc5be164bc63bfe0b5aa5"
+    },
+    {
+      "file": "source-images/influencer-marketing-original.png",
+      "bytes": 2019264,
+      "sha256": "f65474f92fceb99613c52a4aed9b01a6db5e49f66599c8fcacb8af206335a202"
+    },
+    {
+      "file": "source-images/influencer-original.png",
+      "bytes": 2122669,
+      "sha256": "ef5983932ff4d665f83b756b4184d3487967276b9704ed307e689148867ce988"
+    },
+    {
+      "file": "src/blog-three-keywords.js",
+      "bytes": 97870,
+      "sha256": "d99461c511bd5652b7a2c2d5770e9b9a152cd84cb94c1c6a0ea0bea5698bafc7"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+[
+  {
+    "slug": "influencer-marketing-brand-playbook",
+    "language": "zh",
+    "bodyInternalLinks": [
+      "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+      "/zh/blog/creator-shortlist-workflow/#evidence-table",
+      "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+      "/zh/blog/free-instagram-influencer-search-follower-filter/",
+      "/zh/blog/influencer-product-seeding-logistics/#interactive-tool",
+      "/zh/blog/creator-payment-invoice-operations/#interactive-tool",
+      "/zh/blog/personalized-creator-outreach/",
+      "/zh/blog/creator-landing-page-conversion/#interactive-tool",
+      "/zh/blog/track-influencer-conversions-ga4/",
+      "/zh/blog/creator-campaign-incrementality/#interactive-tool"
+    ],
+    "bodyCitations": [
+      "https://www.iab.com/news/creator-economy-ad-spend-to-reach-37-billion-in-2025-growing-4x-faster-than-total-media-industry-according-to-iab/",
+      "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+      "https://support.google.com/analytics/answer/10917952?hl=en"
+    ],
+    "englishBodyWords": 1677
+  },
+  {
+    "slug": "influencer-marketing-brand-playbook",
+    "language": "en",
+    "bodyInternalLinks": [
+      "/blog/evaluate-creator-rate-cards/#interactive-tool",
+      "/blog/free-instagram-influencer-search-follower-filter/",
+      "/blog/influencer-campaign-budget-planning/#interactive-tool",
+      "/blog/creator-payment-invoice-operations/#interactive-tool",
+      "/blog/write-a-useful-campaign-brief/#interactive-tool",
+      "/blog/personalized-creator-outreach/",
+      "/blog/track-influencer-conversions-ga4/",
+      "/blog/creator-campaign-incrementality/#interactive-tool",
+      "/blog/personalized-creator-outreach/#interactive-tool"
+    ],
+    "bodyCitations": [
+      "https://www.iab.com/news/creator-economy-ad-spend-to-reach-37-billion-in-2025-growing-4x-faster-than-total-media-industry-according-to-iab/",
+      "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+      "https://support.google.com/analytics/answer/10917952?hl=en"
+    ],
+    "englishBodyWords": 1677
+  },
+  {
+    "slug": "instagram-followers-check-change-log",
+    "language": "zh",
+    "bodyInternalLinks": [
+      "/zh/blog/free-instagram-influencer-search-follower-filter/",
+      "/zh/blog/fake-follower-check-audience-categories/",
+      "/zh/blog/influencer-campaign-budget-planning/#interactive-tool"
+    ],
+    "bodyCitations": [
+      "https://www.postman.com/meta/instagram/collection/6yqw8pt/instagram-api",
+      "https://about.fb.com/news/2024/06/protecting-athletes-and-fans-on-our-apps-during-major-sporting-events-this-summer/",
+      "https://about.fb.com/news/2022/07/how-meta-safeguards-people-against-clone-sites/"
+    ],
+    "englishBodyWords": 1698
+  },
+  {
+    "slug": "instagram-followers-check-change-log",
+    "language": "en",
+    "bodyInternalLinks": [
+      "/blog/free-instagram-influencer-search-follower-filter/",
+      "/blog/fake-follower-check-audience-categories/",
+      "/blog/personalized-creator-outreach/#interactive-tool"
+    ],
+    "bodyCitations": [
+      "https://www.postman.com/meta/instagram/collection/6yqw8pt/instagram-api",
+      "https://about.fb.com/news/2024/06/protecting-athletes-and-fans-on-our-apps-during-major-sporting-events-this-summer/",
+      "https://about.fb.com/news/2022/07/how-meta-safeguards-people-against-clone-sites/"
+    ],
+    "englishBodyWords": 1698
+  },
+  {
+    "slug": "influencers-types-for-brand-teams",
+    "language": "zh",
+    "bodyInternalLinks": [
+      "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+      "/zh/blog/free-instagram-influencer-search-follower-filter/",
+      "/zh/blog/engagement-rate-denominators/",
+      "/zh/blog/price-creator-exclusivity/#interactive-tool",
+      "/zh/blog/personalized-creator-outreach/",
+      "/zh/blog/creator-rates-usage-rights/#interactive-tool",
+      "/zh/blog/influencer-content-licensing-paid-media-schedule/",
+      "/zh/blog/influencer-campaign-budget-planning/#interactive-tool"
+    ],
+    "bodyCitations": [
+      "https://www.pewresearch.org/journalism/2024/11/18/americas-news-influencers/",
+      "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+      "https://www.copyright.gov/what-is-copyright/"
+    ],
+    "englishBodyWords": 1657
+  },
+  {
+    "slug": "influencers-types-for-brand-teams",
+    "language": "en",
+    "bodyInternalLinks": [
+      "/blog/free-instagram-influencer-search-follower-filter/",
+      "/blog/engagement-rate-denominators/",
+      "/blog/price-creator-exclusivity/#interactive-tool",
+      "/blog/personalized-creator-outreach/",
+      "/blog/evaluate-creator-rate-cards/#interactive-tool",
+      "/blog/influencer-content-licensing-paid-media-schedule/",
+      "/blog/write-a-useful-campaign-brief/#interactive-tool",
+      "/blog/influencer-campaign-budget-planning/#interactive-tool",
+      "/blog/personalized-creator-outreach/#interactive-tool"
+    ],
+    "bodyCitations": [
+      "https://www.pewresearch.org/journalism/2024/11/18/americas-news-influencers/",
+      "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+      "https://www.copyright.gov/what-is-copyright/"
+    ],
+    "englishBodyWords": 1657
+  }
+]

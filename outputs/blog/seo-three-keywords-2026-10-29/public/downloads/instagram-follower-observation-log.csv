@@ -1,0 +1,2 @@
+﻿account_url/账号链接,account_id_if_available/可用账号标识,handle/用户名,observed_at_iso/观察时间ISO,time_zone/时区,display_value/原始显示值,exact_count_if_verified/已核验精确值,precision/精度,source_type/来源类型,source_reference/来源记录,window_start/窗口开始,window_end/窗口结束,data_status/数据状态,event_context/事件背景,evidence_owner/证据负责人,next_question/待确认问题
+,,,,,,,,,,,,,,,
