@@ -1,0 +1,499 @@
+{
+  "checkedAt": "2026-10-30",
+  "pages": 18,
+  "passed": true,
+  "errors": [],
+  "records": [
+    {
+      "slug": "top-beauty-influencers-claims-review",
+      "locale": "zh",
+      "route": "/zh/blog/top-beauty-influencers-claims-review/",
+      "h1": "美妆达人研究名单：区分使用体验、技巧和产品主张",
+      "title": "美妆达人研究名单：区分使用体验、技巧和产品主张 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/top-beauty-influencers-claims-review/",
+      "description": "研究 top beauty influencers：参考 Lab Muffin 与 Lisa Eldridge 的一方资料，区分体验、技巧和产品主张，准备证据、披露与剪辑审核。",
+      "cover": "/assets/blog/top-beauty-influencers-claims-review.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/top-beauty-influencers-claims-review.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/top-beauty-influencers-by-content-job/#answer",
+        "/zh/blog/influencer-product-seeding-logistics/#interactive-tool",
+        "/zh/blog/influencer-content-licensing-paid-media-schedule/#answer",
+        "/zh/blog/creator-usage-rights-renewal/#evidence-table",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://labmuffin.com/about-michelle/",
+        "https://www.lisaeldridge.com/pages/my-world",
+        "https://www.fda.gov/cosmetics/cosmetics-labeling/cosmetics-labeling-claims",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "top-beauty-influencers-claims-review",
+      "locale": "en",
+      "route": "/blog/top-beauty-influencers-claims-review/",
+      "h1": "Top Beauty Influencers: Separate Experience From Product Claims",
+      "title": "Top Beauty Influencers: Separate Experience From Product Claims | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/top-beauty-influencers-claims-review/",
+      "description": "Research top beauty influencers through first-party examples, separating experience, technique and product claims with evidence, disclosure and editing checks.",
+      "cover": "/assets/blog/top-beauty-influencers-claims-review.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/top-beauty-influencers-claims-review.jpg",
+      "bodyInternalLinks": [
+        "/blog/creator-product-claims-review/#evidence-table",
+        "/blog/top-beauty-influencers-by-content-job/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/influencer-content-licensing-paid-media-schedule/#answer",
+        "/blog/creator-usage-rights-renewal/#evidence-table",
+        "/blog/creator-shortlist-workflow/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://labmuffin.com/about-michelle/",
+        "https://www.lisaeldridge.com/pages/my-world",
+        "https://www.fda.gov/cosmetics/cosmetics-labeling/cosmetics-labeling-claims",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "top-travel-influencers-itinerary-feasibility",
+      "locale": "zh",
+      "route": "/zh/blog/top-travel-influencers-itinerary-feasibility/",
+      "h1": "旅行达人研究名单：先确认行程能否拍摄与履约",
+      "title": "旅行达人研究名单：先确认行程能否拍摄与履约 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/top-travel-influencers-itinerary-feasibility/",
+      "description": "研究 top travel influencers 时，参考 Hey Nadine、Kara and Nate 与 Oneika Raymond 的一方入口，先核对拍摄行程、许可、依赖和取消安排。",
+      "cover": "/assets/blog/top-travel-influencers-itinerary-feasibility.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/top-travel-influencers-itinerary-feasibility.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/best-influencer-platform-for-travel-niche-creators/#answer",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/creator-usage-rights-renewal/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://www.heynadine.com/about/",
+        "https://karaandnate.com/about-us/",
+        "https://www.oneikathetraveller.com/about-oneika-2",
+        "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "top-travel-influencers-itinerary-feasibility",
+      "locale": "en",
+      "route": "/blog/top-travel-influencers-itinerary-feasibility/",
+      "h1": "Top Travel Influencers: Check Itinerary Feasibility Before Booking",
+      "title": "Top Travel Influencers: Check Itinerary Feasibility Before Booking | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/top-travel-influencers-itinerary-feasibility/",
+      "description": "Research top travel influencers through first-party examples, then verify filming itineraries, location permissions, dependencies and change arrangements.",
+      "cover": "/assets/blog/top-travel-influencers-itinerary-feasibility.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/top-travel-influencers-itinerary-feasibility.jpg",
+      "bodyInternalLinks": [
+        "/blog/best-influencer-platform-for-travel-niche-creators/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/creator-usage-rights-renewal/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://www.heynadine.com/about/",
+        "https://karaandnate.com/about-us/",
+        "https://www.oneikathetraveller.com/about-oneika-2",
+        "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "fashion-influencers-repeat-wear-brief",
+      "locale": "zh",
+      "route": "/zh/blog/fashion-influencers-repeat-wear-brief/",
+      "h1": "服装达人合作：围绕重复穿搭、版型与护理设计内容",
+      "title": "服装达人合作：围绕重复穿搭、版型与护理设计内容 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/fashion-influencers-repeat-wear-brief/",
+      "description": "与 fashion influencers 策划重复穿搭：参考一方作品入口，明确衣物、场景、版型与护理证据，避免把短期试穿写成耐用或环保结论。",
+      "cover": "/assets/blog/fashion-influencers-repeat-wear-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/fashion-influencers-repeat-wear-brief.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/top-fashion-influencers-styling-assignments/#answer",
+        "/zh/blog/creator-contract-scope-checklist/#answer",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://www.justineleconte.com/",
+        "https://www.allisonbornstein.com/",
+        "https://www.ajabarber.com/",
+        "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "fashion-influencers-repeat-wear-brief",
+      "locale": "en",
+      "route": "/blog/fashion-influencers-repeat-wear-brief/",
+      "h1": "Fashion Influencers: Write a Repeat-Wear Product Brief",
+      "title": "Fashion Influencers: Write a Repeat-Wear Product Brief | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/fashion-influencers-repeat-wear-brief/",
+      "description": "Brief fashion influencers on repeat wear with clear garments, situations, fit and care records, without turning a short trial into durability or green claims.",
+      "cover": "/assets/blog/fashion-influencers-repeat-wear-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/fashion-influencers-repeat-wear-brief.jpg",
+      "bodyInternalLinks": [
+        "/blog/top-fashion-influencers-styling-assignments/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/creator-contract-scope-checklist/#answer",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://www.justineleconte.com/",
+        "https://www.allisonbornstein.com/",
+        "https://www.ajabarber.com/",
+        "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "top-eco-friendly-influencers-repair-reuse",
+      "locale": "zh",
+      "route": "/zh/blog/top-eco-friendly-influencers-repair-reuse/",
+      "h1": "环保达人研究名单：让修补与重复使用成为合作主题",
+      "title": "环保达人研究名单：让修补与重复使用成为合作主题 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/top-eco-friendly-influencers-repair-reuse/",
+      "description": "研究 top eco-friendly influencers 的修补与重用角色，参考 Kathryn Kellogg、Aja Barber、The Sorry Girls，并明确过程观察和环保效益的证据边界。",
+      "cover": "/assets/blog/top-eco-friendly-influencers-repair-reuse.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/top-eco-friendly-influencers-repair-reuse.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/eco-friendly-influencers-claims-and-creator-fit/#answer",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/creator-contract-scope-checklist/#answer"
+      ],
+      "bodyCitations": [
+        "https://www.goingzerowaste.com/page-me/",
+        "https://www.ajabarber.com/",
+        "https://www.thesorrygirls.com/about-us",
+        "https://www.accc.gov.au/business/advertising-and-promotions/environmental-and-sustainability-claims",
+        "https://www.ftc.gov/business-guidance/resources/environmental-claims-summary-green-guides"
+      ],
+      "sourceCount": 5,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "top-eco-friendly-influencers-repair-reuse",
+      "locale": "en",
+      "route": "/blog/top-eco-friendly-influencers-repair-reuse/",
+      "h1": "Top Eco-Friendly Influencers for Repair and Reuse Stories",
+      "title": "Top Eco-Friendly Influencers for Repair and Reuse Stories | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/top-eco-friendly-influencers-repair-reuse/",
+      "description": "Research top eco-friendly influencers for repair and reuse stories while distinguishing observed processes from claims about environmental benefits.",
+      "cover": "/assets/blog/top-eco-friendly-influencers-repair-reuse.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/top-eco-friendly-influencers-repair-reuse.jpg",
+      "bodyInternalLinks": [
+        "/blog/eco-friendly-influencers-claims-and-creator-fit/#answer",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/creator-contract-scope-checklist/#answer"
+      ],
+      "bodyCitations": [
+        "https://www.goingzerowaste.com/page-me/",
+        "https://www.ajabarber.com/",
+        "https://www.thesorrygirls.com/about-us",
+        "https://www.accc.gov.au/business/advertising-and-promotions/environmental-and-sustainability-claims",
+        "https://www.ftc.gov/business-guidance/resources/environmental-claims-summary-green-guides"
+      ],
+      "sourceCount": 5,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "how-to-negotiate-with-influencers-offer-options",
+      "locale": "zh",
+      "route": "/zh/blog/how-to-negotiate-with-influencers-offer-options/",
+      "h1": "如何与达人谈合作：用不同范围方案替代单纯压价",
+      "title": "如何与达人谈合作：用不同范围方案替代单纯压价 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/how-to-negotiate-with-influencers-offer-options/",
+      "description": "学习 how to negotiate with influencers：先核对报价范围，再准备不同交付、许可和排期方案，记录让步与接受条件，避免只要求原范围降价。",
+      "cover": "/assets/blog/how-to-negotiate-with-influencers-offer-options.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/how-to-negotiate-with-influencers-offer-options.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/influencer-rate-card-counteroffer-data-model/#answer",
+        "/zh/blog/influencer-product-seeding-logistics/#interactive-tool",
+        "/zh/blog/creator-negotiation-response-playbook/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://www.pon.harvard.edu/daily/dealmaking-daily/the-benefits-of-multiple-offers/",
+        "https://www.copyright.gov/what-is-copyright/",
+        "https://support.google.com/youtube/answer/15672082?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "how-to-negotiate-with-influencers-offer-options",
+      "locale": "en",
+      "route": "/blog/how-to-negotiate-with-influencers-offer-options/",
+      "h1": "How to Negotiate With Influencers Using Clear Offer Options",
+      "title": "How to Negotiate With Influencers Using Clear Offer Options | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/how-to-negotiate-with-influencers-offer-options/",
+      "description": "Learn how to negotiate with influencers through clear scope, usage and timing options, documented tradeoffs and a complete record of accepted terms.",
+      "cover": "/assets/blog/how-to-negotiate-with-influencers-offer-options.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/how-to-negotiate-with-influencers-offer-options.jpg",
+      "bodyInternalLinks": [
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/influencer-rate-card-counteroffer-data-model/#answer",
+        "/blog/price-creator-exclusivity/#interactive-tool",
+        "/blog/creator-negotiation-response-playbook/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://www.pon.harvard.edu/daily/dealmaking-daily/the-benefits-of-multiple-offers/",
+        "https://www.copyright.gov/what-is-copyright/",
+        "https://support.google.com/youtube/answer/15672082?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "how-to-see-followers-countries-evidence",
+      "locale": "zh",
+      "route": "/zh/blog/how-to-see-followers-countries-evidence/",
+      "h1": "怎么看粉丝来自哪些国家？先确认指标、权限与缺失值",
+      "title": "怎么看粉丝来自哪些国家？先确认指标、权限与缺失值 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/how-to-see-followers-countries-evidence/",
+      "description": "想知道 how to see your followers countries？先确认自有或获授权账号，核对粉丝与观看受众、国家字段、时间和来源，避免根据语言猜地区。",
+      "cover": "/assets/blog/how-to-see-followers-countries-evidence.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/how-to-see-followers-countries-evidence.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/audit-creator-audience-quality/#answer",
+        "/zh/blog/creator-retention-watch-time/#interactive-tool",
+        "/zh/blog/creator-metric-definitions/#answer"
+      ],
+      "bodyCitations": [
+        "https://www.postman.com/meta/instagram/collection/6yqw8pt/instagram-api",
+        "https://support.google.com/youtube/answer/9314416?hl=en",
+        "https://support.google.com/youtube/answer/9101241?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "how-to-see-followers-countries-evidence",
+      "locale": "en",
+      "route": "/blog/how-to-see-followers-countries-evidence/",
+      "h1": "How to See Your Followers’ Countries Without Mixing Metrics",
+      "title": "How to See Your Followers’ Countries Without Mixing Metrics | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/how-to-see-followers-countries-evidence/",
+      "description": "Learn how to see your followers’ countries by checking account access, audience objects, country fields, timing and sources without guessing from language.",
+      "cover": "/assets/blog/how-to-see-followers-countries-evidence.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/how-to-see-followers-countries-evidence.jpg",
+      "bodyInternalLinks": [
+        "/blog/audit-creator-audience-quality/#answer",
+        "/blog/creator-retention-watch-time/#interactive-tool",
+        "/blog/creator-metric-definitions/#answer",
+        "/blog/creator-shortlist-workflow/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://www.postman.com/meta/instagram/collection/6yqw8pt/instagram-api",
+        "https://support.google.com/youtube/answer/9314416?hl=en",
+        "https://support.google.com/youtube/answer/9101241?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "what-is-a-media-kit-brand-review",
+      "locale": "zh",
+      "route": "/zh/blog/what-is-a-media-kit-brand-review/",
+      "h1": "什么是 Media Kit？品牌如何核对达人资料与合作范围",
+      "title": "什么是 Media Kit？品牌如何核对达人资料与合作范围 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/what-is-a-media-kit-brand-review/",
+      "description": "What is a media kit？了解达人资料包包含什么，品牌怎样核对身份、作品、受众与合作范围，并用中英文证据索引 CSV 记录下一问题。",
+      "cover": "/assets/blog/what-is-a-media-kit-brand-review.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/what-is-a-media-kit-brand-review.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/creator-shortlist-workflow/#answer",
+        "/zh/blog/creator-retention-watch-time/#interactive-tool",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/personalized-creator-outreach/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/youtube/answer/9385307?hl=en",
+        "https://support.google.com/youtube/answer/9314416?hl=en",
+        "https://www.copyright.gov/what-is-copyright/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "what-is-a-media-kit-brand-review",
+      "locale": "en",
+      "route": "/blog/what-is-a-media-kit-brand-review/",
+      "h1": "What Is a Media Kit? A Brand’s Guide to Reviewing Creator Evidence",
+      "title": "What Is a Media Kit? A Brand’s Guide to Reviewing Creator Evidence | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/what-is-a-media-kit-brand-review/",
+      "description": "What is a media kit? Review creator identity, work, audience evidence and partnership scope with a downloadable evidence index for brand decisions.",
+      "cover": "/assets/blog/what-is-a-media-kit-brand-review.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/what-is-a-media-kit-brand-review.jpg",
+      "bodyInternalLinks": [
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/creator-shortlist-workflow/#answer",
+        "/blog/creator-retention-watch-time/#interactive-tool",
+        "/blog/creator-shortlist-workflow/#evidence-table",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/personalized-creator-outreach/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/youtube/answer/9385307?hl=en",
+        "https://support.google.com/youtube/answer/9314416?hl=en",
+        "https://www.copyright.gov/what-is-copyright/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "car-youtubers-long-term-loan-brief",
+      "locale": "zh",
+      "route": "/zh/blog/car-youtubers-long-term-loan-brief/",
+      "h1": "Car YouTubers 合作：长期样车借用与评测交接要点",
+      "title": "Car YouTubers 合作：长期样车借用与评测交接要点 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/car-youtubers-long-term-loan-brief/",
+      "description": "与 car YouTubers 规划长期样车合作：研究作品，明确车型与软件、驾驶和拍摄条件、体验时间、披露、故障及归还，保留独立判断。",
+      "cover": "/assets/blog/car-youtubers-long-term-loan-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/car-youtubers-long-term-loan-brief.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/car-youtubers-automotive-campaigns/#answer",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/influencer-product-seeding-logistics/#answer",
+        "/zh/blog/personalized-creator-outreach/#interactive-tool",
+        "/zh/blog/detect-suspicious-creator-growth/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://www.savagegeese.com/",
+        "https://www.thethrottlehouse.com/",
+        "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+        "https://support.google.com/youtube/answer/154235?hl=en"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "car-youtubers-long-term-loan-brief",
+      "locale": "en",
+      "route": "/blog/car-youtubers-long-term-loan-brief/",
+      "h1": "Car YouTubers: Scope a Long-Term Vehicle Loan and Review",
+      "title": "Car YouTubers: Scope a Long-Term Vehicle Loan and Review | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/car-youtubers-long-term-loan-brief/",
+      "description": "Scope car YouTubers partnerships with vehicle versions, loan conditions, experience time, disclosure, fault handling, return records and editorial judgment.",
+      "cover": "/assets/blog/car-youtubers-long-term-loan-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/car-youtubers-long-term-loan-brief.jpg",
+      "bodyInternalLinks": [
+        "/blog/car-youtubers-automotive-campaigns/#answer",
+        "/blog/influencer-product-seeding-logistics/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/personalized-creator-outreach/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://www.savagegeese.com/",
+        "https://www.thethrottlehouse.com/",
+        "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+        "https://support.google.com/youtube/answer/154235?hl=en"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "entrepreneurship-micro-influencers-instagram-au-verification",
+      "locale": "zh",
+      "route": "/zh/blog/entrepreneurship-micro-influencers-instagram-au-verification/",
+      "h1": "澳洲 Instagram 创业微型达人：核验地区、规模和合作准备度",
+      "title": "澳洲 Instagram 创业微型达人：核验地区、规模和合作准备度 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/entrepreneurship-micro-influencers-instagram-au-verification/",
+      "description": "研究 entrepreneurship micro influencers Instagram AU：定义澳大利亚任务与内部规模区间，核对个人或企业账号、地区证据、作品和披露。",
+      "cover": "/assets/blog/entrepreneurship-micro-influencers-instagram-au-verification.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/entrepreneurship-micro-influencers-instagram-au-verification.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/australian-entrepreneurship-micro-influencers-business-education/#answer",
+        "/zh/blog/verify-creator-brand-safety/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://www.postman.com/meta/instagram/collection/6yqw8pt/instagram-api",
+        "https://www.accc.gov.au/business/advertising-and-promotions/social-media-promotions",
+        "https://www.accc.gov.au/system/files/social-media-influencer-testimonials.pdf"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "entrepreneurship-micro-influencers-instagram-au-verification",
+      "locale": "en",
+      "route": "/blog/entrepreneurship-micro-influencers-instagram-au-verification/",
+      "h1": "Entrepreneurship Micro Influencers on Instagram AU: Verify the Fit",
+      "title": "Entrepreneurship Micro Influencers on Instagram AU: Verify the Fit | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/entrepreneurship-micro-influencers-instagram-au-verification/",
+      "description": "Research entrepreneurship micro influencers on Instagram AU through dated scale, Australian relevance, account identity, work evidence and partnership readiness.",
+      "cover": "/assets/blog/entrepreneurship-micro-influencers-instagram-au-verification.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/entrepreneurship-micro-influencers-instagram-au-verification.jpg",
+      "bodyInternalLinks": [
+        "/blog/australian-entrepreneurship-micro-influencers-business-education/#answer",
+        "/blog/verify-creator-brand-safety/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/creator-shortlist-workflow/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://www.postman.com/meta/instagram/collection/6yqw8pt/instagram-api",
+        "https://www.accc.gov.au/business/advertising-and-promotions/social-media-promotions",
+        "https://www.accc.gov.au/system/files/social-media-influencer-testimonials.pdf"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    }
+  ],
+  "scope": "Last nine articles extracted from the successful 50-page local audit; no production deployment."
+}

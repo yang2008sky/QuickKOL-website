@@ -1,0 +1,44 @@
+[
+  {
+    "id": 17,
+    "prompt": "Use case: photorealistic-natural. Asset type: QuickKOL blog editorial cover, wide landscape approximately 16:9. Primary request: No people. Editorial still life of unbranded cream cosmetic tubes with blank labels, three small glass dishes holding neutral makeup swatches, a clean black makeup brush and cobalt ceramic tray on a coral and cream worktop. Environment / objects visual family. Side-lit natural window light; tactile surfaces, no medical equipment, no before-after skin claims. Bright contemporary mixed creator-economy editorial. Cream and black base, one or two bold cobalt and coral #ff484a accents. Clear at thumbnail size, safe crop margins, realistic materials. No text, lettering, logos, numbers, watermark, fabricated software interfaces, performance charts, named influencers or actual customers. Deliver one finished image.",
+    "method": "Built-in image_gen",
+    "inspected": true,
+    "originalRasterArchive": "Retained in local workspace; final JPEG supplied."
+  },
+  {
+    "id": 18,
+    "prompt": "Use case: photorealistic-natural. Asset type: QuickKOL blog editorial cover, wide landscape approximately 16:9. Primary request: Two fictional adult travel creators in a bright outdoor station forecourt: a Black woman presenter wearing a coral jacket discusses a blank folded paper itinerary with an Asian male producer holding a compact camera. Cream stone architecture, cobalt travel bag, no recognizable monument or transport brand. Human documentary visual family, candid filming preparation, plausible hands and daylight. Bright contemporary mixed creator-economy editorial. Cream and black base, one or two bold cobalt and coral #ff484a accents. Clear at thumbnail size, safe crop margins, realistic materials. No text, lettering, logos, numbers, watermark, fabricated software interfaces, performance charts, named influencers or actual customers. Deliver one finished image.",
+    "method": "Built-in image_gen",
+    "inspected": true,
+    "originalRasterArchive": "Retained in local workspace; final JPEG supplied."
+  },
+  {
+    "id": 19,
+    "prompt": "Use case: photorealistic-natural. Asset type: QuickKOL blog cover, wide landscape approximately 16:9. Primary request: Solo creator visual family. A fictional adult woman fashion creator in a black top and cobalt trousers re-styles one cream blazer on a garment rail in a bright compact wardrobe studio. A coral scarf and simple black shoes on a cream bench. She thoughtfully holds a sleeve to inspect fit, natural hands, candid medium-wide view, not a fashion runway or glamour pose. Bright mixed creator-economy editorial, cream and black with one or two cobalt and coral #ff484a accents. Safe crop margins and clear thumbnail silhouette. No words, lettering, logos, numbers, watermarks, performance charts or recognizable software. No resemblance to a named person, no actual client or product. Deliver one finished image.",
+    "method": "Built-in image_gen",
+    "inspected": true,
+    "originalRasterArchive": "Retained in local workspace; final JPEG supplied."
+  },
+  {
+    "id": 20,
+    "prompt": "Use case: photorealistic-natural. Asset type: QuickKOL blog cover, wide landscape approximately 16:9. Primary request: Human documentary visual family. Two fictional adult creators in a bright home repair workshop mending a worn cotton tote at a table: one threads a needle through a small fabric patch while another prepares a phone camera on a small tripod. Cream daylight, cobalt tool tray and coral thread, believable simple handwork, visibly used material rather than a pristine new shopping display. Bright mixed creator-economy editorial, cream and black with one or two cobalt and coral #ff484a accents. Safe crop margins and clear thumbnail silhouette. No words, lettering, logos, numbers, watermarks, performance charts or recognizable software. No resemblance to a named person, no actual client or product. Deliver one finished image.",
+    "method": "Built-in image_gen",
+    "inspected": true,
+    "originalRasterArchive": "Retained in local workspace; final JPEG supplied."
+  },
+  {
+    "id": 23,
+    "prompt": "Use case: photorealistic-natural. Asset type: QuickKOL blog cover, wide landscape approximately 16:9. Primary request: Environment / objects visual family. No people. Wide editorial still life of an open blank cream portfolio booklet, a folded blank paper index, black binder clip, cobalt pen and coral envelope on a sunlit travertine desk. One small empty photo frame. Strong clear composition suggesting reviewing a creator media kit; pages entirely blank, not a fake dashboard. Bright mixed creator-economy editorial, cream and black with one or two cobalt and coral #ff484a accents. Safe crop margins and clear thumbnail silhouette. No words, lettering, logos, numbers, watermarks, performance charts or recognizable software. No resemblance to a named person, no actual client or product. Deliver one finished image.",
+    "method": "Built-in image_gen",
+    "inspected": true,
+    "originalRasterArchive": "Retained in local workspace; final JPEG supplied."
+  },
+  {
+    "id": 24,
+    "prompt": "Use case: photorealistic-natural. Asset type: QuickKOL blog editorial cover, wide landscape approximately 16:9. Solo creator visual family. A fictional adult male automotive reviewer in a cobalt work jacket stands beside a stationary unbranded cream hatchback in a bright independent garage. The hood is safely open and he points at a simple inspection note card with no words while preparing a camera on a fixed tripod. No driving, no dangerous work, no recognizable vehicle badge, no license plate. Coral tool chest, black camera, warm daylight. Candid credible hand positions, medium-wide view, realistic workshop materials. Clear thumbnail subject and generous crop margins. Bright mixed creator-economy editorial, cream and black with restrained cobalt and #ff484a accents. No text, letters, logos, numbers, watermark, fabricated metrics or software, and no resemblance to any named creator. Deliver one finished image.",
+    "method": "Built-in image_gen",
+    "inspected": true,
+    "originalRasterArchive": "Retained in local workspace; final JPEG supplied."
+  }
+]

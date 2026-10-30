@@ -1,0 +1,110 @@
+[
+  {
+    "id": 17,
+    "keyword": "top beauty influencers",
+    "slug": "top-beauty-influencers-claims-review",
+    "topic": "discovery",
+    "title": [
+      "美妆达人研究名单：区分使用体验、技巧和产品主张",
+      "Top Beauty Influencers: Separate Experience From Product Claims"
+    ],
+    "angle": "科学解释、化妆教学及品牌自有产品的主张审核，不重复试色/技巧选人清单",
+    "family": "Environment / objects"
+  },
+  {
+    "id": 18,
+    "keyword": "top travel influencers",
+    "slug": "top-travel-influencers-itinerary-feasibility",
+    "topic": "discovery",
+    "title": [
+      "旅行达人研究名单：先确认行程能否拍摄与履约",
+      "Top Travel Influencers: Check Itinerary Feasibility Before Booking"
+    ],
+    "angle": "旅行叙事参考与实际行程、许可、季节、取消条件，不重复旅行平台采购",
+    "family": "Human documentary"
+  },
+  {
+    "id": 19,
+    "keyword": "fashion influencers",
+    "slug": "fashion-influencers-repeat-wear-brief",
+    "topic": "discovery",
+    "title": [
+      "服装达人合作：围绕重复穿搭、版型与护理设计内容",
+      "Fashion Influencers: Write a Repeat-Wear Product Brief"
+    ],
+    "angle": "衣物反复使用的作品证据和交付安排，不重复一般造型任务或法语市场",
+    "family": "Solo creator"
+  },
+  {
+    "id": 20,
+    "keyword": "top eco-friendly influencers",
+    "slug": "top-eco-friendly-influencers-repair-reuse",
+    "topic": "discovery",
+    "title": [
+      "环保达人研究名单：让修补与重复使用成为合作主题",
+      "Top Eco-Friendly Influencers for Repair and Reuse Stories"
+    ],
+    "angle": "Kathryn Kellogg、Aja Barber、The Sorry Girls 的不同公开作品入口；重用与修补任务，不重复环保话题初选",
+    "family": "Human documentary"
+  },
+  {
+    "id": 21,
+    "keyword": "how to negotiate with influencers",
+    "slug": "how-to-negotiate-with-influencers-offer-options",
+    "topic": "commercial",
+    "title": [
+      "如何与达人谈合作：用不同范围方案替代单纯压价",
+      "How to Negotiate With Influencers Using Clear Offer Options"
+    ],
+    "angle": "同时准备可比较的范围方案与让步记录，不重复反报价字段模型",
+    "family": "Editorial collage / data art"
+  },
+  {
+    "id": 22,
+    "keyword": "how to see your followers countries",
+    "slug": "how-to-see-followers-countries-evidence",
+    "topic": "analytics",
+    "title": [
+      "怎么看粉丝来自哪些国家？先确认指标、权限与缺失值",
+      "How to See Your Followers’ Countries Without Mixing Metrics"
+    ],
+    "angle": "国家数据的账号访问、粉丝/观看/触达群体区别，不从语言和创作者所在地推算",
+    "family": "Type / background"
+  },
+  {
+    "id": 23,
+    "keyword": "what is a media kit",
+    "slug": "what-is-a-media-kit-brand-review",
+    "topic": "outreach",
+    "title": [
+      "什么是 Media Kit？品牌如何核对达人资料与合作范围",
+      "What Is a Media Kit? A Brand’s Guide to Reviewing Creator Evidence"
+    ],
+    "angle": "资料包作为初筛而非证明或报价合同，附可下载证据索引",
+    "family": "Environment / objects"
+  },
+  {
+    "id": 24,
+    "keyword": "car youtubers",
+    "slug": "car-youtubers-long-term-loan-brief",
+    "topic": "discovery",
+    "title": [
+      "Car YouTubers 合作：长期样车借用与评测交接要点",
+      "Car YouTubers: Scope a Long-Term Vehicle Loan and Review"
+    ],
+    "angle": "样车交接、条件、版本和归还，不能购买正面结论，不重复维修/工程/评测分类",
+    "family": "Solo creator"
+  },
+  {
+    "id": 25,
+    "keyword": "entrepreneurship micro influencers instagram au",
+    "slug": "entrepreneurship-micro-influencers-instagram-au-verification",
+    "topic": "discovery",
+    "title": [
+      "澳洲 Instagram 创业微型达人：核验地区、规模和合作准备度",
+      "Entrepreneurship Micro Influencers on Instagram AU: Verify the Fit"
+    ],
+    "angle": "AU 指澳大利亚；核验个人/企业账号、观察日规模和当地履约证据，不重复业务教学任务分类；不编造已达标实时名单",
+    "family": "Type / background"
+  }
+]

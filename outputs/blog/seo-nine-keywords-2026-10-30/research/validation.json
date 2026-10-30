@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-10-30",
+  "localBuild": {
+    "passed": true,
+    "entrypoints": 595,
+    "relatedTestsPassed": 6
+  },
+  "visualScope": "All covers inspected; representative desktop lists and beauty article, mobile Media Kit page inspected. Full manual visual review of every article is not claimed.",
+  "downloads": {
+    "zh": "Downloaded successfully through browser and CSV header read",
+    "en": "Downloaded successfully through browser and CSV header read"
+  },
+  "liveInternalLinkScope": "Local generated HTML destinations and fragments checked. No separate live production URL audit for these nine.",
+  "researchDates": [
+    "2026-10-29",
+    "2026-10-30"
+  ]
+}
