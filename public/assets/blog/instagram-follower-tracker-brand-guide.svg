@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941">
+<title>Track change. Check context.</title><desc>Conceptual editorial artwork with two observation cards and a magnifying glass. No actual follower metrics or interface are shown.</desc>
+<rect width="1672" height="941" fill="#f7f2e8"/>
+<circle cx="1600" cy="85" r="255" fill="#e6eaff"/>
+<path d="M0 830L1672 710V941H0Z" fill="#efe7d7"/>
+<rect x="112" y="128" width="75" height="12" rx="6" fill="#ff484a"/>
+<text x="112" y="200" font-family="Helvetica,Arial,sans-serif" font-size="27" font-weight="700" letter-spacing="5" fill="#3e4146">FOLLOWER RESEARCH</text>
+<text x="105" y="345" font-family="Helvetica,Arial,sans-serif" font-size="97" font-weight="800" letter-spacing="-4" fill="#131619">TRACK</text>
+<text x="105" y="448" font-family="Helvetica,Arial,sans-serif" font-size="97" font-weight="800" letter-spacing="-4" fill="#131619">CHANGE.</text>
+<text x="105" y="596" font-family="Helvetica,Arial,sans-serif" font-size="97" font-weight="800" letter-spacing="-4" fill="#2455ed">CHECK</text>
+<text x="105" y="699" font-family="Helvetica,Arial,sans-serif" font-size="97" font-weight="800" letter-spacing="-4" fill="#2455ed">CONTEXT.</text>
+<g transform="rotate(-9 1050 350)"><rect x="860" y="180" width="365" height="370" rx="24" fill="#d8d3c9"/><rect x="848" y="164" width="365" height="370" rx="24" fill="#ffffff" stroke="#131619" stroke-width="4"/>
+<path d="M887 218H981" stroke="#131619" stroke-width="10" stroke-linecap="round"/>
+<g fill="#2455ed"><circle cx="912" cy="312" r="24"/><circle cx="1004" cy="312" r="24"/><circle cx="1096" cy="312" r="24"/><circle cx="912" cy="400" r="24"/><circle cx="1004" cy="400" r="24"/></g><circle cx="1096" cy="400" r="24" fill="#e9eaf1"/>
+</g>
+<g transform="rotate(8 1290 620)"><rect x="1090" y="444" width="365" height="335" rx="24" fill="#d8d3c9"/><rect x="1078" y="428" width="365" height="335" rx="24" fill="#ffffff" stroke="#131619" stroke-width="4"/>
+<path d="M1118 484H1212" stroke="#131619" stroke-width="10" stroke-linecap="round"/>
+<g fill="#2455ed"><circle cx="1141" cy="578" r="24"/><circle cx="1233" cy="578" r="24"/><circle cx="1325" cy="578" r="24"/><circle cx="1141" cy="666" r="24"/><circle cx="1325" cy="666" r="24"/></g><circle cx="1233" cy="666" r="24" fill="#e9eaf1"/>
+</g>
+<g transform="rotate(-25 1360 355)"><path d="M1360 435V585" stroke="#131619" stroke-width="29" stroke-linecap="round"/><circle cx="1360" cy="355" r="102" fill="#fff8" stroke="#ff484a" stroke-width="29"/></g>
+<path d="M850 640q-105-5-89-112" fill="none" stroke="#ff484a" stroke-width="11" stroke-linecap="round" stroke-dasharray="2 24"/>
+<circle cx="805" cy="770" r="12" fill="#f1cb59"/>
+</svg>
