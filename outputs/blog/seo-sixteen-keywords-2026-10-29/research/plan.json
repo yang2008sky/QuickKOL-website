@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "keyword": "ugc creator",
+    "slug": "ugc-creator-product-demonstration-commission",
+    "topic": "commercial",
+    "title": [
+      "如何委托 UGC Creator 制作产品演示：从试用到验收",
+      "UGC Creator: Commission a Product Demonstration That Works"
+    ],
+    "angle": "委托制作与账号发布分开购买，检查真实使用及交付验收；不同于现有 UGC 测试变量文章",
+    "family": "Human documentary"
+  },
+  {
+    "id": 2,
+    "keyword": "tiktok trends",
+    "slug": "tiktok-trends-regional-research-log",
+    "topic": "discovery",
+    "title": [
+      "TikTok 趋势研究：按地区、时间和内容语境建立记录",
+      "TikTok Trends: Build a Regional Research Log for Brands"
+    ],
+    "angle": "研究信号采集和样本语境，不冒充实时热门榜；不同于营销趋势总览",
+    "family": "Editorial collage / data art"
+  },
+  {
+    "id": 3,
+    "keyword": "influencers",
+    "slug": "influencers-buyer-stage-roles",
+    "topic": "campaign",
+    "title": [
+      "如何按客户决策阶段安排 Influencers 的内容角色",
+      "Influencers: Match Creator Roles to the Buying Journey"
+    ],
+    "angle": "发现、比较、实施三个买方任务之间的内容衔接，不重复达人定义和规模分类",
+    "family": "Type / background"
+  },
+  {
+    "id": 4,
+    "keyword": "influencer marketing",
+    "slug": "influencer-marketing-operating-model",
+    "topic": "campaign",
+    "title": [
+      "达人营销如何分工：建立需求、预算和审批责任机制",
+      "Influencer Marketing: Build a Practical Operating Model"
+    ],
+    "angle": "多团队需求受理、预算权和责任分工，不重复先前三篇中的项目规划总览",
+    "family": "Environment / objects"
+  },
+  {
+    "id": 5,
+    "keyword": "instagram follower tracker",
+    "slug": "instagram-follower-tracker-campaign-observation",
+    "topic": "analytics",
+    "title": [
+      "Instagram 粉丝追踪如何服务 Campaign 观察与解释",
+      "Instagram Follower Tracker: Read a Campaign Observation Window"
+    ],
+    "angle": "活动前中后的观察窗口、事件背景和非因果解释，不重复总量记录和两源对账",
+    "family": "Editorial collage / data art"
+  },
+  {
+    "id": 6,
+    "keyword": "influencer",
+    "slug": "influencer-expert-interview-brief",
+    "topic": "outreach",
+    "title": [
+      "与专业达人合作访谈：把专家观点变成有用内容",
+      "Working With an Influencer: Write an Expert Interview Brief"
+    ],
+    "angle": "B2B 专业访谈的提问、证据边界和事实核对，不重复 influencer 定义",
+    "family": "Solo creator"
+  },
+  {
+    "id": 7,
+    "keyword": "ugc creator",
+    "slug": "ugc-creator-editing-rights-version-matrix",
+    "topic": "commercial",
+    "title": [
+      "UGC Creator 素材交接：剪辑版本、授权与到期管理",
+      "UGC Creator Assets: Build an Editing and Rights Version Matrix"
+    ],
+    "angle": "拍摄完成后的剪辑、版本与许可生命周期，与第1篇委托开工区分",
+    "family": "Type / background"
+  },
+  {
+    "id": 8,
+    "keyword": "tiktok trends",
+    "slug": "tiktok-trends-response-calendar",
+    "topic": "campaign",
+    "title": [
+      "TikTok 趋势响应排期：何时参与、何时停止和改写",
+      "TikTok Trends: Create a Response Calendar With Expiry Rules"
+    ],
+    "angle": "从已选趋势到响应、审批、到期和常青改写，与第2篇研究日志区分",
+    "family": "Environment / objects"
+  },
+  {
+    "id": 9,
+    "keyword": "influencers",
+    "slug": "influencers-continuity-replacement-plan",
+    "topic": "campaign",
+    "title": [
+      "达人合作的连续性计划：延期、退出与替补怎么处理",
+      "Influencers: Plan for Delays, Withdrawals and Replacements"
+    ],
+    "angle": "已确认合作发生变动时的连续性与交接，与第3篇买方阶段角色区分",
+    "family": "Editorial collage / data art"
+  },
+  {
+    "id": 10,
+    "keyword": "youtube analytics",
+    "slug": "youtube-analytics-sponsored-content-cohorts",
+    "topic": "analytics",
+    "title": [
+      "YouTube Analytics 品牌报告：用可比内容组评估合作",
+      "YouTube Analytics: Compare Sponsored Content With Fair Cohorts"
+    ],
+    "angle": "内容组、同龄窗口和报告导出，不重复单条视频留存解释",
+    "family": "Type / background"
+  },
+  {
+    "id": 11,
+    "keyword": "tiktok analytics",
+    "slug": "tiktok-analytics-creative-review-windows",
+    "topic": "analytics",
+    "title": [
+      "TikTok Analytics 复盘：给创意、分发和行动不同窗口",
+      "TikTok Analytics: Separate Creative Review From Distribution"
+    ],
+    "angle": "创意诊断与分发、付费、站外行动分别解释，不给统一互动率基准",
+    "family": "Editorial collage / data art"
+  },
+  {
+    "id": 12,
+    "keyword": "instagram analytics",
+    "slug": "instagram-analytics-format-decision-matrix",
+    "topic": "analytics",
+    "title": [
+      "Instagram Analytics：按 Reels、Stories 和图文选择指标",
+      "Instagram Analytics: Match the Report to the Content Format"
+    ],
+    "angle": "跨格式报告可比性与指标变更日志，不重复粉丝追踪或互动率公式",
+    "family": "Environment / objects"
+  },
+  {
+    "id": 13,
+    "keyword": "tiktok influencers",
+    "slug": "tiktok-influencers-three-part-series",
+    "topic": "campaign",
+    "title": [
+      "与 TikTok 达人策划三集内容：让每集承担独立任务",
+      "TikTok Influencers: Brief a Three-Part Product Story"
+    ],
+    "angle": "创作者连续系列的每集任务、依赖、发布前核对和学习，不重复发现工具",
+    "family": "Solo creator"
+  },
+  {
+    "id": 14,
+    "keyword": "top home decor influencers",
+    "slug": "top-home-decor-influencers-room-reveal-timeline",
+    "topic": "discovery",
+    "title": [
+      "家居达人研究名单：围绕房间改造进度选择合作对象",
+      "Top Home Decor Influencers to Study for a Room-Reveal Timeline"
+    ],
+    "angle": "Studio McGee、The Sorry Girls、Lone Fox 一方入口与安装/布置/揭晓时序，不重复租房DIY选人总览",
+    "family": "Human documentary"
+  },
+  {
+    "id": 15,
+    "keyword": "gaming youtubers",
+    "slug": "gaming-youtubers-update-coverage",
+    "topic": "discovery",
+    "title": [
+      "Gaming YouTubers：如何策划游戏更新后的解释与回访",
+      "Gaming YouTubers: Plan Coverage Beyond Launch Day"
+    ],
+    "angle": "游戏更新、补丁证据与后续教学，尊重独立编辑决定，不重复游戏/格式初选",
+    "family": "Type / background"
+  },
+  {
+    "id": 16,
+    "keyword": "top tech influencers",
+    "slug": "top-tech-influencers-evidence-review-brief",
+    "topic": "discovery",
+    "title": [
+      "科技达人研究名单：把评测证据写进合作 Brief",
+      "Top Tech Influencers: Build an Evidence-Led Review Brief"
+    ],
+    "angle": "硬件测试、上手体验和解释分别研究，关注样机版本与可复核事实",
+    "family": "Solo creator"
+  }
+]

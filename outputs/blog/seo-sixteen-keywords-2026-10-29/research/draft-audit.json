@@ -1,0 +1,796 @@
+[
+  {
+    "file": "post-01.mjs",
+    "slug": "ugc-creator-product-demonstration-commission",
+    "englishWords": 1596,
+    "chineseHanzi": 2855,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "ftcFaq",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftc101",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "copyright",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-contract-scope-checklist/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-02.mjs",
+    "slug": "tiktok-trends-regional-research-log",
+    "englishWords": 1610,
+    "chineseHanzi": 2929,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "ttTrends",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ttCreative",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ttRecommend",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ttMusic",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/tiktok-finder-topic-to-creator/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/verify-creator-brand-safety/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-03.mjs",
+    "slug": "influencers-buyer-stage-roles",
+    "englishWords": 1635,
+    "chineseHanzi": 2902,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "iab",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "gaUtm",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcFaq",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-selection-beyond-followers/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-measurement/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-04.mjs",
+    "slug": "influencer-marketing-operating-model",
+    "englishWords": 1604,
+    "chineseHanzi": 2827,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "iab",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytAccess",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "gaUtm",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-campaign-status-system/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/influencer-campaign-platforms-approval-handoffs/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-05.mjs",
+    "slug": "instagram-follower-tracker-campaign-observation",
+    "englishWords": 1578,
+    "chineseHanzi": 2729,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "metaApi",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "metaSpam",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "gaUtm",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/instagram-followers-check-change-log/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/track-influencer-conversions-ga4/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-06.mjs",
+    "slug": "influencer-expert-interview-brief",
+    "englishWords": 1611,
+    "chineseHanzi": 2680,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "ftcFaq",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "copyright",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytPaid",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/personalized-creator-outreach/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-07.mjs",
+    "slug": "ugc-creator-editing-rights-version-matrix",
+    "englishWords": 1579,
+    "chineseHanzi": 2650,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "copyright",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ttMusic",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytAccess",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/influencer-content-licensing-paid-media-schedule/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-ugc-testing-plan/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-08.mjs",
+    "slug": "tiktok-trends-response-calendar",
+    "englishWords": 1603,
+    "chineseHanzi": 2571,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "ttTrends",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ttMusic",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ttDisclosure",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-content-approval-workflow/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-risk-register/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-09.mjs",
+    "slug": "influencers-continuity-replacement-plan",
+    "englishWords": 1614,
+    "chineseHanzi": 2597,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "copyright",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytAccess",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcFaq",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-campaign-risk-register/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-shortlist-workflow/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-10.mjs",
+    "slug": "youtube-analytics-sponsored-content-cohorts",
+    "englishWords": 1607,
+    "chineseHanzi": 2460,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "ytAdvanced",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytAudience",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytLimited",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-retention-watch-time/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-measurement/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-11.mjs",
+    "slug": "tiktok-analytics-creative-review-windows",
+    "englishWords": 1576,
+    "chineseHanzi": 2494,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "ttComments",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ttRecommend",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ttPartner",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "gaUtm",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-campaign-measurement/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/tiktok-engagement-rate-calculator-by-views/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-12.mjs",
+    "slug": "instagram-analytics-format-decision-matrix",
+    "englishWords": 1581,
+    "chineseHanzi": 2471,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "metaApi",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "metaReels",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "metaPlays",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/instagram-influencer-marketing-campaign/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/instagram-engagement-rate-format-matched-definition/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-13.mjs",
+    "slug": "tiktok-influencers-three-part-series",
+    "englishWords": 1568,
+    "chineseHanzi": 2457,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "ttRecommend",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ttDisclosure",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ttMusic",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ttComments",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-ugc-testing-plan/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-14.mjs",
+    "slug": "top-home-decor-influencers-room-reveal-timeline",
+    "englishWords": 1586,
+    "chineseHanzi": 2481,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "studioMcgee",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "sorryGirls",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "loneFox",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftc101",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/home-decor-influencers-project-fit/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/influencer-product-seeding-logistics/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-15.mjs",
+    "slug": "gaming-youtubers-update-coverage",
+    "englishWords": 1572,
+    "chineseHanzi": 2483,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "gmtk",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "gmtkContact",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytPaid",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "copyright",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/gaming-youtubers-brand-partnerships/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-retention-watch-time/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-16.mjs",
+    "slug": "top-tech-influencers-evidence-review-brief",
+    "englishWords": 1536,
+    "chineseHanzi": 2481,
+    "sections": 8,
+    "sources": [
+      {
+        "id": "linus",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ijustine",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcFaq",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytPaid",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-selection-beyond-followers/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/influencer-product-seeding-logistics/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  }
+]

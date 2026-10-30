@@ -1,0 +1,366 @@
+{
+  "ftc101": {
+    "terms": [
+      "FTC 披露指南",
+      "FTC disclosure guidance"
+    ],
+    "label": [
+      "FTC：Disclosures 101（美国，2019）",
+      "FTC: Disclosures 101 (US, 2019)"
+    ],
+    "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+    "claim": "重要品牌关系需适当披露；不将美国指导当作全球统一规则",
+    "reviewedAt": "2026-10-29"
+  },
+  "ftcFaq": {
+    "terms": [
+      "FTC 背书问答",
+      "FTC endorsement FAQ"
+    ],
+    "label": [
+      "FTC：背书指南问答",
+      "FTC: Endorsement Guides—What People Are Asking"
+    ],
+    "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+    "claim": "广告背书与重要品牌关系；不以此证明具体项目合规或商业效果",
+    "reviewedAt": "2026-10-29"
+  },
+  "copyright": {
+    "terms": [
+      "美国版权局版权说明",
+      "U.S. Copyright Office overview"
+    ],
+    "label": [
+      "美国版权局：What is Copyright?",
+      "U.S. Copyright Office: What is Copyright?"
+    ],
+    "url": "https://www.copyright.gov/what-is-copyright/",
+    "claim": "原创表达与许可；不是付款即获得无限使用权",
+    "reviewedAt": "2026-10-29"
+  },
+  "ttTrends": {
+    "terms": [
+      "TikTok 趋势使用说明",
+      "TikTok Trends instructions"
+    ],
+    "label": [
+      "TikTok：How to Use Trends（2026年7月更新）",
+      "TikTok: How to Use Trends (updated July 2026)"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/how-to-use-trends?lang=en-GB",
+    "claim": "行业、时间及话题分析等研究入口；不支持未取得的实时榜单",
+    "reviewedAt": "2026-10-29"
+  },
+  "ttCreative": {
+    "terms": [
+      "TikTok Creative Center 说明",
+      "TikTok Creative Center overview"
+    ],
+    "label": [
+      "TikTok：About Creative Center",
+      "TikTok: About Creative Center"
+    ],
+    "url": "https://ads.tiktok.com/help/article/creative-center?lang=en",
+    "claim": "公开创意资源、广告示例与趋势用途；平台展示不代表品牌效果",
+    "reviewedAt": "2026-10-29"
+  },
+  "ttMusic": {
+    "terms": [
+      "TikTok 商业音乐库指南",
+      "TikTok Commercial Music Library guide"
+    ],
+    "label": [
+      "TikTok：How to Use the Commercial Music Library（2026年7月）",
+      "TikTok: Commercial Music Library (July 2026)"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/how-to-use-the-commercial-music-library?lang=en-GB",
+    "claim": "商业音乐可用地区与使用场景需核对，不泛化为全平台无限许可",
+    "reviewedAt": "2026-10-29"
+  },
+  "ttDisclosure": {
+    "terms": [
+      "TikTok 商业内容披露说明",
+      "TikTok commercial content disclosure instructions"
+    ],
+    "label": [
+      "TikTok：Commercial Content Disclosure（2026年1月）",
+      "TikTok: Commercial Content Disclosure (January 2026)"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/how-to-turn-on-the-commercial-content-disclosure-setting-in-tiktok?lang=en-GB",
+    "claim": "推广品牌、产品或服务的内容要求开启商业披露；不替代适用地区规则",
+    "reviewedAt": "2026-10-29"
+  },
+  "ttPartner": {
+    "terms": [
+      "TikTok 品牌伙伴标签说明",
+      "TikTok Brand Partner tag documentation"
+    ],
+    "label": [
+      "TikTok：Brand Partner tag（2026年4月）",
+      "TikTok: Brand Partner tag (April 2026)"
+    ],
+    "url": "https://ads.tiktok.com/help/article/about-the-brand-partner-tag-in-content-disclosure-settings?lang=en",
+    "claim": "标签与Content Suite、报告、授权的关系；记录实际条件，不把默认值当无限使用",
+    "reviewedAt": "2026-10-29"
+  },
+  "ttComments": {
+    "terms": [
+      "TikTok 评论洞察说明",
+      "TikTok comment insights guide"
+    ],
+    "label": [
+      "TikTok：Comment insights",
+      "TikTok: Comment insights"
+    ],
+    "url": "https://support.tiktok.com/en/using-tiktok/growing-your-audience/comment-insights-on-tiktok",
+    "claim": "评论分析入口与AI分类；不代表总体受众调查",
+    "reviewedAt": "2026-10-29"
+  },
+  "ttRecommend": {
+    "terms": [
+      "TikTok 推荐机制说明",
+      "TikTok recommendation explanation"
+    ],
+    "label": [
+      "TikTok：How TikTok recommends content",
+      "TikTok: How TikTok recommends content"
+    ],
+    "url": "https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content",
+    "claim": "个性化推荐和多种信号；个人feed不是地区全体样本",
+    "reviewedAt": "2026-10-29"
+  },
+  "ytAdvanced": {
+    "terms": [
+      "YouTube Advanced Mode 指南",
+      "YouTube Advanced Mode guide"
+    ],
+    "label": [
+      "YouTube：Advanced Mode 报告与导出",
+      "YouTube: Advanced Mode reports and exports"
+    ],
+    "url": "https://support.google.com/youtube/answer/9717005?hl=en",
+    "claim": "内容组、日期、指标、比较和导出；界面2026年7月起逐步更新，导出当前报告500行限制",
+    "reviewedAt": "2026-10-29"
+  },
+  "ytAudience": {
+    "terms": [
+      "YouTube 受众说明",
+      "YouTube audience documentation"
+    ],
+    "label": [
+      "YouTube：Understand your audience",
+      "YouTube: Understand your audience"
+    ],
+    "url": "https://support.google.com/youtube/answer/9314416?hl=en",
+    "claim": "观看受众、独立估计和28天monthly audience，不等于订阅者或粉丝国家",
+    "reviewedAt": "2026-10-29"
+  },
+  "ytLimited": {
+    "terms": [
+      "YouTube 数据限制说明",
+      "YouTube limited-data guidance"
+    ],
+    "label": [
+      "YouTube：Understand limited data",
+      "YouTube: Understand limited data"
+    ],
+    "url": "https://support.google.com/youtube/answer/9101241?hl=en",
+    "claim": "数据不足及隐私限制；不公布统一阈值，明细和总数可不同",
+    "reviewedAt": "2026-10-29"
+  },
+  "ytPaid": {
+    "terms": [
+      "YouTube 品牌内容说明",
+      "YouTube branded-content guidance"
+    ],
+    "label": [
+      "YouTube：品牌内容披露标签",
+      "YouTube: Branded-content disclosure labels"
+    ],
+    "url": "https://support.google.com/youtube/answer/154235?hl=en",
+    "claim": "品牌内容和赞助需向YouTube标注，平台设置不替代地区规则",
+    "reviewedAt": "2026-10-29"
+  },
+  "metaApi": {
+    "terms": [
+      "Meta 官方 API 文档",
+      "Meta official API documentation"
+    ],
+    "label": [
+      "Meta：官方 Instagram API 集合",
+      "Meta: Official Instagram API collection"
+    ],
+    "url": "https://www.postman.com/meta/instagram/documentation/6yqw8pt/instagram-api",
+    "claim": "专业账号、访问权限与接入条件；Facebook Login路线不能访问普通个人账号，不概括为所有路线同一前提",
+    "reviewedAt": "2026-10-29"
+  },
+  "metaReels": {
+    "terms": [
+      "Meta Reels 指标公告",
+      "Meta Reels metrics announcement"
+    ],
+    "label": [
+      "Meta：Reels Insights 更新（2023年4月）",
+      "Meta: Reels Insights update (April 2023)"
+    ],
+    "url": "https://about.fb.com/news/2023/04/instagram-reels-trending-audio-and-gifts-updates/",
+    "claim": "历史watch time定义；使用时明确公告日期，不保证2026界面和所有分母不变",
+    "reviewedAt": "2026-10-29"
+  },
+  "metaPlays": {
+    "terms": [
+      "Meta 播放口径更新",
+      "Meta plays-definition update"
+    ],
+    "label": [
+      "Meta：New Ways to Create Content（2023年11月）",
+      "Meta: New Ways to Create Content (November 2023)"
+    ],
+    "url": "https://about.fb.com/news/2023/11/new-ways-to-create-content-on-instagram/",
+    "claim": "2023年Reels Plays加入Replays的历史变更，解释需记录指标定义和版本",
+    "reviewedAt": "2026-10-29"
+  },
+  "sorryGirls": {
+    "terms": [
+      "The Sorry Girls 官方介绍",
+      "The Sorry Girls official profile"
+    ],
+    "label": [
+      "The Sorry Girls：About Us",
+      "The Sorry Girls: About Us"
+    ],
+    "url": "https://www.thesorrygirls.com/about-us",
+    "claim": "DIY、室内设计和教育的公开作品路线，不使用站内自述规模当实时平台核验",
+    "reviewedAt": "2026-10-29"
+  },
+  "studioMcgee": {
+    "terms": [
+      "Studio McGee 官方介绍",
+      "Studio McGee official profile"
+    ],
+    "label": [
+      "Studio McGee：About",
+      "Studio McGee: About"
+    ],
+    "url": "https://www.studio-mcgee.com/about",
+    "claim": "设计工作室和自有家居品牌的关系，仅作项目叙事研究入口",
+    "reviewedAt": "2026-10-29"
+  },
+  "loneFox": {
+    "terms": [
+      "Lone Fox 官方介绍",
+      "Lone Fox official profile"
+    ],
+    "label": [
+      "Lone Fox：Drew Michael Scott",
+      "Lone Fox: Drew Michael Scott"
+    ],
+    "url": "https://lonefox.com/pages/about",
+    "claim": "DIY房间装饰、改造和组织内容，不推断合作档期",
+    "reviewedAt": "2026-10-29"
+  },
+  "linus": {
+    "terms": [
+      "Linus Media Group 官方频道说明",
+      "Linus Media Group channel descriptions"
+    ],
+    "label": [
+      "Linus Media Group：Channels",
+      "Linus Media Group: Channels"
+    ],
+    "url": "https://linusmediagroup.com/",
+    "claim": "LTT评论和工程娱乐、ShortCircuit开箱、Techquickie教育的不同公开格式",
+    "reviewedAt": "2026-10-29"
+  },
+  "ijustine": {
+    "terms": [
+      "iJustine 官方介绍",
+      "iJustine official profile"
+    ],
+    "label": [
+      "iJustine：About",
+      "iJustine: About"
+    ],
+    "url": "https://www.ijustine.com/about",
+    "claim": "科技创作者、制作人与主持的自述，不核定粉丝或可合作",
+    "reviewedAt": "2026-10-29"
+  },
+  "gmtk": {
+    "terms": [
+      "Game Maker’s Toolkit 官方介绍",
+      "Game Maker’s Toolkit official profile"
+    ],
+    "label": [
+      "Game Maker’s Toolkit：About the channel",
+      "Game Maker’s Toolkit: About the channel"
+    ],
+    "url": "https://gamemakerstoolkit.com/",
+    "claim": "Mark Brown主持游戏设计与开发内容，不保证任何指定游戏能获得报道",
+    "reviewedAt": "2026-10-29"
+  },
+  "gmtkContact": {
+    "terms": [
+      "GMTK 官方询问入口",
+      "GMTK official inquiry routes"
+    ],
+    "label": [
+      "Game Maker’s Toolkit：Contact",
+      "Game Maker’s Toolkit: Contact"
+    ],
+    "url": "https://gamemakerstoolkit.com/contact/",
+    "claim": "广告、游戏评测、咨询等不同询问路线，存在入口不等于接受邀请",
+    "reviewedAt": "2026-10-29"
+  },
+  "iab": {
+    "terms": [
+      "IAB 2025 支出报告",
+      "IAB 2025 spending report"
+    ],
+    "label": [
+      "IAB 2025 支出报告",
+      "IAB 2025 spending report"
+    ],
+    "url": "https://www.iab.com/news/creator-economy-ad-spend-to-reach-37-billion-in-2025-growing-4x-faster-than-total-media-industry-according-to-iab/",
+    "claim": "2025-11-20披露美国2025年创作者广告支出预测37B、同比26%；不是2026实时结果",
+    "reviewedAt": "2026-10-29"
+  },
+  "gaUtm": {
+    "terms": [
+      "Google Analytics 活动链接说明",
+      "Google Analytics campaign URL guidance"
+    ],
+    "label": [
+      "Google Analytics 活动链接说明",
+      "Google Analytics campaign URL guidance"
+    ],
+    "url": "https://support.google.com/analytics/answer/10917952?hl=en",
+    "claim": "UTM区分流量来源与创意，不证明增量或因果",
+    "reviewedAt": "2026-10-29"
+  },
+  "metaSpam": {
+    "terms": [
+      "Meta 垃圾粉丝管理公告",
+      "Meta spam-follower announcement"
+    ],
+    "label": [
+      "Meta 垃圾粉丝管理公告",
+      "Meta spam-follower announcement"
+    ],
+    "url": "https://about.fb.com/news/2024/06/protecting-athletes-and-fans-on-our-apps-during-major-sporting-events-this-summer/",
+    "claim": "2024-06公告批量移除垃圾粉丝功能；不证明具体账号的下降原因",
+    "reviewedAt": "2026-10-29"
+  },
+  "ytAccess": {
+    "terms": [
+      "YouTube 品牌伙伴访问说明",
+      "YouTube brand partner access documentation"
+    ],
+    "label": [
+      "YouTube 品牌伙伴访问说明",
+      "YouTube brand partner access documentation"
+    ],
+    "url": "https://support.google.com/youtube/answer/15672082?hl=en",
+    "claim": "视频级共享含非公开表现与受众数据，授权与内容许可协议需另行讨论；可撤销",
+    "reviewedAt": "2026-10-29"
+  }
+}

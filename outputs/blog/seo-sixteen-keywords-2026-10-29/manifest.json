@@ -1,0 +1,256 @@
+{
+  "batch": "seo-sixteen-keywords-2026-10-29",
+  "authoredAt": "2026-10-29",
+  "uploadedAt": "2026-10-30",
+  "status": "content-handoff-awaiting-maintainer-integration-review-and-publication",
+  "repository": "https://github.com/yang2008sky/QuickKOL-website",
+  "branch": "codex/seo-sixteen-keywords-2026-10-29",
+  "baseRevision": "d91ff7073464d6f86c9cb661befa4a3ccc57563c",
+  "articleCount": 16,
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "keyword": "ugc creator",
+      "slug": "ugc-creator-product-demonstration-commission",
+      "title": [
+        "如何委托 UGC Creator 制作产品演示：从试用到验收",
+        "UGC Creator: Commission a Product Demonstration That Works"
+      ],
+      "englishBodyWords": 1596,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/ugc-creator-product-demonstration-commission/",
+        "zh": "https://www.quickkol.com/zh/blog/ugc-creator-product-demonstration-commission/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 2,
+      "keyword": "tiktok trends",
+      "slug": "tiktok-trends-regional-research-log",
+      "title": [
+        "TikTok 趋势研究：按地区、时间和内容语境建立记录",
+        "TikTok Trends: Build a Regional Research Log for Brands"
+      ],
+      "englishBodyWords": 1610,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-trends-regional-research-log/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-trends-regional-research-log/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 3,
+      "keyword": "influencers",
+      "slug": "influencers-buyer-stage-roles",
+      "title": [
+        "如何按客户决策阶段安排 Influencers 的内容角色",
+        "Influencers: Match Creator Roles to the Buying Journey"
+      ],
+      "englishBodyWords": 1635,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/influencers-buyer-stage-roles/",
+        "zh": "https://www.quickkol.com/zh/blog/influencers-buyer-stage-roles/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 4,
+      "keyword": "influencer marketing",
+      "slug": "influencer-marketing-operating-model",
+      "title": [
+        "达人营销如何分工：建立需求、预算和审批责任机制",
+        "Influencer Marketing: Build a Practical Operating Model"
+      ],
+      "englishBodyWords": 1604,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/influencer-marketing-operating-model/",
+        "zh": "https://www.quickkol.com/zh/blog/influencer-marketing-operating-model/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 5,
+      "keyword": "instagram follower tracker",
+      "slug": "instagram-follower-tracker-campaign-observation",
+      "title": [
+        "Instagram 粉丝追踪如何服务 Campaign 观察与解释",
+        "Instagram Follower Tracker: Read a Campaign Observation Window"
+      ],
+      "englishBodyWords": 1578,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-follower-tracker-campaign-observation/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-follower-tracker-campaign-observation/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 6,
+      "keyword": "influencer",
+      "slug": "influencer-expert-interview-brief",
+      "title": [
+        "与专业达人合作访谈：把专家观点变成有用内容",
+        "Working With an Influencer: Write an Expert Interview Brief"
+      ],
+      "englishBodyWords": 1611,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/influencer-expert-interview-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/influencer-expert-interview-brief/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 7,
+      "keyword": "ugc creator",
+      "slug": "ugc-creator-editing-rights-version-matrix",
+      "title": [
+        "UGC Creator 素材交接：剪辑版本、授权与到期管理",
+        "UGC Creator Assets: Build an Editing and Rights Version Matrix"
+      ],
+      "englishBodyWords": 1579,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/ugc-creator-editing-rights-version-matrix/",
+        "zh": "https://www.quickkol.com/zh/blog/ugc-creator-editing-rights-version-matrix/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 8,
+      "keyword": "tiktok trends",
+      "slug": "tiktok-trends-response-calendar",
+      "title": [
+        "TikTok 趋势响应排期：何时参与、何时停止和改写",
+        "TikTok Trends: Create a Response Calendar With Expiry Rules"
+      ],
+      "englishBodyWords": 1603,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-trends-response-calendar/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-trends-response-calendar/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 9,
+      "keyword": "influencers",
+      "slug": "influencers-continuity-replacement-plan",
+      "title": [
+        "达人合作的连续性计划：延期、退出与替补怎么处理",
+        "Influencers: Plan for Delays, Withdrawals and Replacements"
+      ],
+      "englishBodyWords": 1614,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/influencers-continuity-replacement-plan/",
+        "zh": "https://www.quickkol.com/zh/blog/influencers-continuity-replacement-plan/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 10,
+      "keyword": "youtube analytics",
+      "slug": "youtube-analytics-sponsored-content-cohorts",
+      "title": [
+        "YouTube Analytics 品牌报告：用可比内容组评估合作",
+        "YouTube Analytics: Compare Sponsored Content With Fair Cohorts"
+      ],
+      "englishBodyWords": 1607,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-analytics-sponsored-content-cohorts/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-analytics-sponsored-content-cohorts/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 11,
+      "keyword": "tiktok analytics",
+      "slug": "tiktok-analytics-creative-review-windows",
+      "title": [
+        "TikTok Analytics 复盘：给创意、分发和行动不同窗口",
+        "TikTok Analytics: Separate Creative Review From Distribution"
+      ],
+      "englishBodyWords": 1576,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-analytics-creative-review-windows/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-analytics-creative-review-windows/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 12,
+      "keyword": "instagram analytics",
+      "slug": "instagram-analytics-format-decision-matrix",
+      "title": [
+        "Instagram Analytics：按 Reels、Stories 和图文选择指标",
+        "Instagram Analytics: Match the Report to the Content Format"
+      ],
+      "englishBodyWords": 1581,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-analytics-format-decision-matrix/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-analytics-format-decision-matrix/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 13,
+      "keyword": "tiktok influencers",
+      "slug": "tiktok-influencers-three-part-series",
+      "title": [
+        "与 TikTok 达人策划三集内容：让每集承担独立任务",
+        "TikTok Influencers: Brief a Three-Part Product Story"
+      ],
+      "englishBodyWords": 1568,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-influencers-three-part-series/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-influencers-three-part-series/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 14,
+      "keyword": "top home decor influencers",
+      "slug": "top-home-decor-influencers-room-reveal-timeline",
+      "title": [
+        "家居达人研究名单：围绕房间改造进度选择合作对象",
+        "Top Home Decor Influencers to Study for a Room-Reveal Timeline"
+      ],
+      "englishBodyWords": 1586,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/top-home-decor-influencers-room-reveal-timeline/",
+        "zh": "https://www.quickkol.com/zh/blog/top-home-decor-influencers-room-reveal-timeline/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 15,
+      "keyword": "gaming youtubers",
+      "slug": "gaming-youtubers-update-coverage",
+      "title": [
+        "Gaming YouTubers：如何策划游戏更新后的解释与回访",
+        "Gaming YouTubers: Plan Coverage Beyond Launch Day"
+      ],
+      "englishBodyWords": 1572,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/gaming-youtubers-update-coverage/",
+        "zh": "https://www.quickkol.com/zh/blog/gaming-youtubers-update-coverage/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    },
+    {
+      "id": 16,
+      "keyword": "top tech influencers",
+      "slug": "top-tech-influencers-evidence-review-brief",
+      "title": [
+        "科技达人研究名单：把评测证据写进合作 Brief",
+        "Top Tech Influencers: Build an Evidence-Led Review Brief"
+      ],
+      "englishBodyWords": 1536,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/top-tech-influencers-evidence-review-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/top-tech-influencers-evidence-review-brief/"
+      },
+      "publicationDate": "Confirm before release; current module date is the draft date 2026-10-29."
+    }
+  ]
+}
