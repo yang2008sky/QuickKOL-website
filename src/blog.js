@@ -1,3 +1,5 @@
+import { editorial20Posts } from './blog-colleague-twenty-posts.js';
+import { editorial9Posts } from './blog-colleague-nine-posts.js';
 import { editorial16Posts } from './blog-colleague-sixteen-posts.js';
 import { colleagueThreePosts } from './blog-colleague-three-posts.js';
 import { laInfluencerPosts } from './blog-la-influencer.js';
@@ -29,7 +31,7 @@ import { growthBlogEnhancements } from './blog-growth-enhancements.js';
 import { initI18n, setPageLocale, localizeCopy, applyTranslations, loadLocale, localizeText } from './i18n.js';
 
 const enhancements = { ...blogEnhancements, ...additionalBlogEnhancements, ...seriesBlogEnhancements, ...expansionBlogEnhancements, ...growthBlogEnhancements };
-const blogPosts = [...editorial16Posts, ...colleagueThreePosts, ...laInfluencerPosts, ...semrushBatchFourPosts, ...semrushBatchThreePosts, ...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
+const blogPosts = [...editorial20Posts, ...editorial9Posts, ...editorial16Posts, ...colleagueThreePosts, ...laInfluencerPosts, ...semrushBatchFourPosts, ...semrushBatchThreePosts, ...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
 const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
 const arrow = '<i class="ph ph-arrow-up-right" aria-hidden="true"></i>';
 
