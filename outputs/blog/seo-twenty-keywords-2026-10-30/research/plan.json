@@ -1,0 +1,1070 @@
+[
+  {
+    "id": 1,
+    "keyword": "kols",
+    "slug": "kols-expertise-evidence-panel",
+    "title": [
+      "KOLs 怎么选：为专业内容建立证据分工",
+      "KOLs: Build an Expertise Evidence Panel"
+    ],
+    "topic": "discovery",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "按专业问题安排证据角色，不按粉丝排序",
+    "uniqueAngle": "按专业问题安排证据角色，不按粉丝排序",
+    "overlapWithExisting": "influencers-buyer-stage-roles",
+    "contextualInternalLinks": [
+      "influencers-buyer-stage-roles",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "ama",
+        "url": "https://www.ama.org/topics/influencer-marketing/",
+        "claimsTheySupport": [
+          "达人营销通过能影响潜在购买者的人传播品牌信息；不提供KOL统一资格或效果保证。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "ftc",
+        "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+        "claimsTheySupport": [
+          "背书应真实且不误导；可能影响评价的非预期重要关系需适当披露；不是全球法律总括。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "copyright",
+        "url": "https://www.copyright.gov/what-is-copyright/",
+        "claimsTheySupport": [
+          "美国版权保护符合条件的原创固定表达；作品所有权和使用许可不是公开可见或文件持有自动赋予。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1511,
+    "chineseHanzi": 2389,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 2,
+    "keyword": "ugc content",
+    "slug": "ugc-content-customer-contribution-intake",
+    "title": [
+      "UGC Content：从客户投稿到可用素材的接收流程",
+      "UGC Content: Build a Customer Contribution Intake"
+    ],
+    "topic": "campaign",
+    "family": "Environment / objects",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "处理自发客户投稿的来源、许可和语境，区别委托拍摄与剪辑测试",
+    "uniqueAngle": "处理自发客户投稿的来源、许可和语境，区别委托拍摄与剪辑测试",
+    "overlapWithExisting": "creator-ugc-testing-plan",
+    "contextualInternalLinks": [
+      "creator-ugc-testing-plan",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "oecd",
+        "url": "https://www.oecd.org/en/publications/participative-web-and-user-created-content_9789264037472-en.html",
+        "claimsTheySupport": [
+          "2007年报告研究用户创作的形式、价值链、机会与挑战；历史背景而非2026商业UGC统一定义。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "ftc",
+        "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+        "claimsTheySupport": [
+          "背书应真实且不误导；可能影响评价的非预期重要关系需适当披露；不是全球法律总括。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "permission",
+        "url": "https://www.copyright.gov/circs/m10.pdf",
+        "claimsTheySupport": [
+          "需评估是否有适用限制或例外；需要许可时查当前权利人；作品可能含第三方素材。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1504,
+    "chineseHanzi": 2376,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 3,
+    "keyword": "influencer marketing agency",
+    "slug": "influencer-marketing-agency-service-acceptance",
+    "title": [
+      "达人营销代理机构：把服务承诺写成验收条件",
+      "Influencer Marketing Agency: Define Service Acceptance"
+    ],
+    "topic": "commercial",
+    "family": "Human documentary",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "围绕代理交付的验收证据与账户所有权，区别机构类型介绍",
+    "uniqueAngle": "围绕代理交付的验收证据与账户所有权，区别机构类型介绍",
+    "overlapWithExisting": "influencer-agencies-scope-and-accountability",
+    "contextualInternalLinks": [
+      "influencer-agencies-scope-and-accountability",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "isbaCode",
+        "url": "https://imtb.org.uk/influencer-marketing-code-of-conduct/",
+        "claimsTheySupport": [
+          "行业最佳实践中区分品牌、机构和创作者责任；涉及审批、服务时间与付款。不是全球统一法律。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "isbaContracts",
+        "url": "https://www.isba.org.uk/knowledge/isba-influencer-contract-templates",
+        "claimsTheySupport": [
+          "官方页面区分直接、经机构等合作关系的模板入口；未下载受限会员全文，不宣称模板满足所有法律场景。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "asaAds",
+        "url": "https://www.asa.org.uk/advice-online/recognising-ads-social-media.html",
+        "claimsTheySupport": [
+          "广告应可识别；品牌与达人需要承担适当责任；简介中的大使身份不自动替代广告内容的明确识别。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1505,
+    "chineseHanzi": 2443,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 4,
+    "keyword": "ugc content creator",
+    "slug": "ugc-content-creator-on-camera-production-role",
+    "title": [
+      "UGC Content Creator：区分出镜、制作与发布职责",
+      "UGC Content Creator: Separate Production and Posting"
+    ],
+    "topic": "commercial",
+    "family": "Solo creator",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "制作人员角色界面与替代方案，不重写产品演示委托",
+    "uniqueAngle": "制作人员角色界面与替代方案，不重写产品演示委托",
+    "overlapWithExisting": "ugc-creator-product-demonstration-commission",
+    "contextualInternalLinks": [
+      "ugc-creator-product-demonstration-commission",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "asaAds",
+        "url": "https://www.asa.org.uk/advice-online/recognising-ads-social-media.html",
+        "claimsTheySupport": [
+          "广告应可识别；品牌与达人需要承担适当责任；简介中的大使身份不自动替代广告内容的明确识别。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "copyright",
+        "url": "https://www.copyright.gov/what-is-copyright/",
+        "claimsTheySupport": [
+          "美国版权保护符合条件的原创固定表达；作品所有权和使用许可不是公开可见或文件持有自动赋予。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "isbaContracts",
+        "url": "https://www.isba.org.uk/knowledge/isba-influencer-contract-templates",
+        "claimsTheySupport": [
+          "官方页面区分直接、经机构等合作关系的模板入口；未下载受限会员全文，不宣称模板满足所有法律场景。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1505,
+    "chineseHanzi": 2322,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 5,
+    "keyword": "what is an influencer",
+    "slug": "what-is-an-influencer-stakeholder-explainer",
+    "title": [
+      "什么是 Influencer？给非营销同事的合作角色说明",
+      "What Is an Influencer? Explain the Partnership Role"
+    ],
+    "topic": "discovery",
+    "family": "Type / background",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "帮助非营销采购、产品与支持同事理解实际委托",
+    "uniqueAngle": "帮助非营销采购、产品与支持同事理解实际委托",
+    "overlapWithExisting": "influencers-types-for-brand-teams",
+    "contextualInternalLinks": [
+      "influencers-types-for-brand-teams",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "ama",
+        "url": "https://www.ama.org/topics/influencer-marketing/",
+        "claimsTheySupport": [
+          "达人营销通过能影响潜在购买者的人传播品牌信息；不提供KOL统一资格或效果保证。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "asaAds",
+        "url": "https://www.asa.org.uk/advice-online/recognising-ads-social-media.html",
+        "claimsTheySupport": [
+          "广告应可识别；品牌与达人需要承担适当责任；简介中的大使身份不自动替代广告内容的明确识别。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "isbaCode",
+        "url": "https://imtb.org.uk/influencer-marketing-code-of-conduct/",
+        "claimsTheySupport": [
+          "行业最佳实践中区分品牌、机构和创作者责任；涉及审批、服务时间与付款。不是全球统一法律。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1504,
+    "chineseHanzi": 2328,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 6,
+    "keyword": "influencer definition",
+    "slug": "influencer-definition-research-classification",
+    "title": [
+      "Influencer Definition：让研究名单分类一致",
+      "Influencer Definition: Classify Research Records Consistently"
+    ],
+    "topic": "discovery",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "形成研究编码规则，处理个人、企业和社区的边界",
+    "uniqueAngle": "形成研究编码规则，处理个人、企业和社区的边界",
+    "overlapWithExisting": "top-instagram-influencers-by-account-role",
+    "contextualInternalLinks": [
+      "top-instagram-influencers-by-account-role",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "ama",
+        "url": "https://www.ama.org/topics/influencer-marketing/",
+        "claimsTheySupport": [
+          "达人营销通过能影响潜在购买者的人传播品牌信息；不提供KOL统一资格或效果保证。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "asaAds",
+        "url": "https://www.asa.org.uk/advice-online/recognising-ads-social-media.html",
+        "claimsTheySupport": [
+          "广告应可识别；品牌与达人需要承担适当责任；简介中的大使身份不自动替代广告内容的明确识别。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "copyright",
+        "url": "https://www.copyright.gov/what-is-copyright/",
+        "claimsTheySupport": [
+          "美国版权保护符合条件的原创固定表达；作品所有权和使用许可不是公开可见或文件持有自动赋予。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1554,
+    "chineseHanzi": 2416,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 7,
+    "keyword": "what is a brand ambassador",
+    "slug": "what-is-a-brand-ambassador-representation-boundaries",
+    "title": [
+      "什么是品牌大使？写清代表权限与升级路径",
+      "What Is a Brand Ambassador? Define Representation Limits"
+    ],
+    "topic": "campaign",
+    "family": "Solo creator",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "代表品牌时能说什么、不能承诺什么，区别基础角色和90天排期",
+    "uniqueAngle": "代表品牌时能说什么、不能承诺什么，区别基础角色和90天排期",
+    "overlapWithExisting": "brand-ambassador-role-program",
+    "contextualInternalLinks": [
+      "brand-ambassador-role-program",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "luluCommunity",
+        "url": "https://corporate.lululemon.com/our-business/innovation/community-engagement",
+        "claimsTheySupport": [
+          "公司将大使项目描述为与社区榜样持续合作；可作角色示例，不证明具体个人权限、准入或收益。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "ftc101",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+        "claimsTheySupport": [
+          "重要关系包括非现金价值；披露需易看到和理解，简介通常不足；不能虚构产品体验。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "isbaCode",
+        "url": "https://imtb.org.uk/influencer-marketing-code-of-conduct/",
+        "claimsTheySupport": [
+          "行业最佳实践中区分品牌、机构和创作者责任；涉及审批、服务时间与付款。不是全球统一法律。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1530,
+    "chineseHanzi": 2288,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 8,
+    "keyword": "ugc creators",
+    "slug": "ugc-creators-roster-coverage-continuity",
+    "title": [
+      "UGC Creators：按制作覆盖与连续性组建创作者名单",
+      "UGC Creators: Plan Roster Coverage and Continuity"
+    ],
+    "topic": "campaign",
+    "family": "Human documentary",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "多创作者制作覆盖、版本一致性和替补，区别单人剪辑授权",
+    "uniqueAngle": "多创作者制作覆盖、版本一致性和替补，区别单人剪辑授权",
+    "overlapWithExisting": "ugc-creator-editing-rights-version-matrix",
+    "contextualInternalLinks": [
+      "ugc-creator-editing-rights-version-matrix",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "frameCompare",
+        "url": "https://help.frame.io/en/articles/9952618-comparison-viewer",
+        "claimsTheySupport": [
+          "V4文档描述并排比较素材和版本；工具支持不等于已完成品牌内容批准或商业权利确认。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "tiktokMusic",
+        "url": "https://ads.tiktok.com/resources/help/article/commercial-music-library?lang=en",
+        "claimsTheySupport": [
+          "2025年7月更新的官方说明区分商业内容与通用音乐库，CML覆盖商业TikTok活动；其他原声或授权音乐需适当许可。不推导跨平台或所有版本使用权。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "permission",
+        "url": "https://www.copyright.gov/circs/m10.pdf",
+        "claimsTheySupport": [
+          "需评估是否有适用限制或例外；需要许可时查当前权利人；作品可能含第三方素材。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1513,
+    "chineseHanzi": 2313,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 9,
+    "keyword": "affiliate and marketing",
+    "slug": "affiliate-and-marketing-customer-journey",
+    "title": [
+      "Affiliate and Marketing：把联盟合作放进客户旅程",
+      "Affiliate and Marketing: Map the Customer Journey"
+    ],
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "解释伙伴、品牌、购买路径与佣金责任，而非邀请邮件或收益分析",
+    "uniqueAngle": "解释伙伴、品牌、购买路径与佣金责任，而非邀请邮件或收益分析",
+    "overlapWithExisting": "affiliate-creator-conversion-analysis",
+    "contextualInternalLinks": [
+      "affiliate-creator-conversion-analysis",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "cjBasics",
+        "url": "https://www.cj.com/about-affiliate-marketing",
+        "claimsTheySupport": [
+          "广告主按约定目标结果向伙伴支付佣金；伙伴分发模型包括内容、社交、优惠等。旧营销统计不采用为当前基准。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "gaTagging",
+        "url": "https://support.google.com/analytics/answer/11242870?hl=en",
+        "claimsTheySupport": [
+          "UTM手动标记提供来源、媒介、活动等维度；不能推导结算系统或独立因果证明。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "awinValidation",
+        "url": "https://help.awin.com/docs/validating-commission-payments",
+        "claimsTheySupport": [
+          "2026年10月19日更新页面区分待审核与已核验，展示订单引用、佣金和付款状态；不是所有品牌统一规则或真实本账户操作。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1587,
+    "chineseHanzi": 2482,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 10,
+    "keyword": "college ambassador programs",
+    "slug": "college-ambassador-programs-campus-permissions",
+    "title": [
+      "校园大使项目：先确认校园权限与参与边界",
+      "College Ambassador Programs: Check Campus Permissions"
+    ],
+    "topic": "campaign",
+    "family": "Environment / objects",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "校园现场活动、机构许可、成年人资格和学期边界；不默认校方背书",
+    "uniqueAngle": "校园现场活动、机构许可、成年人资格和学期边界；不默认校方背书",
+    "overlapWithExisting": "brand-ambassador-programs-first-90-days",
+    "contextualInternalLinks": [
+      "brand-ambassador-programs-first-90-days",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "berkeleyAmbassador",
+        "url": "https://visit.berkeley.edu/campus-ambassadors/become-campus-ambassador",
+        "claimsTheySupport": [
+          "大学访客服务代表岗位区别于商业品牌学生合作；不采用易变申请条件作为所有项目标准。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "redbullStudent",
+        "url": "https://jobs.redbull.com/en/microsites/student-marketeer",
+        "claimsTheySupport": [
+          "公司招聘页面描述校园及周边线上线下营销任务；不是校方普遍授权、所有项目报酬或资格规则。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "stanfordCompanies",
+        "url": "https://ose.stanford.edu/student-orgs/event-planning/event-planning-guidelines/engaging-companies",
+        "claimsTheySupport": [
+          "学生组织不能举办商业或招聘活动；具体企业独立招聘有其他指定流程。此为该校范围，不泛化所有校园。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "uwMarks",
+        "url": "https://www.washington.edu/trademarks/student-organizations/",
+        "claimsTheySupport": [
+          "该校学生组织用校名不得造成大学背书混淆，转授权商标需适当审批；不代表所有大学相同规定。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1509,
+    "chineseHanzi": 2393,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 11,
+    "keyword": "what is ugc creator",
+    "slug": "what-is-ugc-creator-paid-organic-distinction",
+    "title": [
+      "什么是 UGC Creator？分清付费制作与自发分享",
+      "What Is a UGC Creator? Separate Paid and Organic Work"
+    ],
+    "topic": "discovery",
+    "family": "Solo creator",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "对新手采购解释paid UGC与历史用户创作概念，区分发布义务",
+    "uniqueAngle": "对新手采购解释paid UGC与历史用户创作概念，区分发布义务",
+    "overlapWithExisting": "ugc-creator-product-demonstration-commission",
+    "contextualInternalLinks": [
+      "ugc-creator-product-demonstration-commission",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "oecdDefinition",
+        "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/09/participative-web-and-user-created-content_g1gh826c/9789264037472-en.pdf",
+        "claimsTheySupport": [
+          "历史工作定义提出发表语境、创作努力与专业惯例之外创作，并承认商业化使第三条件更难保持；不是当代商业UGC服务统一认证。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "ftc101",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+        "claimsTheySupport": [
+          "重要关系包括非现金价值；披露需易看到和理解，简介通常不足；不能虚构产品体验。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "copyright",
+        "url": "https://www.copyright.gov/what-is-copyright/",
+        "claimsTheySupport": [
+          "美国版权保护符合条件的原创固定表达；作品所有权和使用许可不是公开可见或文件持有自动赋予。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1520,
+    "chineseHanzi": 2276,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 12,
+    "keyword": "key opinion leader",
+    "slug": "key-opinion-leader-expert-contribution-review",
+    "title": [
+      "Key Opinion Leader：如何核对专家贡献的适用范围",
+      "Key Opinion Leader: Review the Scope of Expertise"
+    ],
+    "topic": "discovery",
+    "family": "Type / background",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "个人专家的领域、证据与可说主张，区别复数KOL证据小组",
+    "uniqueAngle": "个人专家的领域、证据与可说主张，区别复数KOL证据小组",
+    "overlapWithExisting": "influencer-expert-interview-brief",
+    "contextualInternalLinks": [
+      "influencer-expert-interview-brief",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "labBio",
+        "url": "https://labmuffin.com/about-michelle/",
+        "claimsTheySupport": [
+          "个人官网描述Michelle Wong的化学博士与科学传播角色，明确非医疗专业人士；用于说明公开身份边界，不是独立资格认证或合作背书。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "orcidSource",
+        "url": "https://info.orcid.org/ufaqs/what-does-source-mean-in-an-orcid-record/",
+        "claimsTheySupport": [
+          "记录中的source表示谁添加断言，可能本人、受托人或成员组织；有ID不等于所有字段独立验证，不代表商业KOL统一资格。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "ftc",
+        "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+        "claimsTheySupport": [
+          "背书应真实且不误导；可能影响评价的非预期重要关系需适当披露；不是全球法律总括。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1518,
+    "chineseHanzi": 2296,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 13,
+    "keyword": "step by step way to track campaigns",
+    "slug": "step-by-step-campaign-tracking-evidence-log",
+    "title": [
+      "Campaign 追踪步骤：从命名到复核的证据日志",
+      "A Step-by-Step Way to Track Campaign Evidence"
+    ],
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "逐步证据日志、修订与交接，不替代GA4订单归因指南",
+    "uniqueAngle": "逐步证据日志、修订与交接，不替代GA4订单归因指南",
+    "overlapWithExisting": "track-influencer-conversions-ga4",
+    "contextualInternalLinks": [
+      "track-influencer-conversions-ga4",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "gaTagging",
+        "url": "https://support.google.com/analytics/answer/11242870?hl=en",
+        "claimsTheySupport": [
+          "UTM手动标记提供来源、媒介、活动等维度；不能推导结算系统或独立因果证明。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "ytAdvanced",
+        "url": "https://support.google.com/youtube/answer/9717005?hl=en",
+        "claimsTheySupport": [
+          "高级分析可选择对象、日期、维度、指标和筛选并导出当前视图；界面2026年7月起逐步更新，不保证任意账号或私人报告可访问。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "gaFreshness",
+        "url": "https://support.google.com/analytics/answer/11198161?hl=en",
+        "claimsTheySupport": [
+          "数据新鲜度依处理与报告类型变化；部分处理可能24–48小时且期间报告可变化，典型可用时间非SLA。不承诺所有指标48小时最终。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1526,
+    "chineseHanzi": 2308,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 14,
+    "keyword": "best influencer marketing platforms",
+    "slug": "best-influencer-marketing-platforms-proof-exit",
+    "title": [
+      "Best Influencer Marketing Platforms：核对证明与退出成本",
+      "Best Influencer Marketing Platforms: Proof and Exit Tests"
+    ],
+    "topic": "commercial",
+    "family": "Environment / objects",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "采购参考验证、数据可带走和退出测试，区别现有功能矩阵与排名",
+    "uniqueAngle": "采购参考验证、数据可带走和退出测试，区别现有功能矩阵与排名",
+    "overlapWithExisting": "best-influencer-marketing-platforms-2026",
+    "contextualInternalLinks": [
+      "best-influencer-marketing-platforms-2026",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "modashExport",
+        "url": "https://help.modash.io/en/articles/13717084-understanding-campaign-analytics",
+        "claimsTheySupport": [
+          "厂商说明CSV/Excel活动导出，数据依实际范围与连接；不采用营销保证、未经核验估计公式或总曝光相加建议。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "aspireHub",
+        "url": "https://help.aspireiq.com/en/articles/13753620-managing-content-in-the-content-hub",
+        "claimsTheySupport": [
+          "厂商文档区分素材、表现、使用权及广告权限，并描述下载；不等于对本品牌全部使用条件核验。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "ciqDpa",
+        "url": "https://www.creatoriq.com/hubfs/Legal/DPA%20-%20Schedule%204%20%28Version%203.1%2C%203.31.25%29.pdf",
+        "claimsTheySupport": [
+          "公开附件区分Customer Personal Data与CIQ Personal Data，终止章节说明请求下载或删除及例外；实际合同适用范围需单独核对，不推断全部数据永久使用权。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1506,
+    "chineseHanzi": 2323,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 15,
+    "keyword": "leading affiliate marketing networks consumer products",
+    "slug": "affiliate-networks-consumer-products-market-fit",
+    "title": [
+      "消费品联盟网络：按市场、伙伴与结算比较",
+      "Affiliate Networks for Consumer Products: Compare Fit"
+    ],
+    "topic": "commercial",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "比较具名网络的市场及伙伴机制，明确不是无来源市场份额排名",
+    "uniqueAngle": "比较具名网络的市场及伙伴机制，明确不是无来源市场份额排名",
+    "overlapWithExisting": "whats-affiliate-outreach-partner-invitation",
+    "contextualInternalLinks": [
+      "whats-affiliate-outreach-partner-invitation",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "cjEcosystem",
+        "url": "https://www.cj.com/what-is-affiliate-marketing",
+        "claimsTheySupport": [
+          "公开页面区分广告主、伙伴及多种分发模式；不采用未核验市场排名或收益保证。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "awinFaq",
+        "url": "https://www.awin.com/us/faqs",
+        "claimsTheySupport": [
+          "网络与品牌计划不同；服务层级有自主管理等差异。地区页面部分费用说法不同，本文不发布当前定价或通用准入保证。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "rakutenPrograms",
+        "url": "https://pubhelp.rakutenadvertising.com/hc/en-us/articles/360049778112-Find-and-Apply-to-Advertiser-Programs",
+        "claimsTheySupport": [
+          "2026年6月20日更新说明品牌计划可按名称或类别查找，一些计划私有不显示；不能从目录未出现断言品牌没有计划，也不能把加入网络当成品牌获批。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1504,
+    "chineseHanzi": 2333,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 16,
+    "keyword": "how to create a social media influencer strategy",
+    "slug": "create-social-media-influencer-strategy-content-path",
+    "title": [
+      "如何制定社交达人策略：围绕受众问题设计内容路径",
+      "How to Create a Social Media Influencer Strategy"
+    ],
+    "topic": "campaign",
+    "family": "Human documentary",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "跨渠道受众问题、内容次序和路径，不重写营销分工机制",
+    "uniqueAngle": "跨渠道受众问题、内容次序和路径，不重写营销分工机制",
+    "overlapWithExisting": "influencer-marketing-operating-model",
+    "contextualInternalLinks": [
+      "influencer-marketing-operating-model",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "ftc101",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+        "claimsTheySupport": [
+          "重要关系包括非现金价值；披露需易看到和理解，简介通常不足；不能虚构产品体验。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "ytRetention",
+        "url": "https://support.google.com/youtube/answer/9314415?hl=en",
+        "claimsTheySupport": [
+          "视频级留存报告支持回看段落；峰值可能是重看，也可能内容不清需要重复。不是理解、购买或跨渠道同一人识别证明。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "gaTagging",
+        "url": "https://support.google.com/analytics/answer/11242870?hl=en",
+        "claimsTheySupport": [
+          "UTM手动标记提供来源、媒介、活动等维度；不能推导结算系统或独立因果证明。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1501,
+    "chineseHanzi": 2539,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 17,
+    "keyword": "definition influencer",
+    "slug": "definition-influencer-multilingual-brief-glossary",
+    "title": [
+      "Definition Influencer：跨语言 Brief 的术语对齐",
+      "Definition Influencer: Align a Multilingual Brief"
+    ],
+    "topic": "outreach",
+    "family": "Type / background",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "译名与职责字段避免跨语言误会，区别定义入门与研究分类",
+    "uniqueAngle": "译名与职责字段避免跨语言误会，区别定义入门与研究分类",
+    "overlapWithExisting": "influencer-definition-research-classification",
+    "contextualInternalLinks": [
+      "influencer-definition-research-classification",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "ama",
+        "url": "https://www.ama.org/topics/influencer-marketing/",
+        "claimsTheySupport": [
+          "达人营销通过能影响潜在购买者的人传播品牌信息；不提供KOL统一资格或效果保证。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "asaAds",
+        "url": "https://www.asa.org.uk/advice-online/recognising-ads-social-media.html",
+        "claimsTheySupport": [
+          "广告应可识别；品牌与达人需要承担适当责任；简介中的大使身份不自动替代广告内容的明确识别。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "ftc101",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+        "claimsTheySupport": [
+          "重要关系包括非现金价值；披露需易看到和理解，简介通常不足；不能虚构产品体验。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1509,
+    "chineseHanzi": 2368,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 18,
+    "keyword": "influencer marketing news today",
+    "slug": "influencer-marketing-news-dated-change-log",
+    "title": [
+      "达人营销新闻：带日期的变化记录与决策",
+      "Influencer Marketing News Today: A Dated Change Log"
+    ],
+    "topic": "campaign",
+    "family": "Environment / objects",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "明确本次核验日期，区分报道、公告、实际可用和待验证，不伪装实时新闻流",
+    "uniqueAngle": "明确本次核验日期，区分报道、公告、实际可用和待验证，不伪装实时新闻流",
+    "overlapWithExisting": "influencer-marketing-trends-2026-evidence-to-tests",
+    "contextualInternalLinks": [
+      "influencer-marketing-trends-2026-evidence-to-tests",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "isbaNews",
+        "url": "https://www.isba.org.uk/article/new-operating-model-framework-released-help-brands-capitalise-exponential-growth-creator",
+        "claimsTheySupport": [
+          "公告发布与RMA合作框架，三种模式不是成熟度阶梯；只读取公开公告及会员下载说明，未读受限全文，不采用未给完整样本的统计。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "rosterNews",
+        "url": "https://www.prweb.com/releases/roster-launches-instagram-creator-discovery--meta-partnership-ads-for-ecommerce-and-dtc-brands-302898112.html",
+        "claimsTheySupport": [
+          "公司自己发布的产品公告而非第三方独立测试；发现与广告权限流程有连接条件，实际广告在Meta创建运行。不开具首创、最佳、ROI或全部账户可用结论。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "shopHolidayNews",
+        "url": "https://newsroom.tiktok.com/whats-shaping-the-holiday-season-on-tiktok-shop?lang=en",
+        "claimsTheySupport": [
+          "美国Shop假日商业语境公告写11月11至30日活动窗口；平台自述而非品牌实际参与资格或销量保证，不采用未经方法核验的趋势百分比。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1523,
+    "chineseHanzi": 2513,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 19,
+    "keyword": "average engagement rate beauty industry philippines 2025",
+    "slug": "beauty-engagement-rate-philippines-2025-evidence",
+    "title": [
+      "菲律宾美妆互动率 2025：先核对样本与分母",
+      "Philippines Beauty Engagement Rate 2025: Check Evidence"
+    ],
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "查找2025菲律宾美妆一手样本；缺失时不编全国均值，不挪用2026全球数据",
+    "uniqueAngle": "查找2025菲律宾美妆一手样本；缺失时不编全国均值，不挪用2026全球数据",
+    "overlapWithExisting": "creator-performance-benchmarks",
+    "contextualInternalLinks": [
+      "creator-performance-benchmarks",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "dashBeauty2025",
+        "url": "https://pages.dashsocial.com/hubfs/social-media-benchmark/2025/1H/beauty-industry.pdf",
+        "claimsTheySupport": [
+          "样本全球公司、2024-07-01至2024-12-31；Instagram美妆样本257品牌。Instagram口径为赞评论/粉丝，与TikTok口径不同。不是菲律宾2025达人均值，不复制全套图表。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "anymindPh2026",
+        "url": "https://6727898.fs1.hubspotusercontent-na1.net/hubfs/6727898/State%20of%20Influence%20in%20APAC%202026%20Report_AnyMind%20Group.pdf",
+        "claimsTheySupport": [
+          "原PDF下载并阅读第5、68页，渲染检查68页。菲律宾表注4k达人、1000至1000000粉丝、所有垂类，表为中位数与四分位，不能缩写为美妆平均。相关面板未完整界定独立观测窗口/公式，不从报告2026标题反推全部数据年份。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "rival2025",
+        "url": "https://www.rivaliq.com/blog/social-media-industry-benchmark-report/",
+        "claimsTheySupport": [
+          "采用公司样本及行业中位表现，互动动作相对粉丝；不能当成菲律宾美妆达人算术均值。页面方法含Jan2023条件，与2025标题不应自行消除时间歧义。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1520,
+    "chineseHanzi": 2527,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  },
+  {
+    "id": 20,
+    "keyword": "how to measure influencer success",
+    "slug": "measure-influencer-success-contribution-review",
+    "title": [
+      "如何衡量达人成功：审阅贡献、成本与学习结果",
+      "How to Measure Influencer Success by Contribution"
+    ],
+    "topic": "analytics",
+    "family": "Solo creator",
+    "searchIntent": "品牌或机构人员学习、研究并执行该关键词对应任务",
+    "brandDecision": "达人层面的职责成果与复用价值，区分整体Campaign归因",
+    "uniqueAngle": "达人层面的职责成果与复用价值，区分整体Campaign归因",
+    "overlapWithExisting": "creator-campaign-measurement",
+    "contextualInternalLinks": [
+      "creator-campaign-measurement",
+      "write-a-useful-campaign-brief"
+    ],
+    "tableOrToolDecision": "与具体任务相配的决策表和 reference-list；仅在确有价值时增加下载",
+    "publicationDate": "待负责人正式发布前确认；本地稿件日期2026-10-30",
+    "updateDate": "2026-10-30",
+    "primarySources": [
+      {
+        "id": "amecFramework",
+        "url": "https://amecorg.com/amecframework/",
+        "claimsTheySupport": [
+          "从组织与传播目标连接输入、活动、产出、受众反应、结果与影响；框架本身不提供数据或证明特定达人因果贡献。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "ytRetention",
+        "url": "https://support.google.com/youtube/answer/9314415?hl=en",
+        "claimsTheySupport": [
+          "视频级留存报告支持回看段落；峰值可能是重看，也可能内容不清需要重复。不是理解、购买或跨渠道同一人识别证明。"
+        ],
+        "reviewedAt": "2026-10-30"
+      },
+      {
+        "id": "gaFreshness",
+        "url": "https://support.google.com/analytics/answer/11198161?hl=en",
+        "claimsTheySupport": [
+          "数据新鲜度依处理与报告类型变化；部分处理可能24–48小时且期间报告可变化，典型可用时间非SLA。不承诺所有指标48小时最终。"
+        ],
+        "reviewedAt": "2026-10-30"
+      }
+    ],
+    "sourceStatus": "primary-sources-read-claim-scoped",
+    "status": "content-package-prepared-for-authorized-github-upload",
+    "englishBodyWords": 1520,
+    "chineseHanzi": 2501,
+    "productionStatus": "awaiting-maintainer-integration-review-and-publication"
+  }
+]

@@ -1,0 +1,314 @@
+{
+  "batch": "seo-twenty-keywords-2026-10-30",
+  "repository": "https://github.com/yang2008sky/QuickKOL-website",
+  "branch": "codex/seo-twenty-keywords-2026-10-30",
+  "baseRevision": "1e446f275d6b9edc6ae0a5487d5bd1b0443f3c06",
+  "articleCount": 20,
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "status": "content-handoff-awaiting-maintainer-integration-review-and-publication",
+  "articles": [
+    {
+      "id": 1,
+      "keyword": "kols",
+      "slug": "kols-expertise-evidence-panel",
+      "title": [
+        "KOLs 怎么选：为专业内容建立证据分工",
+        "KOLs: Build an Expertise Evidence Panel"
+      ],
+      "englishBodyWords": 1511,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/kols-expertise-evidence-panel/",
+        "zh": "https://www.quickkol.com/zh/blog/kols-expertise-evidence-panel/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 2,
+      "keyword": "ugc content",
+      "slug": "ugc-content-customer-contribution-intake",
+      "title": [
+        "UGC Content：从客户投稿到可用素材的接收流程",
+        "UGC Content: Build a Customer Contribution Intake"
+      ],
+      "englishBodyWords": 1504,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/ugc-content-customer-contribution-intake/",
+        "zh": "https://www.quickkol.com/zh/blog/ugc-content-customer-contribution-intake/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 3,
+      "keyword": "influencer marketing agency",
+      "slug": "influencer-marketing-agency-service-acceptance",
+      "title": [
+        "达人营销代理机构：把服务承诺写成验收条件",
+        "Influencer Marketing Agency: Define Service Acceptance"
+      ],
+      "englishBodyWords": 1505,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/influencer-marketing-agency-service-acceptance/",
+        "zh": "https://www.quickkol.com/zh/blog/influencer-marketing-agency-service-acceptance/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 4,
+      "keyword": "ugc content creator",
+      "slug": "ugc-content-creator-on-camera-production-role",
+      "title": [
+        "UGC Content Creator：区分出镜、制作与发布职责",
+        "UGC Content Creator: Separate Production and Posting"
+      ],
+      "englishBodyWords": 1505,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/ugc-content-creator-on-camera-production-role/",
+        "zh": "https://www.quickkol.com/zh/blog/ugc-content-creator-on-camera-production-role/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 5,
+      "keyword": "what is an influencer",
+      "slug": "what-is-an-influencer-stakeholder-explainer",
+      "title": [
+        "什么是 Influencer？给非营销同事的合作角色说明",
+        "What Is an Influencer? Explain the Partnership Role"
+      ],
+      "englishBodyWords": 1504,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/what-is-an-influencer-stakeholder-explainer/",
+        "zh": "https://www.quickkol.com/zh/blog/what-is-an-influencer-stakeholder-explainer/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 6,
+      "keyword": "influencer definition",
+      "slug": "influencer-definition-research-classification",
+      "title": [
+        "Influencer Definition：让研究名单分类一致",
+        "Influencer Definition: Classify Research Records Consistently"
+      ],
+      "englishBodyWords": 1554,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/influencer-definition-research-classification/",
+        "zh": "https://www.quickkol.com/zh/blog/influencer-definition-research-classification/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 7,
+      "keyword": "what is a brand ambassador",
+      "slug": "what-is-a-brand-ambassador-representation-boundaries",
+      "title": [
+        "什么是品牌大使？写清代表权限与升级路径",
+        "What Is a Brand Ambassador? Define Representation Limits"
+      ],
+      "englishBodyWords": 1530,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/what-is-a-brand-ambassador-representation-boundaries/",
+        "zh": "https://www.quickkol.com/zh/blog/what-is-a-brand-ambassador-representation-boundaries/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 8,
+      "keyword": "ugc creators",
+      "slug": "ugc-creators-roster-coverage-continuity",
+      "title": [
+        "UGC Creators：按制作覆盖与连续性组建创作者名单",
+        "UGC Creators: Plan Roster Coverage and Continuity"
+      ],
+      "englishBodyWords": 1513,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/ugc-creators-roster-coverage-continuity/",
+        "zh": "https://www.quickkol.com/zh/blog/ugc-creators-roster-coverage-continuity/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 9,
+      "keyword": "affiliate and marketing",
+      "slug": "affiliate-and-marketing-customer-journey",
+      "title": [
+        "Affiliate and Marketing：把联盟合作放进客户旅程",
+        "Affiliate and Marketing: Map the Customer Journey"
+      ],
+      "englishBodyWords": 1587,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/affiliate-and-marketing-customer-journey/",
+        "zh": "https://www.quickkol.com/zh/blog/affiliate-and-marketing-customer-journey/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 10,
+      "keyword": "college ambassador programs",
+      "slug": "college-ambassador-programs-campus-permissions",
+      "title": [
+        "校园大使项目：先确认校园权限与参与边界",
+        "College Ambassador Programs: Check Campus Permissions"
+      ],
+      "englishBodyWords": 1509,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/college-ambassador-programs-campus-permissions/",
+        "zh": "https://www.quickkol.com/zh/blog/college-ambassador-programs-campus-permissions/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 11,
+      "keyword": "what is ugc creator",
+      "slug": "what-is-ugc-creator-paid-organic-distinction",
+      "title": [
+        "什么是 UGC Creator？分清付费制作与自发分享",
+        "What Is a UGC Creator? Separate Paid and Organic Work"
+      ],
+      "englishBodyWords": 1520,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/what-is-ugc-creator-paid-organic-distinction/",
+        "zh": "https://www.quickkol.com/zh/blog/what-is-ugc-creator-paid-organic-distinction/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 12,
+      "keyword": "key opinion leader",
+      "slug": "key-opinion-leader-expert-contribution-review",
+      "title": [
+        "Key Opinion Leader：如何核对专家贡献的适用范围",
+        "Key Opinion Leader: Review the Scope of Expertise"
+      ],
+      "englishBodyWords": 1518,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/key-opinion-leader-expert-contribution-review/",
+        "zh": "https://www.quickkol.com/zh/blog/key-opinion-leader-expert-contribution-review/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 13,
+      "keyword": "step by step way to track campaigns",
+      "slug": "step-by-step-campaign-tracking-evidence-log",
+      "title": [
+        "Campaign 追踪步骤：从命名到复核的证据日志",
+        "A Step-by-Step Way to Track Campaign Evidence"
+      ],
+      "englishBodyWords": 1526,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/step-by-step-campaign-tracking-evidence-log/",
+        "zh": "https://www.quickkol.com/zh/blog/step-by-step-campaign-tracking-evidence-log/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 14,
+      "keyword": "best influencer marketing platforms",
+      "slug": "best-influencer-marketing-platforms-proof-exit",
+      "title": [
+        "Best Influencer Marketing Platforms：核对证明与退出成本",
+        "Best Influencer Marketing Platforms: Proof and Exit Tests"
+      ],
+      "englishBodyWords": 1506,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/best-influencer-marketing-platforms-proof-exit/",
+        "zh": "https://www.quickkol.com/zh/blog/best-influencer-marketing-platforms-proof-exit/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 15,
+      "keyword": "leading affiliate marketing networks consumer products",
+      "slug": "affiliate-networks-consumer-products-market-fit",
+      "title": [
+        "消费品联盟网络：按市场、伙伴与结算比较",
+        "Affiliate Networks for Consumer Products: Compare Fit"
+      ],
+      "englishBodyWords": 1504,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/affiliate-networks-consumer-products-market-fit/",
+        "zh": "https://www.quickkol.com/zh/blog/affiliate-networks-consumer-products-market-fit/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 16,
+      "keyword": "how to create a social media influencer strategy",
+      "slug": "create-social-media-influencer-strategy-content-path",
+      "title": [
+        "如何制定社交达人策略：围绕受众问题设计内容路径",
+        "How to Create a Social Media Influencer Strategy"
+      ],
+      "englishBodyWords": 1501,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/create-social-media-influencer-strategy-content-path/",
+        "zh": "https://www.quickkol.com/zh/blog/create-social-media-influencer-strategy-content-path/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 17,
+      "keyword": "definition influencer",
+      "slug": "definition-influencer-multilingual-brief-glossary",
+      "title": [
+        "Definition Influencer：跨语言 Brief 的术语对齐",
+        "Definition Influencer: Align a Multilingual Brief"
+      ],
+      "englishBodyWords": 1509,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/definition-influencer-multilingual-brief-glossary/",
+        "zh": "https://www.quickkol.com/zh/blog/definition-influencer-multilingual-brief-glossary/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 18,
+      "keyword": "influencer marketing news today",
+      "slug": "influencer-marketing-news-dated-change-log",
+      "title": [
+        "达人营销新闻：带日期的变化记录与决策",
+        "Influencer Marketing News Today: A Dated Change Log"
+      ],
+      "englishBodyWords": 1523,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/influencer-marketing-news-dated-change-log/",
+        "zh": "https://www.quickkol.com/zh/blog/influencer-marketing-news-dated-change-log/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 19,
+      "keyword": "average engagement rate beauty industry philippines 2025",
+      "slug": "beauty-engagement-rate-philippines-2025-evidence",
+      "title": [
+        "菲律宾美妆互动率 2025：先核对样本与分母",
+        "Philippines Beauty Engagement Rate 2025: Check Evidence"
+      ],
+      "englishBodyWords": 1520,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/beauty-engagement-rate-philippines-2025-evidence/",
+        "zh": "https://www.quickkol.com/zh/blog/beauty-engagement-rate-philippines-2025-evidence/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    },
+    {
+      "id": 20,
+      "keyword": "how to measure influencer success",
+      "slug": "measure-influencer-success-contribution-review",
+      "title": [
+        "如何衡量达人成功：审阅贡献、成本与学习结果",
+        "How to Measure Influencer Success by Contribution"
+      ],
+      "englishBodyWords": 1520,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/measure-influencer-success-contribution-review/",
+        "zh": "https://www.quickkol.com/zh/blog/measure-influencer-success-contribution-review/"
+      },
+      "publicationDate": "Draft date 2026-10-30; confirm before release."
+    }
+  ]
+}
