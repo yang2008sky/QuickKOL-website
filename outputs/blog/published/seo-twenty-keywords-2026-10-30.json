@@ -1,0 +1,150 @@
+{
+  "status": "published",
+  "publicationDate": "2026-10-30",
+  "sourceCommit": "1ea06f3e812faeec65e9f9f23cda24510e26abbb",
+  "productionCommit": "2556f93f1d020e5fcd125e49b84716488b63bf2a",
+  "articleCount": 20,
+  "note": "Delivery package removed after production checks. Live article modules and assets are retained on main. Original package remains recoverable from sourceCommit. Do not re-import these slugs.",
+  "articles": [
+    {
+      "slug": "kols-expertise-evidence-panel",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/kols-expertise-evidence-panel/",
+        "zh": "https://www.quickkol.com/zh/blog/kols-expertise-evidence-panel/"
+      }
+    },
+    {
+      "slug": "ugc-content-customer-contribution-intake",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/ugc-content-customer-contribution-intake/",
+        "zh": "https://www.quickkol.com/zh/blog/ugc-content-customer-contribution-intake/"
+      }
+    },
+    {
+      "slug": "influencer-marketing-agency-service-acceptance",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/influencer-marketing-agency-service-acceptance/",
+        "zh": "https://www.quickkol.com/zh/blog/influencer-marketing-agency-service-acceptance/"
+      }
+    },
+    {
+      "slug": "ugc-content-creator-on-camera-production-role",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/ugc-content-creator-on-camera-production-role/",
+        "zh": "https://www.quickkol.com/zh/blog/ugc-content-creator-on-camera-production-role/"
+      }
+    },
+    {
+      "slug": "what-is-an-influencer-stakeholder-explainer",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/what-is-an-influencer-stakeholder-explainer/",
+        "zh": "https://www.quickkol.com/zh/blog/what-is-an-influencer-stakeholder-explainer/"
+      }
+    },
+    {
+      "slug": "influencer-definition-research-classification",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/influencer-definition-research-classification/",
+        "zh": "https://www.quickkol.com/zh/blog/influencer-definition-research-classification/"
+      }
+    },
+    {
+      "slug": "what-is-a-brand-ambassador-representation-boundaries",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/what-is-a-brand-ambassador-representation-boundaries/",
+        "zh": "https://www.quickkol.com/zh/blog/what-is-a-brand-ambassador-representation-boundaries/"
+      }
+    },
+    {
+      "slug": "ugc-creators-roster-coverage-continuity",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/ugc-creators-roster-coverage-continuity/",
+        "zh": "https://www.quickkol.com/zh/blog/ugc-creators-roster-coverage-continuity/"
+      }
+    },
+    {
+      "slug": "affiliate-and-marketing-customer-journey",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/affiliate-and-marketing-customer-journey/",
+        "zh": "https://www.quickkol.com/zh/blog/affiliate-and-marketing-customer-journey/"
+      }
+    },
+    {
+      "slug": "college-ambassador-programs-campus-permissions",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/college-ambassador-programs-campus-permissions/",
+        "zh": "https://www.quickkol.com/zh/blog/college-ambassador-programs-campus-permissions/"
+      }
+    },
+    {
+      "slug": "what-is-ugc-creator-paid-organic-distinction",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/what-is-ugc-creator-paid-organic-distinction/",
+        "zh": "https://www.quickkol.com/zh/blog/what-is-ugc-creator-paid-organic-distinction/"
+      }
+    },
+    {
+      "slug": "key-opinion-leader-expert-contribution-review",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/key-opinion-leader-expert-contribution-review/",
+        "zh": "https://www.quickkol.com/zh/blog/key-opinion-leader-expert-contribution-review/"
+      }
+    },
+    {
+      "slug": "step-by-step-campaign-tracking-evidence-log",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/step-by-step-campaign-tracking-evidence-log/",
+        "zh": "https://www.quickkol.com/zh/blog/step-by-step-campaign-tracking-evidence-log/"
+      }
+    },
+    {
+      "slug": "best-influencer-marketing-platforms-proof-exit",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/best-influencer-marketing-platforms-proof-exit/",
+        "zh": "https://www.quickkol.com/zh/blog/best-influencer-marketing-platforms-proof-exit/"
+      }
+    },
+    {
+      "slug": "affiliate-networks-consumer-products-market-fit",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/affiliate-networks-consumer-products-market-fit/",
+        "zh": "https://www.quickkol.com/zh/blog/affiliate-networks-consumer-products-market-fit/"
+      }
+    },
+    {
+      "slug": "create-social-media-influencer-strategy-content-path",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/create-social-media-influencer-strategy-content-path/",
+        "zh": "https://www.quickkol.com/zh/blog/create-social-media-influencer-strategy-content-path/"
+      }
+    },
+    {
+      "slug": "definition-influencer-multilingual-brief-glossary",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/definition-influencer-multilingual-brief-glossary/",
+        "zh": "https://www.quickkol.com/zh/blog/definition-influencer-multilingual-brief-glossary/"
+      }
+    },
+    {
+      "slug": "influencer-marketing-news-dated-change-log",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/influencer-marketing-news-dated-change-log/",
+        "zh": "https://www.quickkol.com/zh/blog/influencer-marketing-news-dated-change-log/"
+      }
+    },
+    {
+      "slug": "beauty-engagement-rate-philippines-2025-evidence",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/beauty-engagement-rate-philippines-2025-evidence/",
+        "zh": "https://www.quickkol.com/zh/blog/beauty-engagement-rate-philippines-2025-evidence/"
+      }
+    },
+    {
+      "slug": "measure-influencer-success-contribution-review",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/measure-influencer-success-contribution-review/",
+        "zh": "https://www.quickkol.com/zh/blog/measure-influencer-success-contribution-review/"
+      }
+    }
+  ]
+}
