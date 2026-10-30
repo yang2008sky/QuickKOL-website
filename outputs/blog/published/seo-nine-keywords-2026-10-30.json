@@ -1,0 +1,73 @@
+{
+  "status": "published",
+  "publicationDate": "2026-10-30",
+  "sourceCommit": "6dd4178406fad5f37b530aed01267686e6277af6",
+  "productionCommit": "2556f93f1d020e5fcd125e49b84716488b63bf2a",
+  "articleCount": 9,
+  "note": "Delivery package removed after production checks. Live article modules and assets are retained on main. Original package remains recoverable from sourceCommit. Do not re-import these slugs.",
+  "articles": [
+    {
+      "slug": "top-beauty-influencers-claims-review",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/top-beauty-influencers-claims-review/",
+        "zh": "https://www.quickkol.com/zh/blog/top-beauty-influencers-claims-review/"
+      }
+    },
+    {
+      "slug": "top-travel-influencers-itinerary-feasibility",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/top-travel-influencers-itinerary-feasibility/",
+        "zh": "https://www.quickkol.com/zh/blog/top-travel-influencers-itinerary-feasibility/"
+      }
+    },
+    {
+      "slug": "fashion-influencers-repeat-wear-brief",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/fashion-influencers-repeat-wear-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/fashion-influencers-repeat-wear-brief/"
+      }
+    },
+    {
+      "slug": "top-eco-friendly-influencers-repair-reuse",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/top-eco-friendly-influencers-repair-reuse/",
+        "zh": "https://www.quickkol.com/zh/blog/top-eco-friendly-influencers-repair-reuse/"
+      }
+    },
+    {
+      "slug": "how-to-negotiate-with-influencers-offer-options",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/how-to-negotiate-with-influencers-offer-options/",
+        "zh": "https://www.quickkol.com/zh/blog/how-to-negotiate-with-influencers-offer-options/"
+      }
+    },
+    {
+      "slug": "how-to-see-followers-countries-evidence",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/how-to-see-followers-countries-evidence/",
+        "zh": "https://www.quickkol.com/zh/blog/how-to-see-followers-countries-evidence/"
+      }
+    },
+    {
+      "slug": "what-is-a-media-kit-brand-review",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/what-is-a-media-kit-brand-review/",
+        "zh": "https://www.quickkol.com/zh/blog/what-is-a-media-kit-brand-review/"
+      }
+    },
+    {
+      "slug": "car-youtubers-long-term-loan-brief",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/car-youtubers-long-term-loan-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/car-youtubers-long-term-loan-brief/"
+      }
+    },
+    {
+      "slug": "entrepreneurship-micro-influencers-instagram-au-verification",
+      "urls": {
+        "en": "https://www.quickkol.com/blog/entrepreneurship-micro-influencers-instagram-au-verification/",
+        "zh": "https://www.quickkol.com/zh/blog/entrepreneurship-micro-influencers-instagram-au-verification/"
+      }
+    }
+  ]
+}
