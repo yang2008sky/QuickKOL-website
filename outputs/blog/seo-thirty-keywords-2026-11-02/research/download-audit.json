@@ -1,0 +1,63 @@
+{
+  "checkedAt": "2026-11-02",
+  "passed": true,
+  "records": [
+    {
+      "file": "creator-strategy-hypothesis-portfolio.en.csv",
+      "status": 200,
+      "bytes": 284,
+      "matchesDeliveredFile": true,
+      "sha256": "24fad52ad027d61a8e745d38ea25ce67488b7be21dcf4e5a8143109659094857"
+    },
+    {
+      "file": "creator-strategy-hypothesis-portfolio.zh.csv",
+      "status": 200,
+      "bytes": 224,
+      "matchesDeliveredFile": true,
+      "sha256": "4c52be962df5a683a9aa200889d1df1029f62d48d53269edd6cfdc77a1644d09"
+    },
+    {
+      "file": "engagement-rate-worked-examples.en.csv",
+      "status": 200,
+      "bytes": 559,
+      "matchesDeliveredFile": true,
+      "sha256": "4e01e667c61bfedd51ffcc72091fe5126cd3e227845d3c75a04ceff481e40daf"
+    },
+    {
+      "file": "engagement-rate-worked-examples.zh.csv",
+      "status": 200,
+      "bytes": 480,
+      "matchesDeliveredFile": true,
+      "sha256": "21d9f747d8f72973cda8d70d8a2255d5df2358f4821ab96ed10bb0110892b1e8"
+    },
+    {
+      "file": "influencer-emv-roi-field-dictionary.en.csv",
+      "status": 200,
+      "bytes": 1266,
+      "matchesDeliveredFile": true,
+      "sha256": "01dfacfbb58ba4cbda3ba8c7f5f16ebd10636bf9c260e1e1a6cf9844eece65b1"
+    },
+    {
+      "file": "influencer-emv-roi-field-dictionary.zh.csv",
+      "status": 200,
+      "bytes": 1121,
+      "matchesDeliveredFile": true,
+      "sha256": "0c930056b13ddade48461ccf7f31d9ac49741f813a11dd61513b9cb52c91f5a8"
+    },
+    {
+      "file": "ugc-service-purchase-fields.en.csv",
+      "status": 200,
+      "bytes": 270,
+      "matchesDeliveredFile": true,
+      "sha256": "02a8874bbe82e41678bb940d24e61a67e7dd1e28b2355d79388ca8e52c1b3aa2"
+    },
+    {
+      "file": "ugc-service-purchase-fields.zh.csv",
+      "status": 200,
+      "bytes": 236,
+      "matchesDeliveredFile": true,
+      "sha256": "db4f0d257a0d3d5287c254ce49c464e37fa9f9f38bfc6c9280e007c764e198c8"
+    }
+  ],
+  "browserDownload": "English UGC service-purchase CSV downloaded through browser downloadMedia; byte-for-byte matched local deliverable. Initial provider download event timed out; direct media download succeeded."
+}

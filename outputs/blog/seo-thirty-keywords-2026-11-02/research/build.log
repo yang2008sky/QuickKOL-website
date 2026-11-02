@@ -1,0 +1,54 @@
+$ node scripts/build-share-images.js && vite build && node --disallow-code-generation-from-strings --frozen-intrinsics scripts/build-blog-pages.js
+Generated 166 article share images from existing SVG covers.
+vite v7.3.7 building client environment for production...
+transforming...
+✓ 143 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/terms.html                                        2.25 kB │ gzip:     0.77 kB
+dist/privacy.html                                      2.30 kB │ gzip:     0.78 kB
+dist/index.html                                        2.69 kB │ gzip:     0.87 kB
+dist/.vite/manifest.json                               5.97 kB │ gzip:     1.05 kB
+dist/assets/Phosphor-DtdjzkpE.woff2                  147.38 kB
+dist/assets/Phosphor-CDxgqcPu.ttf                    488.64 kB
+dist/assets/Phosphor-BdqudwT5.woff                   488.72 kB
+dist/assets/Phosphor-BXRFlF4V.svg                  2,996.37 kB │ gzip:   815.48 kB
+dist/assets/faq-CJmzdYwL.css                           2.71 kB │ gzip:     0.93 kB
+dist/assets/contact-NyfUPyUs.css                       4.65 kB │ gzip:     1.41 kB
+dist/assets/legal-D08qvEMz.css                         5.02 kB │ gzip:     1.46 kB
+dist/assets/about-BoSmgKyE.css                         6.70 kB │ gzip:     1.89 kB
+dist/assets/campaign-cost-calculator-BqS_tTzV.css      8.26 kB │ gzip:     1.92 kB
+dist/assets/pricing-BlRiCIqq.css                      10.39 kB │ gzip:     2.74 kB
+dist/assets/creator-rate-yYmPtRGq.css                 12.62 kB │ gzip:     2.87 kB
+dist/assets/invoice-generator-GNvo8jUh.css            14.15 kB │ gzip:     3.58 kB
+dist/assets/blog-CgyxaY5D.css                         15.24 kB │ gzip:     3.96 kB
+dist/assets/main-BBHrq3NK.css                        160.70 kB │ gzip:    30.85 kB
+dist/assets/seo-BgqZriDv.js                            3.82 kB │ gzip:     1.68 kB
+dist/assets/creator-rate-C9FGH1re.js                   5.00 kB │ gzip:     2.17 kB
+dist/assets/faq-BNEB2pwE.js                           10.34 kB │ gzip:     4.88 kB
+dist/assets/contact-CoK0F4qD.js                       10.53 kB │ gzip:     4.17 kB
+dist/assets/about-52YW_5wX.js                         14.12 kB │ gzip:     6.41 kB
+dist/assets/pricing-Cb7EqE4w.js                       19.18 kB │ gzip:     7.50 kB
+dist/assets/creator-rate-calculator-DB2g7oHm.js       21.35 kB │ gzip:     7.46 kB
+dist/assets/campaign-cost-calculator-jgTbCnjz.js      29.74 kB │ gzip:    10.81 kB
+dist/assets/invoice-generator-D99Ef6I7.js             30.20 kB │ gzip:     8.35 kB
+dist/assets/legal-qWi-bUNQ.js                         30.77 kB │ gzip:    12.36 kB
+dist/assets/main-7yBdFH3m.js                         124.29 kB │ gzip:    41.11 kB
+dist/assets/i18n-Ca7q_9oN.js                         215.08 kB │ gzip:    86.47 kB
+dist/assets/pt-Ct4OZqje.js                           447.00 kB │ gzip:   154.36 kB
+dist/assets/ko-CesS7ZC0.js                           454.55 kB │ gzip:   163.07 kB
+dist/assets/es-9OS7sqA7.js                           455.08 kB │ gzip:   155.56 kB
+dist/assets/de-B17rUz5u.js                           459.28 kB │ gzip:   163.43 kB
+dist/assets/fr-oG8Kx9Us.js                           470.28 kB │ gzip:   160.50 kB
+dist/assets/ja-DLVtV_7q.js                           500.33 kB │ gzip:   172.40 kB
+dist/assets/blog-BkPH4wiT.js                       4,946.81 kB │ gzip: 1,848.54 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 1.84s
+(node:7463) ExperimentalWarning: Frozen intristics is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+Generated 703 Chinese/English site, tool and blog entry points.
+Generated sitemap.xml with 703 URLs and robots.txt.
