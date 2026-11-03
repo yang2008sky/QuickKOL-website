@@ -1,8 +1,0 @@
-﻿example_id,data_status,included_interaction_events,denominator_type,denominator_value,calculation_state,rate_percent
-A,hypothetical,100,views,1000,calculated,10
-B,hypothetical,90,views,9000,calculated,1
-A+B,hypothetical pooled,190,sum of matched post views,10000,calculated,1.9
-"A,B mean",hypothetical simple mean,,post-rate mean,,calculated,5.5
-zero,hypothetical,0,defined denominator,500,observed zero,0
-missing numerator,hypothetical,,defined denominator,500,not calculated,
-zero denominator,hypothetical,0,defined denominator,0,not calculated,

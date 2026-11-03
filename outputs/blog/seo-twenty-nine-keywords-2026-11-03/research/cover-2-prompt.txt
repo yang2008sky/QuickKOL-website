@@ -1,6 +1,0 @@
-Use case: photorealistic-natural.
-Asset: final wide 16:9 editorial cover for QuickKOL article Influencer Marketing Agencies: Set the Operating Rhythm.
-Visual family: Human documentary.
-Scene: a bright industrial production-studio loading area with cream walls, tall windows and a cobalt rolling equipment cart. Two fictional adults coordinate the next shoot handoff: an Asian male production coordinator in a cream overshirt holds a blank coral schedule folder; a Middle Eastern woman camera operator in a cobalt work shirt checks the cart's equipment list on a blank cream clipboard. Standing, task-focused, candid, no office table, no handshake, no named agency.
-Composition: wide three-quarter shot, recognizable people and practical cart at card size, safe margins for crops. Natural bright light, contemporary editorial photography. Cream and black base, cobalt and restrained coral accents. Plausible equipment, hands and posture.
-Constraints: no readable words, numbers, logos, watermarks, fabricated metrics or recognizable software UI. No gloomy grading, stock meeting, repeated cast or anatomy errors. Fictional scene, not a real agency or client.
