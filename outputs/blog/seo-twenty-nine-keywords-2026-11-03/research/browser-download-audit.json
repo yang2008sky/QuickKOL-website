@@ -1,0 +1,42 @@
+[
+  {
+    "name": "engagement-metric-contract.zh.csv",
+    "browserDownloaded": true,
+    "matchesSource": true,
+    "bom": true,
+    "lines": 3,
+    "fields": 18,
+    "equalColumnCount": true,
+    "sha256": "9d4fef881b96ec8f433d111255c31f8ba22fb447243e30c43f66115e9b598a17"
+  },
+  {
+    "name": "engagement-metric-contract.en.csv",
+    "browserDownloaded": true,
+    "matchesSource": true,
+    "bom": true,
+    "lines": 3,
+    "fields": 18,
+    "equalColumnCount": true,
+    "sha256": "6a27751c1383109e053c8fcbbdd92137f3fd02d7c52719f46567efae87919ff2"
+  },
+  {
+    "name": "launch-advisory-decision-log.zh.csv",
+    "browserDownloaded": true,
+    "matchesSource": true,
+    "bom": true,
+    "lines": 3,
+    "fields": 12,
+    "equalColumnCount": true,
+    "sha256": "6d79715bf0f583d76b9121225ef9ef2bacd14b467ceaa3ed250c40f6f08fe214"
+  },
+  {
+    "name": "launch-advisory-decision-log.en.csv",
+    "browserDownloaded": true,
+    "matchesSource": true,
+    "bom": true,
+    "lines": 3,
+    "fields": 12,
+    "equalColumnCount": true,
+    "sha256": "dbe07038dfcf11a6657ebb7e52593cc6d9d0ac97fbd0e5b8359fab8e4389c373"
+  }
+]

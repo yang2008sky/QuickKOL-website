@@ -1,0 +1,23 @@
+[
+  {
+    "year": 2025,
+    "sha256": "e0f8178380332b302456d334cc76e8715afbec98fefad0a31092d9e722478147",
+    "bytes": 9787602,
+    "reviewedAt": "2026-11-03",
+    "physicalPagesVisuallyRead": [
+      19
+    ],
+    "storage": "Research-only temporary PDF; not included as a public download."
+  },
+  {
+    "year": 2026,
+    "sha256": "ec5db1ff647282647cfc94ee351fcbc4f4ee59b3c0a656838b826f6b528715f7",
+    "bytes": 11686813,
+    "reviewedAt": "2026-11-03",
+    "physicalPagesVisuallyRead": [
+      14,
+      25
+    ],
+    "storage": "Research-only temporary PDF; not included as a public download."
+  }
+]

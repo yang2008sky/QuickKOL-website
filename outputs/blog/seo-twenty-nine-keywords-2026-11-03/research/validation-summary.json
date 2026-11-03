@@ -1,0 +1,91 @@
+{
+  "reviewedAt": "2026-11-03",
+  "articles": 29,
+  "locales": 2,
+  "englishBodyCountMethod": "answer plus section bodies only; excludes headings, tables, navigation, sources, CTA and deepDive",
+  "englishBodyRange": [
+    1500,
+    1541
+  ],
+  "minimumSources": 3,
+  "minimumConfiguredBodyInternalLinks": 3,
+  "longEnglishParagraphsRepeatedAcrossArticles": [],
+  "educationalArticles": [
+    {
+      "id": 14,
+      "keyword": "web3 instagram account follower quality analysis 2024",
+      "slug": "web3-instagram-follower-quality-2024-evidence-literacy",
+      "cta": {
+        "title": [
+          "继续学习如何解释数据",
+          "Continue learning how to interpret data"
+        ],
+        "body": [
+          "用清楚的对象、窗口和来源解释计数与结果，保留证据不能回答的问题。",
+          "Explain counts and outcomes with clear objects, windows and sources, retaining questions the evidence cannot answer."
+        ],
+        "label": [
+          "阅读活动衡量指南",
+          "Read the measurement guide"
+        ],
+        "href": "/blog/creator-campaign-measurement/#answer"
+      },
+      "restriction": "Educational interpretation of signals, source independence and uncertainty; no account accusations, screening service or guaranteed authenticity detection."
+    },
+    {
+      "id": 15,
+      "keyword": "fake instagram followers",
+      "slug": "fake-instagram-followers-claim-reporting-literacy",
+      "cta": {
+        "title": [
+          "继续学习指标与证据",
+          "Continue learning about metrics and evidence"
+        ],
+        "body": [
+          "理解计数、受众反应与业务结果的区别，用清楚的来源与限制支持报告。",
+          "Understand the distinction between counts, audience response and business outcomes, supporting reports with clear sources and limits."
+        ],
+        "label": [
+          "阅读衡量指南",
+          "Read the measurement guide"
+        ],
+        "href": "/blog/creator-campaign-measurement/#answer"
+      },
+      "restriction": "Educational interpretation of signals, source independence and uncertainty; no account accusations, screening service or guaranteed authenticity detection."
+    }
+  ],
+  "tests": {
+    "total": 61,
+    "pass": 60,
+    "fail": 1,
+    "knownExistingFailure": {
+      "file": "tests/seo-localization.test.js",
+      "route": "/blog/definition-influencer-multilingual-brief-glossary/",
+      "reason": "Existing multilingual terminology article intentionally includes Chinese translation examples; the blanket no-Han assertion in English main rejects them. Existing article and test were not changed."
+    }
+  },
+  "build": {
+    "exitCode": 0,
+    "entryPoints": 765,
+    "sitemapURLs": 765,
+    "log": "research/build.log"
+  },
+  "newPageAudit": {
+    "pages": 58,
+    "passed": true,
+    "record": "research/rendered-page-audit.json"
+  },
+  "http": {
+    "paths": 91,
+    "passed": true,
+    "record": "research/http-audit.json"
+  },
+  "downloads": {
+    "files": 4,
+    "actualBrowserDownloads": true,
+    "allMatchSource": true,
+    "record": "research/browser-download-audit.json"
+  },
+  "checkScope": "Previously completed checks in independent local preview; no claim that the formal repository or production site has integrated these articles.",
+  "productionIntegration": "Pending maintainer review, content integration, merge and deployment. Uploading this folder alone does not display articles."
+}

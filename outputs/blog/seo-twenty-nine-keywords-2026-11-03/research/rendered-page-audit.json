@@ -1,0 +1,1664 @@
+{
+  "checkedAt": "2026-11-03",
+  "pages": 58,
+  "passed": true,
+  "errors": [],
+  "records": [
+    {
+      "slug": "optimize-influencer-campaigns-bottleneck-decisions",
+      "locale": "zh",
+      "route": "/zh/blog/optimize-influencer-campaigns-bottleneck-decisions/",
+      "h1": "达人活动优化：先找瓶颈，再决定改什么",
+      "title": "达人活动优化：先找瓶颈，再决定改什么 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/optimize-influencer-campaigns-bottleneck-decisions/",
+      "description": "如何优化达人活动：先确认记录可用，再区分内容、分发、页面与执行瓶颈，用小范围调整、停止条件和决定日志支持复盘。",
+      "cover": "/assets/blog/optimize-influencer-campaigns-bottleneck-decisions.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/optimize-influencer-campaigns-bottleneck-decisions.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/read-creator-engagement-data/#interactive-tool",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/blog/engagement-rate-denominators/#answer",
+        "/zh/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://amecorg.com/amecframework/",
+        "https://support.google.com/google-ads/answer/7281575?hl=en",
+        "https://support.google.com/google-ads/answer/1722066?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "optimize-influencer-campaigns-bottleneck-decisions",
+      "locale": "en",
+      "route": "/blog/optimize-influencer-campaigns-bottleneck-decisions/",
+      "h1": "How to Optimize Influencer Campaigns: Diagnose the Bottleneck",
+      "title": "How to Optimize Influencer Campaigns: Diagnose the Bottleneck | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/optimize-influencer-campaigns-bottleneck-decisions/",
+      "description": "Learn how to optimize influencer campaigns by diagnosing evidence, content, distribution and destination issues, then recording bounded changes and decision rules.",
+      "cover": "/assets/blog/optimize-influencer-campaigns-bottleneck-decisions.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/optimize-influencer-campaigns-bottleneck-decisions.jpg",
+      "bodyInternalLinks": [
+        "/blog/read-creator-engagement-data/#interactive-tool",
+        "/blog/creator-campaign-measurement/#answer",
+        "/blog/engagement-rate-denominators/#answer",
+        "/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/ai-creator-research-prompts/#interactive-tool",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://amecorg.com/amecframework/",
+        "https://support.google.com/google-ads/answer/7281575?hl=en",
+        "https://support.google.com/google-ads/answer/1722066?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "influencer-marketing-agencies-operating-rhythm",
+      "locale": "zh",
+      "route": "/zh/blog/influencer-marketing-agencies-operating-rhythm/",
+      "h1": "达人营销机构：建立清楚的协作与升级节奏",
+      "title": "达人营销机构：建立清楚的协作与升级节奏 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/influencer-marketing-agencies-operating-rhythm/",
+      "description": "达人营销机构协作指南：定义保留决定、依赖、反馈汇总和升级节奏，用运行记录连接素材、合作条件与报告，不只开进度会。",
+      "cover": "/assets/blog/influencer-marketing-agencies-operating-rhythm.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/influencer-marketing-agencies-operating-rhythm.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/influencer-marketing-agency-service-acceptance/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://www.whalar.com/",
+        "https://help.frame.io/en/articles/9952618-comparison-viewer",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "influencer-marketing-agencies-operating-rhythm",
+      "locale": "en",
+      "route": "/blog/influencer-marketing-agencies-operating-rhythm/",
+      "h1": "Influencer Marketing Agencies: Set the Operating Rhythm",
+      "title": "Influencer Marketing Agencies: Set the Operating Rhythm | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/influencer-marketing-agencies-operating-rhythm/",
+      "description": "Work with influencer marketing agencies through retained decisions, dependencies, consolidated feedback and escalation, connecting assets, conditions and reporting.",
+      "cover": "/assets/blog/influencer-marketing-agencies-operating-rhythm.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/influencer-marketing-agencies-operating-rhythm.jpg",
+      "bodyInternalLinks": [
+        "/blog/influencer-marketing-agency-service-acceptance/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://www.whalar.com/",
+        "https://help.frame.io/en/articles/9952618-comparison-viewer",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "brand-ambassador-customer-facing-explanation",
+      "locale": "zh",
+      "route": "/zh/blog/brand-ambassador-customer-facing-explanation/",
+      "h1": "品牌大使是什么：向受众说清角色与关系",
+      "title": "品牌大使是什么：向受众说清角色与关系 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/brand-ambassador-customer-facing-explanation/",
+      "description": "品牌大使是什么？面向顾客解释角色、回报、真实体验与联系入口，避免用一个头衔暗示独立评价、所有授权或保证结果。",
+      "cover": "/assets/blog/brand-ambassador-customer-facing-explanation.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/brand-ambassador-customer-facing-explanation.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/brand-ambassador-role-program/#answer",
+        "/zh/blog/ambassador-programs-member-application/#answer",
+        "/zh/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://corporate.lululemon.com/our-business/innovation/community-engagement",
+        "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "brand-ambassador-customer-facing-explanation",
+      "locale": "en",
+      "route": "/blog/brand-ambassador-customer-facing-explanation/",
+      "h1": "What Is a Brand Ambassador to Your Customers?",
+      "title": "What Is a Brand Ambassador to Your Customers? | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/brand-ambassador-customer-facing-explanation/",
+      "description": "Explain what a brand ambassador means to customers through role, relationship, genuine experience and contact routes, without implying independence or guarantees.",
+      "cover": "/assets/blog/brand-ambassador-customer-facing-explanation.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/brand-ambassador-customer-facing-explanation.jpg",
+      "bodyInternalLinks": [
+        "/blog/brand-ambassador-role-program/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/creator-content-approval-workflow/#evidence-table",
+        "/blog/ambassador-programs-member-application/#answer",
+        "/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/blog/personalized-creator-outreach/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://corporate.lululemon.com/our-business/innovation/community-engagement",
+        "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "join-paid-partnership-programs-offer-reading",
+      "locale": "zh",
+      "route": "/zh/blog/join-paid-partnership-programs-offer-reading/",
+      "h1": "加入付费合作计划前：先读懂邀请与回报",
+      "title": "加入付费合作计划前：先读懂邀请与回报 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/join-paid-partnership-programs-offer-reading/",
+      "description": "如何加入付费合作计划：区分发现入口、申请、批准、接受与付款，读取官方资格和具体offer，不承诺注册即可获得收入。",
+      "cover": "/assets/blog/join-paid-partnership-programs-offer-reading.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/join-paid-partnership-programs-offer-reading.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/ambassador-programs-member-application/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/what-is-a-media-kit-brand-review/#answer",
+        "/zh/blog/organic-vs-paid-creator-content/#evidence-table",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://help.shopify.com/en/manual/promoting-marketing/collabs/creators/setup",
+        "https://support.google.com/youtube/answer/9385307?hl=en",
+        "https://help.shopify.com/en/manual/promoting-marketing/collabs/creators/payments"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "join-paid-partnership-programs-offer-reading",
+      "locale": "en",
+      "route": "/blog/join-paid-partnership-programs-offer-reading/",
+      "h1": "How to Join Paid Partnership Programs: Read the Offer First",
+      "title": "How to Join Paid Partnership Programs: Read the Offer First | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/join-paid-partnership-programs-offer-reading/",
+      "description": "Learn how to join paid partnership programs by separating application, approval, acceptance and payment, using official routes and the actual offer rather than income promises.",
+      "cover": "/assets/blog/join-paid-partnership-programs-offer-reading.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/join-paid-partnership-programs-offer-reading.jpg",
+      "bodyInternalLinks": [
+        "/blog/ambassador-programs-member-application/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/what-is-a-media-kit-brand-review/#answer",
+        "/blog/organic-vs-paid-creator-content/#evidence-table",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://help.shopify.com/en/manual/promoting-marketing/collabs/creators/setup",
+        "https://support.google.com/youtube/answer/9385307?hl=en",
+        "https://help.shopify.com/en/manual/promoting-marketing/collabs/creators/payments"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "what-is-travel-influencer-destination-brief",
+      "locale": "zh",
+      "route": "/zh/blog/what-is-travel-influencer-destination-brief/",
+      "h1": "旅行达人是什么：把目的地故事变成合作任务",
+      "title": "旅行达人是什么：把目的地故事变成合作任务 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/what-is-travel-influencer-destination-brief/",
+      "description": "旅行达人是什么？理解目的地讲述、受众与真实体验的关系，区分本人发布和受托制作，附品牌合作内容任务表。",
+      "cover": "/assets/blog/what-is-travel-influencer-destination-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/what-is-travel-influencer-destination-brief.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/what-is-a-media-kit-brand-review/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/top-travel-influencers-itinerary-feasibility/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://www.visitscotland.org/who-we-are/contact/influencer-programmes",
+        "https://partner.expediagroup.com/en-us/resources/blog/crack-code-on-travel-content-science-of-wanderlust",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "what-is-travel-influencer-destination-brief",
+      "locale": "en",
+      "route": "/blog/what-is-travel-influencer-destination-brief/",
+      "h1": "What Is a Travel Influencer? Write the Destination Brief",
+      "title": "What Is a Travel Influencer? Write the Destination Brief | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/what-is-travel-influencer-destination-brief/",
+      "description": "What is a travel influencer? Define destination storytelling, audience and genuine experience, distinguish publication from commissioned production and build a clear brief.",
+      "cover": "/assets/blog/what-is-travel-influencer-destination-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/what-is-travel-influencer-destination-brief.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/what-is-a-media-kit-brand-review/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/top-travel-influencers-itinerary-feasibility/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://www.visitscotland.org/who-we-are/contact/influencer-programmes",
+        "https://partner.expediagroup.com/en-us/resources/blog/crack-code-on-travel-content-science-of-wanderlust",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "technology-disruption-influencer-marketing-change-register",
+      "locale": "zh",
+      "route": "/zh/blog/technology-disruption-influencer-marketing-change-register/",
+      "h1": "技术如何改变达人营销：记录能力、责任与证据",
+      "title": "技术如何改变达人营销：记录能力、责任与证据 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/technology-disruption-influencer-marketing-change-register/",
+      "description": "技术如何改变达人营销？核对制作、生成内容披露与版本协作的具体变化，记录受影响任务和责任，不把平台公告当作效果保证。",
+      "cover": "/assets/blog/technology-disruption-influencer-marketing-change-register.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/technology-disruption-influencer-marketing-change-register.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/zh/blog/ai-creator-shortlist-review/#answer",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2026/04/one-year-of-edits-built-for-and-with-creators/amp/",
+        "https://support.google.com/youtube/answer/14328491?hl=en",
+        "https://help.frame.io/en/articles/9952618-comparison-viewer"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "technology-disruption-influencer-marketing-change-register",
+      "locale": "en",
+      "route": "/blog/technology-disruption-influencer-marketing-change-register/",
+      "h1": "Technology Disruption in Influencer Marketing: Track the Change",
+      "title": "Technology Disruption in Influencer Marketing: Track the Change | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/technology-disruption-influencer-marketing-change-register/",
+      "description": "Explore technology disruption in influencer marketing through production, GenAI disclosure and version review, with documented task changes rather than outcome promises.",
+      "cover": "/assets/blog/technology-disruption-influencer-marketing-change-register.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/technology-disruption-influencer-marketing-change-register.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/ai-creator-research-prompts/#interactive-tool",
+        "/blog/creator-content-approval-workflow/#evidence-table",
+        "/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/blog/ai-creator-shortlist-review/#answer",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2026/04/one-year-of-edits-built-for-and-with-creators/amp/",
+        "https://support.google.com/youtube/answer/14328491?hl=en",
+        "https://help.frame.io/en/articles/9952618-comparison-viewer"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "engagement-rate-formula-metric-contract",
+      "locale": "zh",
+      "route": "/zh/blog/engagement-rate-formula-metric-contract/",
+      "h1": "互动率公式：先写指标约定，再接报表",
+      "title": "互动率公式：先写指标约定，再接报表 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/engagement-rate-formula-metric-contract/",
+      "description": "互动率公式指南：用指标约定核对分子、分母、百分比单位、缺失状态和版本变更，配可下载双语字段表与假设算例。",
+      "cover": "/assets/blog/engagement-rate-formula-metric-contract.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/engagement-rate-formula-metric-contract.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/read-creator-engagement-data/#interactive-tool",
+        "/zh/blog/engagement-rate-denominators/#answer",
+        "/zh/blog/audit-creator-audience-quality/#evidence-table",
+        "/zh/blog/read-creator-engagement-data/#answer",
+        "/zh/blog/engagement-rate-calculator-formulas/#answer",
+        "/zh/blog/creator-campaign-incrementality/#interactive-tool",
+        "/zh/blog/detect-suspicious-creator-growth/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://help.rivaliq.com/en/articles/4792538-what-is-included-in-engagement-metrics",
+        "https://help.rivaliq.com/en/articles/2043672-understanding-engagement-rates",
+        "https://support.google.com/youtube/answer/2991785?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "engagement-rate-formula-metric-contract",
+      "locale": "en",
+      "route": "/blog/engagement-rate-formula-metric-contract/",
+      "h1": "Engagement Rate Formula: Write the Metric Contract",
+      "title": "Engagement Rate Formula: Write the Metric Contract | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/engagement-rate-formula-metric-contract/",
+      "description": "Document an engagement rate formula with numerator, denominator, percentage units, missing states and version changes, using bilingual fields and worked examples.",
+      "cover": "/assets/blog/engagement-rate-formula-metric-contract.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/engagement-rate-formula-metric-contract.jpg",
+      "bodyInternalLinks": [
+        "/blog/read-creator-engagement-data/#interactive-tool",
+        "/blog/engagement-rate-denominators/#answer",
+        "/blog/audit-creator-audience-quality/#evidence-table",
+        "/blog/read-creator-engagement-data/#answer",
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/engagement-rate-calculator-formulas/#answer",
+        "/blog/creator-campaign-incrementality/#interactive-tool",
+        "/blog/detect-suspicious-creator-growth/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://help.rivaliq.com/en/articles/4792538-what-is-included-in-engagement-metrics",
+        "https://help.rivaliq.com/en/articles/2043672-understanding-engagement-rates",
+        "https://support.google.com/youtube/answer/2991785?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "munich-influencer-agencies-local-coordination",
+      "locale": "zh",
+      "route": "/zh/blog/munich-influencer-agencies-local-coordination/",
+      "h1": "慕尼黑达人机构：核对本地服务与现场协作",
+      "title": "慕尼黑达人机构：核对本地服务与现场协作 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/munich-influencer-agencies-local-coordination/",
+      "description": "慕尼黑达人与社交媒体机构研究：核对官网地址和服务，整理语言、现场、制作与代表关系问题，不发布未经验证的最佳排名。",
+      "cover": "/assets/blog/munich-influencer-agencies-local-coordination.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/munich-influencer-agencies-local-coordination.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/influencer-agencies-scope-and-accountability/#answer",
+        "/zh/blog/creator-relationship-crm/#evidence-table",
+        "/zh/blog/creator-agency-or-direct-outreach/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/multilingual-creator-campaign/#evidence-table",
+        "/zh/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://www.mitzirose.com/",
+        "https://hansmannpr.de/leistung/social-media/",
+        "https://www.addfame.com/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "munich-influencer-agencies-local-coordination",
+      "locale": "en",
+      "route": "/blog/munich-influencer-agencies-local-coordination/",
+      "h1": "Munich Influencer Agencies: Verify Local Coordination",
+      "title": "Munich Influencer Agencies: Verify Local Coordination | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/munich-influencer-agencies-local-coordination/",
+      "description": "Research Munich influencer and social media agencies through official addresses and services, then verify language, on-site work, production and representation.",
+      "cover": "/assets/blog/munich-influencer-agencies-local-coordination.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/munich-influencer-agencies-local-coordination.jpg",
+      "bodyInternalLinks": [
+        "/blog/influencer-agencies-scope-and-accountability/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/creator-agency-or-direct-outreach/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/multilingual-creator-campaign/#evidence-table",
+        "/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/blog/personalized-creator-outreach/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://www.mitzirose.com/",
+        "https://hansmannpr.de/leistung/social-media/",
+        "https://www.addfame.com/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "brand-deals-commercial-memo-content-brief",
+      "locale": "zh",
+      "route": "/zh/blog/brand-deals-commercial-memo-content-brief/",
+      "h1": "品牌合作交易：把商务摘要与内容Brief分开",
+      "title": "品牌合作交易：把商务摘要与内容Brief分开 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/brand-deals-commercial-memo-content-brief/",
+      "description": "品牌合作交易怎样交接：区分商务摘要和内容Brief，记录范围、报价状态、许可依赖与变更，避免把平台询问误当成已接受合作。",
+      "cover": "/assets/blog/brand-deals-commercial-memo-content-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/brand-deals-commercial-memo-content-brief.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/creator-contract-scope-checklist/#answer",
+        "/zh/blog/influencer-contract-template-statement-of-work/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/collaborate-with-influencers-brand-workflow/#answer"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/youtube/answer/9385307?hl=en",
+        "https://help.frame.io/en/articles/9952618-comparison-viewer",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "brand-deals-commercial-memo-content-brief",
+      "locale": "en",
+      "route": "/blog/brand-deals-commercial-memo-content-brief/",
+      "h1": "Brand Deals: Separate the Deal Memo From the Content Brief",
+      "title": "Brand Deals: Separate the Deal Memo From the Content Brief | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/brand-deals-commercial-memo-content-brief/",
+      "description": "Organize brand deals with a commercial memo and content brief, recording scope, acceptance, permission dependencies and changes before production begins.",
+      "cover": "/assets/blog/brand-deals-commercial-memo-content-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/brand-deals-commercial-memo-content-brief.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/creator-contract-scope-checklist/#answer",
+        "/blog/influencer-contract-template-statement-of-work/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/youtube/answer/9385307?hl=en",
+        "https://help.frame.io/en/articles/9952618-comparison-viewer",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "emv-meaning-executive-report-annotation",
+      "locale": "zh",
+      "route": "/zh/blog/emv-meaning-executive-report-annotation/",
+      "h1": "EMV是什么意思：给管理报告补上正确注释",
+      "title": "EMV是什么意思：给管理报告补上正确注释 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/emv-meaning-executive-report-annotation/",
+      "description": "EMV在达人营销报告里是什么意思？学习怎样注明估算方法、币种、覆盖范围与限制，避免把earned media value等同于收入、利润或ROI。",
+      "cover": "/assets/blog/emv-meaning-executive-report-annotation.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/emv-meaning-executive-report-annotation.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/influencer-marketing-platforms-emv-calculation-methods/#answer",
+        "/zh/blog/influencer-emv-roi-calculation-field-dictionary/#answer",
+        "/zh/blog/creator-campaign-measurement/#answer"
+      ],
+      "bodyCitations": [
+        "https://help.hypeauditor.com/en/articles/6379512-what-is-emv-and-how-is-it-calculated",
+        "https://support.google.com/google-ads/answer/1722066?hl=en",
+        "https://amecorg.com/amecframework/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "emv-meaning-executive-report-annotation",
+      "locale": "en",
+      "route": "/blog/emv-meaning-executive-report-annotation/",
+      "h1": "EMV Meaning: Annotate the Executive Report",
+      "title": "EMV Meaning: Annotate the Executive Report | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/emv-meaning-executive-report-annotation/",
+      "description": "Understand EMV in influencer reports and annotate its model, currency, coverage and limits without presenting earned media value as revenue, profit or ROI.",
+      "cover": "/assets/blog/emv-meaning-executive-report-annotation.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/emv-meaning-executive-report-annotation.jpg",
+      "bodyInternalLinks": [
+        "/blog/influencer-marketing-platforms-emv-calculation-methods/#answer",
+        "/blog/influencer-emv-roi-calculation-field-dictionary/#answer",
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/creator-campaign-measurement/#answer"
+      ],
+      "bodyCitations": [
+        "https://help.hypeauditor.com/en/articles/6379512-what-is-emv-and-how-is-it-calculated",
+        "https://support.google.com/google-ads/answer/1722066?hl=en",
+        "https://amecorg.com/amecframework/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "tiktok-400k-500k-engagement-verified-cohort",
+      "locale": "zh",
+      "route": "/zh/blog/tiktok-400k-500k-engagement-verified-cohort/",
+      "h1": "40万至50万粉丝TikTok达人：均值怎样才算可核验",
+      "title": "40万至50万粉丝TikTok达人：均值怎样才算可核验 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/tiktok-400k-500k-engagement-verified-cohort/",
+      "description": "40万至50万粉丝TikTok创作者平均互动率如何核验？区分账号认证与数据核验，说明样本、公式、窗口和均值、中位数与加权率。",
+      "cover": "/assets/blog/tiktok-400k-500k-engagement-verified-cohort.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/tiktok-400k-500k-engagement-verified-cohort.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/read-creator-engagement-data/#interactive-tool",
+        "/zh/blog/nano-micro-macro-creator-mix/#answer",
+        "/zh/blog/audit-creator-audience-quality/#evidence-table",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/tiktok-analytics-creative-review-windows/#answer",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://newsroom.tiktok.com/how-to-tell-if-an-account-is-verified-on-tiktok/?lang=en",
+        "https://help.rivaliq.com/en/articles/2043672-understanding-engagement-rates",
+        "https://emplifi.io/resources/blog/q3-2026-social-media-benchmarks/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "tiktok-400k-500k-engagement-verified-cohort",
+      "locale": "en",
+      "route": "/blog/tiktok-400k-500k-engagement-verified-cohort/",
+      "h1": "TikTok Creators With 400K–500K Followers: Verify the Cohort",
+      "title": "TikTok Creators With 400K–500K Followers: Verify the Cohort | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/tiktok-400k-500k-engagement-verified-cohort/",
+      "description": "Verify engagement claims for TikTok creators with 400K–500K followers by checking badge meaning, cohort, window, formula, mean, median and pooled rate.",
+      "cover": "/assets/blog/tiktok-400k-500k-engagement-verified-cohort.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/tiktok-400k-500k-engagement-verified-cohort.jpg",
+      "bodyInternalLinks": [
+        "/blog/read-creator-engagement-data/#interactive-tool",
+        "/blog/nano-micro-macro-creator-mix/#answer",
+        "/blog/audit-creator-audience-quality/#evidence-table",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/tiktok-analytics-creative-review-windows/#answer",
+        "/blog/creator-campaign-measurement/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://newsroom.tiktok.com/how-to-tell-if-an-account-is-verified-on-tiktok/?lang=en",
+        "https://help.rivaliq.com/en/articles/2043672-understanding-engagement-rates",
+        "https://emplifi.io/resources/blog/q3-2026-social-media-benchmarks/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "valueyournetwork-agency-evaluation-source-checks",
+      "locale": "zh",
+      "route": "/zh/blog/valueyournetwork-agency-evaluation-source-checks/",
+      "h1": "ValueYourNetwork机构评估：区分自述与独立依据",
+      "title": "ValueYourNetwork机构评估：区分自述与独立依据 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/valueyournetwork-agency-evaluation-source-checks/",
+      "description": "怎样评估ValueYourNetwork是否适合品牌项目：核对官方来源、服务范围、案例口径、报告与责任，不把自述效果或创作者证书当机构认证。",
+      "cover": "/assets/blog/valueyournetwork-agency-evaluation-source-checks.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/valueyournetwork-agency-evaluation-source-checks.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/influencer-agencies-scope-and-accountability/#answer",
+        "/zh/blog/creator-agency-or-direct-outreach/#answer",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://www.valueyournetwork.com/",
+        "https://www.valueyournetwork.com/annonceurs/",
+        "https://www.economie.gouv.fr/guide-bonne-conduite-influenceurs-createurs-contenu",
+        "https://www.arpp.org/influence-responsable/faq-certificat-influence-responsable-arpp/"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "valueyournetwork-agency-evaluation-source-checks",
+      "locale": "en",
+      "route": "/blog/valueyournetwork-agency-evaluation-source-checks/",
+      "h1": "ValueYourNetwork Agency Review: Check the Evidence",
+      "title": "ValueYourNetwork Agency Review: Check the Evidence | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/valueyournetwork-agency-evaluation-source-checks/",
+      "description": "Evaluate ValueYourNetwork for a brand brief through official scope, case evidence, reporting and responsibility without treating self-claims as an independent ranking.",
+      "cover": "/assets/blog/valueyournetwork-agency-evaluation-source-checks.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/valueyournetwork-agency-evaluation-source-checks.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/influencer-agencies-scope-and-accountability/#answer",
+        "/blog/creator-landing-page-conversion/#interactive-tool",
+        "/blog/creator-agency-or-direct-outreach/#answer",
+        "/blog/creator-campaign-measurement/#answer",
+        "/blog/creator-product-claims-review/#evidence-table",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/personalized-creator-outreach/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://www.valueyournetwork.com/",
+        "https://www.valueyournetwork.com/annonceurs/",
+        "https://www.economie.gouv.fr/guide-bonne-conduite-influenceurs-createurs-contenu",
+        "https://www.arpp.org/influence-responsable/faq-certificat-influence-responsable-arpp/"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "affiliate-creator-content-partnership-ads-role-map",
+      "locale": "zh",
+      "route": "/zh/blog/affiliate-creator-content-partnership-ads-role-map/",
+      "h1": "联盟、创作者与合作广告：画清角色和回报",
+      "title": "联盟、创作者与合作广告：画清角色和回报 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/affiliate-creator-content-partnership-ads-role-map/",
+      "description": "品牌怎样组织affiliate creator content与partnership ads：分清制作、发布、佣金、权限、媒体预算和结算，不把一个合作标签视为全部安排。",
+      "cover": "/assets/blog/affiliate-creator-content-partnership-ads-role-map.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/affiliate-creator-content-partnership-ads-role-map.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/creator-contract-scope-checklist/#answer",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/partnership-ads-permission-checklist/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/creator-landing-page-conversion/#interactive-tool",
+        "/zh/blog/affiliate-creator-conversion-analysis/#answer"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/ltam/news/2026/03/llega-una-nueva-era-de-descubrimiento-de-productos-impulsada-por-ia-y-los-creadores/",
+        "https://www.facebookblueprint.com/student/activity/707398",
+        "https://help.shopify.com/en/manual/promoting-marketing/collabs/merchants/payments",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "affiliate-creator-content-partnership-ads-role-map",
+      "locale": "en",
+      "route": "/blog/affiliate-creator-content-partnership-ads-role-map/",
+      "h1": "Affiliate Creator Content and Partnership Ads: Map the Roles",
+      "title": "Affiliate Creator Content and Partnership Ads: Map the Roles | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/affiliate-creator-content-partnership-ads-role-map/",
+      "description": "Organize affiliate creator content and partnership ads by separating production, publication, commission, permissions, media spending and settlement responsibilities.",
+      "cover": "/assets/blog/affiliate-creator-content-partnership-ads-role-map.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/affiliate-creator-content-partnership-ads-role-map.jpg",
+      "bodyInternalLinks": [
+        "/blog/creator-contract-scope-checklist/#answer",
+        "/blog/partnership-ads-permission-checklist/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/affiliate-creator-conversion-analysis/#answer"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/ltam/news/2026/03/llega-una-nueva-era-de-descubrimiento-de-productos-impulsada-por-ia-y-los-creadores/",
+        "https://www.facebookblueprint.com/student/activity/707398",
+        "https://help.shopify.com/en/manual/promoting-marketing/collabs/merchants/payments",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "web3-instagram-follower-quality-2024-evidence-literacy",
+      "locale": "zh",
+      "route": "/zh/blog/web3-instagram-follower-quality-2024-evidence-literacy/",
+      "h1": "回看2024 Web3受众：Instagram数据的证据边界",
+      "title": "回看2024 Web3受众：Instagram数据的证据边界 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/web3-instagram-follower-quality-2024-evidence-literacy/",
+      "description": "回看2024年Web3 Instagram粉丝质量说法，怎样核对截图、统计窗口和来源？钱包、地址、账号与人不是同一对象，异常不等于造假事实。",
+      "cover": "/assets/blog/web3-instagram-follower-quality-2024-evidence-literacy.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/web3-instagram-follower-quality-2024-evidence-literacy.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/detect-suspicious-creator-growth/#evidence-table",
+        "/zh/blog/instagram-analytics-format-decision-matrix/#answer",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/creator-campaign-measurement/#answer"
+      ],
+      "bodyCitations": [
+        "https://ethereum.org/wallets/",
+        "https://about.fb.com/ltam/news/2023/12/protegiendo-a-los-creadores-de-interacciones-no-deseadas-con-nuevas-herramientas-proactivas-de-seguridad/",
+        "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "web3-instagram-follower-quality-2024-evidence-literacy",
+      "locale": "en",
+      "route": "/blog/web3-instagram-follower-quality-2024-evidence-literacy/",
+      "h1": "Web3 Instagram Follower Quality in 2024: Read the Evidence",
+      "title": "Web3 Instagram Follower Quality in 2024: Read the Evidence | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/web3-instagram-follower-quality-2024-evidence-literacy/",
+      "description": "Read 2024 Web3 Instagram follower-quality claims through dated records, source checks and uncertainty. Wallets, addresses, accounts and people are different objects.",
+      "cover": "/assets/blog/web3-instagram-follower-quality-2024-evidence-literacy.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/web3-instagram-follower-quality-2024-evidence-literacy.jpg",
+      "bodyInternalLinks": [
+        "/blog/ai-creator-research-prompts/#interactive-tool",
+        "/blog/instagram-analytics-format-decision-matrix/#answer",
+        "/blog/detect-suspicious-creator-growth/#evidence-table",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/creator-campaign-measurement/#answer"
+      ],
+      "bodyCitations": [
+        "https://ethereum.org/wallets/",
+        "https://about.fb.com/ltam/news/2023/12/protegiendo-a-los-creadores-de-interacciones-no-deseadas-con-nuevas-herramientas-proactivas-de-seguridad/",
+        "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "fake-instagram-followers-claim-reporting-literacy",
+      "locale": "zh",
+      "route": "/zh/blog/fake-instagram-followers-claim-reporting-literacy/",
+      "h1": "Instagram假粉说法：怎样读信号与报告结论",
+      "title": "Instagram假粉说法：怎样读信号与报告结论 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/fake-instagram-followers-claim-reporting-literacy/",
+      "description": "怎样负责任地解读fake Instagram followers：学习互动和增长信号的限制、平台疑似标记、来源交叉核对与报告措辞，不凭单一指标指控个人。",
+      "cover": "/assets/blog/fake-instagram-followers-claim-reporting-literacy.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/fake-instagram-followers-claim-reporting-literacy.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/instagram-analytics-format-decision-matrix/#answer",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/web3-instagram-follower-quality-2024-evidence-literacy/#answer",
+        "/zh/blog/creator-campaign-measurement/#answer"
+      ],
+      "bodyCitations": [
+        "https://help.rivaliq.com/en/articles/4792538-what-is-included-in-engagement-metrics",
+        "https://about.fb.com/ltam/news/2023/12/protegiendo-a-los-creadores-de-interacciones-no-deseadas-con-nuevas-herramientas-proactivas-de-seguridad/",
+        "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "fake-instagram-followers-claim-reporting-literacy",
+      "locale": "en",
+      "route": "/blog/fake-instagram-followers-claim-reporting-literacy/",
+      "h1": "Fake Instagram Followers: Separate Signals From Claims",
+      "title": "Fake Instagram Followers: Separate Signals From Claims | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/fake-instagram-followers-claim-reporting-literacy/",
+      "description": "Interpret fake Instagram follower claims responsibly through metric limits, suspected platform flags, source cross-checks and careful reporting without individual accusations.",
+      "cover": "/assets/blog/fake-instagram-followers-claim-reporting-literacy.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/fake-instagram-followers-claim-reporting-literacy.jpg",
+      "bodyInternalLinks": [
+        "/blog/instagram-analytics-format-decision-matrix/#answer",
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/web3-instagram-follower-quality-2024-evidence-literacy/#answer",
+        "/blog/creator-campaign-measurement/#answer"
+      ],
+      "bodyCitations": [
+        "https://help.rivaliq.com/en/articles/4792538-what-is-included-in-engagement-metrics",
+        "https://about.fb.com/ltam/news/2023/12/protegiendo-a-los-creadores-de-interacciones-no-deseadas-con-nuevas-herramientas-proactivas-de-seguridad/",
+        "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "scalable-affiliate-ad-platforms-operating-controls",
+      "locale": "zh",
+      "route": "/zh/blog/scalable-affiliate-ad-platforms-operating-controls/",
+      "h1": "联盟广告平台扩展：核对执行与权限",
+      "title": "联盟广告平台扩展：核对执行与权限 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/scalable-affiliate-ad-platforms-operating-controls/",
+      "description": "可扩展联盟广告平台怎样评估？从素材、链接、角色、批次检查、重复与失败恢复入手，建立有边界的运行测试，不发布未经实测排名。",
+      "cover": "/assets/blog/scalable-affiliate-ad-platforms-operating-controls.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/scalable-affiliate-ad-platforms-operating-controls.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/affiliate-networks-consumer-products-market-fit/#answer",
+        "/zh/blog/affiliate-creator-content-partnership-ads-role-map/#answer",
+        "/zh/blog/creator-landing-page-conversion/#interactive-tool",
+        "/zh/blog/partnership-ads-permission-checklist/#answer",
+        "/zh/blog/detect-suspicious-creator-growth/#evidence-table",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://impact.com/partnerships/create-eye-catching-ads-for-partners-to-promote-business/",
+        "https://help.impact.com/partner/what-would-you-like-to-learn-about/account-management/account-settings/user-management/partner-account-user-roles-and-permissions",
+        "https://help.shopify.com/en/manual/shopify-flow/create/troubleshoot"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "scalable-affiliate-ad-platforms-operating-controls",
+      "locale": "en",
+      "route": "/blog/scalable-affiliate-ad-platforms-operating-controls/",
+      "h1": "Scalable Affiliate Ad Platforms: Inspect Operating Controls",
+      "title": "Scalable Affiliate Ad Platforms: Inspect Operating Controls | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/scalable-affiliate-ad-platforms-operating-controls/",
+      "description": "Evaluate scalable affiliate ad platforms through assets, links, roles, batch checks, duplicate handling and recovery with a bounded operating pilot rather than untested rankings.",
+      "cover": "/assets/blog/scalable-affiliate-ad-platforms-operating-controls.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/scalable-affiliate-ad-platforms-operating-controls.jpg",
+      "bodyInternalLinks": [
+        "/blog/affiliate-networks-consumer-products-market-fit/#answer",
+        "/blog/affiliate-creator-content-partnership-ads-role-map/#answer",
+        "/blog/partnership-ads-permission-checklist/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://impact.com/partnerships/create-eye-catching-ads-for-partners-to-promote-business/",
+        "https://help.impact.com/partner/what-would-you-like-to-learn-about/account-management/account-settings/user-management/partner-account-user-roles-and-permissions",
+        "https://help.shopify.com/en/manual/shopify-flow/create/troubleshoot"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "princess-polly-ambassador-official-program-routes",
+      "locale": "zh",
+      "route": "/zh/blog/princess-polly-ambassador-official-program-routes/",
+      "h1": "Princess Polly大使：核对官方项目与资格",
+      "title": "Princess Polly大使：核对官方项目与资格 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/princess-polly-ambassador-official-program-routes/",
+      "description": "Princess Polly ambassador项目怎样核对？比较官方校园大使与创作者入口，理解5%合资格佣金、地区表述差异及申请不等于获批。",
+      "cover": "/assets/blog/princess-polly-ambassador-official-program-routes.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/princess-polly-ambassador-official-program-routes.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/creator-rates-usage-rights/#interactive-tool",
+        "/zh/blog/college-ambassador-programs-campus-permissions/#answer",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/creator-contract-scope-checklist/#answer",
+        "/zh/blog/whats-affiliate-outreach-partner-invitation/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://us.princesspolly.com/pages/college-ambassador",
+        "https://us.princesspolly.com/pages/collab-inquiries",
+        "https://us.princesspolly.com/pages/rewards",
+        "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "princess-polly-ambassador-official-program-routes",
+      "locale": "en",
+      "route": "/blog/princess-polly-ambassador-official-program-routes/",
+      "h1": "Princess Polly Ambassador: Check the Official Program",
+      "title": "Princess Polly Ambassador: Check the Official Program | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/princess-polly-ambassador-official-program-routes/",
+      "description": "Check Princess Polly ambassador routes through official college and creator pages, including qualifying commission, regional wording differences and application states.",
+      "cover": "/assets/blog/princess-polly-ambassador-official-program-routes.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/princess-polly-ambassador-official-program-routes.jpg",
+      "bodyInternalLinks": [
+        "/blog/college-ambassador-programs-campus-permissions/#answer",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/creator-contract-scope-checklist/#answer",
+        "/blog/ai-creator-research-prompts/#interactive-tool",
+        "/blog/whats-affiliate-outreach-partner-invitation/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://us.princesspolly.com/pages/college-ambassador",
+        "https://us.princesspolly.com/pages/collab-inquiries",
+        "https://us.princesspolly.com/pages/rewards",
+        "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "creator-audit-tools-2026-evidence-coverage",
+      "locale": "zh",
+      "route": "/zh/blog/creator-audit-tools-2026-evidence-coverage/",
+      "h1": "2026创作者审阅工具：按证据覆盖比较",
+      "title": "2026创作者审阅工具：按证据覆盖比较 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/creator-audit-tools-2026-evidence-coverage/",
+      "description": "Top creator audit tools 2026怎样比较？按资料覆盖、更新时间、综合分解释、内容语境和导出核对，不把厂商宣传写成准确率或实测排名。",
+      "cover": "/assets/blog/creator-audit-tools-2026-evidence-coverage.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/creator-audit-tools-2026-evidence-coverage.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/influencer-vetting-tool-before-contract/#answer",
+        "/zh/blog/read-creator-engagement-data/#answer",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/creator-contract-scope-checklist/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://help.modash.io/en/articles/5467354-profile-updates-how-often-data-refreshes",
+        "https://help.hypeauditor.com/en/articles/2221731-what-is-aqs-audience-quality-score-and-how-is-it-calculated",
+        "https://www.creatoriq.com/press/releases/applied-creator-intelligence"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "creator-audit-tools-2026-evidence-coverage",
+      "locale": "en",
+      "route": "/blog/creator-audit-tools-2026-evidence-coverage/",
+      "h1": "Creator Audit Tools in 2026: Compare Evidence Coverage",
+      "title": "Creator Audit Tools in 2026: Compare Evidence Coverage | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/creator-audit-tools-2026-evidence-coverage/",
+      "description": "Compare creator audit tools for 2026 through evidence coverage, refresh timing, score interpretation, content context and exports without untested accuracy rankings.",
+      "cover": "/assets/blog/creator-audit-tools-2026-evidence-coverage.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/creator-audit-tools-2026-evidence-coverage.jpg",
+      "bodyInternalLinks": [
+        "/blog/influencer-vetting-tool-before-contract/#answer",
+        "/blog/read-creator-engagement-data/#answer",
+        "/blog/creator-content-approval-workflow/#evidence-table",
+        "/blog/creator-contract-scope-checklist/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://help.modash.io/en/articles/5467354-profile-updates-how-often-data-refreshes",
+        "https://help.hypeauditor.com/en/articles/2221731-what-is-aqs-audience-quality-score-and-how-is-it-calculated",
+        "https://www.creatoriq.com/press/releases/applied-creator-intelligence"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "beauty-instagram-ads-engagement-2025-scope",
+      "locale": "zh",
+      "route": "/zh/blog/beauty-instagram-ads-engagement-2025-scope/",
+      "h1": "2025美妆Instagram广告互动率：先确认付费口径",
+      "title": "2025美妆Instagram广告互动率：先确认付费口径 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/beauty-instagram-ads-engagement-2025-scope/",
+      "description": "2025美妆品牌Instagram广告互动率怎样引用？辨别品牌内容与付费广告基准，核对Dash Social报告排除项，保留历史字段并进行同口径比较。",
+      "cover": "/assets/blog/beauty-instagram-ads-engagement-2025-scope.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/beauty-instagram-ads-engagement-2025-scope.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/read-creator-engagement-data/#interactive-tool",
+        "/zh/blog/instagram-analytics-format-decision-matrix/#answer",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/partnership-ads-permission-checklist/#answer",
+        "/zh/blog/creator-campaign-incrementality/#interactive-tool",
+        "/zh/blog/creator-campaign-measurement/#answer"
+      ],
+      "bodyCitations": [
+        "https://pages.dashsocial.com/hubfs/social-media-benchmark/2025/H2/beauty-industry.pdf",
+        "https://emplifi.io/resources/q3-2026-beauty-north-america-benchmarks/",
+        "https://support.google.com/google-ads/answer/7281575?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "beauty-instagram-ads-engagement-2025-scope",
+      "locale": "en",
+      "route": "/blog/beauty-instagram-ads-engagement-2025-scope/",
+      "h1": "Beauty Instagram Ads Engagement in 2025: Check Paid Scope",
+      "title": "Beauty Instagram Ads Engagement in 2025: Check Paid Scope | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/beauty-instagram-ads-engagement-2025-scope/",
+      "description": "Interpret 2025 beauty Instagram ad engagement by separating brand-content and paid-ad benchmarks, checking report exclusions and preserving historical metric definitions.",
+      "cover": "/assets/blog/beauty-instagram-ads-engagement-2025-scope.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/beauty-instagram-ads-engagement-2025-scope.jpg",
+      "bodyInternalLinks": [
+        "/blog/read-creator-engagement-data/#interactive-tool",
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/instagram-analytics-format-decision-matrix/#answer",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/partnership-ads-permission-checklist/#answer",
+        "/blog/creator-campaign-measurement/#answer"
+      ],
+      "bodyCitations": [
+        "https://pages.dashsocial.com/hubfs/social-media-benchmark/2025/H2/beauty-industry.pdf",
+        "https://emplifi.io/resources/q3-2026-beauty-north-america-benchmarks/",
+        "https://support.google.com/google-ads/answer/7281575?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "define-influencer-b2b-education-project",
+      "locale": "zh",
+      "route": "/zh/blog/define-influencer-b2b-education-project/",
+      "h1": "B2B教育项目如何定义Influencer合作角色",
+      "title": "B2B教育项目如何定义Influencer合作角色 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/define-influencer-b2b-education-project/",
+      "description": "Define influencer的B2B教育应用：按采购团队的信息问题定义合作角色，核对专业范围、产品演示、商业关系与学习成果，避免只按粉丝数理解影响力。",
+      "cover": "/assets/blog/define-influencer-b2b-education-project.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/define-influencer-b2b-education-project.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/find-b2b-expert-creators/#answer",
+        "/zh/blog/creator-contract-scope-checklist/#answer",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/blog/b2b-influencer-marketing-platform-sales-handoff/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://www.edelman.com/sites/g/files/aatuss191/files/2025-07/2025%20Edelman-LinkedIn%20B2B%20Thought%20Leadership%20Impact%20Report_FINAL.pdf",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+        "https://support.google.com/youtube/answer/154235?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "define-influencer-b2b-education-project",
+      "locale": "en",
+      "route": "/blog/define-influencer-b2b-education-project/",
+      "h1": "Define Influencer for a B2B Education Project",
+      "title": "Define Influencer for a B2B Education Project | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/define-influencer-b2b-education-project/",
+      "description": "Define influencer for B2B education through buying-group questions, expertise, demonstrations, commercial relationships and learning outcomes beyond follower counts.",
+      "cover": "/assets/blog/define-influencer-b2b-education-project.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/define-influencer-b2b-education-project.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/find-b2b-expert-creators/#answer",
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/creator-contract-scope-checklist/#answer",
+        "/blog/creator-campaign-measurement/#answer",
+        "/blog/b2b-influencer-marketing-platform-sales-handoff/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://www.edelman.com/sites/g/files/aatuss191/files/2025-07/2025%20Edelman-LinkedIn%20B2B%20Thought%20Leadership%20Impact%20Report_FINAL.pdf",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+        "https://support.google.com/youtube/answer/154235?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "what-is-kol-product-launch-advisory-work",
+      "locale": "zh",
+      "route": "/zh/blog/what-is-kol-product-launch-advisory-work/",
+      "h1": "产品发布中的KOL：界定咨询贡献与公开表达",
+      "title": "产品发布中的KOL：界定咨询贡献与公开表达 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/what-is-kol-product-launch-advisory-work/",
+      "description": "What is a KOL在产品发布中怎样定义？区分咨询、产品决定与公开推荐，记录版本、观察、建议及处理，配双语发布咨询决定CSV。",
+      "cover": "/assets/blog/what-is-kol-product-launch-advisory-work.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/what-is-kol-product-launch-advisory-work.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/define-influencer-b2b-education-project/#answer",
+        "/zh/blog/creator-contract-scope-checklist/#answer",
+        "/zh/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://community.atlassian.com/champions/",
+        "https://help.frame.io/en/articles/9952618-comparison-viewer",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "what-is-kol-product-launch-advisory-work",
+      "locale": "en",
+      "route": "/blog/what-is-kol-product-launch-advisory-work/",
+      "h1": "What Is a KOL in a Product Launch? Define the Contribution",
+      "title": "What Is a KOL in a Product Launch? Define the Contribution | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/what-is-kol-product-launch-advisory-work/",
+      "description": "Define a KOL’s contribution to a product launch by separating advice, product decisions and public endorsement, with a bilingual advisory decision-log CSV.",
+      "cover": "/assets/blog/what-is-kol-product-launch-advisory-work.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/what-is-kol-product-launch-advisory-work.jpg",
+      "bodyInternalLinks": [
+        "/blog/define-influencer-b2b-education-project/#answer",
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/blog/creator-contract-scope-checklist/#answer",
+        "/blog/creator-product-claims-review/#evidence-table",
+        "/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://community.atlassian.com/champions/",
+        "https://help.frame.io/en/articles/9952618-comparison-viewer",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "what-is-kol-social-listening-report",
+      "locale": "zh",
+      "route": "/zh/blog/what-is-kol-social-listening-report/",
+      "h1": "舆情报告里的KOL：提及量不等于专业权威",
+      "title": "舆情报告里的KOL：提及量不等于专业权威 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/what-is-kol-social-listening-report/",
+      "description": "What is KOL在舆情报告中是什么意思？核对查询、提及与作者、来源覆盖和情绪分类，区分可见声音、专业依据与传播结果。",
+      "cover": "/assets/blog/what-is-kol-social-listening-report.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/what-is-kol-social-listening-report.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/key-opinion-leader-expert-contribution-review/#answer",
+        "/zh/blog/competitor-creator-partnership-map/#answer",
+        "/zh/blog/what-is-kol-product-launch-advisory-work/#answer",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://social-media-management-help.brandwatch.com/en/articles/17449910-sources-for-listen-mentions",
+        "https://developers.brandwatch.com/docs/basic-charts",
+        "https://social-media-management-help.brandwatch.com/en/articles/17449980-viewing-listen-mentions",
+        "https://amecorg.com/amecframework/"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "what-is-kol-social-listening-report",
+      "locale": "en",
+      "route": "/blog/what-is-kol-social-listening-report/",
+      "h1": "What Is KOL in a Social Listening Report?",
+      "title": "What Is KOL in a Social Listening Report? | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/what-is-kol-social-listening-report/",
+      "description": "Understand KOL labels in social listening through query scope, mentions, authors, source coverage and classifications without equating visibility with professional authority.",
+      "cover": "/assets/blog/what-is-kol-social-listening-report.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/what-is-kol-social-listening-report.jpg",
+      "bodyInternalLinks": [
+        "/blog/key-opinion-leader-expert-contribution-review/#answer",
+        "/blog/competitor-creator-partnership-map/#answer",
+        "/blog/what-is-kol-product-launch-advisory-work/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/creator-campaign-measurement/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://social-media-management-help.brandwatch.com/en/articles/17449910-sources-for-listen-mentions",
+        "https://developers.brandwatch.com/docs/basic-charts",
+        "https://social-media-management-help.brandwatch.com/en/articles/17449980-viewing-listen-mentions",
+        "https://amecorg.com/amecframework/"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "tiktok-spark-ads-authorization-lifecycle",
+      "locale": "zh",
+      "route": "/zh/blog/tiktok-spark-ads-authorization-lifecycle/",
+      "h1": "TikTok Spark Ads：管理授权全周期",
+      "title": "TikTok Spark Ads：管理授权全周期 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/tiktok-spark-ads-authorization-lifecycle/",
+      "description": "TikTok Spark Ads授权生命周期指南：核对帖子、代码、有效期与广告排期，理解到期、字幕、可见性及结束交接的限制。",
+      "cover": "/assets/blog/tiktok-spark-ads-authorization-lifecycle.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/tiktok-spark-ads-authorization-lifecycle.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/creator-campaign-incrementality/#interactive-tool",
+        "/zh/blog/partnership-ads-permission-checklist/#answer",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/blog/detect-suspicious-creator-growth/#evidence-table",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://ads.tiktok.com/resources/help/article/spark-ads?lang=en",
+        "https://ads.tiktok.com/resources/help/article/spark-ads-creation-guide?lang=en",
+        "https://ads.tiktok.com/resources/help/article/about-spark-ads-code-error-notifications-in-tiktok-ads-manager?lang=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "tiktok-spark-ads-authorization-lifecycle",
+      "locale": "en",
+      "route": "/blog/tiktok-spark-ads-authorization-lifecycle/",
+      "h1": "TikTok Spark Ads: Manage the Authorization Lifecycle",
+      "title": "TikTok Spark Ads: Manage the Authorization Lifecycle | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/tiktok-spark-ads-authorization-lifecycle/",
+      "description": "Manage TikTok Spark Ads authorization through post identity, code validity, ad schedules, expiry, caption and visibility limits, and a documented closeout.",
+      "cover": "/assets/blog/tiktok-spark-ads-authorization-lifecycle.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/tiktok-spark-ads-authorization-lifecycle.jpg",
+      "bodyInternalLinks": [
+        "/blog/partnership-ads-permission-checklist/#answer",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/creator-relationship-crm/#evidence-table",
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/creator-campaign-measurement/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://ads.tiktok.com/resources/help/article/spark-ads?lang=en",
+        "https://ads.tiktok.com/resources/help/article/spark-ads-creation-guide?lang=en",
+        "https://ads.tiktok.com/resources/help/article/about-spark-ads-code-error-notifications-in-tiktok-ads-manager?lang=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "beauty-engagement-statistics-2026-platform-scope",
+      "locale": "zh",
+      "route": "/zh/blog/beauty-engagement-statistics-2026-platform-scope/",
+      "h1": "2026美妆互动统计：看清平台与样本",
+      "title": "2026美妆互动统计：看清平台与样本 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/beauty-engagement-statistics-2026-platform-scope/",
+      "description": "2026美妆社交媒体互动统计怎么引用？解析上半年品牌样本、TikTok与Instagram分母、付费排除范围及跨报告比较限制。",
+      "cover": "/assets/blog/beauty-engagement-statistics-2026-platform-scope.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/beauty-engagement-statistics-2026-platform-scope.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/read-creator-engagement-data/#interactive-tool",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/engagement-rate-denominators/#answer",
+        "/zh/blog/beauty-instagram-ads-engagement-2025-scope/#answer",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://pages.dashsocial.com/hubfs/social-media-benchmark/2026/H2/beauty-industry.pdf",
+        "https://emplifi.io/resources/q3-2026-beauty-north-america-benchmarks/",
+        "https://help.rivaliq.com/en/articles/2043672-understanding-engagement-rates"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "beauty-engagement-statistics-2026-platform-scope",
+      "locale": "en",
+      "route": "/blog/beauty-engagement-statistics-2026-platform-scope/",
+      "h1": "Beauty Engagement Statistics 2026: Keep Platform Scope",
+      "title": "Beauty Engagement Statistics 2026: Keep Platform Scope | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/beauty-engagement-statistics-2026-platform-scope/",
+      "description": "Read 2026 beauty social engagement statistics with first-half dates, brand samples, TikTok and Instagram denominators, paid exclusions and comparison limits.",
+      "cover": "/assets/blog/beauty-engagement-statistics-2026-platform-scope.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/beauty-engagement-statistics-2026-platform-scope.jpg",
+      "bodyInternalLinks": [
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/engagement-rate-denominators/#answer",
+        "/blog/read-creator-engagement-data/#interactive-tool",
+        "/blog/beauty-instagram-ads-engagement-2025-scope/#answer",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/creator-campaign-measurement/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://pages.dashsocial.com/hubfs/social-media-benchmark/2026/H2/beauty-industry.pdf",
+        "https://emplifi.io/resources/q3-2026-beauty-north-america-benchmarks/",
+        "https://help.rivaliq.com/en/articles/2043672-understanding-engagement-rates"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "social-media-engagement-rate-monthly-explanation",
+      "locale": "zh",
+      "route": "/zh/blog/social-media-engagement-rate-monthly-explanation/",
+      "h1": "社交互动率复盘：解释结构变化与真实变化",
+      "title": "社交互动率复盘：解释结构变化与真实变化 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/social-media-engagement-rate-monthly-explanation/",
+      "description": "Social media engagement rate月报怎么解释？用分组与固定权重假设，区分内容内变化、组合变化、缺失字段和业务结果。",
+      "cover": "/assets/blog/social-media-engagement-rate-monthly-explanation.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/social-media-engagement-rate-monthly-explanation.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/read-creator-engagement-data/#interactive-tool",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/engagement-rate-denominators/#answer",
+        "/zh/blog/instagram-analytics-format-decision-matrix/#answer",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://help.rivaliq.com/en/articles/4792538-what-is-included-in-engagement-metrics",
+        "https://help.rivaliq.com/en/articles/2043672-understanding-engagement-rates",
+        "https://support.google.com/google-ads/answer/7281575?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "social-media-engagement-rate-monthly-explanation",
+      "locale": "en",
+      "route": "/blog/social-media-engagement-rate-monthly-explanation/",
+      "h1": "Social Media Engagement Rate: Explain the Monthly Change",
+      "title": "Social Media Engagement Rate: Explain the Monthly Change | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/social-media-engagement-rate-monthly-explanation/",
+      "description": "Explain monthly social media engagement rate through grouping, a fixed-weight hypothetical, mix changes, missing fields and separate business outcomes.",
+      "cover": "/assets/blog/social-media-engagement-rate-monthly-explanation.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/social-media-engagement-rate-monthly-explanation.jpg",
+      "bodyInternalLinks": [
+        "/blog/read-creator-engagement-data/#interactive-tool",
+        "/blog/ai-creator-research-prompts/#interactive-tool",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/engagement-rate-denominators/#answer",
+        "/blog/instagram-analytics-format-decision-matrix/#answer",
+        "/blog/creator-campaign-measurement/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://help.rivaliq.com/en/articles/4792538-what-is-included-in-engagement-metrics",
+        "https://help.rivaliq.com/en/articles/2043672-understanding-engagement-rates",
+        "https://support.google.com/google-ads/answer/7281575?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "brand-partnerships-joint-content-governance",
+      "locale": "zh",
+      "route": "/zh/blog/brand-partnerships-joint-content-governance/",
+      "h1": "品牌间合作：共同内容如何分工与审阅",
+      "title": "品牌间合作：共同内容如何分工与审阅 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/brand-partnerships-joint-content-governance/",
+      "description": "Brand partnerships联合内容指南：区分共同叙事、各品牌事实、创作者任务、审批权限与更正流程，不从发布公告推测私下合同。",
+      "cover": "/assets/blog/brand-partnerships-joint-content-governance.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/brand-partnerships-joint-content-governance.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/creator-campaign-incrementality/#interactive-tool",
+        "/zh/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/zh/blog/creator-product-claims-review/#evidence-table",
+        "/zh/blog/creator-contract-scope-checklist/#answer",
+        "/zh/blog/brand-deals-commercial-memo-content-brief/#answer",
+        "/zh/blog/creator-landing-page-conversion/#interactive-tool",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://about.nike.com/en/newsroom/releases/nike-lego-partnership-official-experience-product-details",
+        "https://help.frame.io/en/articles/9952618-comparison-viewer",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+        "https://amecorg.com/amecframework/"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "brand-partnerships-joint-content-governance",
+      "locale": "en",
+      "route": "/blog/brand-partnerships-joint-content-governance/",
+      "h1": "Brand Partnerships: Govern Joint Content and Approvals",
+      "title": "Brand Partnerships: Govern Joint Content and Approvals | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/brand-partnerships-joint-content-governance/",
+      "description": "Govern brand-partnership content through a shared narrative, brand-specific facts, creator assignments, approval authority and corrections without inventing private terms.",
+      "cover": "/assets/blog/brand-partnerships-joint-content-governance.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/brand-partnerships-joint-content-governance.jpg",
+      "bodyInternalLinks": [
+        "/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/creator-contract-scope-checklist/#answer",
+        "/blog/brand-deals-commercial-memo-content-brief/#answer",
+        "/blog/creator-landing-page-conversion/#interactive-tool",
+        "/blog/creator-campaign-measurement/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://about.nike.com/en/newsroom/releases/nike-lego-partnership-official-experience-product-details",
+        "https://help.frame.io/en/articles/9952618-comparison-viewer",
+        "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+        "https://amecorg.com/amecframework/"
+      ],
+      "sourceCount": 4,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "follow-electronic-music-creators-brand-listening",
+      "locale": "zh",
+      "route": "/zh/blog/follow-electronic-music-creators-brand-listening/",
+      "h1": "关注电子音乐创作者：建立品牌聆听习惯",
+      "title": "关注电子音乐创作者：建立品牌聆听习惯 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/follow-electronic-music-creators-brand-listening/",
+      "description": "How to follow electro music influencers：通过公开官方频道、订阅与关注流理解作品和场景，整理品牌聆听记录并尊重音乐使用范围。",
+      "cover": "/assets/blog/follow-electronic-music-creators-brand-listening.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/follow-electronic-music-creators-brand-listening.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/creator-rates-usage-rights/#interactive-tool",
+        "/zh/blog/read-creator-engagement-data/#answer",
+        "/zh/blog/creator-contract-scope-checklist/#answer",
+        "/zh/blog/personalized-creator-outreach/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/youtube/answer/4489286?hl=en",
+        "https://help.soundcloud.com/hc/en-us/articles/115003568208-Your-Feed-and-how-it-works",
+        "https://get.bandcamp.help/en/articles/15263087-how-do-i-edit-my-fan-page"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "follow-electronic-music-creators-brand-listening",
+      "locale": "en",
+      "route": "/blog/follow-electronic-music-creators-brand-listening/",
+      "h1": "How to Follow Electronic Music Creators for Brand Listening",
+      "title": "How to Follow Electronic Music Creators for Brand Listening | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/follow-electronic-music-creators-brand-listening/",
+      "description": "Follow electronic music creators through public channels, subscriptions and following feeds. Build a brand listening record with context and separate music-use permissions.",
+      "cover": "/assets/blog/follow-electronic-music-creators-brand-listening.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/follow-electronic-music-creators-brand-listening.jpg",
+      "bodyInternalLinks": [
+        "/blog/read-creator-engagement-data/#answer",
+        "/blog/creator-contract-scope-checklist/#answer",
+        "/blog/personalized-creator-outreach/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/youtube/answer/4489286?hl=en",
+        "https://help.soundcloud.com/hc/en-us/articles/115003568208-Your-Feed-and-how-it-works",
+        "https://get.bandcamp.help/en/articles/15263087-how-do-i-edit-my-fan-page"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "creator-collaboration-fan-base-2025-review",
+      "locale": "zh",
+      "route": "/zh/blog/creator-collaboration-fan-base-2025-review/",
+      "h1": "回看2025创作者合作：把品牌关注与社区价值连接",
+      "title": "回看2025创作者合作：把品牌关注与社区价值连接 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/creator-collaboration-fan-base-2025-review/",
+      "description": "2025 influencer collaboration strategy如何复盘增粉？区分当年功能公告、关注路径、总量与净变化，用真实历史资料评估共同内容。",
+      "cover": "/assets/blog/creator-collaboration-fan-base-2025-review.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/creator-collaboration-fan-base-2025-review.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/zh/blog/instagram-follower-tracker-campaign-observation/#answer",
+        "/zh/blog/social-media-engagement-rate-monthly-explanation/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2025/08/new-instagram-features-help-you-connect/",
+        "https://support.google.com/google-ads/answer/7281575?hl=en",
+        "https://amecorg.com/amecframework/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "creator-collaboration-fan-base-2025-review",
+      "locale": "en",
+      "route": "/blog/creator-collaboration-fan-base-2025-review/",
+      "h1": "Creator Collaboration and Fan-Base Growth: A 2025 Review",
+      "title": "Creator Collaboration and Fan-Base Growth: A 2025 Review | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/creator-collaboration-fan-base-2025-review/",
+      "description": "Review a 2025 influencer collaboration strategy for fan growth through dated features, follow pathways, gross and net changes, and actual historical records.",
+      "cover": "/assets/blog/creator-collaboration-fan-base-2025-review.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/creator-collaboration-fan-base-2025-review.jpg",
+      "bodyInternalLinks": [
+        "/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/blog/instagram-follower-tracker-campaign-observation/#answer",
+        "/blog/social-media-engagement-rate-monthly-explanation/#answer",
+        "/blog/ai-creator-research-prompts/#interactive-tool",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/creator-campaign-measurement/#answer",
+        "/blog/creator-metric-definitions/#evidence-table",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2025/08/new-instagram-features-help-you-connect/",
+        "https://support.google.com/google-ads/answer/7281575?hl=en",
+        "https://amecorg.com/amecframework/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "skincare-makeup-meta-ads-creative-claims",
+      "locale": "zh",
+      "route": "/zh/blog/skincare-makeup-meta-ads-creative-claims/",
+      "h1": "护肤彩妆Meta广告：创意与主张复核",
+      "title": "护肤彩妆Meta广告：创意与主张复核 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/skincare-makeup-meta-ads-creative-claims/",
+      "description": "护肤彩妆Meta广告趋势与互动率如何研究？核对AI透明度、创意主张、产品依据与付费指标范围，避免用内容互动证明功效或ROI。",
+      "cover": "/assets/blog/skincare-makeup-meta-ads-creative-claims.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/skincare-makeup-meta-ads-creative-claims.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/read-creator-engagement-data/#interactive-tool",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/beauty-instagram-ads-engagement-2025-scope/#answer",
+        "/zh/blog/beauty-engagement-statistics-2026-platform-scope/#answer",
+        "/zh/blog/optimize-influencer-campaigns-bottleneck-decisions/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/creator-landing-page-conversion/#interactive-tool",
+        "/zh/blog/creator-product-claims-review/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2025/02/gen-ai-transparency-metas-ads-products/",
+        "https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance",
+        "https://www.fda.gov/cosmetics/cosmetics-labeling/cosmetics-labeling-claims",
+        "https://emplifi.io/resources/q3-2026-beauty-north-america-benchmarks/",
+        "https://support.google.com/google-ads/answer/7281575?hl=en"
+      ],
+      "sourceCount": 5,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "skincare-makeup-meta-ads-creative-claims",
+      "locale": "en",
+      "route": "/blog/skincare-makeup-meta-ads-creative-claims/",
+      "h1": "Skincare and Makeup Meta Ads: Test Creative and Claims",
+      "title": "Skincare and Makeup Meta Ads: Test Creative and Claims | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/skincare-makeup-meta-ads-creative-claims/",
+      "description": "Research skincare and makeup Meta advertising through AI transparency, creative claims, product evidence and paid-metric scope without treating engagement as efficacy or ROI.",
+      "cover": "/assets/blog/skincare-makeup-meta-ads-creative-claims.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/skincare-makeup-meta-ads-creative-claims.jpg",
+      "bodyInternalLinks": [
+        "/blog/read-creator-engagement-data/#interactive-tool",
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/creator-product-claims-review/#evidence-table",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/beauty-instagram-ads-engagement-2025-scope/#answer",
+        "/blog/beauty-engagement-statistics-2026-platform-scope/#answer",
+        "/blog/optimize-influencer-campaigns-bottleneck-decisions/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/creator-metric-definitions/#evidence-table",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2025/02/gen-ai-transparency-metas-ads-products/",
+        "https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance",
+        "https://www.fda.gov/cosmetics/cosmetics-labeling/cosmetics-labeling-claims",
+        "https://emplifi.io/resources/q3-2026-beauty-north-america-benchmarks/",
+        "https://support.google.com/google-ads/answer/7281575?hl=en"
+      ],
+      "sourceCount": 5,
+      "tableRows": 0,
+      "checklistItems": 6,
+      "failures": []
+    }
+  ]
+}

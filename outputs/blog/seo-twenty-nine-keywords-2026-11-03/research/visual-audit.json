@@ -1,0 +1,1830 @@
+{
+  "reviewedAt": "2026-11-03",
+  "scope": "All affected desktop library pages in both languages; mobile library layout across all three pages; 58 mobile H1 layout checks; representative detail/table/CTA/download visual checks. Not a screenshot of every full article.",
+  "desktopLibraries": [
+    {
+      "locale": "zh",
+      "page": 1,
+      "viewport": [
+        1280,
+        900
+      ],
+      "file": "research/screenshots/library-zh-page-1-desktop.jpg",
+      "h1": "QUICKKOL 博客。",
+      "images": [
+        {
+          "height": 0,
+          "src": "/assets/blog/optimize-influencer-campaigns-bottleneck-decisions.jpg",
+          "width": 0
+        },
+        {
+          "height": 0,
+          "src": "/assets/blog/influencer-marketing-agencies-operating-rhythm.jpg",
+          "width": 0
+        },
+        {
+          "height": 0,
+          "src": "/assets/blog/brand-ambassador-customer-facing-explanation.jpg",
+          "width": 0
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/join-paid-partnership-programs-offer-reading.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/what-is-travel-influencer-destination-brief.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/technology-disruption-influencer-marketing-change-register.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/engagement-rate-formula-metric-contract.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/munich-influencer-agencies-local-coordination.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/brand-deals-commercial-memo-content-brief.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/emv-meaning-executive-report-annotation.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/tiktok-400k-500k-engagement-verified-cohort.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/valueyournetwork-agency-evaluation-source-checks.jpg",
+          "width": 1672
+        }
+      ],
+      "status": "显示 1–12 / 344 篇匹配文章 · 本地预览共 344 篇",
+      "titles": [
+        "达人活动优化：先找瓶颈，再决定改什么",
+        "达人营销机构：建立清楚的协作与升级节奏",
+        "品牌大使是什么：向受众说清角色与关系",
+        "加入付费合作计划前：先读懂邀请与回报",
+        "旅行达人是什么：把目的地故事变成合作任务",
+        "技术如何改变达人营销：记录能力、责任与证据",
+        "互动率公式：先写指标约定，再接报表",
+        "慕尼黑达人机构：核对本地服务与现场协作",
+        "品牌合作交易：把商务摘要与内容Brief分开",
+        "EMV是什么意思：给管理报告补上正确注释",
+        "40万至50万粉丝TikTok达人：均值怎样才算可核验",
+        "ValueYourNetwork机构评估：区分自述与独立依据"
+      ]
+    },
+    {
+      "locale": "zh",
+      "page": 2,
+      "viewport": [
+        1280,
+        900
+      ],
+      "file": "research/screenshots/library-zh-page-2-desktop.jpg",
+      "h1": "QUICKKOL 博客。",
+      "images": [
+        {
+          "height": 941,
+          "src": "/assets/blog/affiliate-creator-content-partnership-ads-role-map.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/web3-instagram-follower-quality-2024-evidence-literacy.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/fake-instagram-followers-claim-reporting-literacy.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/scalable-affiliate-ad-platforms-operating-controls.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/princess-polly-ambassador-official-program-routes.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/creator-audit-tools-2026-evidence-coverage.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/beauty-instagram-ads-engagement-2025-scope.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/define-influencer-b2b-education-project.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/what-is-kol-product-launch-advisory-work.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/what-is-kol-social-listening-report.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/tiktok-spark-ads-authorization-lifecycle.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/beauty-engagement-statistics-2026-platform-scope.jpg",
+          "width": 1672
+        }
+      ],
+      "status": "显示 13–24 / 344 篇匹配文章 · 本地预览共 344 篇",
+      "titles": [
+        "联盟、创作者与合作广告：画清角色和回报",
+        "回看2024 Web3受众：Instagram数据的证据边界",
+        "Instagram假粉说法：怎样读信号与报告结论",
+        "可扩展联盟广告平台：先看重复执行与权限控制",
+        "Princess Polly大使：核对官方项目与资格",
+        "2026创作者审阅工具：按证据覆盖比较",
+        "2025美妆Instagram广告互动率：先确认付费口径",
+        "B2B教育项目如何定义Influencer合作角色",
+        "产品发布中的KOL：界定咨询贡献与公开表达",
+        "舆情报告里的KOL：提及量不等于专业权威",
+        "TikTok Spark Ads：把授权、发布与结束接起来",
+        "2026美妆社交互动统计：保留平台与样本范围"
+      ]
+    },
+    {
+      "locale": "zh",
+      "page": 3,
+      "viewport": [
+        1280,
+        900
+      ],
+      "file": "research/screenshots/library-zh-page-3-desktop.jpg",
+      "h1": "QUICKKOL 博客。",
+      "images": [
+        {
+          "height": 941,
+          "src": "/assets/blog/social-media-engagement-rate-monthly-explanation.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/brand-partnerships-joint-content-governance.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/follow-electronic-music-creators-brand-listening.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/creator-collaboration-fan-base-2025-review.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/skincare-makeup-meta-ads-creative-claims.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/spot-fake-influencers-verification-false-positives.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/kol-meaning-brief-terminology.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/beauty-influencer-trends-facebook-instagram-2025-review.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/influencer-platforms-record-interoperability.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/what-is-whitelisting-creator-ad-permissions.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/lululemon-affiliate-program-official-routes.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/allbirds-affiliate-program-social-publication-routes.jpg",
+          "width": 1672
+        }
+      ],
+      "status": "显示 25–36 / 344 篇匹配文章 · 本地预览共 344 篇",
+      "titles": [
+        "社交互动率复盘：解释结构变化与真实变化",
+        "品牌间合作：共同内容如何分工与审阅",
+        "关注电子音乐创作者：建立品牌聆听习惯",
+        "回看2025创作者合作：把品牌关注与社区价值连接",
+        "护肤彩妆Meta广告：测试创意并核对表达依据",
+        "识别虚假达人：核验信号与事实",
+        "KOL 是什么意思？把缩写写成可执行的合作任务",
+        "2025 美妆达人趋势：回看 Facebook 与 Instagram 的证据",
+        "达人平台如何交接记录：从账号到内容与权限",
+        "什么是达人 Whitelisting？看清广告权限范围",
+        "lululemon 联盟计划：核对官方申请与项目区别",
+        "Allbirds 联盟计划：区分创作者与媒体申请入口"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": 1,
+      "viewport": [
+        1280,
+        900
+      ],
+      "file": "research/screenshots/library-en-page-1-desktop.jpg",
+      "h1": "THE QUICKKOL BLOG.",
+      "images": [
+        {
+          "height": 941,
+          "src": "/assets/blog/optimize-influencer-campaigns-bottleneck-decisions.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/influencer-marketing-agencies-operating-rhythm.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/brand-ambassador-customer-facing-explanation.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/join-paid-partnership-programs-offer-reading.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/what-is-travel-influencer-destination-brief.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/technology-disruption-influencer-marketing-change-register.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/engagement-rate-formula-metric-contract.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/munich-influencer-agencies-local-coordination.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/brand-deals-commercial-memo-content-brief.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/emv-meaning-executive-report-annotation.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/tiktok-400k-500k-engagement-verified-cohort.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/valueyournetwork-agency-evaluation-source-checks.jpg",
+          "width": 1672
+        }
+      ],
+      "status": "Showing 1–12 of 344 matching articles · 344 in this local preview.",
+      "titles": [
+        "How to Optimize Influencer Campaigns: Diagnose the Bottleneck",
+        "Influencer Marketing Agencies: Set the Operating Rhythm",
+        "What Is a Brand Ambassador to Your Customers?",
+        "How to Join Paid Partnership Programs: Read the Offer First",
+        "What Is a Travel Influencer? Write the Destination Brief",
+        "Technology Disruption in Influencer Marketing: Track the Change",
+        "Engagement Rate Formula: Write the Metric Contract",
+        "Munich Influencer Agencies: Verify Local Coordination",
+        "Brand Deals: Separate the Deal Memo From the Content Brief",
+        "EMV Meaning: Annotate the Executive Report",
+        "TikTok Creators With 400K–500K Followers: Verify the Cohort",
+        "ValueYourNetwork Agency Review: Check the Evidence"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": 2,
+      "viewport": [
+        1280,
+        900
+      ],
+      "file": "research/screenshots/library-en-page-2-desktop.jpg",
+      "h1": "THE QUICKKOL BLOG.",
+      "images": [
+        {
+          "height": 941,
+          "src": "/assets/blog/affiliate-creator-content-partnership-ads-role-map.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/web3-instagram-follower-quality-2024-evidence-literacy.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/fake-instagram-followers-claim-reporting-literacy.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/scalable-affiliate-ad-platforms-operating-controls.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/princess-polly-ambassador-official-program-routes.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/creator-audit-tools-2026-evidence-coverage.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/beauty-instagram-ads-engagement-2025-scope.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/define-influencer-b2b-education-project.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/what-is-kol-product-launch-advisory-work.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/what-is-kol-social-listening-report.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/tiktok-spark-ads-authorization-lifecycle.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/beauty-engagement-statistics-2026-platform-scope.jpg",
+          "width": 1672
+        }
+      ],
+      "status": "Showing 13–24 of 344 matching articles · 344 in this local preview.",
+      "titles": [
+        "Affiliate Creator Content and Partnership Ads: Map the Roles",
+        "Web3 Instagram Follower Quality in 2024: Read the Evidence",
+        "Fake Instagram Followers: Separate Signals From Claims",
+        "Scalable Affiliate Ad Platforms: Inspect Operating Controls",
+        "Princess Polly Ambassador: Check the Official Program",
+        "Creator Audit Tools in 2026: Compare Evidence Coverage",
+        "Beauty Instagram Ads Engagement in 2025: Check Paid Scope",
+        "Define Influencer for a B2B Education Project",
+        "What Is a KOL in a Product Launch? Define the Contribution",
+        "What Is KOL in a Social Listening Report?",
+        "TikTok Spark Ads: Manage the Authorization Lifecycle",
+        "Beauty Engagement Statistics 2026: Keep Platform Scope"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": 3,
+      "viewport": [
+        1280,
+        900
+      ],
+      "file": "research/screenshots/library-en-page-3-desktop.jpg",
+      "h1": "THE QUICKKOL BLOG.",
+      "images": [
+        {
+          "height": 941,
+          "src": "/assets/blog/social-media-engagement-rate-monthly-explanation.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/brand-partnerships-joint-content-governance.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/follow-electronic-music-creators-brand-listening.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/creator-collaboration-fan-base-2025-review.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/skincare-makeup-meta-ads-creative-claims.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/spot-fake-influencers-verification-false-positives.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/kol-meaning-brief-terminology.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/beauty-influencer-trends-facebook-instagram-2025-review.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/influencer-platforms-record-interoperability.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/what-is-whitelisting-creator-ad-permissions.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/lululemon-affiliate-program-official-routes.jpg",
+          "width": 1672
+        },
+        {
+          "height": 941,
+          "src": "/assets/blog/allbirds-affiliate-program-social-publication-routes.jpg",
+          "width": 1672
+        }
+      ],
+      "status": "Showing 25–36 of 344 matching articles · 344 in this local preview.",
+      "titles": [
+        "Social Media Engagement Rate: Explain the Monthly Change",
+        "Brand Partnerships: Govern Joint Content and Approvals",
+        "How to Follow Electronic Music Creators for Brand Listening",
+        "Creator Collaboration and Fan-Base Growth: A 2025 Review",
+        "Skincare and Makeup Meta Ads: Test Creative and Claims",
+        "How to Spot Fake Influencers Without False Accusations",
+        "KOL Meaning: Turn the Acronym Into a Clear Brief",
+        "Beauty Influencer Trends on Facebook and Instagram in 2025",
+        "Influencer Platforms: Keep Records Connected Across Tools",
+        "What Is Whitelisting in Creator Advertising?",
+        "Lululemon Affiliate Program: Find the Official Route",
+        "Allbirds Affiliate Program: Creator and Publisher Routes"
+      ]
+    }
+  ],
+  "mobileLibraries": [
+    {
+      "locale": "zh",
+      "page": 1,
+      "file": "research/screenshots/library-zh-page-1-mobile-cards.jpg",
+      "cards": [
+        {
+          "title": "达人活动优化：先找瓶颈，再决定改什么",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "达人营销机构：建立清楚的协作与升级节奏",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "品牌大使是什么：向受众说清角色与关系",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "加入付费合作计划前：先读懂邀请与回报",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "旅行达人是什么：把目的地故事变成合作任务",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "技术如何改变达人营销：记录能力、责任与证据",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "互动率公式：先写指标约定，再接报表",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "慕尼黑达人机构：核对本地服务与现场协作",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "品牌合作交易：把商务摘要与内容Brief分开",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "EMV是什么意思：给管理报告补上正确注释",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "40万至50万粉丝TikTok达人：均值怎样才算可核验",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "ValueYourNetwork机构评估：区分自述与独立依据",
+          "titleWidth": 350,
+          "width": 350
+        }
+      ],
+      "document": 391,
+      "path": "/zh/blog/",
+      "viewport": 390
+    },
+    {
+      "locale": "zh",
+      "page": 2,
+      "file": "research/screenshots/library-zh-page-2-mobile-cards.jpg",
+      "cards": [
+        {
+          "title": "联盟、创作者与合作广告：画清角色和回报",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "回看2024 Web3受众：Instagram数据的证据边界",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Instagram假粉说法：怎样读信号与报告结论",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "可扩展联盟广告平台：先看重复执行与权限控制",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Princess Polly大使：核对官方项目与资格",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "2026创作者审阅工具：按证据覆盖比较",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "2025美妆Instagram广告互动率：先确认付费口径",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "B2B教育项目如何定义Influencer合作角色",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "产品发布中的KOL：界定咨询贡献与公开表达",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "舆情报告里的KOL：提及量不等于专业权威",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "TikTok Spark Ads：把授权、发布与结束接起来",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "2026美妆社交互动统计：保留平台与样本范围",
+          "titleWidth": 350,
+          "width": 350
+        }
+      ],
+      "document": 391,
+      "path": "/zh/blog/page/2/",
+      "viewport": 390
+    },
+    {
+      "locale": "zh",
+      "page": 3,
+      "file": "research/screenshots/library-zh-page-3-mobile-cards.jpg",
+      "cards": [
+        {
+          "title": "社交互动率复盘：解释结构变化与真实变化",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "品牌间合作：共同内容如何分工与审阅",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "关注电子音乐创作者：建立品牌聆听习惯",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "回看2025创作者合作：把品牌关注与社区价值连接",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "护肤彩妆Meta广告：测试创意并核对表达依据",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "识别虚假达人：核验信号与事实",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "KOL 是什么意思？把缩写写成可执行的合作任务",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "2025 美妆达人趋势：回看 Facebook 与 Instagram 的证据",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "达人平台如何交接记录：从账号到内容与权限",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "什么是达人 Whitelisting？看清广告权限范围",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "lululemon 联盟计划：核对官方申请与项目区别",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Allbirds 联盟计划：区分创作者与媒体申请入口",
+          "titleWidth": 350,
+          "width": 350
+        }
+      ],
+      "document": 391,
+      "path": "/zh/blog/page/3/",
+      "viewport": 390
+    },
+    {
+      "locale": "en",
+      "page": 1,
+      "file": "research/screenshots/library-en-page-1-mobile-cards.jpg",
+      "cards": [
+        {
+          "title": "How to Optimize Influencer Campaigns: Diagnose the Bottleneck",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Influencer Marketing Agencies: Set the Operating Rhythm",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "What Is a Brand Ambassador to Your Customers?",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "How to Join Paid Partnership Programs: Read the Offer First",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "What Is a Travel Influencer? Write the Destination Brief",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Technology Disruption in Influencer Marketing: Track the Change",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Engagement Rate Formula: Write the Metric Contract",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Munich Influencer Agencies: Verify Local Coordination",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Brand Deals: Separate the Deal Memo From the Content Brief",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "EMV Meaning: Annotate the Executive Report",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "TikTok Creators With 400K–500K Followers: Verify the Cohort",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "ValueYourNetwork Agency Review: Check the Evidence",
+          "titleWidth": 350,
+          "width": 350
+        }
+      ],
+      "document": 391,
+      "path": "/blog/",
+      "viewport": 390
+    },
+    {
+      "locale": "en",
+      "page": 2,
+      "file": "research/screenshots/library-en-page-2-mobile-cards.jpg",
+      "cards": [
+        {
+          "title": "Affiliate Creator Content and Partnership Ads: Map the Roles",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Web3 Instagram Follower Quality in 2024: Read the Evidence",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Fake Instagram Followers: Separate Signals From Claims",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Scalable Affiliate Ad Platforms: Inspect Operating Controls",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Princess Polly Ambassador: Check the Official Program",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Creator Audit Tools in 2026: Compare Evidence Coverage",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Beauty Instagram Ads Engagement in 2025: Check Paid Scope",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Define Influencer for a B2B Education Project",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "What Is a KOL in a Product Launch? Define the Contribution",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "What Is KOL in a Social Listening Report?",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "TikTok Spark Ads: Manage the Authorization Lifecycle",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Beauty Engagement Statistics 2026: Keep Platform Scope",
+          "titleWidth": 350,
+          "width": 350
+        }
+      ],
+      "document": 391,
+      "path": "/blog/page/2/",
+      "viewport": 390
+    },
+    {
+      "locale": "en",
+      "page": 3,
+      "file": "research/screenshots/library-en-page-3-mobile-cards.jpg",
+      "cards": [
+        {
+          "title": "Social Media Engagement Rate: Explain the Monthly Change",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Brand Partnerships: Govern Joint Content and Approvals",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "How to Follow Electronic Music Creators for Brand Listening",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Creator Collaboration and Fan-Base Growth: A 2025 Review",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Skincare and Makeup Meta Ads: Test Creative and Claims",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "How to Spot Fake Influencers Without False Accusations",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "KOL Meaning: Turn the Acronym Into a Clear Brief",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Beauty Influencer Trends on Facebook and Instagram in 2025",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Influencer Platforms: Keep Records Connected Across Tools",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "What Is Whitelisting in Creator Advertising?",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Lululemon Affiliate Program: Find the Official Route",
+          "titleWidth": 350,
+          "width": 350
+        },
+        {
+          "title": "Allbirds Affiliate Program: Creator and Publisher Routes",
+          "titleWidth": 350,
+          "width": 350
+        }
+      ],
+      "document": 391,
+      "path": "/blog/page/3/",
+      "viewport": 390
+    }
+  ],
+  "mobileTitleChecks": [
+    {
+      "slug": "optimize-influencer-campaigns-bottleneck-decisions",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "达人活动优化：先找瓶",
+        "颈，再决定改什么"
+      ],
+      "scrollWidth": 350,
+      "title": "达人活动优化：先找瓶颈，再决定改什么",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "influencer-marketing-agencies-operating-rhythm",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "达人营销机构：建立清",
+        "楚的协作与升级节奏"
+      ],
+      "scrollWidth": 350,
+      "title": "达人营销机构：建立清楚的协作与升级节奏",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "brand-ambassador-customer-facing-explanation",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "品牌大使是什么：向受",
+        "众说清角色与关系"
+      ],
+      "scrollWidth": 350,
+      "title": "品牌大使是什么：向受众说清角色与关系",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "join-paid-partnership-programs-offer-reading",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "加入付费合作计划前：",
+        "先读懂邀请与回报"
+      ],
+      "scrollWidth": 350,
+      "title": "加入付费合作计划前：先读懂邀请与回报",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "what-is-travel-influencer-destination-brief",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "旅行达人是什么：把目",
+        "的地故事变成合作任务"
+      ],
+      "scrollWidth": 350,
+      "title": "旅行达人是什么：把目的地故事变成合作任务",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "technology-disruption-influencer-marketing-change-register",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "技术如何改变达人营",
+        "销：记录能力、责任与",
+        "证据"
+      ],
+      "scrollWidth": 350,
+      "title": "技术如何改变达人营销：记录能力、责任与证据",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "engagement-rate-formula-metric-contract",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "互动率公式：先写指标",
+        "约定，再接报表"
+      ],
+      "scrollWidth": 350,
+      "title": "互动率公式：先写指标约定，再接报表",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "munich-influencer-agencies-local-coordination",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "慕尼黑达人机构：核对",
+        "本地服务与现场协作"
+      ],
+      "scrollWidth": 350,
+      "title": "慕尼黑达人机构：核对本地服务与现场协作",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "brand-deals-commercial-memo-content-brief",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "品牌合作交易：把商务",
+        "摘要与内容Brief分开"
+      ],
+      "scrollWidth": 350,
+      "title": "品牌合作交易：把商务摘要与内容Brief分开",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "emv-meaning-executive-report-annotation",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "EMV是什么意思：给管",
+        "理报告补上正确注释"
+      ],
+      "scrollWidth": 350,
+      "title": "EMV是什么意思：给管理报告补上正确注释",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "tiktok-400k-500k-engagement-verified-cohort",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "40万至50万粉丝",
+        "TikTok达人：均值怎样",
+        "才算可核验"
+      ],
+      "scrollWidth": 350,
+      "title": "40万至50万粉丝TikTok达人：均值怎样才算可核验",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "valueyournetwork-agency-evaluation-source-checks",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "ValueYourNetwork机",
+        "构评估：区分自述与独",
+        "立依据"
+      ],
+      "scrollWidth": 350,
+      "title": "ValueYourNetwork机构评估：区分自述与独立依据",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "affiliate-creator-content-partnership-ads-role-map",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "联盟、创作者与合作广",
+        "告：画清角色和回报"
+      ],
+      "scrollWidth": 350,
+      "title": "联盟、创作者与合作广告：画清角色和回报",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "web3-instagram-follower-quality-2024-evidence-literacy",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "回看2024 Web3受众：",
+        "Instagram数据的证据",
+        "边界"
+      ],
+      "scrollWidth": 350,
+      "title": "回看2024 Web3受众：Instagram数据的证据边界",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "fake-instagram-followers-claim-reporting-literacy",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "Instagram假粉说法：",
+        "怎样读信号与报告结论"
+      ],
+      "scrollWidth": 350,
+      "title": "Instagram假粉说法：怎样读信号与报告结论",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "princess-polly-ambassador-official-program-routes",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "Princess Polly大使：",
+        "核对官方项目与资格"
+      ],
+      "scrollWidth": 350,
+      "title": "Princess Polly大使：核对官方项目与资格",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "creator-audit-tools-2026-evidence-coverage",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "2026创作者审阅工",
+        "具：按证据覆盖比较"
+      ],
+      "scrollWidth": 350,
+      "title": "2026创作者审阅工具：按证据覆盖比较",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "beauty-instagram-ads-engagement-2025-scope",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "2025美妆Instagram广",
+        "告互动率：先确认付费",
+        "口径"
+      ],
+      "scrollWidth": 350,
+      "title": "2025美妆Instagram广告互动率：先确认付费口径",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "define-influencer-b2b-education-project",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "B2B教育项目如何定义",
+        "Influencer合作角色"
+      ],
+      "scrollWidth": 350,
+      "title": "B2B教育项目如何定义Influencer合作角色",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "what-is-kol-product-launch-advisory-work",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "产品发布中的KOL：界",
+        "定咨询贡献与公开表达"
+      ],
+      "scrollWidth": 350,
+      "title": "产品发布中的KOL：界定咨询贡献与公开表达",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "what-is-kol-social-listening-report",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "舆情报告里的KOL：提",
+        "及量不等于专业权威"
+      ],
+      "scrollWidth": 350,
+      "title": "舆情报告里的KOL：提及量不等于专业权威",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "social-media-engagement-rate-monthly-explanation",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "社交互动率复盘：解释",
+        "结构变化与真实变化"
+      ],
+      "scrollWidth": 350,
+      "title": "社交互动率复盘：解释结构变化与真实变化",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "brand-partnerships-joint-content-governance",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "品牌间合作：共同内容",
+        "如何分工与审阅"
+      ],
+      "scrollWidth": 350,
+      "title": "品牌间合作：共同内容如何分工与审阅",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "follow-electronic-music-creators-brand-listening",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "关注电子音乐创作者：",
+        "建立品牌聆听习惯"
+      ],
+      "scrollWidth": 350,
+      "title": "关注电子音乐创作者：建立品牌聆听习惯",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "creator-collaboration-fan-base-2025-review",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "回看2025创作者合",
+        "作：把品牌关注与社区",
+        "价值连接"
+      ],
+      "scrollWidth": 350,
+      "title": "回看2025创作者合作：把品牌关注与社区价值连接",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "skincare-makeup-meta-ads-creative-claims",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "护肤彩妆Meta广告：",
+        "创意与主张复核"
+      ],
+      "scrollWidth": 350,
+      "title": "护肤彩妆Meta广告：创意与主张复核",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "optimize-influencer-campaigns-bottleneck-decisions",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "How to Optimize ",
+        "Influencer ",
+        "Campaigns: Diagnose ",
+        "the Bottleneck"
+      ],
+      "scrollWidth": 350,
+      "title": "How to Optimize Influencer Campaigns: Diagnose the Bottleneck",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "influencer-marketing-agencies-operating-rhythm",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Influencer Marketing ",
+        "Agencies: Set the ",
+        "Operating Rhythm"
+      ],
+      "scrollWidth": 350,
+      "title": "Influencer Marketing Agencies: Set the Operating Rhythm",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "brand-ambassador-customer-facing-explanation",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "What Is a Brand ",
+        "Ambassador to Your ",
+        "Customers?"
+      ],
+      "scrollWidth": 350,
+      "title": "What Is a Brand Ambassador to Your Customers?",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "join-paid-partnership-programs-offer-reading",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "How to Join Paid ",
+        "Partnership ",
+        "Programs: Read the ",
+        "Offer First"
+      ],
+      "scrollWidth": 350,
+      "title": "How to Join Paid Partnership Programs: Read the Offer First",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "what-is-travel-influencer-destination-brief",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "What Is a Travel ",
+        "Influencer? Write the ",
+        "Destination Brief"
+      ],
+      "scrollWidth": 350,
+      "title": "What Is a Travel Influencer? Write the Destination Brief",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "technology-disruption-influencer-marketing-change-register",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Technology ",
+        "Disruption in ",
+        "Influencer Marketing: ",
+        "Track the Change"
+      ],
+      "scrollWidth": 350,
+      "title": "Technology Disruption in Influencer Marketing: Track the Change",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "engagement-rate-formula-metric-contract",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Engagement Rate ",
+        "Formula: Write the ",
+        "Metric Contract"
+      ],
+      "scrollWidth": 350,
+      "title": "Engagement Rate Formula: Write the Metric Contract",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "munich-influencer-agencies-local-coordination",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Munich Influencer ",
+        "Agencies: Verify Local ",
+        "Coordination"
+      ],
+      "scrollWidth": 350,
+      "title": "Munich Influencer Agencies: Verify Local Coordination",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "brand-deals-commercial-memo-content-brief",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Brand Deals: Separate ",
+        "the Deal Memo From ",
+        "the Content Brief"
+      ],
+      "scrollWidth": 350,
+      "title": "Brand Deals: Separate the Deal Memo From the Content Brief",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "emv-meaning-executive-report-annotation",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "EMV Meaning: ",
+        "Annotate the ",
+        "Executive Report"
+      ],
+      "scrollWidth": 350,
+      "title": "EMV Meaning: Annotate the Executive Report",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "tiktok-400k-500k-engagement-verified-cohort",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "TikTok Creators With ",
+        "400K–500K Followers: ",
+        "Verify the Cohort"
+      ],
+      "scrollWidth": 350,
+      "title": "TikTok Creators With 400K–500K Followers: Verify the Cohort",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "valueyournetwork-agency-evaluation-source-checks",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "ValueYourNetwork ",
+        "Agency Review: ",
+        "Check the Evidence"
+      ],
+      "scrollWidth": 350,
+      "title": "ValueYourNetwork Agency Review: Check the Evidence",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "affiliate-creator-content-partnership-ads-role-map",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Affiliate Creator ",
+        "Content and ",
+        "Partnership Ads: Map ",
+        "the Roles"
+      ],
+      "scrollWidth": 350,
+      "title": "Affiliate Creator Content and Partnership Ads: Map the Roles",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "web3-instagram-follower-quality-2024-evidence-literacy",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Web3 Instagram ",
+        "Follower Quality in ",
+        "2024: Read the ",
+        "Evidence"
+      ],
+      "scrollWidth": 350,
+      "title": "Web3 Instagram Follower Quality in 2024: Read the Evidence",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "fake-instagram-followers-claim-reporting-literacy",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Fake Instagram ",
+        "Followers: Separate ",
+        "Signals From Claims"
+      ],
+      "scrollWidth": 350,
+      "title": "Fake Instagram Followers: Separate Signals From Claims",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "scalable-affiliate-ad-platforms-operating-controls",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Scalable Affiliate Ad ",
+        "Platforms: Inspect ",
+        "Operating Controls"
+      ],
+      "scrollWidth": 350,
+      "title": "Scalable Affiliate Ad Platforms: Inspect Operating Controls",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "princess-polly-ambassador-official-program-routes",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Princess Polly ",
+        "Ambassador: Check ",
+        "the Official Program"
+      ],
+      "scrollWidth": 350,
+      "title": "Princess Polly Ambassador: Check the Official Program",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "creator-audit-tools-2026-evidence-coverage",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Creator Audit Tools in ",
+        "2026: Compare ",
+        "Evidence Coverage"
+      ],
+      "scrollWidth": 350,
+      "title": "Creator Audit Tools in 2026: Compare Evidence Coverage",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "beauty-instagram-ads-engagement-2025-scope",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Beauty Instagram Ads ",
+        "Engagement in 2025: ",
+        "Check Paid Scope"
+      ],
+      "scrollWidth": 350,
+      "title": "Beauty Instagram Ads Engagement in 2025: Check Paid Scope",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "define-influencer-b2b-education-project",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Define Influencer for a ",
+        "B2B Education Project"
+      ],
+      "scrollWidth": 350,
+      "title": "Define Influencer for a B2B Education Project",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "what-is-kol-product-launch-advisory-work",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "What Is a KOL in a ",
+        "Product Launch? ",
+        "Define the ",
+        "Contribution"
+      ],
+      "scrollWidth": 350,
+      "title": "What Is a KOL in a Product Launch? Define the Contribution",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "what-is-kol-social-listening-report",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "What Is KOL in a Social ",
+        "Listening Report?"
+      ],
+      "scrollWidth": 350,
+      "title": "What Is KOL in a Social Listening Report?",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "tiktok-spark-ads-authorization-lifecycle",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "TikTok Spark Ads: ",
+        "Manage the ",
+        "Authorization ",
+        "Lifecycle"
+      ],
+      "scrollWidth": 350,
+      "title": "TikTok Spark Ads: Manage the Authorization Lifecycle",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "beauty-engagement-statistics-2026-platform-scope",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Beauty Engagement ",
+        "Statistics 2026: Keep ",
+        "Platform Scope"
+      ],
+      "scrollWidth": 350,
+      "title": "Beauty Engagement Statistics 2026: Keep Platform Scope",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "social-media-engagement-rate-monthly-explanation",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Social Media ",
+        "Engagement Rate: ",
+        "Explain the Monthly ",
+        "Change"
+      ],
+      "scrollWidth": 350,
+      "title": "Social Media Engagement Rate: Explain the Monthly Change",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "brand-partnerships-joint-content-governance",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Brand Partnerships: ",
+        "Govern Joint Content ",
+        "and Approvals"
+      ],
+      "scrollWidth": 350,
+      "title": "Brand Partnerships: Govern Joint Content and Approvals",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "follow-electronic-music-creators-brand-listening",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "How to Follow ",
+        "Electronic Music ",
+        "Creators for Brand ",
+        "Listening"
+      ],
+      "scrollWidth": 350,
+      "title": "How to Follow Electronic Music Creators for Brand Listening",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "creator-collaboration-fan-base-2025-review",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Creator Collaboration ",
+        "and Fan-Base Growth: ",
+        "A 2025 Review"
+      ],
+      "scrollWidth": 350,
+      "title": "Creator Collaboration and Fan-Base Growth: A 2025 Review",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "skincare-makeup-meta-ads-creative-claims",
+      "locale": "en",
+      "document": 391,
+      "lines": [
+        "Skincare and Makeup ",
+        "Meta Ads: Test ",
+        "Creative and Claims"
+      ],
+      "scrollWidth": 350,
+      "title": "Skincare and Makeup Meta Ads: Test Creative and Claims",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "scalable-affiliate-ad-platforms-operating-controls",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "联盟广告平台扩展：核",
+        "对执行与权限"
+      ],
+      "scrollWidth": 350,
+      "title": "联盟广告平台扩展：核对执行与权限",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "tiktok-spark-ads-authorization-lifecycle",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "TikTok Spark Ads：管",
+        "理授权全周期"
+      ],
+      "scrollWidth": 350,
+      "title": "TikTok Spark Ads：管理授权全周期",
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "beauty-engagement-statistics-2026-platform-scope",
+      "locale": "zh",
+      "document": 391,
+      "lines": [
+        "2026美妆互动统计：",
+        "看清平台与样本"
+      ],
+      "scrollWidth": 350,
+      "title": "2026美妆互动统计：看清平台与样本",
+      "viewport": 390,
+      "width": 350
+    }
+  ],
+  "representativeDetails": [
+    {
+      "slug": "web3-instagram-follower-quality-2024-evidence-literacy",
+      "locale": "zh",
+      "articleWidth": 350,
+      "cta": "在 QUICKKOL 中继续学习如何解释数据用清楚的对象、窗口和来源解释计数与结果，保留证据不能回答的问题。阅读活动衡量指南 ",
+      "ctaHref": "/zh/blog/creator-campaign-measurement/#answer",
+      "document": 391,
+      "h1": "回看2024 Web3受众：Instagram数据的证据边界",
+      "h1Box": 350,
+      "h1Width": 350,
+      "viewport": 390,
+      "file": "research/screenshots/web3-instagram-follower-quality-2024-evidence-literacy-zh-mobile.jpg"
+    },
+    {
+      "slug": "fake-instagram-followers-claim-reporting-literacy",
+      "locale": "en",
+      "articleWidth": 350,
+      "cta": "IN QUICKKOLContinue learning about metrics and evidenceUnderstand the distinction between counts, audience response and business outcomes, supporting reports with clear sources and limits.Read the measurement guide ",
+      "ctaHref": "/blog/creator-campaign-measurement/#answer",
+      "document": 391,
+      "h1": "Fake Instagram Followers: Separate Signals From Claims",
+      "h1Box": 350,
+      "h1Width": 350,
+      "viewport": 390,
+      "file": "research/screenshots/fake-instagram-followers-claim-reporting-literacy-en-mobile.jpg"
+    },
+    {
+      "slug": "skincare-makeup-meta-ads-creative-claims",
+      "locale": "zh",
+      "articleWidth": 350,
+      "cta": "在 QUICKKOL 中用清楚的任务开始达人研究用 QuickKOL 理解 Brief、发现相关达人并研究作品与联系路径；数据、合作条件和结果仍需核验。了解 QuickKOL ",
+      "ctaHref": "https://www.quickkol.com/#capabilities",
+      "document": 391,
+      "h1": "护肤彩妆Meta广告：测试创意并核对表达依据",
+      "h1Box": 350,
+      "h1Width": 350,
+      "viewport": 390,
+      "file": "research/screenshots/skincare-makeup-meta-ads-creative-claims-zh-mobile.jpg"
+    }
+  ],
+  "browserDownloads": [
+    {
+      "selector": "a[download][href=\"/downloads/launch-advisory-decision-log.zh.csv\"]",
+      "file": "Browser-downloaded local file: launch-advisory-decision-log.zh.csv"
+    },
+    {
+      "selector": "a[download][href=\"/downloads/launch-advisory-decision-log.en.csv\"]",
+      "file": "Browser-downloaded local file: launch-advisory-decision-log.en.csv"
+    },
+    {
+      "selector": "a[download][href=\"/downloads/engagement-metric-contract.zh.csv\"]",
+      "file": "Browser-downloaded local file: engagement-metric-contract.zh.csv"
+    },
+    {
+      "selector": "a[download][href=\"/downloads/engagement-metric-contract.en.csv\"]",
+      "file": "Browser-downloaded local file: engagement-metric-contract.en.csv"
+    }
+  ],
+  "covers": {
+    "count": 29,
+    "allOriginalsOrGraphicsIndividuallyInspected": true,
+    "desktopPhoto": "screenshots/spark-cover-en-desktop.jpg",
+    "desktopType": "screenshots/metric-type-cover-en-desktop.jpg"
+  },
+  "representativeComponents": [
+    "screenshots/advisory-downloads-zh-mobile.jpg",
+    "screenshots/metric-downloads-en-desktop.jpg",
+    "screenshots/meta-claims-table-zh-mobile.jpg",
+    "screenshots/fake-instagram-table-mobile-zh.jpg"
+  ],
+  "corrections": [
+    "Article29 internal links split into contextual paragraphs to match existing one-internal-link-per-paragraph renderer.",
+    "Chinese titles16,23,24,29 shortened after mobile orphan-line review; 58 final title layout records have no single-character last line or title overflow."
+  ],
+  "limitations": [
+    "Shared pre-existing 1px document overflow at viewport390 (document391); article/card content350 and table620 scrolls within its own350 container. No unrelated global CSS changed.",
+    "Initial navigation can precede completion of page load; final directory navigation inspected after load. Metric desktop and advisory mobile targets landed at approximately28px."
+  ],
+  "viewportRestored": true,
+  "retainedPage": "http://127.0.0.1:5174/zh/blog/",
+  "finalScreenshot": "screenshots/local-review-ready.jpg"
+}

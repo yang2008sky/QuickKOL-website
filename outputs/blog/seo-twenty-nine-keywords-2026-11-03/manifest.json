@@ -1,0 +1,452 @@
+{
+  "batch": "seo-twenty-nine-keywords-2026-11-03",
+  "repository": "https://github.com/yang2008sky/QuickKOL-website",
+  "branch": "seo-blog",
+  "baseRevision": "1f98f2c1ec62873d727c7f7305e4313451818269",
+  "articleCount": 29,
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "status": "content-handoff-awaiting-maintainer-integration-review-and-publication",
+  "contentModule": "src/blog-november-29.js",
+  "exportName": "november29Posts",
+  "authorization": "User explicitly requested upload to GitHub after completed local review delivery.",
+  "articles": [
+    {
+      "id": 1,
+      "keyword": "how to optimize influencer campaigns",
+      "slug": "optimize-influencer-campaigns-bottleneck-decisions",
+      "title": [
+        "达人活动优化：先找瓶颈，再决定改什么",
+        "How to Optimize Influencer Campaigns: Diagnose the Bottleneck"
+      ],
+      "englishBodyWords": 1504,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/optimize-influencer-campaigns-bottleneck-decisions/",
+        "zh": "https://www.quickkol.com/zh/blog/optimize-influencer-campaigns-bottleneck-decisions/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 2,
+      "keyword": "influencer marketing agencies",
+      "slug": "influencer-marketing-agencies-operating-rhythm",
+      "title": [
+        "达人营销机构：建立清楚的协作与升级节奏",
+        "Influencer Marketing Agencies: Set the Operating Rhythm"
+      ],
+      "englishBodyWords": 1540,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/influencer-marketing-agencies-operating-rhythm/",
+        "zh": "https://www.quickkol.com/zh/blog/influencer-marketing-agencies-operating-rhythm/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 3,
+      "keyword": "brand ambassador what is",
+      "slug": "brand-ambassador-customer-facing-explanation",
+      "title": [
+        "品牌大使是什么：向受众说清角色与关系",
+        "What Is a Brand Ambassador to Your Customers?"
+      ],
+      "englishBodyWords": 1531,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/brand-ambassador-customer-facing-explanation/",
+        "zh": "https://www.quickkol.com/zh/blog/brand-ambassador-customer-facing-explanation/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 4,
+      "keyword": "how to join paid partnership programs",
+      "slug": "join-paid-partnership-programs-offer-reading",
+      "title": [
+        "加入付费合作计划前：先读懂邀请与回报",
+        "How to Join Paid Partnership Programs: Read the Offer First"
+      ],
+      "englishBodyWords": 1504,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/join-paid-partnership-programs-offer-reading/",
+        "zh": "https://www.quickkol.com/zh/blog/join-paid-partnership-programs-offer-reading/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 5,
+      "keyword": "what is a travel influencer",
+      "slug": "what-is-travel-influencer-destination-brief",
+      "title": [
+        "旅行达人是什么：把目的地故事变成合作任务",
+        "What Is a Travel Influencer? Write the Destination Brief"
+      ],
+      "englishBodyWords": 1500,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/what-is-travel-influencer-destination-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/what-is-travel-influencer-destination-brief/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 6,
+      "keyword": "technology disruption influencer marketing",
+      "slug": "technology-disruption-influencer-marketing-change-register",
+      "title": [
+        "技术如何改变达人营销：记录能力、责任与证据",
+        "Technology Disruption in Influencer Marketing: Track the Change"
+      ],
+      "englishBodyWords": 1502,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/technology-disruption-influencer-marketing-change-register/",
+        "zh": "https://www.quickkol.com/zh/blog/technology-disruption-influencer-marketing-change-register/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 7,
+      "keyword": "engagement rate formula",
+      "slug": "engagement-rate-formula-metric-contract",
+      "title": [
+        "互动率公式：先写指标约定，再接报表",
+        "Engagement Rate Formula: Write the Metric Contract"
+      ],
+      "englishBodyWords": 1503,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/engagement-rate-formula-metric-contract/",
+        "zh": "https://www.quickkol.com/zh/blog/engagement-rate-formula-metric-contract/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 8,
+      "keyword": "germany social media agencies munich influencer",
+      "slug": "munich-influencer-agencies-local-coordination",
+      "title": [
+        "慕尼黑达人机构：核对本地服务与现场协作",
+        "Munich Influencer Agencies: Verify Local Coordination"
+      ],
+      "englishBodyWords": 1509,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/munich-influencer-agencies-local-coordination/",
+        "zh": "https://www.quickkol.com/zh/blog/munich-influencer-agencies-local-coordination/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 9,
+      "keyword": "brand deals",
+      "slug": "brand-deals-commercial-memo-content-brief",
+      "title": [
+        "品牌合作交易：把商务摘要与内容Brief分开",
+        "Brand Deals: Separate the Deal Memo From the Content Brief"
+      ],
+      "englishBodyWords": 1519,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/brand-deals-commercial-memo-content-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/brand-deals-commercial-memo-content-brief/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 10,
+      "keyword": "emv meaning",
+      "slug": "emv-meaning-executive-report-annotation",
+      "title": [
+        "EMV是什么意思：给管理报告补上正确注释",
+        "EMV Meaning: Annotate the Executive Report"
+      ],
+      "englishBodyWords": 1541,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/emv-meaning-executive-report-annotation/",
+        "zh": "https://www.quickkol.com/zh/blog/emv-meaning-executive-report-annotation/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 11,
+      "keyword": "tiktok creator 400k 500k followers average engagement rate verified",
+      "slug": "tiktok-400k-500k-engagement-verified-cohort",
+      "title": [
+        "40万至50万粉丝TikTok达人：均值怎样才算可核验",
+        "TikTok Creators With 400K–500K Followers: Verify the Cohort"
+      ],
+      "englishBodyWords": 1520,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-400k-500k-engagement-verified-cohort/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-400k-500k-engagement-verified-cohort/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 12,
+      "keyword": "meilleure agence influence marketing valueyournetwork",
+      "slug": "valueyournetwork-agency-evaluation-source-checks",
+      "title": [
+        "ValueYourNetwork机构评估：区分自述与独立依据",
+        "ValueYourNetwork Agency Review: Check the Evidence"
+      ],
+      "englishBodyWords": 1520,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/valueyournetwork-agency-evaluation-source-checks/",
+        "zh": "https://www.quickkol.com/zh/blog/valueyournetwork-agency-evaluation-source-checks/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 13,
+      "keyword": "affiliate creator content partnership ads brands",
+      "slug": "affiliate-creator-content-partnership-ads-role-map",
+      "title": [
+        "联盟、创作者与合作广告：画清角色和回报",
+        "Affiliate Creator Content and Partnership Ads: Map the Roles"
+      ],
+      "englishBodyWords": 1517,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/affiliate-creator-content-partnership-ads-role-map/",
+        "zh": "https://www.quickkol.com/zh/blog/affiliate-creator-content-partnership-ads-role-map/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 14,
+      "keyword": "web3 instagram account follower quality analysis 2024",
+      "slug": "web3-instagram-follower-quality-2024-evidence-literacy",
+      "title": [
+        "回看2024 Web3受众：Instagram数据的证据边界",
+        "Web3 Instagram Follower Quality in 2024: Read the Evidence"
+      ],
+      "englishBodyWords": 1502,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/web3-instagram-follower-quality-2024-evidence-literacy/",
+        "zh": "https://www.quickkol.com/zh/blog/web3-instagram-follower-quality-2024-evidence-literacy/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 15,
+      "keyword": "fake instagram followers",
+      "slug": "fake-instagram-followers-claim-reporting-literacy",
+      "title": [
+        "Instagram假粉说法：怎样读信号与报告结论",
+        "Fake Instagram Followers: Separate Signals From Claims"
+      ],
+      "englishBodyWords": 1505,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/fake-instagram-followers-claim-reporting-literacy/",
+        "zh": "https://www.quickkol.com/zh/blog/fake-instagram-followers-claim-reporting-literacy/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 16,
+      "keyword": "affiliate ad platforms scalable",
+      "slug": "scalable-affiliate-ad-platforms-operating-controls",
+      "title": [
+        "联盟广告平台扩展：核对执行与权限",
+        "Scalable Affiliate Ad Platforms: Inspect Operating Controls"
+      ],
+      "englishBodyWords": 1515,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/scalable-affiliate-ad-platforms-operating-controls/",
+        "zh": "https://www.quickkol.com/zh/blog/scalable-affiliate-ad-platforms-operating-controls/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 17,
+      "keyword": "princess polly ambassador",
+      "slug": "princess-polly-ambassador-official-program-routes",
+      "title": [
+        "Princess Polly大使：核对官方项目与资格",
+        "Princess Polly Ambassador: Check the Official Program"
+      ],
+      "englishBodyWords": 1500,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/princess-polly-ambassador-official-program-routes/",
+        "zh": "https://www.quickkol.com/zh/blog/princess-polly-ambassador-official-program-routes/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 18,
+      "keyword": "top creator audit tools 2026",
+      "slug": "creator-audit-tools-2026-evidence-coverage",
+      "title": [
+        "2026创作者审阅工具：按证据覆盖比较",
+        "Creator Audit Tools in 2026: Compare Evidence Coverage"
+      ],
+      "englishBodyWords": 1510,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/creator-audit-tools-2026-evidence-coverage/",
+        "zh": "https://www.quickkol.com/zh/blog/creator-audit-tools-2026-evidence-coverage/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 19,
+      "keyword": "beauty brand instagram ads engagement rate 2025",
+      "slug": "beauty-instagram-ads-engagement-2025-scope",
+      "title": [
+        "2025美妆Instagram广告互动率：先确认付费口径",
+        "Beauty Instagram Ads Engagement in 2025: Check Paid Scope"
+      ],
+      "englishBodyWords": 1503,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/beauty-instagram-ads-engagement-2025-scope/",
+        "zh": "https://www.quickkol.com/zh/blog/beauty-instagram-ads-engagement-2025-scope/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 20,
+      "keyword": "define influencer",
+      "slug": "define-influencer-b2b-education-project",
+      "title": [
+        "B2B教育项目如何定义Influencer合作角色",
+        "Define Influencer for a B2B Education Project"
+      ],
+      "englishBodyWords": 1514,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/define-influencer-b2b-education-project/",
+        "zh": "https://www.quickkol.com/zh/blog/define-influencer-b2b-education-project/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 21,
+      "keyword": "what is a kol",
+      "slug": "what-is-kol-product-launch-advisory-work",
+      "title": [
+        "产品发布中的KOL：界定咨询贡献与公开表达",
+        "What Is a KOL in a Product Launch? Define the Contribution"
+      ],
+      "englishBodyWords": 1509,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/what-is-kol-product-launch-advisory-work/",
+        "zh": "https://www.quickkol.com/zh/blog/what-is-kol-product-launch-advisory-work/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 22,
+      "keyword": "what is kol",
+      "slug": "what-is-kol-social-listening-report",
+      "title": [
+        "舆情报告里的KOL：提及量不等于专业权威",
+        "What Is KOL in a Social Listening Report?"
+      ],
+      "englishBodyWords": 1508,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/what-is-kol-social-listening-report/",
+        "zh": "https://www.quickkol.com/zh/blog/what-is-kol-social-listening-report/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 23,
+      "keyword": "tiktok spark ads",
+      "slug": "tiktok-spark-ads-authorization-lifecycle",
+      "title": [
+        "TikTok Spark Ads：管理授权全周期",
+        "TikTok Spark Ads: Manage the Authorization Lifecycle"
+      ],
+      "englishBodyWords": 1506,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-spark-ads-authorization-lifecycle/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-spark-ads-authorization-lifecycle/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 24,
+      "keyword": "beauty industry social media engagement statistics 2026",
+      "slug": "beauty-engagement-statistics-2026-platform-scope",
+      "title": [
+        "2026美妆互动统计：看清平台与样本",
+        "Beauty Engagement Statistics 2026: Keep Platform Scope"
+      ],
+      "englishBodyWords": 1528,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/beauty-engagement-statistics-2026-platform-scope/",
+        "zh": "https://www.quickkol.com/zh/blog/beauty-engagement-statistics-2026-platform-scope/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 25,
+      "keyword": "social media engagement rate",
+      "slug": "social-media-engagement-rate-monthly-explanation",
+      "title": [
+        "社交互动率复盘：解释结构变化与真实变化",
+        "Social Media Engagement Rate: Explain the Monthly Change"
+      ],
+      "englishBodyWords": 1501,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/social-media-engagement-rate-monthly-explanation/",
+        "zh": "https://www.quickkol.com/zh/blog/social-media-engagement-rate-monthly-explanation/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 26,
+      "keyword": "brand partnerships",
+      "slug": "brand-partnerships-joint-content-governance",
+      "title": [
+        "品牌间合作：共同内容如何分工与审阅",
+        "Brand Partnerships: Govern Joint Content and Approvals"
+      ],
+      "englishBodyWords": 1505,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/brand-partnerships-joint-content-governance/",
+        "zh": "https://www.quickkol.com/zh/blog/brand-partnerships-joint-content-governance/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 27,
+      "keyword": "how to follow electro music influencers",
+      "slug": "follow-electronic-music-creators-brand-listening",
+      "title": [
+        "关注电子音乐创作者：建立品牌聆听习惯",
+        "How to Follow Electronic Music Creators for Brand Listening"
+      ],
+      "englishBodyWords": 1503,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/follow-electronic-music-creators-brand-listening/",
+        "zh": "https://www.quickkol.com/zh/blog/follow-electronic-music-creators-brand-listening/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 28,
+      "keyword": "influencer collaboration strategy grow fan base 2025",
+      "slug": "creator-collaboration-fan-base-2025-review",
+      "title": [
+        "回看2025创作者合作：把品牌关注与社区价值连接",
+        "Creator Collaboration and Fan-Base Growth: A 2025 Review"
+      ],
+      "englishBodyWords": 1503,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/creator-collaboration-fan-base-2025-review/",
+        "zh": "https://www.quickkol.com/zh/blog/creator-collaboration-fan-base-2025-review/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    },
+    {
+      "id": 29,
+      "keyword": "skincare makeup meta advertising trends engagement rates",
+      "slug": "skincare-makeup-meta-ads-creative-claims",
+      "title": [
+        "护肤彩妆Meta广告：创意与主张复核",
+        "Skincare and Makeup Meta Ads: Test Creative and Claims"
+      ],
+      "englishBodyWords": 1540,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/skincare-makeup-meta-ads-creative-claims/",
+        "zh": "https://www.quickkol.com/zh/blog/skincare-makeup-meta-ads-creative-claims/"
+      },
+      "publicationDate": "Draft/research date 2026-11-03; maintainer to confirm actual release date."
+    }
+  ]
+}

@@ -1,0 +1,1876 @@
+[
+  {
+    "id": 1,
+    "keyword": "how to optimize influencer campaigns",
+    "slug": "optimize-influencer-campaigns-bottleneck-decisions",
+    "title": [
+      "达人活动优化：先找瓶颈，再决定改什么",
+      "How to Optimize Influencer Campaigns: Diagnose the Bottleneck"
+    ],
+    "topic": "campaign",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "活动进行中的可控变量、诊断顺序与改变决定",
+    "uniqueAngle": "活动进行中的可控变量、诊断顺序与改变决定",
+    "overlapWithExisting": "已有策略文规划假设组合、旧跟踪文记录活动；本篇解决执行中何时改变什么。",
+    "primarySources": [
+      {
+        "id": "amec",
+        "url": "https://amecorg.com/amecframework/"
+      },
+      {
+        "id": "googleExperiment",
+        "url": "https://support.google.com/google-ads/answer/7281575?hl=en"
+      },
+      {
+        "id": "googleRoi",
+        "url": "https://support.google.com/google-ads/answer/1722066?hl=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "活动衡量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      },
+      {
+        "terms": [
+          "合作执行指南",
+          "collaboration workflow guide"
+        ],
+        "url": "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      },
+      {
+        "terms": [
+          "互动率分母指南",
+          "engagement-denominator guide"
+        ],
+        "url": "/blog/engagement-rate-denominators/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1504,
+    "chineseHanzi": 2320,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 2,
+    "keyword": "influencer marketing agencies",
+    "slug": "influencer-marketing-agencies-operating-rhythm",
+    "title": [
+      "达人营销机构：建立清楚的协作与升级节奏",
+      "Influencer Marketing Agencies: Set the Operating Rhythm"
+    ],
+    "topic": "campaign",
+    "family": "Human documentary",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "品牌保留决定、机构日常协作、异常升级与交接节奏",
+    "uniqueAngle": "品牌保留决定、机构日常协作、异常升级与交接节奏",
+    "overlapWithExisting": "区别既有服务验收、代表关系与采购比较；本篇是选定机构后的运行机制。",
+    "primarySources": [
+      {
+        "id": "whalar",
+        "url": "https://www.whalar.com/"
+      },
+      {
+        "id": "frameCompare",
+        "url": "https://help.frame.io/en/articles/9952618-comparison-viewer"
+      },
+      {
+        "id": "ftcFaq",
+        "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "机构服务验收指南",
+          "agency service-acceptance guide"
+        ],
+        "url": "/blog/influencer-marketing-agency-service-acceptance/#answer"
+      },
+      {
+        "terms": [
+          "合作执行指南",
+          "collaboration workflow guide"
+        ],
+        "url": "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      },
+      {
+        "terms": [
+          "内容使用范围指南",
+          "content-use scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1540,
+    "chineseHanzi": 2567,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 3,
+    "keyword": "brand ambassador what is",
+    "slug": "brand-ambassador-customer-facing-explanation",
+    "title": [
+      "品牌大使是什么：向受众说清角色与关系",
+      "What Is a Brand Ambassador to Your Customers?"
+    ],
+    "topic": "commercial",
+    "family": "Type / background",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "对外节目介绍、关系说明与受众预期",
+    "uniqueAngle": "对外节目介绍、关系说明与受众预期",
+    "overlapWithExisting": "已有定义给内部团队、权限指南界定代表边界；本篇写顾客看见的解释。",
+    "primarySources": [
+      {
+        "id": "luluCommunity",
+        "url": "https://corporate.lululemon.com/our-business/innovation/community-engagement"
+      },
+      {
+        "id": "ftcPrimer",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      },
+      {
+        "id": "ftcFaq",
+        "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "大使角色指南",
+          "ambassador role guide"
+        ],
+        "url": "/blog/brand-ambassador-role-program/#answer"
+      },
+      {
+        "terms": [
+          "社区项目申请指南",
+          "program application-experience guide"
+        ],
+        "url": "/blog/ambassador-programs-member-application/#answer"
+      },
+      {
+        "terms": [
+          "合作执行指南",
+          "collaboration workflow guide"
+        ],
+        "url": "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1531,
+    "chineseHanzi": 2432,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 4,
+    "keyword": "how to join paid partnership programs",
+    "slug": "join-paid-partnership-programs-offer-reading",
+    "title": [
+      "加入付费合作计划前：先读懂邀请与回报",
+      "How to Join Paid Partnership Programs: Read the Offer First"
+    ],
+    "topic": "commercial",
+    "family": "Environment / objects",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "代理或品牌合作团队理解加入路径、邀请资格与付款阶段",
+    "uniqueAngle": "代理或品牌合作团队理解加入路径、邀请资格与付款阶段",
+    "overlapWithExisting": "区别通用大使申请体验与收入调查；聚焦为拟加入项目读实际offer。",
+    "primarySources": [
+      {
+        "id": "collabsSetup",
+        "url": "https://help.shopify.com/en/manual/promoting-marketing/collabs/creators/setup"
+      },
+      {
+        "id": "ytPartnerships",
+        "url": "https://support.google.com/youtube/answer/9385307?hl=en"
+      },
+      {
+        "id": "collabsPay",
+        "url": "https://help.shopify.com/en/manual/promoting-marketing/collabs/creators/payments"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "媒体资料包指南",
+          "media-kit review guide"
+        ],
+        "url": "/blog/what-is-a-media-kit-brand-review/#answer"
+      },
+      {
+        "terms": [
+          "项目申请体验指南",
+          "program application-experience guide"
+        ],
+        "url": "/blog/ambassador-programs-member-application/#answer"
+      },
+      {
+        "terms": [
+          "内容使用范围指南",
+          "content-use scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1504,
+    "chineseHanzi": 2476,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 5,
+    "keyword": "what is a travel influencer",
+    "slug": "what-is-travel-influencer-destination-brief",
+    "title": [
+      "旅行达人是什么：把目的地故事变成合作任务",
+      "What Is a Travel Influencer? Write the Destination Brief"
+    ],
+    "topic": "discovery",
+    "family": "Solo creator",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "目的地内容角色、游客问题、证据与编辑任务",
+    "uniqueAngle": "目的地内容角色、游客问题、证据与编辑任务",
+    "overlapWithExisting": "已有旅行名单文章处理行程可执行性；本篇定义内容贡献而非排名或行程采购。",
+    "primarySources": [
+      {
+        "id": "scotPrograms",
+        "url": "https://www.visitscotland.org/who-we-are/contact/influencer-programmes"
+      },
+      {
+        "id": "expediaTravel",
+        "url": "https://partner.expediagroup.com/en-us/resources/blog/crack-code-on-travel-content-science-of-wanderlust"
+      },
+      {
+        "id": "ftcFaq",
+        "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "旅行合作可行性指南",
+          "travel-collaboration feasibility guide"
+        ],
+        "url": "/blog/top-travel-influencers-itinerary-feasibility/#answer"
+      },
+      {
+        "terms": [
+          "媒体资料包指南",
+          "media-kit review guide"
+        ],
+        "url": "/blog/what-is-a-media-kit-brand-review/#answer"
+      },
+      {
+        "terms": [
+          "内容使用范围指南",
+          "content-use scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1500,
+    "chineseHanzi": 2499,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 6,
+    "keyword": "technology disruption influencer marketing",
+    "slug": "technology-disruption-influencer-marketing-change-register",
+    "title": [
+      "技术如何改变达人营销：记录能力、责任与证据",
+      "Technology Disruption in Influencer Marketing: Track the Change"
+    ],
+    "topic": "ai",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "平台与AI变化对团队责任、输入和证据链的影响",
+    "uniqueAngle": "平台与AI变化对团队责任、输入和证据链的影响",
+    "overlapWithExisting": "区别工具推荐和跨平台记录互通；用变化登记解释机制而非预测技术必然替代人。",
+    "primarySources": [
+      {
+        "id": "metaEdits",
+        "url": "https://about.fb.com/news/2026/04/one-year-of-edits-built-for-and-with-creators/amp/"
+      },
+      {
+        "id": "ytGenAi",
+        "url": "https://support.google.com/youtube/answer/14328491?hl=en"
+      },
+      {
+        "id": "frameCompare",
+        "url": "https://help.frame.io/en/articles/9952618-comparison-viewer"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "AI达人研究复核指南",
+          "AI creator-research review guide"
+        ],
+        "url": "/blog/ai-creator-shortlist-review/#answer"
+      },
+      {
+        "terms": [
+          "合作执行指南",
+          "collaboration workflow guide"
+        ],
+        "url": "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      },
+      {
+        "terms": [
+          "内容使用范围指南",
+          "content-use scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1502,
+    "chineseHanzi": 2465,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 7,
+    "keyword": "engagement rate formula",
+    "slug": "engagement-rate-formula-metric-contract",
+    "title": [
+      "互动率公式：先写指标约定，再接报表",
+      "Engagement Rate Formula: Write the Metric Contract"
+    ],
+    "topic": "analytics",
+    "family": "Type / background",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "指标交接与版本迁移中的单位、对象、动作和定义合同",
+    "uniqueAngle": "指标交接与版本迁移中的单位、对象、动作和定义合同",
+    "overlapWithExisting": "已有工作表教计算与汇总；本篇解决报表维护者如何避免公式名称相同而含义改变。",
+    "primarySources": [
+      {
+        "id": "rivalEvents",
+        "url": "https://help.rivaliq.com/en/articles/4792538-what-is-included-in-engagement-metrics"
+      },
+      {
+        "id": "rivalRate",
+        "url": "https://help.rivaliq.com/en/articles/2043672-understanding-engagement-rates"
+      },
+      {
+        "id": "ytCounts",
+        "url": "https://support.google.com/youtube/answer/2991785?hl=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "互动率分母指南",
+          "engagement-denominator guide"
+        ],
+        "url": "/blog/engagement-rate-denominators/#answer"
+      },
+      {
+        "terms": [
+          "互动率计算工具指南",
+          "engagement-calculator guide"
+        ],
+        "url": "/blog/engagement-rate-calculator-formulas/#answer"
+      },
+      {
+        "terms": [
+          "创作者数据阅读指南",
+          "creator-data interpretation guide"
+        ],
+        "url": "/blog/read-creator-engagement-data/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1503,
+    "chineseHanzi": 2437,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 8,
+    "keyword": "germany social media agencies munich influencer",
+    "slug": "munich-influencer-agencies-local-coordination",
+    "title": [
+      "慕尼黑达人机构：核对本地服务与现场协作",
+      "Munich Influencer Agencies: Verify Local Coordination"
+    ],
+    "topic": "outreach",
+    "family": "Human documentary",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "慕尼黑机构公开地址、服务与本地现场协作需求",
+    "uniqueAngle": "慕尼黑机构公开地址、服务与本地现场协作需求",
+    "overlapWithExisting": "不是城市达人名单或无证据最佳机构排名；按真实地点与服务范围组织询问。",
+    "primarySources": [
+      {
+        "id": "mitziMunich",
+        "url": "https://www.mitzirose.com/"
+      },
+      {
+        "id": "hansmannMunich",
+        "url": "https://hansmannpr.de/leistung/social-media/"
+      },
+      {
+        "id": "addfameMunich",
+        "url": "https://www.addfame.com/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "机构范围比较指南",
+          "agency-scope comparison guide"
+        ],
+        "url": "/blog/influencer-agencies-scope-and-accountability/#answer"
+      },
+      {
+        "terms": [
+          "机构或直接联系指南",
+          "agency-or-direct contact guide"
+        ],
+        "url": "/blog/creator-agency-or-direct-outreach/#answer"
+      },
+      {
+        "terms": [
+          "合作执行指南",
+          "collaboration workflow guide"
+        ],
+        "url": "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1509,
+    "chineseHanzi": 2434,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 9,
+    "keyword": "brand deals",
+    "slug": "brand-deals-commercial-memo-content-brief",
+    "title": [
+      "品牌合作交易：把商务摘要与内容Brief分开",
+      "Brand Deals: Separate the Deal Memo From the Content Brief"
+    ],
+    "topic": "commercial",
+    "family": "Environment / objects",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "商业条件的阶段摘要如何连接内容说明与下一步",
+    "uniqueAngle": "商业条件的阶段摘要如何连接内容说明与下一步",
+    "overlapWithExisting": "区别报价、谈判与法律合同模板；本篇是非约束性编辑交接字段。",
+    "primarySources": [
+      {
+        "id": "ytPartnerships",
+        "url": "https://support.google.com/youtube/answer/9385307?hl=en"
+      },
+      {
+        "id": "frameCompare",
+        "url": "https://help.frame.io/en/articles/9952618-comparison-viewer"
+      },
+      {
+        "id": "ftcFaq",
+        "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "合作范围核对",
+          "collaboration-scope checklist"
+        ],
+        "url": "/blog/creator-contract-scope-checklist/#answer"
+      },
+      {
+        "terms": [
+          "工作说明指南",
+          "statement-of-work guide"
+        ],
+        "url": "/blog/influencer-contract-template-statement-of-work/#answer"
+      },
+      {
+        "terms": [
+          "合作执行指南",
+          "collaboration workflow guide"
+        ],
+        "url": "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1519,
+    "chineseHanzi": 2262,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 10,
+    "keyword": "emv meaning",
+    "slug": "emv-meaning-executive-report-annotation",
+    "title": [
+      "EMV是什么意思：给管理报告补上正确注释",
+      "EMV Meaning: Annotate the Executive Report"
+    ],
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "管理层报告中解释媒体估值标签及其不能回答的经营问题",
+    "uniqueAngle": "管理层报告中解释媒体估值标签及其不能回答的经营问题",
+    "overlapWithExisting": "既有文章讨论供应商EMV采购和公式字段；本篇面向汇报者写可引用脚注与叙述。",
+    "primarySources": [
+      {
+        "id": "hypeEmv",
+        "url": "https://help.hypeauditor.com/en/articles/6379512-what-is-emv-and-how-is-it-calculated"
+      },
+      {
+        "id": "googleRoi",
+        "url": "https://support.google.com/google-ads/answer/1722066?hl=en"
+      },
+      {
+        "id": "amec",
+        "url": "https://amecorg.com/amecframework/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "EMV方法比较",
+          "EMV-method comparison"
+        ],
+        "url": "/blog/influencer-marketing-platforms-emv-calculation-methods/#answer"
+      },
+      {
+        "terms": [
+          "EMV与ROI字段指南",
+          "EMV and ROI field guide"
+        ],
+        "url": "/blog/influencer-emv-roi-calculation-field-dictionary/#answer"
+      },
+      {
+        "terms": [
+          "活动衡量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1541,
+    "chineseHanzi": 2191,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 11,
+    "keyword": "tiktok creator 400k 500k followers average engagement rate verified",
+    "slug": "tiktok-400k-500k-engagement-verified-cohort",
+    "title": [
+      "40万至50万粉丝TikTok达人：均值怎样才算可核验",
+      "TikTok Creators With 400K–500K Followers: Verify the Cohort"
+    ],
+    "topic": "analytics",
+    "family": "Type / background",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "核验细分粉丝区间均值的数据来源、徽章与统计含义",
+    "uniqueAngle": "核验细分粉丝区间均值的数据来源、徽章与统计含义",
+    "overlapWithExisting": "不是通用TikTok互动率计算器；无可靠精确群组数据则明确缺口，不补编数字。",
+    "primarySources": [
+      {
+        "id": "ttBadge",
+        "url": "https://newsroom.tiktok.com/how-to-tell-if-an-account-is-verified-on-tiktok/?lang=en"
+      },
+      {
+        "id": "rivalRate",
+        "url": "https://help.rivaliq.com/en/articles/2043672-understanding-engagement-rates"
+      },
+      {
+        "id": "emplifiQ3",
+        "url": "https://emplifi.io/resources/blog/q3-2026-social-media-benchmarks/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "TikTok分析窗口指南",
+          "TikTok analytics-window guide"
+        ],
+        "url": "/blog/tiktok-analytics-creative-review-windows/#answer"
+      },
+      {
+        "terms": [
+          "互动率指标约定",
+          "engagement-rate metric contract"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "活动衡量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1520,
+    "chineseHanzi": 2167,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 12,
+    "keyword": "meilleure agence influence marketing valueyournetwork",
+    "slug": "valueyournetwork-agency-evaluation-source-checks",
+    "title": [
+      "ValueYourNetwork机构评估：区分自述与独立依据",
+      "ValueYourNetwork Agency Review: Check the Evidence"
+    ],
+    "topic": "commercial",
+    "family": "Environment / objects",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "法国品牌侧查询的供应商身份与同范围提案核对",
+    "uniqueAngle": "法国品牌侧查询的供应商身份与同范围提案核对",
+    "overlapWithExisting": "不把法语最佳查询当结论，不发布未测试排行，不混淆相似域名。",
+    "primarySources": [
+      {
+        "id": "vynHome",
+        "url": "https://www.valueyournetwork.com/"
+      },
+      {
+        "id": "vynBrand",
+        "url": "https://www.valueyournetwork.com/annonceurs/"
+      },
+      {
+        "id": "frGuide",
+        "url": "https://www.economie.gouv.fr/guide-bonne-conduite-influenceurs-createurs-contenu"
+      },
+      {
+        "id": "arppCert",
+        "url": "https://www.arpp.org/influence-responsable/faq-certificat-influence-responsable-arpp/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "机构范围比较指南",
+          "agency-scope comparison guide"
+        ],
+        "url": "/blog/influencer-agencies-scope-and-accountability/#answer"
+      },
+      {
+        "terms": [
+          "机构或直接联系指南",
+          "agency-or-direct contact guide"
+        ],
+        "url": "/blog/creator-agency-or-direct-outreach/#answer"
+      },
+      {
+        "terms": [
+          "活动衡量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1520,
+    "chineseHanzi": 2265,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 13,
+    "keyword": "affiliate creator content partnership ads brands",
+    "slug": "affiliate-creator-content-partnership-ads-role-map",
+    "title": [
+      "联盟、创作者与合作广告：画清角色和回报",
+      "Affiliate Creator Content and Partnership Ads: Map the Roles"
+    ],
+    "topic": "commercial",
+    "family": "Human documentary",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "品牌、零售方、创作者与广告执行方的交叉关系",
+    "uniqueAngle": "品牌、零售方、创作者与广告执行方的交叉关系",
+    "overlapWithExisting": "区别单独优惠码或whitelisting解释；本篇处理一条内容跨佣金、制作和投放的角色叠加。",
+    "primarySources": [
+      {
+        "id": "metaCommerce",
+        "url": "https://about.fb.com/ltam/news/2026/03/llega-una-nueva-era-de-descubrimiento-de-productos-impulsada-por-ia-y-los-creadores/"
+      },
+      {
+        "id": "metaBlueprint",
+        "url": "https://www.facebookblueprint.com/student/activity/707398"
+      },
+      {
+        "id": "collabsMerchantPay",
+        "url": "https://help.shopify.com/en/manual/promoting-marketing/collabs/merchants/payments"
+      },
+      {
+        "id": "ftcFaq",
+        "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "联盟转化分析指南",
+          "affiliate-conversion analysis guide"
+        ],
+        "url": "/blog/affiliate-creator-conversion-analysis/#answer"
+      },
+      {
+        "terms": [
+          "合作广告权限清单",
+          "partnership-ad permission checklist"
+        ],
+        "url": "/blog/partnership-ads-permission-checklist/#answer"
+      },
+      {
+        "terms": [
+          "合作范围核对",
+          "collaboration-scope checklist"
+        ],
+        "url": "/blog/creator-contract-scope-checklist/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1517,
+    "chineseHanzi": 2323,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 14,
+    "keyword": "web3 instagram account follower quality analysis 2024",
+    "slug": "web3-instagram-follower-quality-2024-evidence-literacy",
+    "title": [
+      "回看2024 Web3受众：Instagram数据的证据边界",
+      "Web3 Instagram Follower Quality in 2024: Read the Evidence"
+    ],
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "教育向历史资料素养：社群、账号、地址与可核验的2024记录",
+    "uniqueAngle": "教育向历史资料素养：社群、账号、地址与可核验的2024记录",
+    "overlapWithExisting": "区别既有异常增长通识；不直接服务达人研究，不用钱包数推断IG真人，不承诺识别率。",
+    "primarySources": [
+      {
+        "id": "ethWallets",
+        "url": "https://ethereum.org/wallets/"
+      },
+      {
+        "id": "metaSpam2023",
+        "url": "https://about.fb.com/ltam/news/2023/12/protegiendo-a-los-creadores-de-interacciones-no-deseadas-con-nuevas-herramientas-proactivas-de-seguridad/"
+      },
+      {
+        "id": "ftcIndicators",
+        "url": "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Instagram数据口径指南",
+          "Instagram data-definition guide"
+        ],
+        "url": "/blog/instagram-analytics-format-decision-matrix/#answer"
+      },
+      {
+        "terms": [
+          "互动率指标约定",
+          "engagement-rate metric contract"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "活动衡量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": true,
+    "englishBodyWords": 1502,
+    "chineseHanzi": 2199,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 15,
+    "keyword": "fake instagram followers",
+    "slug": "fake-instagram-followers-claim-reporting-literacy",
+    "title": [
+      "Instagram假粉说法：怎样读信号与报告结论",
+      "Fake Instagram Followers: Separate Signals From Claims"
+    ],
+    "topic": "analytics",
+    "family": "Type / background",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "教育向Instagram数据与异常说法的报告措辞、纠错和来源",
+    "uniqueAngle": "教育向Instagram数据与异常说法的报告措辞、纠错和来源",
+    "overlapWithExisting": "延续fake followers教育原则，聚焦IG口径与如何表达未证实说法，不做个人真实性榜单。",
+    "primarySources": [
+      {
+        "id": "rivalEvents",
+        "url": "https://help.rivaliq.com/en/articles/4792538-what-is-included-in-engagement-metrics"
+      },
+      {
+        "id": "metaSpam2023",
+        "url": "https://about.fb.com/ltam/news/2023/12/protegiendo-a-los-creadores-de-interacciones-no-deseadas-con-nuevas-herramientas-proactivas-de-seguridad/"
+      },
+      {
+        "id": "ftcIndicators",
+        "url": "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Instagram指标解释",
+          "Instagram metric explanation"
+        ],
+        "url": "/blog/instagram-analytics-format-decision-matrix/#answer"
+      },
+      {
+        "terms": [
+          "互动率指标约定",
+          "engagement-rate metric contract"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "历史受众证据阅读指南",
+          "historical audience-evidence guide"
+        ],
+        "url": "/blog/web3-instagram-follower-quality-2024-evidence-literacy/#answer"
+      },
+      {
+        "terms": [
+          "活动衡量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": true,
+    "englishBodyWords": 1505,
+    "chineseHanzi": 2256,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 16,
+    "keyword": "affiliate ad platforms scalable",
+    "slug": "scalable-affiliate-ad-platforms-operating-controls",
+    "title": [
+      "联盟广告平台扩展：核对执行与权限",
+      "Scalable Affiliate Ad Platforms: Inspect Operating Controls"
+    ],
+    "topic": "campaign",
+    "family": "Environment / objects",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "重复批次、角色权限、素材和归因记录的可扩展性",
+    "uniqueAngle": "重复批次、角色权限、素材和归因记录的可扩展性",
+    "overlapWithExisting": "区别联盟公司角色、网站模式与追踪SaaS趋势；本篇问增长工作量下是否可控。",
+    "primarySources": [
+      {
+        "id": "impactAssets",
+        "url": "https://impact.com/partnerships/create-eye-catching-ads-for-partners-to-promote-business/"
+      },
+      {
+        "id": "impactRoles",
+        "url": "https://help.impact.com/partner/what-would-you-like-to-learn-about/account-management/account-settings/user-management/partner-account-user-roles-and-permissions"
+      },
+      {
+        "id": "flowErrors",
+        "url": "https://help.shopify.com/en/manual/shopify-flow/create/troubleshoot"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "联盟网络研究指南",
+          "affiliate-network research guide"
+        ],
+        "url": "/blog/affiliate-networks-consumer-products-market-fit/#answer"
+      },
+      {
+        "terms": [
+          "素材与合作角色图",
+          "content-and-partnership role map"
+        ],
+        "url": "/blog/affiliate-creator-content-partnership-ads-role-map/#answer"
+      },
+      {
+        "terms": [
+          "合作广告权限清单",
+          "partnership-ad permission checklist"
+        ],
+        "url": "/blog/partnership-ads-permission-checklist/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1515,
+    "chineseHanzi": 2276,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 17,
+    "keyword": "princess polly ambassador",
+    "slug": "princess-polly-ambassador-official-program-routes",
+    "title": [
+      "Princess Polly大使：核对官方项目与资格",
+      "Princess Polly Ambassador: Check the Official Program"
+    ],
+    "topic": "commercial",
+    "family": "Solo creator",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "校园、普通创作者与奖励会员路线的官方地区和资格差别",
+    "uniqueAngle": "校园、普通创作者与奖励会员路线的官方地区和资格差别",
+    "overlapWithExisting": "不从旧折扣码列表推断当前资格，不抹平官方页面中US/Canadian表述差异。",
+    "primarySources": [
+      {
+        "id": "pollyCollege",
+        "url": "https://us.princesspolly.com/pages/college-ambassador"
+      },
+      {
+        "id": "pollyCollab",
+        "url": "https://us.princesspolly.com/pages/collab-inquiries"
+      },
+      {
+        "id": "pollyRewards",
+        "url": "https://us.princesspolly.com/pages/rewards"
+      },
+      {
+        "id": "ftcPrimer",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "校园大使项目设计指南",
+          "college-ambassador program-design guide"
+        ],
+        "url": "/blog/college-ambassador-programs-campus-permissions/#answer"
+      },
+      {
+        "terms": [
+          "合作范围核对",
+          "collaboration-scope checklist"
+        ],
+        "url": "/blog/creator-contract-scope-checklist/#answer"
+      },
+      {
+        "terms": [
+          "联盟合作邀请指南",
+          "affiliate-invitation guide"
+        ],
+        "url": "/blog/whats-affiliate-outreach-partner-invitation/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1500,
+    "chineseHanzi": 2270,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 18,
+    "keyword": "top creator audit tools 2026",
+    "slug": "creator-audit-tools-2026-evidence-coverage",
+    "title": [
+      "2026创作者审阅工具：按证据覆盖比较",
+      "Creator Audit Tools in 2026: Compare Evidence Coverage"
+    ],
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "按任务与公开文档比较记录、来源、导出和限制",
+    "uniqueAngle": "按任务与公开文档比较记录、来源、导出和限制",
+    "overlapWithExisting": "不是声称已登录实测的准确率排行；不以不透明分数代替已证实事实。",
+    "primarySources": [
+      {
+        "id": "modashRefresh",
+        "url": "https://help.modash.io/en/articles/5467354-profile-updates-how-often-data-refreshes"
+      },
+      {
+        "id": "hypeAqs",
+        "url": "https://help.hypeauditor.com/en/articles/2221731-what-is-aqs-audience-quality-score-and-how-is-it-calculated"
+      },
+      {
+        "id": "ciq2026",
+        "url": "https://www.creatoriq.com/press/releases/applied-creator-intelligence"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "合作前核验工具指南",
+          "pre-contract review-tool guide"
+        ],
+        "url": "/blog/influencer-vetting-tool-before-contract/#answer"
+      },
+      {
+        "terms": [
+          "创作者数据阅读指南",
+          "creator-data interpretation guide"
+        ],
+        "url": "/blog/read-creator-engagement-data/#answer"
+      },
+      {
+        "terms": [
+          "合作范围核对",
+          "collaboration-scope checklist"
+        ],
+        "url": "/blog/creator-contract-scope-checklist/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1510,
+    "chineseHanzi": 2338,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 19,
+    "keyword": "beauty brand instagram ads engagement rate 2025",
+    "slug": "beauty-instagram-ads-engagement-2025-scope",
+    "title": [
+      "2025美妆Instagram广告互动率：先确认付费口径",
+      "Beauty Instagram Ads Engagement in 2025: Check Paid Scope"
+    ],
+    "topic": "analytics",
+    "family": "Type / background",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "历史付费广告指标与品牌有机报告的适用范围",
+    "uniqueAngle": "历史付费广告指标与品牌有机报告的适用范围",
+    "overlapWithExisting": "区别已有2025品牌Instagram基准；排除paid ads的报告不能改名成广告行业标准。",
+    "primarySources": [
+      {
+        "id": "dashBeauty2025",
+        "url": "https://pages.dashsocial.com/hubfs/social-media-benchmark/2025/H2/beauty-industry.pdf"
+      },
+      {
+        "id": "emplifiBeautyNA",
+        "url": "https://emplifi.io/resources/q3-2026-beauty-north-america-benchmarks/"
+      },
+      {
+        "id": "googleExperiment",
+        "url": "https://support.google.com/google-ads/answer/7281575?hl=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Instagram指标解释",
+          "Instagram metric explanation"
+        ],
+        "url": "/blog/instagram-analytics-format-decision-matrix/#answer"
+      },
+      {
+        "terms": [
+          "互动率指标约定",
+          "engagement-rate metric contract"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "合作广告权限清单",
+          "partnership-ad permission checklist"
+        ],
+        "url": "/blog/partnership-ads-permission-checklist/#answer"
+      },
+      {
+        "terms": [
+          "活动衡量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1503,
+    "chineseHanzi": 2179,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 20,
+    "keyword": "define influencer",
+    "slug": "define-influencer-b2b-education-project",
+    "title": [
+      "B2B教育项目如何定义Influencer合作角色",
+      "Define Influencer for a B2B Education Project"
+    ],
+    "topic": "discovery",
+    "family": "Human documentary",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "企业学习与复杂购买中的内容贡献、适当证据与角色",
+    "uniqueAngle": "企业学习与复杂购买中的内容贡献、适当证据与角色",
+    "overlapWithExisting": "区别通用角色目录、语义词汇与信任通识；聚焦B2B教育任务而非DTC带货。",
+    "primarySources": [
+      {
+        "id": "edelman2025",
+        "url": "https://www.edelman.com/sites/g/files/aatuss191/files/2025-07/2025%20Edelman-LinkedIn%20B2B%20Thought%20Leadership%20Impact%20Report_FINAL.pdf"
+      },
+      {
+        "id": "ftcFaq",
+        "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      },
+      {
+        "id": "ytBranded",
+        "url": "https://support.google.com/youtube/answer/154235?hl=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "寻找B2B专家创作者",
+          "find B2B expert creators"
+        ],
+        "url": "/blog/find-b2b-expert-creators/#answer"
+      },
+      {
+        "terms": [
+          "B2B销售交接指南",
+          "B2B sales-handoff guide"
+        ],
+        "url": "/blog/b2b-influencer-marketing-platform-sales-handoff/#answer"
+      },
+      {
+        "terms": [
+          "合作范围核对",
+          "collaboration-scope checklist"
+        ],
+        "url": "/blog/creator-contract-scope-checklist/#answer"
+      },
+      {
+        "terms": [
+          "活动衡量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1514,
+    "chineseHanzi": 2315,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 21,
+    "keyword": "what is a kol",
+    "slug": "what-is-kol-product-launch-advisory-work",
+    "title": [
+      "产品发布中的KOL：界定咨询贡献与公开表达",
+      "What Is a KOL in a Product Launch? Define the Contribution"
+    ],
+    "topic": "campaign",
+    "family": "Environment / objects",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "发布前产品问题咨询与发布后内容表达分开安排",
+    "uniqueAngle": "发布前产品问题咨询与发布后内容表达分开安排",
+    "overlapWithExisting": "已有KOL文解释缩写和专长依据；本篇组织专业意见如何进入产品发布决定。",
+    "primarySources": [
+      {
+        "id": "atlassianChamp",
+        "url": "https://community.atlassian.com/champions/"
+      },
+      {
+        "id": "frameCompare",
+        "url": "https://help.frame.io/en/articles/9952618-comparison-viewer"
+      },
+      {
+        "id": "ftcFaq",
+        "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "产品发布角色定义",
+          "product-launch role definition"
+        ],
+        "url": "/blog/define-influencer-b2b-education-project/#answer"
+      },
+      {
+        "terms": [
+          "合作范围核对",
+          "collaboration-scope checklist"
+        ],
+        "url": "/blog/creator-contract-scope-checklist/#answer"
+      },
+      {
+        "terms": [
+          "合作执行指南",
+          "collaboration workflow guide"
+        ],
+        "url": "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1509,
+    "chineseHanzi": 2259,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 22,
+    "keyword": "what is kol",
+    "slug": "what-is-kol-social-listening-report",
+    "title": [
+      "舆情报告里的KOL：提及量不等于专业权威",
+      "What Is KOL in a Social Listening Report?"
+    ],
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "研究报告如何定义意见声音和提及样本而非推断权威",
+    "uniqueAngle": "研究报告如何定义意见声音和提及样本而非推断权威",
+    "overlapWithExisting": "区别KOL术语Brief和个人受众汇总；本篇是社会聆听报告的样本与表达边界。",
+    "primarySources": [
+      {
+        "id": "bwSources",
+        "url": "https://social-media-management-help.brandwatch.com/en/articles/17449910-sources-for-listen-mentions"
+      },
+      {
+        "id": "bwCharts",
+        "url": "https://developers.brandwatch.com/docs/basic-charts"
+      },
+      {
+        "id": "bwViewing",
+        "url": "https://social-media-management-help.brandwatch.com/en/articles/17449980-viewing-listen-mentions"
+      },
+      {
+        "id": "amec",
+        "url": "https://amecorg.com/amecframework/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "专业贡献核对指南",
+          "expert-contribution review guide"
+        ],
+        "url": "/blog/key-opinion-leader-expert-contribution-review/#answer"
+      },
+      {
+        "terms": [
+          "竞品合作地图指南",
+          "competitor-partnership map guide"
+        ],
+        "url": "/blog/competitor-creator-partnership-map/#answer"
+      },
+      {
+        "terms": [
+          "发布咨询贡献指南",
+          "launch-advisory contribution guide"
+        ],
+        "url": "/blog/what-is-kol-product-launch-advisory-work/#answer"
+      },
+      {
+        "terms": [
+          "活动衡量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1508,
+    "chineseHanzi": 2254,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 23,
+    "keyword": "tiktok spark ads",
+    "slug": "tiktok-spark-ads-authorization-lifecycle",
+    "title": [
+      "TikTok Spark Ads：管理授权全周期",
+      "TikTok Spark Ads: Manage the Authorization Lifecycle"
+    ],
+    "topic": "commercial",
+    "family": "Solo creator",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "按当前官方步骤核对帖子授权、投放状态与结束条件",
+    "uniqueAngle": "按当前官方步骤核对帖子授权、投放状态与结束条件",
+    "overlapWithExisting": "区别多平台whitelisting总览；本篇只处理Spark具体对象、权限与依赖。",
+    "primarySources": [
+      {
+        "id": "ttSpark",
+        "url": "https://ads.tiktok.com/resources/help/article/spark-ads?lang=en"
+      },
+      {
+        "id": "ttSparkCreate",
+        "url": "https://ads.tiktok.com/resources/help/article/spark-ads-creation-guide?lang=en"
+      },
+      {
+        "id": "ttSparkErrors",
+        "url": "https://ads.tiktok.com/resources/help/article/about-spark-ads-code-error-notifications-in-tiktok-ads-manager?lang=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "广告权限核对指南",
+          "ad-permission review guide"
+        ],
+        "url": "/blog/partnership-ads-permission-checklist/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      },
+      {
+        "terms": [
+          "指标定义指南",
+          "metric-definition guide"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "活动衡量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1506,
+    "chineseHanzi": 2200,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 24,
+    "keyword": "beauty industry social media engagement statistics 2026",
+    "slug": "beauty-engagement-statistics-2026-platform-scope",
+    "title": [
+      "2026美妆互动统计：看清平台与样本",
+      "Beauty Engagement Statistics 2026: Keep Platform Scope"
+    ],
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "跨平台品牌报告如何引用而不统一分母或扩展全年",
+    "uniqueAngle": "跨平台品牌报告如何引用而不统一分母或扩展全年",
+    "overlapWithExisting": "区别2026内容趋势选题；本篇专门构建可引用的统计说明和方法限制。",
+    "primarySources": [
+      {
+        "id": "dashBeauty2026",
+        "url": "https://pages.dashsocial.com/hubfs/social-media-benchmark/2026/H2/beauty-industry.pdf"
+      },
+      {
+        "id": "emplifiBeautyNA",
+        "url": "https://emplifi.io/resources/q3-2026-beauty-north-america-benchmarks/"
+      },
+      {
+        "id": "rivalRate",
+        "url": "https://help.rivaliq.com/en/articles/2043672-understanding-engagement-rates"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "互动率口径指南",
+          "engagement-definition guide"
+        ],
+        "url": "/blog/engagement-rate-denominators/#answer"
+      },
+      {
+        "terms": [
+          "2025广告统计边界指南",
+          "2025 ad-statistic scope guide"
+        ],
+        "url": "/blog/beauty-instagram-ads-engagement-2025-scope/#answer"
+      },
+      {
+        "terms": [
+          "指标记录指南",
+          "metric-record guide"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "活动衡量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1528,
+    "chineseHanzi": 2176,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 25,
+    "keyword": "social media engagement rate",
+    "slug": "social-media-engagement-rate-monthly-explanation",
+    "title": [
+      "社交互动率复盘：解释结构变化与真实变化",
+      "Social Media Engagement Rate: Explain the Monthly Change"
+    ],
+    "topic": "analytics",
+    "family": "Type / background",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "月度报告的内容组合变化与指标叙述，配可复算假设",
+    "uniqueAngle": "月度报告的内容组合变化与指标叙述，配可复算假设",
+    "overlapWithExisting": "已有公式与工作表解决计算；本篇解释为什么合计变了及下一步问题。",
+    "primarySources": [
+      {
+        "id": "rivalEvents",
+        "url": "https://help.rivaliq.com/en/articles/4792538-what-is-included-in-engagement-metrics"
+      },
+      {
+        "id": "rivalRate",
+        "url": "https://help.rivaliq.com/en/articles/2043672-understanding-engagement-rates"
+      },
+      {
+        "id": "googleExperiment",
+        "url": "https://support.google.com/google-ads/answer/7281575?hl=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "指标定义记录",
+          "metric-definition record"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "互动分母指南",
+          "engagement-denominator guide"
+        ],
+        "url": "/blog/engagement-rate-denominators/#answer"
+      },
+      {
+        "terms": [
+          "Instagram格式分析指南",
+          "Instagram format-analysis guide"
+        ],
+        "url": "/blog/instagram-analytics-format-decision-matrix/#answer"
+      },
+      {
+        "terms": [
+          "活动衡量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1501,
+    "chineseHanzi": 2117,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 26,
+    "keyword": "brand partnerships",
+    "slug": "brand-partnerships-joint-content-governance",
+    "title": [
+      "品牌间合作：共同内容如何分工与审阅",
+      "Brand Partnerships: Govern Joint Content and Approvals"
+    ],
+    "topic": "campaign",
+    "family": "Human documentary",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "品牌到品牌共同内容中的事实、分工、许可与多方审阅",
+    "uniqueAngle": "品牌到品牌共同内容中的事实、分工、许可与多方审阅",
+    "overlapWithExisting": "区别品牌达人个人合作；QuickKOL仅自然支持其中创作者Brief，不冒充全套商务管理。",
+    "primarySources": [
+      {
+        "id": "nikeLego",
+        "url": "https://about.nike.com/en/newsroom/releases/nike-lego-partnership-official-experience-product-details"
+      },
+      {
+        "id": "frameCompare",
+        "url": "https://help.frame.io/en/articles/9952618-comparison-viewer"
+      },
+      {
+        "id": "ftcFaq",
+        "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking"
+      },
+      {
+        "id": "amec",
+        "url": "https://amecorg.com/amecframework/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "合作执行指南",
+          "collaboration workflow guide"
+        ],
+        "url": "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      },
+      {
+        "terms": [
+          "创作者任务范围指南",
+          "creator-scope guide"
+        ],
+        "url": "/blog/creator-contract-scope-checklist/#answer"
+      },
+      {
+        "terms": [
+          "商业备忘录指南",
+          "commercial-memo guide"
+        ],
+        "url": "/blog/brand-deals-commercial-memo-content-brief/#answer"
+      },
+      {
+        "terms": [
+          "活动衡量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1505,
+    "chineseHanzi": 2205,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 27,
+    "keyword": "how to follow electro music influencers",
+    "slug": "follow-electronic-music-creators-brand-listening",
+    "title": [
+      "关注电子音乐创作者：建立品牌聆听习惯",
+      "How to Follow Electronic Music Creators for Brand Listening"
+    ],
+    "topic": "discovery",
+    "family": "Solo creator",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "用公开频道建立品类理解与联系前聆听，不追踪私人行程",
+    "uniqueAngle": "用公开频道建立品类理解与联系前聆听，不追踪私人行程",
+    "overlapWithExisting": "不是普通用户涨粉或名人私生活指南，也不是无来源音乐达人排名。",
+    "primarySources": [
+      {
+        "id": "ytSubscribe",
+        "url": "https://support.google.com/youtube/answer/4489286?hl=en"
+      },
+      {
+        "id": "soundFollow",
+        "url": "https://help.soundcloud.com/hc/en-us/articles/115003568208-Your-Feed-and-how-it-works"
+      },
+      {
+        "id": "bandcampFan",
+        "url": "https://get.bandcamp.help/en/articles/15263087-how-do-i-edit-my-fan-page"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "创作者内容研究指南",
+          "creator-content research guide"
+        ],
+        "url": "/blog/read-creator-engagement-data/#answer"
+      },
+      {
+        "terms": [
+          "任务范围指南",
+          "assignment-scope guide"
+        ],
+        "url": "/blog/creator-contract-scope-checklist/#answer"
+      },
+      {
+        "terms": [
+          "品牌联系指南",
+          "brand-outreach guide"
+        ],
+        "url": "/blog/personalized-creator-outreach/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1503,
+    "chineseHanzi": 2225,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 28,
+    "keyword": "influencer collaboration strategy grow fan base 2025",
+    "slug": "creator-collaboration-fan-base-2025-review",
+    "title": [
+      "回看2025创作者合作：把品牌关注与社区价值连接",
+      "Creator Collaboration and Fan-Base Growth: A 2025 Review"
+    ],
+    "topic": "campaign",
+    "family": "Environment / objects",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "历史合作功能与品牌账号关注路径，区分计划和实际净变化",
+    "uniqueAngle": "历史合作功能与品牌账号关注路径，区分计划和实际净变化",
+    "overlapWithExisting": "区别活动一般策略；不承诺增长，保留2025证据与2026核验日期。",
+    "primarySources": [
+      {
+        "id": "ig2025Reposts",
+        "url": "https://about.fb.com/news/2025/08/new-instagram-features-help-you-connect/"
+      },
+      {
+        "id": "googleExperiment",
+        "url": "https://support.google.com/google-ads/answer/7281575?hl=en"
+      },
+      {
+        "id": "amec",
+        "url": "https://amecorg.com/amecframework/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "合作执行指南",
+          "collaboration workflow guide"
+        ],
+        "url": "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      },
+      {
+        "terms": [
+          "粉丝观察指南",
+          "follower-observation guide"
+        ],
+        "url": "/blog/instagram-follower-tracker-campaign-observation/#answer"
+      },
+      {
+        "terms": [
+          "月度互动解释指南",
+          "monthly-engagement interpretation guide"
+        ],
+        "url": "/blog/social-media-engagement-rate-monthly-explanation/#answer"
+      },
+      {
+        "terms": [
+          "活动衡量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1503,
+    "chineseHanzi": 2219,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 29,
+    "keyword": "skincare makeup meta advertising trends engagement rates",
+    "slug": "skincare-makeup-meta-ads-creative-claims",
+    "title": [
+      "护肤彩妆Meta广告：创意与主张复核",
+      "Skincare and Makeup Meta Ads: Test Creative and Claims"
+    ],
+    "topic": "campaign",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌、机构或其合作代表的学习、研究与执行任务",
+    "brandDecision": "付费创意迭代时保留产品事实、表达依据、互动口径与适用性",
+    "uniqueAngle": "付费创意迭代时保留产品事实、表达依据、互动口径与适用性",
+    "overlapWithExisting": "区别2026美妆内容形式建议；重点是广告信息架构和主张审阅，不推导疗效或通用广告均值。",
+    "primarySources": [
+      {
+        "id": "metaAiLabel",
+        "url": "https://about.fb.com/news/2025/02/gen-ai-transparency-metas-ads-products/"
+      },
+      {
+        "id": "ftcHealth",
+        "url": "https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance"
+      },
+      {
+        "id": "fdaCosmetic",
+        "url": "https://www.fda.gov/cosmetics/cosmetics-labeling/cosmetics-labeling-claims"
+      },
+      {
+        "id": "emplifiBeautyNA",
+        "url": "https://emplifi.io/resources/q3-2026-beauty-north-america-benchmarks/"
+      },
+      {
+        "id": "googleExperiment",
+        "url": "https://support.google.com/google-ads/answer/7281575?hl=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "2025广告统计边界指南",
+          "2025 ad-statistic scope guide"
+        ],
+        "url": "/blog/beauty-instagram-ads-engagement-2025-scope/#answer"
+      },
+      {
+        "terms": [
+          "2026美妆统计范围指南",
+          "2026 beauty-statistic scope guide"
+        ],
+        "url": "/blog/beauty-engagement-statistics-2026-platform-scope/#answer"
+      },
+      {
+        "terms": [
+          "指标定义记录",
+          "metric-definition record"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "活动优化指南",
+          "campaign-optimization guide"
+        ],
+        "url": "/blog/optimize-influencer-campaigns-bottleneck-decisions/#answer"
+      }
+    ],
+    "tableOrToolDecision": "有任务用途的比较表与reference-list；只在实际帮助工作时附下载，不添加未实现calculator kind。",
+    "publicationDate": "2026-11-03 local draft; maintainer to confirm actual publication date.",
+    "updateDate": "2026-11-03",
+    "sourceStatus": "current-sources-reviewed-for-stated-claims",
+    "status": "bilingual-draft-body-audit-passed",
+    "educationalOnly": false,
+    "englishBodyWords": 1540,
+    "chineseHanzi": 2295,
+    "localPreviewIntegrated": true
+  }
+]
