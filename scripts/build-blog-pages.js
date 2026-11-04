@@ -1,3 +1,4 @@
+import { novemberFourthPosts } from '../src/blog-colleague-november-fourth.js';
 import { november29Posts } from '../src/blog-colleague-november-29.js';
 import { november30Posts } from '../src/blog-colleague-november-30.js';
 import { editorial20Posts } from '../src/blog-colleague-twenty-posts.js';
@@ -24,7 +25,7 @@ import { localizedPath } from '../src/localized-paths.js';
 import { createPrerenderer } from './prerender.js';
 import { BLOG_PAGE_SIZE, blogPagePath } from '../src/blog-pagination.js';
 
-const blogPosts = [...november29Posts, ...november30Posts, ...editorial20Posts, ...editorial9Posts, ...editorial16Posts, ...colleagueThreePosts, ...laInfluencerPosts, ...semrushBatchFourPosts, ...semrushBatchThreePosts, ...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts];
+const blogPosts = [...novemberFourthPosts, ...november29Posts, ...november30Posts, ...editorial20Posts, ...editorial9Posts, ...editorial16Posts, ...colleagueThreePosts, ...laInfluencerPosts, ...semrushBatchFourPosts, ...semrushBatchThreePosts, ...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts];
 
 // Emit real HTML entry points so static hosts do not need SPA fallback rules.
 const html = await readFile(new URL('../dist/index.html', import.meta.url), 'utf8');
