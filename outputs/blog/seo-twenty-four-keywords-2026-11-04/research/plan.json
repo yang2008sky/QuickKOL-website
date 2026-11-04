@@ -1,0 +1,1623 @@
+[
+  {
+    "id": 3,
+    "keyword": "later",
+    "slug": "later-social-influence-services-task-fit",
+    "title": [
+      "Later是什么：按工作任务选择入口",
+      "Later: Choose the Product Route for Your Task"
+    ],
+    "topic": "commercial",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "区分Later社交排程、达人平台与服务路线，按公开文件核对而非排名",
+    "uniqueAngle": "区分Later社交排程、达人平台与服务路线，按公开文件核对而非排名",
+    "overlapWithExisting": "已有平台方法文不研究Later当前产品路线，本篇为具名导航与任务采购",
+    "primarySources": [
+      {
+        "id": "laterHome",
+        "url": "https://later.com/"
+      },
+      {
+        "id": "laterScheduler",
+        "url": "https://later.com/social-media-scheduler/"
+      },
+      {
+        "id": "laterPlatform",
+        "url": "https://later.com/influencer-marketing-platform/"
+      },
+      {
+        "id": "laterApproval",
+        "url": "https://later.com/social-media-approval-workflow/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "平台工作流指南",
+          "platform-workflow guide"
+        ],
+        "url": "/blog/influencer-marketing-platform-workflow/#answer"
+      },
+      {
+        "terms": [
+          "机构协作指南",
+          "agency-coordination guide"
+        ],
+        "url": "/blog/influencer-marketing-agencies-operating-rhythm/#answer"
+      },
+      {
+        "terms": [
+          "工作说明清单",
+          "statement-of-work checklist"
+        ],
+        "url": "/blog/creator-contract-scope-checklist/#answer"
+      },
+      {
+        "terms": [
+          "指标定义记录",
+          "metric-definition record"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1512,
+    "chineseHanzi": 2339,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 5,
+    "keyword": "blue sky social",
+    "slug": "bluesky-social-brand-public-conversation",
+    "title": [
+      "Bluesky是什么：品牌如何理解公开讨论",
+      "Bluesky Social: Understand Public Conversation"
+    ],
+    "topic": "discovery",
+    "family": "Human documentary",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "正确识别Bluesky，理解公开身份、讨论与品牌参与语境",
+    "uniqueAngle": "正确识别Bluesky，理解公开身份、讨论与品牌参与语境",
+    "overlapWithExisting": "已有舆情报告文章谈计数，本篇解释特定平台与参与入口",
+    "primarySources": [
+      {
+        "id": "bskyFaq",
+        "url": "https://bsky.social/about/blog/5-19-2023-user-faq"
+      },
+      {
+        "id": "bskyDomains",
+        "url": "https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial"
+      },
+      {
+        "id": "bskyVerification",
+        "url": "https://bsky.social/about/blog/04-21-2025-verification"
+      },
+      {
+        "id": "bskyStarter",
+        "url": "https://bsky.social/about/blog/06-26-2024-starter-packs"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "品牌大使角色说明",
+          "brand-ambassador role guide"
+        ],
+        "url": "/blog/brand-ambassador-customer-facing-explanation/#answer"
+      },
+      {
+        "terms": [
+          "合作执行指南",
+          "collaboration workflow guide"
+        ],
+        "url": "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      },
+      {
+        "terms": [
+          "月度互动解释指南",
+          "monthly-engagement interpretation guide"
+        ],
+        "url": "/blog/social-media-engagement-rate-monthly-explanation/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1503,
+    "chineseHanzi": 2287,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 7,
+    "keyword": "reels",
+    "slug": "reels-brand-education-content-assignment",
+    "title": [
+      "Reels：用短内容解释品牌知识",
+      "Reels: Turn Brand Knowledge Into a Content Assignment"
+    ],
+    "topic": "campaign",
+    "family": "Solo creator",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "Reels教育内容的表达任务与系列设计，不承诺推荐",
+    "uniqueAngle": "Reels教育内容的表达任务与系列设计，不承诺推荐",
+    "overlapWithExisting": "已有Instagram活动文分配渠道，本篇聚焦Reels独立教育任务",
+    "primarySources": [
+      {
+        "id": "govContent",
+        "url": "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/"
+      },
+      {
+        "id": "igTrial",
+        "url": "https://about.fb.com/news/2024/12/trial-reels-try-content-non-followers-first-see-what-perfoms-best/"
+      },
+      {
+        "id": "igCreativity",
+        "url": "https://about.fb.com/news/2025/06/inspiring-creativity-that-brings-people-together/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "Instagram合作规划指南",
+          "Instagram-campaign planning guide"
+        ],
+        "url": "/blog/instagram-influencer-marketing-campaign/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      },
+      {
+        "terms": [
+          "月度互动解释指南",
+          "monthly-engagement interpretation guide"
+        ],
+        "url": "/blog/social-media-engagement-rate-monthly-explanation/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1504,
+    "chineseHanzi": 2217,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 8,
+    "keyword": "social blade",
+    "slug": "social-blade-public-channel-statistics",
+    "title": [
+      "Social Blade：怎样读公开频道统计",
+      "Social Blade: Read Public Channel Statistics"
+    ],
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "公开频道计数、估计收入与第一方指标的含义",
+    "uniqueAngle": "公开频道计数、估计收入与第一方指标的含义",
+    "overlapWithExisting": "与第15篇辨认站点、第16篇数据交接分别独立",
+    "primarySources": [
+      {
+        "id": "sbAbout",
+        "url": "https://socialblade.com/help/what-is-socialblade"
+      },
+      {
+        "id": "sbDifference",
+        "url": "https://socialblade.com/help/why-do-my-views-differ-from-socialblade"
+      },
+      {
+        "id": "sbUpdates",
+        "url": "https://socialblade.com/help/how-often-does-socialblade-update-my-stats"
+      },
+      {
+        "id": "sbEarnings",
+        "url": "https://socialblade.com/help/how-are-estimated-earnings-calculated"
+      },
+      {
+        "id": "ytImpressions",
+        "url": "https://support.google.com/youtube/answer/9314486?hl=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人数据阅读指南",
+          "creator-data reading guide"
+        ],
+        "url": "/blog/read-creator-engagement-data/#answer"
+      },
+      {
+        "terms": [
+          "指标定义指南",
+          "metric-definition guide"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "月度互动解释指南",
+          "monthly-engagement interpretation guide"
+        ],
+        "url": "/blog/social-media-engagement-rate-monthly-explanation/#answer"
+      },
+      {
+        "terms": [
+          "项目测量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1508,
+    "chineseHanzi": 2448,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 9,
+    "keyword": "free tiktok likes",
+    "slug": "free-tiktok-likes-engagement-literacy",
+    "title": [
+      "免费TikTok点赞：先理解互动证据",
+      "Free TikTok Likes: Understand Engagement Evidence"
+    ],
+    "topic": "analytics",
+    "family": "Type / background",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "教育向区分可见点赞、真实偏好、交易激励与业务结果",
+    "uniqueAngle": "教育向区分可见点赞、真实偏好、交易激励与业务结果",
+    "overlapWithExisting": "不提供买赞领取服务；与Instagram两篇按平台和问题分开",
+    "primarySources": [
+      {
+        "id": "ttLikes",
+        "url": "https://www.tiktok.com/support/faq_detail?id=7636670088171035157&category=web_account"
+      },
+      {
+        "id": "ttAuthenticity",
+        "url": "https://newsroom.tiktok.com/how-tiktok-counters-deceptive-behaviour?lang=en-150"
+      },
+      {
+        "id": "ttRecommend",
+        "url": "https://www.tiktok.com/support/faq_detail?id=7655285288050104852&category=web_account"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "指标定义指南",
+          "metric-definition guide"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "月度互动解释指南",
+          "monthly-engagement interpretation guide"
+        ],
+        "url": "/blog/social-media-engagement-rate-monthly-explanation/#answer"
+      },
+      {
+        "terms": [
+          "内容测量指南",
+          "content-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1549,
+    "chineseHanzi": 2395,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 10,
+    "keyword": "benchmarking",
+    "slug": "benchmarking-creator-pilot-comparison-design",
+    "title": [
+      "Benchmarking：设计试点比较",
+      "Benchmarking: Design Comparisons for a Creator Pilot"
+    ],
+    "topic": "analytics",
+    "family": "Human documentary",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "试点前选择内部、同行与目标参照，处理没有匹配样本的情况",
+    "uniqueAngle": "试点前选择内部、同行与目标参照，处理没有匹配样本的情况",
+    "overlapWithExisting": "已有creator-performance-benchmarks汇总方法，本篇处理启动前参照选择与决定条件",
+    "primarySources": [
+      {
+        "id": "amecFramework",
+        "url": "https://amecorg.com/amecframework/"
+      },
+      {
+        "id": "ytAdvanced",
+        "url": "https://support.google.com/youtube/answer/9717005?hl=en"
+      },
+      {
+        "id": "gaBenchmark",
+        "url": "https://support.google.com/analytics/answer/16388466?hl=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "已有基准汇总指南",
+          "benchmark-aggregation guide"
+        ],
+        "url": "/blog/creator-performance-benchmarks/#answer"
+      },
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "指标定义指南",
+          "metric-definition guide"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "项目测量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1519,
+    "chineseHanzi": 2361,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 12,
+    "keyword": "trending",
+    "slug": "trending-social-content-signal-brief",
+    "title": [
+      "Trending是什么意思：把信号变成内容问题",
+      "Trending: Turn a Social Signal Into a Content Question"
+    ],
+    "topic": "campaign",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "趋势标签、观察样本、品牌相关性与试验Brief",
+    "uniqueAngle": "趋势标签、观察样本、品牌相关性与试验Brief",
+    "overlapWithExisting": "已有TikTok趋势文章讲内容执行，本篇解释跨来源趋势证据",
+    "primarySources": [
+      {
+        "id": "googleTrendingNow",
+        "url": "https://support.google.com/trends/answer/3076011?hl=en"
+      },
+      {
+        "id": "googleTrendData",
+        "url": "https://support.google.com/trends/answer/4365533?hl=en"
+      },
+      {
+        "id": "ttTrends",
+        "url": "https://ads.tiktok.com/resources/help/article/how-to-use-trends?redirected=2"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "指标定义指南",
+          "metric-definition guide"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      },
+      {
+        "terms": [
+          "项目测量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1503,
+    "chineseHanzi": 2333,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 13,
+    "keyword": "google business profile manager",
+    "slug": "google-business-profile-manager-local-collaboration",
+    "title": [
+      "Google商家资料管理：分清所有者与经理",
+      "Google Business Profile Manager: Define Local Access"
+    ],
+    "topic": "campaign",
+    "family": "Solo creator",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "当地活动合作中商家资料权限、负责人和公开信息变更",
+    "uniqueAngle": "当地活动合作中商家资料权限、负责人和公开信息变更",
+    "overlapWithExisting": "与达人账户权限分开，只写Google实际角色与业务协作",
+    "primarySources": [
+      {
+        "id": "gbpRoles",
+        "url": "https://support.google.com/business/answer/3403100?hl=en"
+      },
+      {
+        "id": "gbpMedia",
+        "url": "https://support.google.com/business/answer/6103862?hl=en"
+      },
+      {
+        "id": "gbpPosts",
+        "url": "https://support.google.com/business/answer/7342169?hl=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "合作执行指南",
+          "collaboration workflow guide"
+        ],
+        "url": "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      },
+      {
+        "terms": [
+          "项目测量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1518,
+    "chineseHanzi": 2464,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 14,
+    "keyword": "link tree",
+    "slug": "linktree-brand-destination-hierarchy",
+    "title": [
+      "Linktree：安排品牌链接路径",
+      "Linktree: Organize Brand Links and Visitor Paths"
+    ],
+    "topic": "campaign",
+    "family": "Type / background",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "多链接目的页信息顺序、版本、目的地与访问统计",
+    "uniqueAngle": "多链接目的页信息顺序、版本、目的地与访问统计",
+    "overlapWithExisting": "与第4篇简介文案分开，处理落地路径而非简介字数",
+    "primarySources": [
+      {
+        "id": "linktreeOrganize",
+        "url": "https://linktr.ee/help/articles/8614124-organize-links-keep-visitors-engaged"
+      },
+      {
+        "id": "w3cLinks",
+        "url": "https://www.w3.org/WAI/WCAG21/Techniques/general/G91"
+      },
+      {
+        "id": "linktreePriority",
+        "url": "https://linktr.ee/help/articles/5434173-how-to-prioritize-a-link"
+      },
+      {
+        "id": "linktreeInsights",
+        "url": "https://linktr.ee/help/articles/5434178-understanding-your-analytics"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "指标定义指南",
+          "metric-definition guide"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "合作执行指南",
+          "collaboration workflow guide"
+        ],
+        "url": "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1516,
+    "chineseHanzi": 2395,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 15,
+    "keyword": "socialblade socialblade",
+    "slug": "socialblade-official-site-identity-navigation",
+    "title": [
+      "Socialblade搜索：确认官网与产品身份",
+      "Socialblade Search: Confirm the Official Product"
+    ],
+    "topic": "commercial",
+    "family": "Environment / objects",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "重复词导航意图：官方域名、支持入口与第三方转述的来源辨认",
+    "uniqueAngle": "重复词导航意图：官方域名、支持入口与第三方转述的来源辨认",
+    "overlapWithExisting": "不复写第8篇统计定义或第16篇交接记录",
+    "primarySources": [
+      {
+        "id": "sbHome",
+        "url": "https://socialblade.com/"
+      },
+      {
+        "id": "sbFind",
+        "url": "https://socialblade.com/help/why-cant-i-find-my-channel"
+      },
+      {
+        "id": "sbSupport",
+        "url": "https://support.socialblade.com/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "公开统计阅读指南",
+          "public-statistics reading guide"
+        ],
+        "url": "/blog/social-blade-public-channel-statistics/#answer"
+      },
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "平台工作流指南",
+          "platform-workflow guide"
+        ],
+        "url": "/blog/influencer-marketing-platform-workflow/#answer"
+      },
+      {
+        "terms": [
+          "指标定义指南",
+          "metric-definition guide"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1548,
+    "chineseHanzi": 2382,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 16,
+    "keyword": "socialblade",
+    "slug": "socialblade-data-reporting-handoff",
+    "title": [
+      "Socialblade数据：让报表保留来源与时点",
+      "Socialblade Data: Preserve Source and Snapshot in Reports"
+    ],
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "数据进入品牌报表后的字段、日期、估计状态与修订交接",
+    "uniqueAngle": "数据进入品牌报表后的字段、日期、估计状态与修订交接",
+    "overlapWithExisting": "第8篇教读公开个人频道，本篇是跨团队持续报告治理",
+    "primarySources": [
+      {
+        "id": "sbDifference",
+        "url": "https://socialblade.com/help/why-do-my-views-differ-from-socialblade"
+      },
+      {
+        "id": "sbUpdates",
+        "url": "https://socialblade.com/help/how-often-does-socialblade-update-my-stats"
+      },
+      {
+        "id": "sbEarnings",
+        "url": "https://socialblade.com/help/how-are-estimated-earnings-calculated"
+      },
+      {
+        "id": "ytAdvanced",
+        "url": "https://support.google.com/youtube/answer/9717005?hl=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "公开统计阅读指南",
+          "public-statistics reading guide"
+        ],
+        "url": "/blog/social-blade-public-channel-statistics/#answer"
+      },
+      {
+        "terms": [
+          "指标定义指南",
+          "metric-definition guide"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "试点比较设计指南",
+          "pilot-comparison design guide"
+        ],
+        "url": "/blog/benchmarking-creator-pilot-comparison-design/#answer"
+      },
+      {
+        "terms": [
+          "项目测量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1523,
+    "chineseHanzi": 2318,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 17,
+    "keyword": "amazon storefront",
+    "slug": "amazon-storefront-creator-brand-program-routes",
+    "title": [
+      "Amazon Storefront：区分创作者与品牌店铺",
+      "Amazon Storefront: Distinguish Creator and Brand Routes"
+    ],
+    "topic": "commercial",
+    "family": "Human documentary",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "Influencer店铺、Brand Store与Associates的对象和市场资格",
+    "uniqueAngle": "Influencer店铺、Brand Store与Associates的对象和市场资格",
+    "overlapWithExisting": "不承诺佣金或获批，不把品牌店铺当创作者资格",
+    "primarySources": [
+      {
+        "id": "amazonInfluencer",
+        "url": "https://affiliate-program.amazon.com/help/node/topic/GTP6NKQ2GXPZL7AT/"
+      },
+      {
+        "id": "amazonDifference",
+        "url": "https://affiliate-program.amazon.com/help/node/topic/G9WR4ZF9L2FVKURW"
+      },
+      {
+        "id": "amazonBrandStore",
+        "url": "https://advertising.amazon.com/resources/faq"
+      },
+      {
+        "id": "amazonDisclosure",
+        "url": "https://affiliate-program.amazon.com/help/node/topic/GPXFHVYZMTGPUMPE"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "品牌大使角色说明",
+          "brand-ambassador role guide"
+        ],
+        "url": "/blog/brand-ambassador-customer-facing-explanation/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      },
+      {
+        "terms": [
+          "项目测量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1504,
+    "chineseHanzi": 2472,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 18,
+    "keyword": "clickbank",
+    "slug": "clickbank-brand-affiliate-offer-review",
+    "title": [
+      "ClickBank是什么：品牌先读角色与商品",
+      "ClickBank: Review the Roles and the Offer"
+    ],
+    "topic": "commercial",
+    "family": "Type / background",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "供应商、联盟推广者、商品与回报声明，按真实项目阅读",
+    "uniqueAngle": "供应商、联盟推广者、商品与回报声明，按真实项目阅读",
+    "overlapWithExisting": "与旧affiliate网络角色文分开，具名平台路线与商品证据",
+    "primarySources": [
+      {
+        "id": "clickbankMarket",
+        "url": "https://support.clickbank.com/en/articles/10535269-what-is-the-clickbank-marketplace"
+      },
+      {
+        "id": "clickbankListing",
+        "url": "https://support.clickbank.com/en/articles/10535196-how-do-i-add-or-update-my-clickbank-affiliate-marketplace-listing"
+      },
+      {
+        "id": "clickbankApproval",
+        "url": "https://support.clickbank.com/en/articles/10535184-affiliates-require-approval"
+      },
+      {
+        "id": "clickbankProduct",
+        "url": "https://support.clickbank.com/en/articles/10535118-product-guidelines"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      },
+      {
+        "terms": [
+          "指标定义指南",
+          "metric-definition guide"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "项目测量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1505,
+    "chineseHanzi": 2409,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 19,
+    "keyword": "free instagram followers instagram",
+    "slug": "free-instagram-followers-offer-claim-literacy",
+    "title": [
+      "免费Instagram粉丝说法：如何读领取条件",
+      "Free Instagram Followers Offers: Read the Conditions"
+    ],
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "教育向阅读搜索推广、免费条件、账号访问与未知效果",
+    "uniqueAngle": "教育向阅读搜索推广、免费条件、账号访问与未知效果",
+    "overlapWithExisting": "与第27篇长期无付费受众建设分开，不提供获取粉丝服务",
+    "primarySources": [
+      {
+        "id": "ftcPhishing",
+        "url": "https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams"
+      },
+      {
+        "id": "metaApps",
+        "url": "https://about.fb.com/news/2022/10/protecting-people-from-malicious-account-compromise-apps/"
+      },
+      {
+        "id": "metaSpam",
+        "url": "https://transparency.meta.com/policies/community-standards/spam/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "指标定义指南",
+          "metric-definition guide"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "内容测量指南",
+          "content-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      },
+      {
+        "terms": [
+          "互动数据学习指南",
+          "engagement-literacy guide"
+        ],
+        "url": "/blog/free-tiktok-likes-engagement-literacy/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1519,
+    "chineseHanzi": 2393,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 20,
+    "keyword": "grin",
+    "slug": "grin-creator-product-program-task-fit",
+    "title": [
+      "GRIN：核对产品寄送型合作",
+      "GRIN: Scope a Product-Based Creator Program"
+    ],
+    "topic": "commercial",
+    "family": "Environment / objects",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "按品牌产品、寄送、合作记录核对GRIN公开能力及实际演示问题",
+    "uniqueAngle": "按品牌产品、寄送、合作记录核对GRIN公开能力及实际演示问题",
+    "overlapWithExisting": "与Later路线和通用工具比较文分开，不虚构登录实测",
+    "primarySources": [
+      {
+        "id": "grinHome",
+        "url": "https://grin.co/"
+      },
+      {
+        "id": "grinPlatform",
+        "url": "https://grin.co/platform"
+      },
+      {
+        "id": "grinCreatorTerms",
+        "url": "https://grin.co/terms-of-use-influencers/"
+      },
+      {
+        "id": "grinPricing",
+        "url": "https://grin.co/pricing"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "合作执行指南",
+          "collaboration workflow guide"
+        ],
+        "url": "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      },
+      {
+        "terms": [
+          "项目测量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1513,
+    "chineseHanzi": 2404,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 21,
+    "keyword": "how to use pinterest",
+    "slug": "use-pinterest-brand-search-content-planning",
+    "title": [
+      "Pinterest怎么用：规划可发现的品牌内容",
+      "How to Use Pinterest for Brand Content Planning"
+    ],
+    "topic": "campaign",
+    "family": "Solo creator",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "品牌Pinterest账号、Pin信息、目的地与检索语境的基础规划",
+    "uniqueAngle": "品牌Pinterest账号、Pin信息、目的地与检索语境的基础规划",
+    "overlapWithExisting": "不做无关个人流量捷径，不承诺所有Pin分发",
+    "primarySources": [
+      {
+        "id": "pinterestIntro",
+        "url": "https://help.pinterest.com/en/guide/all-about-pinterest"
+      },
+      {
+        "id": "pinterestBusiness",
+        "url": "https://help.pinterest.com/en/business/article/get-a-business-account"
+      },
+      {
+        "id": "pinterestBoards",
+        "url": "https://help.pinterest.com/en/article/boards"
+      },
+      {
+        "id": "pinterestAnalytics",
+        "url": "https://help.pinterest.com/en/business/article/pinterest-analytics"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      },
+      {
+        "terms": [
+          "目的地目录指南",
+          "destination-directory guide"
+        ],
+        "url": "/blog/linktree-brand-destination-hierarchy/#answer"
+      },
+      {
+        "terms": [
+          "项目测量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1515,
+    "chineseHanzi": 2364,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 22,
+    "keyword": "instagram story",
+    "slug": "instagram-story-brand-sequence-brief",
+    "title": [
+      "Instagram Story：规划短时内容",
+      "Instagram Story: Brief a Short-Lived Brand Sequence"
+    ],
+    "topic": "campaign",
+    "family": "Human documentary",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "短时Story顺序、事实有效期、Highlights与后续资料",
+    "uniqueAngle": "短时Story顺序、事实有效期、Highlights与后续资料",
+    "overlapWithExisting": "已有Instagram活动文分渠道，本篇处理单次Story信息时效与交接",
+    "primarySources": [
+      {
+        "id": "igStoryHistory",
+        "url": "https://about.fb.com/ja/news/2017/12/instagram_highlight_archive/amp/"
+      },
+      {
+        "id": "igPlus",
+        "url": "https://about.fb.com/ltam/news/2026/06/presentamos-instagram-plus/"
+      },
+      {
+        "id": "govContent",
+        "url": "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "Reels教育内容指南",
+          "Reels education-content guide"
+        ],
+        "url": "/blog/reels-brand-education-content-assignment/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      },
+      {
+        "terms": [
+          "目的地目录指南",
+          "destination-directory guide"
+        ],
+        "url": "/blog/linktree-brand-destination-hierarchy/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1514,
+    "chineseHanzi": 2104,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 24,
+    "keyword": "free instagram likes",
+    "slug": "free-instagram-likes-comparison-distortion",
+    "title": [
+      "免费Instagram点赞：理解比较怎样失真",
+      "Free Instagram Likes: Understand Distorted Comparisons"
+    ],
+    "topic": "analytics",
+    "family": "Type / background",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "教育向讨论额外激励或未知来源点赞对比较和决策的影响",
+    "uniqueAngle": "教育向讨论额外激励或未知来源点赞对比较和决策的影响",
+    "overlapWithExisting": "与第9篇TikTok动作定义、第19篇领取条件及27篇真实增长分开",
+    "primarySources": [
+      {
+        "id": "metaSpam",
+        "url": "https://transparency.meta.com/policies/community-standards/spam/"
+      },
+      {
+        "id": "amecFramework",
+        "url": "https://amecorg.com/amecframework/"
+      },
+      {
+        "id": "govContent",
+        "url": "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "互动率口径指南",
+          "engagement-rate definition guide"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      },
+      {
+        "terms": [
+          "项目前比较设计指南",
+          "pre-pilot comparison guide"
+        ],
+        "url": "/blog/benchmarking-creator-pilot-comparison-design/#answer"
+      },
+      {
+        "terms": [
+          "免费粉丝主张教育指南",
+          "free-follower claim-literacy guide"
+        ],
+        "url": "/blog/free-instagram-followers-offer-claim-literacy/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1529,
+    "chineseHanzi": 2161,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 25,
+    "keyword": "marketing w social media",
+    "slug": "social-media-marketing-operating-plan",
+    "title": [
+      "社交媒体营销：从目标到执行",
+      "Marketing With Social Media: Build an Operating Plan"
+    ],
+    "topic": "campaign",
+    "family": "Human documentary",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "跨品牌与组织目标、受众问题、内容责任和结果层次的入门计划",
+    "uniqueAngle": "跨品牌与组织目标、受众问题、内容责任和结果层次的入门计划",
+    "overlapWithExisting": "与已有influencer strategy组合假设文分开，社交渠道整体工作设计",
+    "primarySources": [
+      {
+        "id": "amecFramework",
+        "url": "https://amecorg.com/amecframework/"
+      },
+      {
+        "id": "govContent",
+        "url": "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/"
+      },
+      {
+        "id": "w3cLinks",
+        "url": "https://www.w3.org/WAI/WCAG21/Techniques/general/G91"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "达人合作流程指南",
+          "creator-collaboration guide"
+        ],
+        "url": "/blog/collaborate-with-influencers-brand-workflow/#answer"
+      },
+      {
+        "terms": [
+          "项目测量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1511,
+    "chineseHanzi": 2126,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 26,
+    "keyword": "what is reddit",
+    "slug": "what-is-reddit-brand-community-context",
+    "title": [
+      "Reddit是什么：理解社区语境",
+      "What Is Reddit? Understand the Community Context"
+    ],
+    "topic": "discovery",
+    "family": "Environment / objects",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "社区、规则、公开对话、品牌参与与广告的区别",
+    "uniqueAngle": "社区、规则、公开对话、品牌参与与广告的区别",
+    "overlapWithExisting": "不将公开可见当可任意抓取或插入广告，不承诺合作开放",
+    "primarySources": [
+      {
+        "id": "redditIntro",
+        "url": "https://support.reddithelp.com/hc/en-us/articles/204511479-What-is-Reddit"
+      },
+      {
+        "id": "redditSidebar",
+        "url": "https://support.reddithelp.com/hc/en-us/articles/28621482218260-What-is-the-community-sidebar"
+      },
+      {
+        "id": "redditRules",
+        "url": "https://support.reddithelp.com/hc/en-us/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals"
+      },
+      {
+        "id": "redditPublic",
+        "url": "https://redditinc.com/news/publishing-our-public-content-policy-and-introducing-a-new-community-for-researchers"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "公共对话语境指南",
+          "public-conversation context guide"
+        ],
+        "url": "/blog/bluesky-social-brand-public-conversation/#answer"
+      },
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "社交媒体执行计划",
+          "social media operating plan"
+        ],
+        "url": "/blog/social-media-marketing-operating-plan/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1518,
+    "chineseHanzi": 2130,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 27,
+    "keyword": "free instagram followers",
+    "slug": "free-instagram-followers-organic-audience-plan",
+    "title": [
+      "免费Instagram粉丝：规划自然受众建设",
+      "Free Instagram Followers: Plan Organic Audience Development"
+    ],
+    "topic": "campaign",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "教育向解释不付购买粉丝也需内容与人力成本，用真实价值建立关注理由",
+    "uniqueAngle": "教育向解释不付购买粉丝也需内容与人力成本，用真实价值建立关注理由",
+    "overlapWithExisting": "与第19篇搜索赠粉条件与第24篇点赞比较分开，无保证增长或个人判定",
+    "primarySources": [
+      {
+        "id": "igBio",
+        "url": "https://help.instagram.com/728994388226960/"
+      },
+      {
+        "id": "metaSpam",
+        "url": "https://transparency.meta.com/policies/community-standards/spam/"
+      },
+      {
+        "id": "govContent",
+        "url": "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/"
+      },
+      {
+        "id": "w3cLinks",
+        "url": "https://www.w3.org/WAI/WCAG21/Techniques/general/G91"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "内容Brief指南",
+          "content-brief guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "Reels教育内容指南",
+          "Reels education-content guide"
+        ],
+        "url": "/blog/reels-brand-education-content-assignment/#answer"
+      },
+      {
+        "terms": [
+          "点赞比较教育指南",
+          "like-comparison education guide"
+        ],
+        "url": "/blog/free-instagram-likes-comparison-distortion/#answer"
+      },
+      {
+        "terms": [
+          "社交媒体执行计划",
+          "social media operating plan"
+        ],
+        "url": "/blog/social-media-marketing-operating-plan/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1511,
+    "chineseHanzi": 2126,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 28,
+    "keyword": "download instagram reels",
+    "slug": "download-instagram-reels-account-owner-archive",
+    "title": [
+      "下载Instagram Reels：整理账号自有归档",
+      "Download Instagram Reels: Organize an Account Archive"
+    ],
+    "topic": "campaign",
+    "family": "Solo creator",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "自有账号归档请求、文件范围与可验证备份",
+    "uniqueAngle": "自有账号归档请求、文件范围与可验证备份",
+    "overlapWithExisting": "与29单帖参考与30活动结束素材治理分开，不承诺导出包含每个对象",
+    "primarySources": [
+      {
+        "id": "igExport",
+        "url": "https://help.instagram.com/181231772500920/"
+      },
+      {
+        "id": "metaInfo",
+        "url": "https://about.fb.com/news/2023/10/manage-your-information-across-apps/"
+      },
+      {
+        "id": "igDownload",
+        "url": "https://help.instagram.com/520831036611383/?cms_platform=android-app"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "数据来源交接指南",
+          "source-record handoff guide"
+        ],
+        "url": "/blog/socialblade-data-reporting-handoff/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      },
+      {
+        "terms": [
+          "素材原件范围指南",
+          "raw-material scope guide"
+        ],
+        "url": "/blog/creator-raw-footage-rights/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1511,
+    "chineseHanzi": 2092,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 29,
+    "keyword": "download instagram reel",
+    "slug": "download-instagram-reel-single-post-reference",
+    "title": [
+      "下载单条Instagram Reel：保留来源与用途",
+      "Download an Instagram Reel: Keep Source and Purpose"
+    ],
+    "topic": "commercial",
+    "family": "Environment / objects",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "单条公开Reel原生保存、来源与参考用途记录",
+    "uniqueAngle": "单条公开Reel原生保存、来源与参考用途记录",
+    "overlapWithExisting": "不复写批量自有归档或工具供应商文章，不教绕过隐私",
+    "primarySources": [
+      {
+        "id": "igSave",
+        "url": "https://help.instagram.com/1744643532522513/?cms_platform=android-app"
+      },
+      {
+        "id": "igDownload",
+        "url": "https://help.instagram.com/520831036611383/?cms_platform=android-app"
+      },
+      {
+        "id": "copyrightPermission",
+        "url": "https://www.copyright.gov/help/faq/faq-fairuse.html"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "账号归档指南",
+          "account-archive guide"
+        ],
+        "url": "/blog/download-instagram-reels-account-owner-archive/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      },
+      {
+        "terms": [
+          "Brief写作指南",
+          "brief-writing guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1507,
+    "chineseHanzi": 2102,
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 30,
+    "keyword": "download ig reel",
+    "slug": "download-ig-reel-campaign-closeout-record",
+    "title": [
+      "IG Reel下载：活动结束交接",
+      "Download an IG Reel: Complete the Campaign Handoff"
+    ],
+    "topic": "campaign",
+    "family": "Editorial collage / data art",
+    "searchIntent": "品牌与机构的学习、研究及社交/达人项目执行",
+    "brandDecision": "活动结束后的实际素材、使用期限、原帖与内部记录交接",
+    "uniqueAngle": "活动结束后的实际素材、使用期限、原帖与内部记录交接",
+    "overlapWithExisting": "与第2篇开工接收TikTok委托文件分阶段，处理IG项目结束后的继续用途",
+    "primarySources": [
+      {
+        "id": "igDownload",
+        "url": "https://help.instagram.com/520831036611383/?cms_platform=android-app"
+      },
+      {
+        "id": "frameCompare",
+        "url": "https://help.frame.io/en/articles/9952618-comparison-viewer"
+      },
+      {
+        "id": "adobeExport",
+        "url": "https://helpx.adobe.com/premiere/desktop/render-and-export/export-files/overview-of-export-settings.html"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "账号归档指南",
+          "account-archive guide"
+        ],
+        "url": "/blog/download-instagram-reels-account-owner-archive/#answer"
+      },
+      {
+        "terms": [
+          "单条参考指南",
+          "single-reference guide"
+        ],
+        "url": "/blog/download-instagram-reel-single-post-reference/#answer"
+      },
+      {
+        "terms": [
+          "制作原件范围指南",
+          "production-original scope guide"
+        ],
+        "url": "/blog/creator-raw-footage-rights/#answer"
+      },
+      {
+        "terms": [
+          "使用范围指南",
+          "usage-scope guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      },
+      {
+        "terms": [
+          "项目测量指南",
+          "campaign-measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "tableOrToolDecision": "按本文任务提供有用比较表与reference-list；仅有真实字段需求时提供CSV",
+    "coverConcept": "与具体读者任务相连的独立封面；原图与prompt另存",
+    "publicationDate": "2026-11-04 review draft; actual publication pending",
+    "updateDate": "2026-11-04",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1509,
+    "chineseHanzi": 2121,
+    "localPreviewIntegrated": true
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "recordedAt": "2026-11-04",
+  "originallyRequested": 30,
+  "cancelledByUser": 6,
+  "active": 24,
+  "written": 24,
+  "bilingualPages": 48,
+  "localPreviewIntegrated": 24,
+  "userAuthorizedGitHubUpload": true,
+  "targetBranch": "seo-blog",
+  "status": "content-handoff-awaiting-maintainer-integration-and-review",
+  "productionIntegrated": false
+}

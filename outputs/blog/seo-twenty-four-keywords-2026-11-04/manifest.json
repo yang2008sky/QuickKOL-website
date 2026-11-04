@@ -1,0 +1,433 @@
+{
+  "batch": "seo-twenty-four-keywords-2026-11-04",
+  "repository": "https://github.com/yang2008sky/QuickKOL-website",
+  "branch": "seo-blog",
+  "baseRevision": "71480921e1ceacadfbd6d6f3254f272d95584de9",
+  "articleCount": 24,
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "contentModule": "src/blog-november-fourth.js",
+  "exportName": "novemberFourthPosts",
+  "status": "awaiting-maintainer-content-integration-final-review-merge-and-deployment",
+  "authorization": "User explicitly removed six named articles and requested GitHub upload of the remaining24 on2026-11-04.",
+  "articles": [
+    {
+      "id": 1,
+      "originalId": 3,
+      "keyword": "later",
+      "slug": "later-social-influence-services-task-fit",
+      "title": [
+        "Later是什么：按工作任务选择入口",
+        "Later: Choose the Product Route for Your Task"
+      ],
+      "englishBodyWords": 1512,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/later-social-influence-services-task-fit/",
+        "zh": "https://www.quickkol.com/zh/blog/later-social-influence-services-task-fit/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 2,
+      "originalId": 5,
+      "keyword": "blue sky social",
+      "slug": "bluesky-social-brand-public-conversation",
+      "title": [
+        "Bluesky是什么：品牌如何理解公开讨论",
+        "Bluesky Social: Understand Public Conversation"
+      ],
+      "englishBodyWords": 1503,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/bluesky-social-brand-public-conversation/",
+        "zh": "https://www.quickkol.com/zh/blog/bluesky-social-brand-public-conversation/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 3,
+      "originalId": 7,
+      "keyword": "reels",
+      "slug": "reels-brand-education-content-assignment",
+      "title": [
+        "Reels：用短内容解释品牌知识",
+        "Reels: Turn Brand Knowledge Into a Content Assignment"
+      ],
+      "englishBodyWords": 1504,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/reels-brand-education-content-assignment/",
+        "zh": "https://www.quickkol.com/zh/blog/reels-brand-education-content-assignment/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 4,
+      "originalId": 8,
+      "keyword": "social blade",
+      "slug": "social-blade-public-channel-statistics",
+      "title": [
+        "Social Blade：怎样读公开频道统计",
+        "Social Blade: Read Public Channel Statistics"
+      ],
+      "englishBodyWords": 1508,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/social-blade-public-channel-statistics/",
+        "zh": "https://www.quickkol.com/zh/blog/social-blade-public-channel-statistics/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 5,
+      "originalId": 9,
+      "keyword": "free tiktok likes",
+      "slug": "free-tiktok-likes-engagement-literacy",
+      "title": [
+        "免费TikTok点赞：先理解互动证据",
+        "Free TikTok Likes: Understand Engagement Evidence"
+      ],
+      "englishBodyWords": 1549,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-tiktok-likes-engagement-literacy/",
+        "zh": "https://www.quickkol.com/zh/blog/free-tiktok-likes-engagement-literacy/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 6,
+      "originalId": 10,
+      "keyword": "benchmarking",
+      "slug": "benchmarking-creator-pilot-comparison-design",
+      "title": [
+        "Benchmarking：设计试点比较",
+        "Benchmarking: Design Comparisons for a Creator Pilot"
+      ],
+      "englishBodyWords": 1519,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/benchmarking-creator-pilot-comparison-design/",
+        "zh": "https://www.quickkol.com/zh/blog/benchmarking-creator-pilot-comparison-design/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 7,
+      "originalId": 12,
+      "keyword": "trending",
+      "slug": "trending-social-content-signal-brief",
+      "title": [
+        "Trending是什么意思：把信号变成内容问题",
+        "Trending: Turn a Social Signal Into a Content Question"
+      ],
+      "englishBodyWords": 1503,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/trending-social-content-signal-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/trending-social-content-signal-brief/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 8,
+      "originalId": 13,
+      "keyword": "google business profile manager",
+      "slug": "google-business-profile-manager-local-collaboration",
+      "title": [
+        "Google商家资料管理：分清所有者与经理",
+        "Google Business Profile Manager: Define Local Access"
+      ],
+      "englishBodyWords": 1518,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/google-business-profile-manager-local-collaboration/",
+        "zh": "https://www.quickkol.com/zh/blog/google-business-profile-manager-local-collaboration/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 9,
+      "originalId": 14,
+      "keyword": "link tree",
+      "slug": "linktree-brand-destination-hierarchy",
+      "title": [
+        "Linktree：安排品牌链接路径",
+        "Linktree: Organize Brand Links and Visitor Paths"
+      ],
+      "englishBodyWords": 1516,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/linktree-brand-destination-hierarchy/",
+        "zh": "https://www.quickkol.com/zh/blog/linktree-brand-destination-hierarchy/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 10,
+      "originalId": 15,
+      "keyword": "socialblade socialblade",
+      "slug": "socialblade-official-site-identity-navigation",
+      "title": [
+        "Socialblade搜索：确认官网与产品身份",
+        "Socialblade Search: Confirm the Official Product"
+      ],
+      "englishBodyWords": 1548,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/socialblade-official-site-identity-navigation/",
+        "zh": "https://www.quickkol.com/zh/blog/socialblade-official-site-identity-navigation/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 11,
+      "originalId": 16,
+      "keyword": "socialblade",
+      "slug": "socialblade-data-reporting-handoff",
+      "title": [
+        "Socialblade数据：让报表保留来源与时点",
+        "Socialblade Data: Preserve Source and Snapshot in Reports"
+      ],
+      "englishBodyWords": 1523,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/socialblade-data-reporting-handoff/",
+        "zh": "https://www.quickkol.com/zh/blog/socialblade-data-reporting-handoff/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 12,
+      "originalId": 17,
+      "keyword": "amazon storefront",
+      "slug": "amazon-storefront-creator-brand-program-routes",
+      "title": [
+        "Amazon Storefront：区分创作者与品牌店铺",
+        "Amazon Storefront: Distinguish Creator and Brand Routes"
+      ],
+      "englishBodyWords": 1504,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/amazon-storefront-creator-brand-program-routes/",
+        "zh": "https://www.quickkol.com/zh/blog/amazon-storefront-creator-brand-program-routes/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 13,
+      "originalId": 18,
+      "keyword": "clickbank",
+      "slug": "clickbank-brand-affiliate-offer-review",
+      "title": [
+        "ClickBank是什么：品牌先读角色与商品",
+        "ClickBank: Review the Roles and the Offer"
+      ],
+      "englishBodyWords": 1505,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/clickbank-brand-affiliate-offer-review/",
+        "zh": "https://www.quickkol.com/zh/blog/clickbank-brand-affiliate-offer-review/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 14,
+      "originalId": 19,
+      "keyword": "free instagram followers instagram",
+      "slug": "free-instagram-followers-offer-claim-literacy",
+      "title": [
+        "免费Instagram粉丝说法：如何读领取条件",
+        "Free Instagram Followers Offers: Read the Conditions"
+      ],
+      "englishBodyWords": 1519,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-instagram-followers-offer-claim-literacy/",
+        "zh": "https://www.quickkol.com/zh/blog/free-instagram-followers-offer-claim-literacy/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 15,
+      "originalId": 20,
+      "keyword": "grin",
+      "slug": "grin-creator-product-program-task-fit",
+      "title": [
+        "GRIN：核对产品寄送型合作",
+        "GRIN: Scope a Product-Based Creator Program"
+      ],
+      "englishBodyWords": 1513,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/grin-creator-product-program-task-fit/",
+        "zh": "https://www.quickkol.com/zh/blog/grin-creator-product-program-task-fit/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 16,
+      "originalId": 21,
+      "keyword": "how to use pinterest",
+      "slug": "use-pinterest-brand-search-content-planning",
+      "title": [
+        "Pinterest怎么用：规划可发现的品牌内容",
+        "How to Use Pinterest for Brand Content Planning"
+      ],
+      "englishBodyWords": 1515,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/use-pinterest-brand-search-content-planning/",
+        "zh": "https://www.quickkol.com/zh/blog/use-pinterest-brand-search-content-planning/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 17,
+      "originalId": 22,
+      "keyword": "instagram story",
+      "slug": "instagram-story-brand-sequence-brief",
+      "title": [
+        "Instagram Story：规划短时内容",
+        "Instagram Story: Brief a Short-Lived Brand Sequence"
+      ],
+      "englishBodyWords": 1514,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-story-brand-sequence-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-story-brand-sequence-brief/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 18,
+      "originalId": 24,
+      "keyword": "free instagram likes",
+      "slug": "free-instagram-likes-comparison-distortion",
+      "title": [
+        "免费Instagram点赞：理解比较怎样失真",
+        "Free Instagram Likes: Understand Distorted Comparisons"
+      ],
+      "englishBodyWords": 1529,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-instagram-likes-comparison-distortion/",
+        "zh": "https://www.quickkol.com/zh/blog/free-instagram-likes-comparison-distortion/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 19,
+      "originalId": 25,
+      "keyword": "marketing w social media",
+      "slug": "social-media-marketing-operating-plan",
+      "title": [
+        "社交媒体营销：从目标到执行",
+        "Marketing With Social Media: Build an Operating Plan"
+      ],
+      "englishBodyWords": 1511,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/social-media-marketing-operating-plan/",
+        "zh": "https://www.quickkol.com/zh/blog/social-media-marketing-operating-plan/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 20,
+      "originalId": 26,
+      "keyword": "what is reddit",
+      "slug": "what-is-reddit-brand-community-context",
+      "title": [
+        "Reddit是什么：理解社区语境",
+        "What Is Reddit? Understand the Community Context"
+      ],
+      "englishBodyWords": 1518,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/what-is-reddit-brand-community-context/",
+        "zh": "https://www.quickkol.com/zh/blog/what-is-reddit-brand-community-context/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 21,
+      "originalId": 27,
+      "keyword": "free instagram followers",
+      "slug": "free-instagram-followers-organic-audience-plan",
+      "title": [
+        "免费Instagram粉丝：规划自然受众建设",
+        "Free Instagram Followers: Plan Organic Audience Development"
+      ],
+      "englishBodyWords": 1511,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-instagram-followers-organic-audience-plan/",
+        "zh": "https://www.quickkol.com/zh/blog/free-instagram-followers-organic-audience-plan/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 22,
+      "originalId": 28,
+      "keyword": "download instagram reels",
+      "slug": "download-instagram-reels-account-owner-archive",
+      "title": [
+        "下载Instagram Reels：整理账号自有归档",
+        "Download Instagram Reels: Organize an Account Archive"
+      ],
+      "englishBodyWords": 1511,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/download-instagram-reels-account-owner-archive/",
+        "zh": "https://www.quickkol.com/zh/blog/download-instagram-reels-account-owner-archive/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 23,
+      "originalId": 29,
+      "keyword": "download instagram reel",
+      "slug": "download-instagram-reel-single-post-reference",
+      "title": [
+        "下载单条Instagram Reel：保留来源与用途",
+        "Download an Instagram Reel: Keep Source and Purpose"
+      ],
+      "englishBodyWords": 1507,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/download-instagram-reel-single-post-reference/",
+        "zh": "https://www.quickkol.com/zh/blog/download-instagram-reel-single-post-reference/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    },
+    {
+      "id": 24,
+      "originalId": 30,
+      "keyword": "download ig reel",
+      "slug": "download-ig-reel-campaign-closeout-record",
+      "title": [
+        "IG Reel下载：活动结束交接",
+        "Download an IG Reel: Complete the Campaign Handoff"
+      ],
+      "englishBodyWords": 1509,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/download-ig-reel-campaign-closeout-record/",
+        "zh": "https://www.quickkol.com/zh/blog/download-ig-reel-campaign-closeout-record/"
+      },
+      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
+    }
+  ],
+  "cancelled": [
+    {
+      "originalId": 1,
+      "keyword": "download tiktok video",
+      "slug": "download-tiktok-video-brand-reference"
+    },
+    {
+      "originalId": 2,
+      "keyword": "tiktok video download",
+      "slug": "tiktok-video-download-commissioned-file-handoff"
+    },
+    {
+      "originalId": 4,
+      "keyword": "how to write a bio for instagram",
+      "slug": "write-instagram-bio-brand-profile-purpose"
+    },
+    {
+      "originalId": 6,
+      "keyword": "tiktok download video",
+      "slug": "tiktok-download-video-permission-troubleshooting"
+    },
+    {
+      "originalId": 11,
+      "keyword": "ig reel downloader",
+      "slug": "ig-reel-downloader-vendor-claims-review"
+    },
+    {
+      "originalId": 23,
+      "keyword": "philippine golfers",
+      "slug": "philippine-golfers-brand-content-roles"
+    }
+  ]
+}

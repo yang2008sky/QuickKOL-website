@@ -1,0 +1,1390 @@
+{
+  "checkedAt": "2026-11-04",
+  "pages": 48,
+  "passed": true,
+  "errors": [],
+  "records": [
+    {
+      "slug": "later-social-influence-services-task-fit",
+      "locale": "zh",
+      "route": "/zh/blog/later-social-influence-services-task-fit/",
+      "h1": "Later是什么：按工作任务选择入口",
+      "title": "Later是什么：按工作任务选择入口 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/later-social-influence-services-task-fit/",
+      "description": "Later是什么？按品牌任务区分社交排程、达人营销平台、全案服务和创作者入口，核对公开能力、审批角色与演示问题。",
+      "cover": "/assets/blog/later-social-influence-services-task-fit.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/later-social-influence-services-task-fit.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/influencer-marketing-platform-workflow/#answer",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/#capabilities",
+        "/zh/blog/influencer-marketing-agencies-operating-rhythm/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/creator-contract-scope-checklist/#answer",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://later.com/",
+        "https://later.com/social-media-scheduler/",
+        "https://later.com/influencer-marketing-platform/",
+        "https://later.com/social-media-approval-workflow/"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "later-social-influence-services-task-fit",
+      "locale": "en",
+      "route": "/blog/later-social-influence-services-task-fit/",
+      "h1": "Later: Choose the Product Route for Your Task",
+      "title": "Later: Choose the Product Route for Your Task | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/later-social-influence-services-task-fit/",
+      "description": "Understand Later by distinguishing social scheduling, influencer software, managed services and creator routes, with practical questions for roles, approval and evaluation.",
+      "cover": "/assets/blog/later-social-influence-services-task-fit.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/later-social-influence-services-task-fit.jpg",
+      "bodyInternalLinks": [
+        "/blog/influencer-marketing-platform-workflow/#answer",
+        "/blog/creator-content-approval-workflow/#evidence-table",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/#capabilities",
+        "/blog/influencer-marketing-agencies-operating-rhythm/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/creator-contract-scope-checklist/#answer",
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/creator-usage-rights-renewal/#evidence-table",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://later.com/",
+        "https://later.com/social-media-scheduler/",
+        "https://later.com/influencer-marketing-platform/",
+        "https://later.com/social-media-approval-workflow/"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "bluesky-social-brand-public-conversation",
+      "locale": "zh",
+      "route": "/zh/blog/bluesky-social-brand-public-conversation/",
+      "h1": "Bluesky是什么：品牌如何理解公开讨论",
+      "title": "Bluesky是什么：品牌如何理解公开讨论 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/bluesky-social-brand-public-conversation/",
+      "description": "Blue sky social搜索指南：理解Bluesky公开对话、域名账号、认证与入门包，制定品牌观察和参与方案。",
+      "cover": "/assets/blog/bluesky-social-brand-public-conversation.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/bluesky-social-brand-public-conversation.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/brand-ambassador-customer-facing-explanation/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/zh/blog/social-media-engagement-rate-monthly-explanation/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://bsky.social/about/blog/5-19-2023-user-faq",
+        "https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial",
+        "https://bsky.social/about/blog/04-21-2025-verification",
+        "https://bsky.social/about/blog/06-26-2024-starter-packs"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "bluesky-social-brand-public-conversation",
+      "locale": "en",
+      "route": "/blog/bluesky-social-brand-public-conversation/",
+      "h1": "Bluesky Social: Understand Public Conversation",
+      "title": "Bluesky Social: Understand Public Conversation | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/bluesky-social-brand-public-conversation/",
+      "description": "A brand guide to Bluesky public conversation, domain handles, verification and starter packs, with a practical observation and participation plan.",
+      "cover": "/assets/blog/bluesky-social-brand-public-conversation.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/bluesky-social-brand-public-conversation.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/brand-ambassador-customer-facing-explanation/#answer",
+        "/blog/ai-creator-research-prompts/#interactive-tool",
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/blog/creator-metric-definitions/#evidence-table",
+        "/blog/social-media-engagement-rate-monthly-explanation/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://bsky.social/about/blog/5-19-2023-user-faq",
+        "https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial",
+        "https://bsky.social/about/blog/04-21-2025-verification",
+        "https://bsky.social/about/blog/06-26-2024-starter-packs"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "reels-brand-education-content-assignment",
+      "locale": "zh",
+      "route": "/zh/blog/reels-brand-education-content-assignment/",
+      "h1": "Reels：用短内容解释品牌知识",
+      "title": "Reels：用短内容解释品牌知识 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/reels-brand-education-content-assignment/",
+      "description": "Reels品牌教学指南：选择问题、组织镜头和字幕、设计独立系列，并区分试验发布、可见互动与实际学习结果。",
+      "cover": "/assets/blog/reels-brand-education-content-assignment.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/reels-brand-education-content-assignment.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/instagram-influencer-marketing-campaign/#answer",
+        "/zh/blog/social-media-engagement-rate-monthly-explanation/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/",
+        "https://about.fb.com/news/2024/12/trial-reels-try-content-non-followers-first-see-what-perfoms-best/",
+        "https://about.fb.com/news/2025/06/inspiring-creativity-that-brings-people-together/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 3,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "reels-brand-education-content-assignment",
+      "locale": "en",
+      "route": "/blog/reels-brand-education-content-assignment/",
+      "h1": "Reels: Turn Brand Knowledge Into a Content Assignment",
+      "title": "Reels: Turn Brand Knowledge Into a Content Assignment | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/reels-brand-education-content-assignment/",
+      "description": "Plan educational brand Reels with focused questions, understandable shots and captions, independent episodes and careful interpretation of trials and response.",
+      "cover": "/assets/blog/reels-brand-education-content-assignment.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/reels-brand-education-content-assignment.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/instagram-influencer-marketing-campaign/#answer",
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/blog/social-media-engagement-rate-monthly-explanation/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/",
+        "https://about.fb.com/news/2024/12/trial-reels-try-content-non-followers-first-see-what-perfoms-best/",
+        "https://about.fb.com/news/2025/06/inspiring-creativity-that-brings-people-together/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 3,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "social-blade-public-channel-statistics",
+      "locale": "zh",
+      "route": "/zh/blog/social-blade-public-channel-statistics/",
+      "h1": "Social Blade：怎样读公开频道统计",
+      "title": "Social Blade：怎样读公开频道统计 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/social-blade-public-channel-statistics/",
+      "description": "Social Blade统计阅读指南：解释公开快照、更新延迟、累计变化与收入估算，并区分YouTube后台和商业结果。",
+      "cover": "/assets/blog/social-blade-public-channel-statistics.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/social-blade-public-channel-statistics.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/detect-suspicious-creator-growth/#evidence-table",
+        "/zh/blog/read-creator-engagement-data/#answer",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/social-media-engagement-rate-monthly-explanation/#answer",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/creator-retention-watch-time/#interactive-tool",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://socialblade.com/help/what-is-socialblade",
+        "https://socialblade.com/help/why-do-my-views-differ-from-socialblade",
+        "https://socialblade.com/help/how-often-does-socialblade-update-my-stats",
+        "https://socialblade.com/help/how-are-estimated-earnings-calculated",
+        "https://support.google.com/youtube/answer/9314486?hl=en"
+      ],
+      "sourceCount": 5,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "social-blade-public-channel-statistics",
+      "locale": "en",
+      "route": "/blog/social-blade-public-channel-statistics/",
+      "h1": "Social Blade: Read Public Channel Statistics",
+      "title": "Social Blade: Read Public Channel Statistics | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/social-blade-public-channel-statistics/",
+      "description": "Understand Social Blade snapshots, update timing, cumulative changes and earnings estimates, and distinguish them from first-party analytics and commercial results.",
+      "cover": "/assets/blog/social-blade-public-channel-statistics.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/social-blade-public-channel-statistics.jpg",
+      "bodyInternalLinks": [
+        "/blog/creator-metric-definitions/#evidence-table",
+        "/blog/read-creator-engagement-data/#answer",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/social-media-engagement-rate-monthly-explanation/#answer",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/creator-retention-watch-time/#interactive-tool",
+        "/blog/creator-campaign-measurement/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://socialblade.com/help/what-is-socialblade",
+        "https://socialblade.com/help/why-do-my-views-differ-from-socialblade",
+        "https://socialblade.com/help/how-often-does-socialblade-update-my-stats",
+        "https://socialblade.com/help/how-are-estimated-earnings-calculated",
+        "https://support.google.com/youtube/answer/9314486?hl=en"
+      ],
+      "sourceCount": 5,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "free-tiktok-likes-engagement-literacy",
+      "locale": "zh",
+      "route": "/zh/blog/free-tiktok-likes-engagement-literacy/",
+      "h1": "免费TikTok点赞：先理解互动证据",
+      "title": "免费TikTok点赞：先理解互动证据 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/free-tiktok-likes-engagement-literacy/",
+      "description": "Free TikTok likes教育指南：理解点赞口径、免费承诺、人工互动与结果的区别；不推荐刷量服务，不凭单一信号指控个人。",
+      "cover": "/assets/blog/free-tiktok-likes-engagement-literacy.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/free-tiktok-likes-engagement-literacy.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/detect-suspicious-creator-growth/#evidence-table",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/blog/social-media-engagement-rate-monthly-explanation/#answer"
+      ],
+      "bodyCitations": [
+        "https://www.tiktok.com/support/faq_detail?id=7636670088171035157&category=web_account",
+        "https://newsroom.tiktok.com/how-tiktok-counters-deceptive-behaviour?lang=en-150",
+        "https://www.tiktok.com/support/faq_detail?id=7655285288050104852&category=web_account"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "free-tiktok-likes-engagement-literacy",
+      "locale": "en",
+      "route": "/blog/free-tiktok-likes-engagement-literacy/",
+      "h1": "Free TikTok Likes: Understand Engagement Evidence",
+      "title": "Free TikTok Likes: Understand Engagement Evidence | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/free-tiktok-likes-engagement-literacy/",
+      "description": "An educational guide to free TikTok likes, metric definitions, offer claims and outcome limits, without artificial-engagement services or accusations from single signals.",
+      "cover": "/assets/blog/free-tiktok-likes-engagement-literacy.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/free-tiktok-likes-engagement-literacy.jpg",
+      "bodyInternalLinks": [
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/ai-creator-research-prompts/#interactive-tool",
+        "/blog/creator-campaign-measurement/#answer",
+        "/blog/social-media-engagement-rate-monthly-explanation/#answer",
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/blog/creator-metric-definitions/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://www.tiktok.com/support/faq_detail?id=7636670088171035157&category=web_account",
+        "https://newsroom.tiktok.com/how-tiktok-counters-deceptive-behaviour?lang=en-150",
+        "https://www.tiktok.com/support/faq_detail?id=7655285288050104852&category=web_account"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "benchmarking-creator-pilot-comparison-design",
+      "locale": "zh",
+      "route": "/zh/blog/benchmarking-creator-pilot-comparison-design/",
+      "h1": "Benchmarking：设计试点比较",
+      "title": "Benchmarking：设计试点比较 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/benchmarking-creator-pilot-comparison-design/",
+      "description": "Benchmarking试点规划指南：选择内部或同类参考，确认内容、窗口与数据条件，并用双语CSV记录比较设计。",
+      "cover": "/assets/blog/benchmarking-creator-pilot-comparison-design.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/benchmarking-creator-pilot-comparison-design.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/creator-performance-benchmarks/#evidence-table",
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/creator-performance-benchmarks/#answer",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/read-creator-engagement-data/#interactive-tool",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://amecorg.com/amecframework/",
+        "https://support.google.com/youtube/answer/9717005?hl=en",
+        "https://support.google.com/analytics/answer/16388466?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "benchmarking-creator-pilot-comparison-design",
+      "locale": "en",
+      "route": "/blog/benchmarking-creator-pilot-comparison-design/",
+      "h1": "Benchmarking: Design Comparisons for a Creator Pilot",
+      "title": "Benchmarking: Design Comparisons for a Creator Pilot | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/benchmarking-creator-pilot-comparison-design/",
+      "description": "Plan benchmarking before a creator pilot: choose internal or peer references, match content and data conditions, and record comparison design in a bilingual CSV.",
+      "cover": "/assets/blog/benchmarking-creator-pilot-comparison-design.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/benchmarking-creator-pilot-comparison-design.jpg",
+      "bodyInternalLinks": [
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/creator-performance-benchmarks/#answer",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/creator-campaign-measurement/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://amecorg.com/amecframework/",
+        "https://support.google.com/youtube/answer/9717005?hl=en",
+        "https://support.google.com/analytics/answer/16388466?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "trending-social-content-signal-brief",
+      "locale": "zh",
+      "route": "/zh/blog/trending-social-content-signal-brief/",
+      "h1": "Trending是什么意思：把信号变成内容问题",
+      "title": "Trending是什么意思：把信号变成内容问题 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/trending-social-content-signal-brief/",
+      "description": "Trending内容规划指南：区分搜索热度、话题趋势与个人推荐，把信号转成原创Brief，不把热门等同购买意向。",
+      "cover": "/assets/blog/trending-social-content-signal-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/trending-social-content-signal-brief.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/creator-rates-usage-rights/#interactive-tool",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/trends/answer/3076011?hl=en",
+        "https://support.google.com/trends/answer/4365533?hl=en",
+        "https://ads.tiktok.com/resources/help/article/how-to-use-trends?redirected=2"
+      ],
+      "sourceCount": 3,
+      "tableRows": 5,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "trending-social-content-signal-brief",
+      "locale": "en",
+      "route": "/blog/trending-social-content-signal-brief/",
+      "h1": "Trending: Turn a Social Signal Into a Content Question",
+      "title": "Trending: Turn a Social Signal Into a Content Question | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/trending-social-content-signal-brief/",
+      "description": "Interpret trending searches, hashtags and personalized discovery, then turn a relevant signal into an original brief without equating popularity with buying intent.",
+      "cover": "/assets/blog/trending-social-content-signal-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/trending-social-content-signal-brief.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/creator-campaign-measurement/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/trends/answer/3076011?hl=en",
+        "https://support.google.com/trends/answer/4365533?hl=en",
+        "https://ads.tiktok.com/resources/help/article/how-to-use-trends?redirected=2"
+      ],
+      "sourceCount": 3,
+      "tableRows": 5,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "google-business-profile-manager-local-collaboration",
+      "locale": "zh",
+      "route": "/zh/blog/google-business-profile-manager-local-collaboration/",
+      "h1": "Google商家资料管理：分清所有者与经理",
+      "title": "Google商家资料管理：分清所有者与经理 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/google-business-profile-manager-local-collaboration/",
+      "description": "Google Business Profile manager协作指南：理解所有者与管理员、准备本地照片和动态，并记录审核、公开与交接状态。",
+      "cover": "/assets/blog/google-business-profile-manager-local-collaboration.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/google-business-profile-manager-local-collaboration.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/creator-outreach-follow-up/#interactive-tool",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/business/answer/3403100?hl=en",
+        "https://support.google.com/business/answer/6103862?hl=en",
+        "https://support.google.com/business/answer/7342169?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "google-business-profile-manager-local-collaboration",
+      "locale": "en",
+      "route": "/blog/google-business-profile-manager-local-collaboration/",
+      "h1": "Google Business Profile Manager: Define Local Access",
+      "title": "Google Business Profile Manager: Define Local Access | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/google-business-profile-manager-local-collaboration/",
+      "description": "Plan Google Business Profile collaboration with clear owner and manager roles, local photos and posts, and accurate review, visibility and handoff states.",
+      "cover": "/assets/blog/google-business-profile-manager-local-collaboration.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/google-business-profile-manager-local-collaboration.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/blog/creator-campaign-measurement/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/business/answer/3403100?hl=en",
+        "https://support.google.com/business/answer/6103862?hl=en",
+        "https://support.google.com/business/answer/7342169?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "linktree-brand-destination-hierarchy",
+      "locale": "zh",
+      "route": "/zh/blog/linktree-brand-destination-hierarchy/",
+      "h1": "Linktree：安排品牌链接路径",
+      "title": "Linktree：安排品牌链接路径 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/linktree-brand-destination-hierarchy/",
+      "description": "Link tree／Linktree品牌指南：规划入口层级、链接标题、优先功能与活动维护，区分点击、访客和实际转化。",
+      "cover": "/assets/blog/linktree-brand-destination-hierarchy.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/linktree-brand-destination-hierarchy.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://linktr.ee/help/articles/8614124-organize-links-keep-visitors-engaged",
+        "https://www.w3.org/WAI/WCAG21/Techniques/general/G91",
+        "https://linktr.ee/help/articles/5434173-how-to-prioritize-a-link",
+        "https://linktr.ee/help/articles/5434178-understanding-your-analytics"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "linktree-brand-destination-hierarchy",
+      "locale": "en",
+      "route": "/blog/linktree-brand-destination-hierarchy/",
+      "h1": "Linktree: Organize Brand Links and Visitor Paths",
+      "title": "Linktree: Organize Brand Links and Visitor Paths | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/linktree-brand-destination-hierarchy/",
+      "description": "Plan a brand Linktree with destination hierarchy, meaningful link titles, prioritization and campaign maintenance, separating clicks, visitors and actual conversion.",
+      "cover": "/assets/blog/linktree-brand-destination-hierarchy.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/linktree-brand-destination-hierarchy.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://linktr.ee/help/articles/8614124-organize-links-keep-visitors-engaged",
+        "https://www.w3.org/WAI/WCAG21/Techniques/general/G91",
+        "https://linktr.ee/help/articles/5434173-how-to-prioritize-a-link",
+        "https://linktr.ee/help/articles/5434178-understanding-your-analytics"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "socialblade-official-site-identity-navigation",
+      "locale": "zh",
+      "route": "/zh/blog/socialblade-official-site-identity-navigation/",
+      "h1": "Socialblade搜索：确认官网与产品身份",
+      "title": "Socialblade搜索：确认官网与产品身份 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/socialblade-official-site-identity-navigation/",
+      "description": "Socialblade socialblade导航指南：找到官方入口、核对平台与频道ID，区分帮助、支持、会员与商业资料。",
+      "cover": "/assets/blog/socialblade-official-site-identity-navigation.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/socialblade-official-site-identity-navigation.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/influencer-marketing-platform-workflow/#answer",
+        "/zh/blog/social-blade-public-channel-statistics/#answer",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://socialblade.com/",
+        "https://socialblade.com/help/why-cant-i-find-my-channel",
+        "https://support.socialblade.com/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "socialblade-official-site-identity-navigation",
+      "locale": "en",
+      "route": "/blog/socialblade-official-site-identity-navigation/",
+      "h1": "Socialblade Search: Confirm the Official Product",
+      "title": "Socialblade Search: Confirm the Official Product | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/socialblade-official-site-identity-navigation/",
+      "description": "Find official Social Blade routes, confirm platform and channel identity, and distinguish help, support, membership and business information.",
+      "cover": "/assets/blog/socialblade-official-site-identity-navigation.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/socialblade-official-site-identity-navigation.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/blog/influencer-marketing-platform-workflow/#answer",
+        "/blog/social-blade-public-channel-statistics/#answer",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://socialblade.com/",
+        "https://socialblade.com/help/why-cant-i-find-my-channel",
+        "https://support.socialblade.com/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "socialblade-data-reporting-handoff",
+      "locale": "zh",
+      "route": "/zh/blog/socialblade-data-reporting-handoff/",
+      "h1": "Socialblade数据：让报表保留来源与时点",
+      "title": "Socialblade数据：让报表保留来源与时点 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/socialblade-data-reporting-handoff/",
+      "description": "Socialblade数据交接指南：记录来源快照、时间窗口、计数与估算，附中英文16字段CSV，不把截图当完整报告。",
+      "cover": "/assets/blog/socialblade-data-reporting-handoff.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/socialblade-data-reporting-handoff.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/social-blade-public-channel-statistics/#answer",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/blog/benchmarking-creator-pilot-comparison-design/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://socialblade.com/help/why-do-my-views-differ-from-socialblade",
+        "https://socialblade.com/help/how-often-does-socialblade-update-my-stats",
+        "https://socialblade.com/help/how-are-estimated-earnings-calculated",
+        "https://support.google.com/youtube/answer/9717005?hl=en"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "socialblade-data-reporting-handoff",
+      "locale": "en",
+      "route": "/blog/socialblade-data-reporting-handoff/",
+      "h1": "Socialblade Data: Preserve Source and Snapshot in Reports",
+      "title": "Socialblade Data: Preserve Source and Snapshot in Reports | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/socialblade-data-reporting-handoff/",
+      "description": "Hand off Socialblade evidence with source snapshots, time windows, counts and estimate states, using a bilingual 16-field CSV and traceable revisions.",
+      "cover": "/assets/blog/socialblade-data-reporting-handoff.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/socialblade-data-reporting-handoff.jpg",
+      "bodyInternalLinks": [
+        "/blog/creator-metric-definitions/#evidence-table",
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/blog/social-blade-public-channel-statistics/#answer",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/creator-campaign-measurement/#answer",
+        "/blog/benchmarking-creator-pilot-comparison-design/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://socialblade.com/help/why-do-my-views-differ-from-socialblade",
+        "https://socialblade.com/help/how-often-does-socialblade-update-my-stats",
+        "https://socialblade.com/help/how-are-estimated-earnings-calculated",
+        "https://support.google.com/youtube/answer/9717005?hl=en"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "amazon-storefront-creator-brand-program-routes",
+      "locale": "zh",
+      "route": "/zh/blog/amazon-storefront-creator-brand-program-routes/",
+      "h1": "Amazon Storefront：区分创作者与品牌店铺",
+      "title": "Amazon Storefront：区分创作者与品牌店铺 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/amazon-storefront-creator-brand-program-routes/",
+      "description": "Amazon storefront品牌指南：区分创作者店铺与Brand Store，核对计划、市场、推荐关系与具体合作任务，不承诺佣金或收益。",
+      "cover": "/assets/blog/amazon-storefront-creator-brand-program-routes.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/amazon-storefront-creator-brand-program-routes.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/brand-ambassador-customer-facing-explanation/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://affiliate-program.amazon.com/help/node/topic/GTP6NKQ2GXPZL7AT/",
+        "https://affiliate-program.amazon.com/help/node/topic/G9WR4ZF9L2FVKURW",
+        "https://advertising.amazon.com/resources/faq",
+        "https://affiliate-program.amazon.com/help/node/topic/GPXFHVYZMTGPUMPE"
+      ],
+      "sourceCount": 4,
+      "tableRows": 3,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "amazon-storefront-creator-brand-program-routes",
+      "locale": "en",
+      "route": "/blog/amazon-storefront-creator-brand-program-routes/",
+      "h1": "Amazon Storefront: Distinguish Creator and Brand Routes",
+      "title": "Amazon Storefront: Distinguish Creator and Brand Routes | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/amazon-storefront-creator-brand-program-routes/",
+      "description": "Understand Amazon creator storefronts and Brand Stores, checking program, market, recommendation relationships and collaboration tasks without commission or income promises.",
+      "cover": "/assets/blog/amazon-storefront-creator-brand-program-routes.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/amazon-storefront-creator-brand-program-routes.jpg",
+      "bodyInternalLinks": [
+        "/blog/brand-ambassador-customer-facing-explanation/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/creator-product-claims-review/#evidence-table",
+        "/blog/creator-campaign-measurement/#answer",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://affiliate-program.amazon.com/help/node/topic/GTP6NKQ2GXPZL7AT/",
+        "https://affiliate-program.amazon.com/help/node/topic/G9WR4ZF9L2FVKURW",
+        "https://advertising.amazon.com/resources/faq",
+        "https://affiliate-program.amazon.com/help/node/topic/GPXFHVYZMTGPUMPE"
+      ],
+      "sourceCount": 4,
+      "tableRows": 3,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "clickbank-brand-affiliate-offer-review",
+      "locale": "zh",
+      "route": "/zh/blog/clickbank-brand-affiliate-offer-review/",
+      "h1": "ClickBank是什么：品牌先读角色与商品",
+      "title": "ClickBank是什么：品牌先读角色与商品 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/clickbank-brand-affiliate-offer-review/",
+      "description": "ClickBank品牌指南：理解Marketplace、卖家条目与推广批准，检查产品信息、链接任务和声明，不提供收益承诺。",
+      "cover": "/assets/blog/clickbank-brand-affiliate-offer-review.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/clickbank-brand-affiliate-offer-review.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/creator-landing-page-conversion/#interactive-tool",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/blog/creator-product-claims-review/#evidence-table",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://support.clickbank.com/en/articles/10535269-what-is-the-clickbank-marketplace",
+        "https://support.clickbank.com/en/articles/10535196-how-do-i-add-or-update-my-clickbank-affiliate-marketplace-listing",
+        "https://support.clickbank.com/en/articles/10535184-affiliates-require-approval",
+        "https://support.clickbank.com/en/articles/10535118-product-guidelines"
+      ],
+      "sourceCount": 4,
+      "tableRows": 5,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "clickbank-brand-affiliate-offer-review",
+      "locale": "en",
+      "route": "/blog/clickbank-brand-affiliate-offer-review/",
+      "h1": "ClickBank: Review the Roles and the Offer",
+      "title": "ClickBank: Review the Roles and the Offer | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/clickbank-brand-affiliate-offer-review/",
+      "description": "Understand ClickBank Marketplace, seller listings and affiliate approval, reviewing product information, link purpose and claims without income promises.",
+      "cover": "/assets/blog/clickbank-brand-affiliate-offer-review.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/clickbank-brand-affiliate-offer-review.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/creator-metric-definitions/#evidence-table",
+        "/blog/creator-landing-page-conversion/#interactive-tool",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/creator-campaign-measurement/#answer",
+        "/blog/creator-product-claims-review/#evidence-table",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://support.clickbank.com/en/articles/10535269-what-is-the-clickbank-marketplace",
+        "https://support.clickbank.com/en/articles/10535196-how-do-i-add-or-update-my-clickbank-affiliate-marketplace-listing",
+        "https://support.clickbank.com/en/articles/10535184-affiliates-require-approval",
+        "https://support.clickbank.com/en/articles/10535118-product-guidelines"
+      ],
+      "sourceCount": 4,
+      "tableRows": 5,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "free-instagram-followers-offer-claim-literacy",
+      "locale": "zh",
+      "route": "/zh/blog/free-instagram-followers-offer-claim-literacy/",
+      "h1": "免费Instagram粉丝说法：如何读领取条件",
+      "title": "免费Instagram粉丝说法：如何读领取条件 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/free-instagram-followers-offer-claim-literacy/",
+      "description": "Free Instagram followers Instagram教育指南：核对领取条件、访问请求与声明依据，不推荐刷粉，不承诺识别所有异常。",
+      "cover": "/assets/blog/free-instagram-followers-offer-claim-literacy.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/free-instagram-followers-offer-claim-literacy.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/blog/free-tiktok-likes-engagement-literacy/#answer",
+        "/zh/blog/detect-suspicious-creator-growth/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams",
+        "https://about.fb.com/news/2022/10/protecting-people-from-malicious-account-compromise-apps/",
+        "https://transparency.meta.com/policies/community-standards/spam/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 5,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "free-instagram-followers-offer-claim-literacy",
+      "locale": "en",
+      "route": "/blog/free-instagram-followers-offer-claim-literacy/",
+      "h1": "Free Instagram Followers Offers: Read the Conditions",
+      "title": "Free Instagram Followers Offers: Read the Conditions | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/free-instagram-followers-offer-claim-literacy/",
+      "description": "An educational guide to free Instagram follower offers, access requests and claim evidence, without artificial-growth services or perfect-detection promises.",
+      "cover": "/assets/blog/free-instagram-followers-offer-claim-literacy.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/free-instagram-followers-offer-claim-literacy.jpg",
+      "bodyInternalLinks": [
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/creator-campaign-measurement/#answer",
+        "/blog/free-tiktok-likes-engagement-literacy/#answer",
+        "/blog/creator-metric-definitions/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams",
+        "https://about.fb.com/news/2022/10/protecting-people-from-malicious-account-compromise-apps/",
+        "https://transparency.meta.com/policies/community-standards/spam/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 5,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "grin-creator-product-program-task-fit",
+      "locale": "zh",
+      "route": "/zh/blog/grin-creator-product-program-task-fit/",
+      "h1": "GRIN：核对产品寄送型合作",
+      "title": "GRIN：核对产品寄送型合作 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/grin-creator-product-program-task-fit/",
+      "description": "GRIN平台任务指南：用寄送型项目核对计划、产品、内容与结果，区分当前Gia路线、Classic入口和套餐条件。",
+      "cover": "/assets/blog/grin-creator-product-program-task-fit.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/grin-creator-product-program-task-fit.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/detect-suspicious-creator-growth/#evidence-table",
+        "/zh/blog/influencer-product-seeding-logistics/#interactive-tool",
+        "/zh/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/zh/blog/personalized-creator-outreach/#interactive-tool",
+        "/zh/blog/creator-outreach-follow-up/#interactive-tool",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://grin.co/",
+        "https://grin.co/platform",
+        "https://grin.co/terms-of-use-influencers/",
+        "https://grin.co/pricing"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "grin-creator-product-program-task-fit",
+      "locale": "en",
+      "route": "/blog/grin-creator-product-program-task-fit/",
+      "h1": "GRIN: Scope a Product-Based Creator Program",
+      "title": "GRIN: Scope a Product-Based Creator Program | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/grin-creator-product-program-task-fit/",
+      "description": "Scope a GRIN product-based creator program across offers, products, content and outcomes, distinguishing current Gia, Classic and plan conditions.",
+      "cover": "/assets/blog/grin-creator-product-program-task-fit.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/grin-creator-product-program-task-fit.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/blog/personalized-creator-outreach/#interactive-tool",
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/creator-campaign-measurement/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://grin.co/",
+        "https://grin.co/platform",
+        "https://grin.co/terms-of-use-influencers/",
+        "https://grin.co/pricing"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "use-pinterest-brand-search-content-planning",
+      "locale": "zh",
+      "route": "/zh/blog/use-pinterest-brand-search-content-planning/",
+      "h1": "Pinterest怎么用：规划可发现的品牌内容",
+      "title": "Pinterest怎么用：规划可发现的品牌内容 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/use-pinterest-brand-search-content-planning/",
+      "description": "How to use Pinterest品牌指南：选择账号、研究搜索问题、组织画板与Pin，维护目标页，并按定义理解展示、收藏和站外点击。",
+      "cover": "/assets/blog/use-pinterest-brand-search-content-planning.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/use-pinterest-brand-search-content-planning.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/linktree-brand-destination-hierarchy/#answer",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://help.pinterest.com/en/guide/all-about-pinterest",
+        "https://help.pinterest.com/en/business/article/get-a-business-account",
+        "https://help.pinterest.com/en/article/boards",
+        "https://help.pinterest.com/en/business/article/pinterest-analytics"
+      ],
+      "sourceCount": 4,
+      "tableRows": 5,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "use-pinterest-brand-search-content-planning",
+      "locale": "en",
+      "route": "/blog/use-pinterest-brand-search-content-planning/",
+      "h1": "How to Use Pinterest for Brand Content Planning",
+      "title": "How to Use Pinterest for Brand Content Planning | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/use-pinterest-brand-search-content-planning/",
+      "description": "Use Pinterest for brand planning with suitable accounts, search questions, boards, Pins and destinations, interpreting impressions, saves and outbound clicks by definition.",
+      "cover": "/assets/blog/use-pinterest-brand-search-content-planning.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/use-pinterest-brand-search-content-planning.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/linktree-brand-destination-hierarchy/#answer",
+        "/blog/creator-campaign-measurement/#answer",
+        "/blog/ai-creator-research-prompts/#interactive-tool",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://help.pinterest.com/en/guide/all-about-pinterest",
+        "https://help.pinterest.com/en/business/article/get-a-business-account",
+        "https://help.pinterest.com/en/article/boards",
+        "https://help.pinterest.com/en/business/article/pinterest-analytics"
+      ],
+      "sourceCount": 4,
+      "tableRows": 5,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "instagram-story-brand-sequence-brief",
+      "locale": "zh",
+      "route": "/zh/blog/instagram-story-brand-sequence-brief/",
+      "h1": "Instagram Story：规划短时内容",
+      "title": "Instagram Story：规划短时内容 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/instagram-story-brand-sequence-brief/",
+      "description": "Instagram Story品牌指南：安排内容序列、核对有效时间、区分快拍精选与归档，维护目的地并记录真实交付状态。",
+      "cover": "/assets/blog/instagram-story-brand-sequence-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/instagram-story-brand-sequence-brief.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/reels-brand-education-content-assignment/#answer",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/linktree-brand-destination-hierarchy/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/ja/news/2017/12/instagram_highlight_archive/amp/",
+        "https://about.fb.com/ltam/news/2026/06/presentamos-instagram-plus/",
+        "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "instagram-story-brand-sequence-brief",
+      "locale": "en",
+      "route": "/blog/instagram-story-brand-sequence-brief/",
+      "h1": "Instagram Story: Brief a Short-Lived Brand Sequence",
+      "title": "Instagram Story: Brief a Short-Lived Brand Sequence | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/instagram-story-brand-sequence-brief/",
+      "description": "Plan Instagram Story sequences with clear questions, demonstrations, useful destinations and availability windows, distinguishing Highlights from private archives.",
+      "cover": "/assets/blog/instagram-story-brand-sequence-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/instagram-story-brand-sequence-brief.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/reels-brand-education-content-assignment/#answer",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/linktree-brand-destination-hierarchy/#answer",
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/ja/news/2017/12/instagram_highlight_archive/amp/",
+        "https://about.fb.com/ltam/news/2026/06/presentamos-instagram-plus/",
+        "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "free-instagram-likes-comparison-distortion",
+      "locale": "zh",
+      "route": "/zh/blog/free-instagram-likes-comparison-distortion/",
+      "h1": "免费Instagram点赞：理解比较怎样失真",
+      "title": "免费Instagram点赞：理解比较怎样失真 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/free-instagram-likes-comparison-distortion/",
+      "description": "Free Instagram likes教育指南：比较点赞时核对分母、窗口、激励与数据来源，理解相关和因果，避免刷量推荐及无依据指控。",
+      "cover": "/assets/blog/free-instagram-likes-comparison-distortion.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/free-instagram-likes-comparison-distortion.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+        "/zh/blog/free-instagram-followers-offer-claim-literacy/#answer",
+        "/zh/blog/benchmarking-creator-pilot-comparison-design/#answer"
+      ],
+      "bodyCitations": [
+        "https://transparency.meta.com/policies/community-standards/spam/",
+        "https://amecorg.com/amecframework/",
+        "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "free-instagram-likes-comparison-distortion",
+      "locale": "en",
+      "route": "/blog/free-instagram-likes-comparison-distortion/",
+      "h1": "Free Instagram Likes: Understand Distorted Comparisons",
+      "title": "Free Instagram Likes: Understand Distorted Comparisons | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/free-instagram-likes-comparison-distortion/",
+      "description": "An educational guide to free Instagram likes: examine denominators, observation windows, incentives and sources without recommending artificial growth or accusing individuals.",
+      "cover": "/assets/blog/free-instagram-likes-comparison-distortion.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/free-instagram-likes-comparison-distortion.jpg",
+      "bodyInternalLinks": [
+        "/blog/engagement-rate-formula-metric-contract/#answer",
+        "/blog/free-instagram-followers-offer-claim-literacy/#answer",
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/benchmarking-creator-pilot-comparison-design/#answer",
+        "/blog/creator-metric-definitions/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://transparency.meta.com/policies/community-standards/spam/",
+        "https://amecorg.com/amecframework/",
+        "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "social-media-marketing-operating-plan",
+      "locale": "zh",
+      "route": "/zh/blog/social-media-marketing-operating-plan/",
+      "h1": "社交媒体营销：从目标到执行",
+      "title": "社交媒体营销：从目标到执行 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/social-media-marketing-operating-plan/",
+      "description": "Marketing with social media实用指南：安排目标、内容、创作者、资源与维护责任，以清楚证据解释传播和业务结果。",
+      "cover": "/assets/blog/social-media-marketing-operating-plan.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/social-media-marketing-operating-plan.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://amecorg.com/amecframework/",
+        "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/",
+        "https://www.w3.org/WAI/WCAG21/Techniques/general/G91"
+      ],
+      "sourceCount": 3,
+      "tableRows": 5,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "social-media-marketing-operating-plan",
+      "locale": "en",
+      "route": "/blog/social-media-marketing-operating-plan/",
+      "h1": "Marketing With Social Media: Build an Operating Plan",
+      "title": "Marketing With Social Media: Build an Operating Plan | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/social-media-marketing-operating-plan/",
+      "description": "Build a social media marketing operating plan with audience objectives, content roles, creator scope, resources and maintenance, supported by appropriate outcome evidence.",
+      "cover": "/assets/blog/social-media-marketing-operating-plan.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/social-media-marketing-operating-plan.jpg",
+      "bodyInternalLinks": [
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/collaborate-with-influencers-brand-workflow/#answer",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/creator-landing-page-conversion/#interactive-tool",
+        "/blog/creator-campaign-measurement/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://amecorg.com/amecframework/",
+        "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/",
+        "https://www.w3.org/WAI/WCAG21/Techniques/general/G91"
+      ],
+      "sourceCount": 3,
+      "tableRows": 5,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "what-is-reddit-brand-community-context",
+      "locale": "zh",
+      "route": "/zh/blog/what-is-reddit-brand-community-context/",
+      "h1": "Reddit是什么：理解社区语境",
+      "title": "Reddit是什么：理解社区语境 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/what-is-reddit-brand-community-context/",
+      "description": "What is Reddit品牌入门：理解subreddit、帖子、评论、规则与公开内容边界，按社区语境决定是否适合贡献内容。",
+      "cover": "/assets/blog/what-is-reddit-brand-community-context.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/what-is-reddit-brand-community-context.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/bluesky-social-brand-public-conversation/#answer",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/social-media-marketing-operating-plan/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://support.reddithelp.com/hc/en-us/articles/204511479-What-is-Reddit",
+        "https://support.reddithelp.com/hc/en-us/articles/28621482218260-What-is-the-community-sidebar",
+        "https://support.reddithelp.com/hc/en-us/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals",
+        "https://redditinc.com/news/publishing-our-public-content-policy-and-introducing-a-new-community-for-researchers"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "what-is-reddit-brand-community-context",
+      "locale": "en",
+      "route": "/blog/what-is-reddit-brand-community-context/",
+      "h1": "What Is Reddit? Understand the Community Context",
+      "title": "What Is Reddit? Understand the Community Context | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/what-is-reddit-brand-community-context/",
+      "description": "Learn what Reddit is through communities, posts, comments and rules, then assess brand participation without treating public discussions as unrestricted market data.",
+      "cover": "/assets/blog/what-is-reddit-brand-community-context.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/what-is-reddit-brand-community-context.jpg",
+      "bodyInternalLinks": [
+        "/blog/bluesky-social-brand-public-conversation/#answer",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/social-media-marketing-operating-plan/#answer",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://support.reddithelp.com/hc/en-us/articles/204511479-What-is-Reddit",
+        "https://support.reddithelp.com/hc/en-us/articles/28621482218260-What-is-the-community-sidebar",
+        "https://support.reddithelp.com/hc/en-us/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals",
+        "https://redditinc.com/news/publishing-our-public-content-policy-and-introducing-a-new-community-for-researchers"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "free-instagram-followers-organic-audience-plan",
+      "locale": "zh",
+      "route": "/zh/blog/free-instagram-followers-organic-audience-plan/",
+      "h1": "免费Instagram粉丝：规划自然受众建设",
+      "title": "免费Instagram粉丝：规划自然受众建设 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/free-instagram-followers-organic-audience-plan/",
+      "description": "Free Instagram followers教育指南：不购买或交换互动，用清楚定位、原创说明与维护计划建立关注理由，理解自然分发的成本和边界。",
+      "cover": "/assets/blog/free-instagram-followers-organic-audience-plan.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/free-instagram-followers-organic-audience-plan.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/reels-brand-education-content-assignment/#answer",
+        "/zh/blog/social-media-marketing-operating-plan/#answer",
+        "/zh/blog/free-instagram-likes-comparison-distortion/#answer"
+      ],
+      "bodyCitations": [
+        "https://help.instagram.com/728994388226960/",
+        "https://transparency.meta.com/policies/community-standards/spam/",
+        "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/",
+        "https://www.w3.org/WAI/WCAG21/Techniques/general/G91"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "free-instagram-followers-organic-audience-plan",
+      "locale": "en",
+      "route": "/blog/free-instagram-followers-organic-audience-plan/",
+      "h1": "Free Instagram Followers: Plan Organic Audience Development",
+      "title": "Free Instagram Followers: Plan Organic Audience Development | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/free-instagram-followers-organic-audience-plan/",
+      "description": "An educational guide to free Instagram followers: build a reason to follow through clear positioning, original explanations and maintenance without growth guarantees.",
+      "cover": "/assets/blog/free-instagram-followers-organic-audience-plan.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/free-instagram-followers-organic-audience-plan.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/reels-brand-education-content-assignment/#answer",
+        "/blog/social-media-marketing-operating-plan/#answer",
+        "/blog/free-instagram-likes-comparison-distortion/#answer",
+        "/blog/creator-performance-benchmarks/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://help.instagram.com/728994388226960/",
+        "https://transparency.meta.com/policies/community-standards/spam/",
+        "https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/",
+        "https://www.w3.org/WAI/WCAG21/Techniques/general/G91"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "download-instagram-reels-account-owner-archive",
+      "locale": "zh",
+      "route": "/zh/blog/download-instagram-reels-account-owner-archive/",
+      "h1": "下载Instagram Reels：整理账号自有归档",
+      "title": "下载Instagram Reels：整理账号自有归档 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/download-instagram-reels-account-owner-archive/",
+      "description": "Download Instagram Reels账号归档指南：通过官方入口选择导出范围，核对实际收到文件、版本和缺项，不将副本当成商业使用许可。",
+      "cover": "/assets/blog/download-instagram-reels-account-owner-archive.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/download-instagram-reels-account-owner-archive.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/socialblade-data-reporting-handoff/#answer",
+        "/zh/blog/creator-raw-footage-rights/#answer",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://help.instagram.com/181231772500920/",
+        "https://about.fb.com/news/2023/10/manage-your-information-across-apps/",
+        "https://help.instagram.com/520831036611383/?cms_platform=android-app"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "download-instagram-reels-account-owner-archive",
+      "locale": "en",
+      "route": "/blog/download-instagram-reels-account-owner-archive/",
+      "h1": "Download Instagram Reels: Organize an Account Archive",
+      "title": "Download Instagram Reels: Organize an Account Archive | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/download-instagram-reels-account-owner-archive/",
+      "description": "Organize an Instagram Reels account archive using official export routes, scope and received-file checks, without confusing platform copies with commercial-use permission.",
+      "cover": "/assets/blog/download-instagram-reels-account-owner-archive.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/download-instagram-reels-account-owner-archive.jpg",
+      "bodyInternalLinks": [
+        "/blog/ai-creator-research-prompts/#interactive-tool",
+        "/blog/socialblade-data-reporting-handoff/#answer",
+        "/blog/creator-raw-footage-rights/#answer",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://help.instagram.com/181231772500920/",
+        "https://about.fb.com/news/2023/10/manage-your-information-across-apps/",
+        "https://help.instagram.com/520831036611383/?cms_platform=android-app"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "download-instagram-reel-single-post-reference",
+      "locale": "zh",
+      "route": "/zh/blog/download-instagram-reel-single-post-reference/",
+      "h1": "下载单条Instagram Reel：保留来源与用途",
+      "title": "下载单条Instagram Reel：保留来源与用途 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/download-instagram-reel-single-post-reference/",
+      "description": "Download Instagram Reel单条参考指南：区分收藏与下载条件，保留原始出处、文件状态和实际用途，商业素材另核对原件及使用安排。",
+      "cover": "/assets/blog/download-instagram-reel-single-post-reference.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/download-instagram-reel-single-post-reference.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/download-instagram-reels-account-owner-archive/#answer",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://help.instagram.com/1744643532522513/?cms_platform=android-app",
+        "https://help.instagram.com/520831036611383/?cms_platform=android-app",
+        "https://www.copyright.gov/help/faq/faq-fairuse.html"
+      ],
+      "sourceCount": 3,
+      "tableRows": 3,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "download-instagram-reel-single-post-reference",
+      "locale": "en",
+      "route": "/blog/download-instagram-reel-single-post-reference/",
+      "h1": "Download an Instagram Reel: Keep Source and Purpose",
+      "title": "Download an Instagram Reel: Keep Source and Purpose | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/download-instagram-reel-single-post-reference/",
+      "description": "Handle one Instagram Reel as a reference by distinguishing saved posts, download conditions, source records and production needs, with commercial assets handled separately.",
+      "cover": "/assets/blog/download-instagram-reel-single-post-reference.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/download-instagram-reel-single-post-reference.jpg",
+      "bodyInternalLinks": [
+        "/blog/download-instagram-reels-account-owner-archive/#answer",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://help.instagram.com/1744643532522513/?cms_platform=android-app",
+        "https://help.instagram.com/520831036611383/?cms_platform=android-app",
+        "https://www.copyright.gov/help/faq/faq-fairuse.html"
+      ],
+      "sourceCount": 3,
+      "tableRows": 3,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "download-ig-reel-campaign-closeout-record",
+      "locale": "zh",
+      "route": "/zh/blog/download-ig-reel-campaign-closeout-record/",
+      "h1": "IG Reel下载：活动结束交接",
+      "title": "IG Reel下载：活动结束交接 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/download-ig-reel-campaign-closeout-record/",
+      "description": "Download IG Reel活动结束指南：整理已发布内容、适当原件、批准与使用记录，核对缺项和状态，并下载双语交接CSV。",
+      "cover": "/assets/blog/download-ig-reel-campaign-closeout-record.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/download-ig-reel-campaign-closeout-record.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/download-instagram-reels-account-owner-archive/#answer",
+        "/zh/blog/download-instagram-reel-single-post-reference/#answer",
+        "/zh/blog/creator-raw-footage-rights/#answer",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/creator-usage-rights-renewal/#evidence-table",
+        "/zh/blog/creator-campaign-measurement/#answer",
+        "/zh/#capabilities"
+      ],
+      "bodyCitations": [
+        "https://help.instagram.com/520831036611383/?cms_platform=android-app",
+        "https://help.frame.io/en/articles/9952618-comparison-viewer",
+        "https://helpx.adobe.com/premiere/desktop/render-and-export/export-files/overview-of-export-settings.html"
+      ],
+      "sourceCount": 3,
+      "tableRows": 5,
+      "checklistItems": 6,
+      "failures": []
+    },
+    {
+      "slug": "download-ig-reel-campaign-closeout-record",
+      "locale": "en",
+      "route": "/blog/download-ig-reel-campaign-closeout-record/",
+      "h1": "Download an IG Reel: Complete the Campaign Handoff",
+      "title": "Download an IG Reel: Complete the Campaign Handoff | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/download-ig-reel-campaign-closeout-record/",
+      "description": "Close an IG Reel campaign with publication records, suitable originals, versions, approval and use scope, using a bilingual handoff CSV to retain unresolved items.",
+      "cover": "/assets/blog/download-ig-reel-campaign-closeout-record.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/download-ig-reel-campaign-closeout-record.jpg",
+      "bodyInternalLinks": [
+        "/blog/download-instagram-reels-account-owner-archive/#answer",
+        "/blog/download-instagram-reel-single-post-reference/#answer",
+        "/blog/creator-raw-footage-rights/#answer",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/creator-campaign-measurement/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://help.instagram.com/520831036611383/?cms_platform=android-app",
+        "https://help.frame.io/en/articles/9952618-comparison-viewer",
+        "https://helpx.adobe.com/premiere/desktop/render-and-export/export-files/overview-of-export-settings.html"
+      ],
+      "sourceCount": 3,
+      "tableRows": 5,
+      "checklistItems": 6,
+      "failures": []
+    }
+  ]
+}

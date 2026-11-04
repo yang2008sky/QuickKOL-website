@@ -1,0 +1,41 @@
+{
+  "checkedAt": "2026-11-04",
+  "articles": 24,
+  "bilingualPages": 48,
+  "englishBodyWords": {
+    "min": 1503,
+    "max": 1549
+  },
+  "minimumSources": 3,
+  "minimumConfiguredBodyLinks": 3,
+  "draftBodiesPassed": true,
+  "renderedPagesPassed": true,
+  "localHTTP": {
+    "paths": 78,
+    "passed": true
+  },
+  "csvBrowserDownloads": {
+    "files": 6,
+    "byteMatches": true,
+    "utf8BOM": true,
+    "lineEnding": "LF"
+  },
+  "independentPreviewBuild": {
+    "completed": true,
+    "entrypoints": 817,
+    "sitemapURLs": 817
+  },
+  "existingTests": {
+    "total": 61,
+    "passed": 60,
+    "failed": 1,
+    "knownFailure": "/blog/definition-influencer-multilingual-brief-glossary/ contains intentional Chinese translation examples in its English body, conflicting with the existing global no-Hanzi assertion. Existing article and test unchanged."
+  },
+  "visualScope": "Final 24: Chinese and English first two list pages at desktop and390x844 mobile, all covers loaded. All24 Chinese detail titles checked for mobile line wrapping. Representative photo detail, TOC, table scroll container and download component checked. Exact records and screenshots in visual-audit.json. Not every complete article was screenshot in both languages.",
+  "limitations": [
+    "No claim of screenshotting every full article in both languages.",
+    "Shared template has pre-existing 1px document-width difference at390px; article/card width350px and table620px within348px scroll container.",
+    "A few earlier process screenshots show the original30; final-24 screenshots are the upload evidence."
+  ],
+  "publication": "Content handoff only. Formal website integration, final review, merge and deployment remain with the maintainer."
+}
