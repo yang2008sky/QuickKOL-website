@@ -1,19 +1,4 @@
 {
-  "copyrightPermission": {
-    "terms": [
-      "美国版权局使用作品问答",
-      "U.S. Copyright Office permission FAQ"
-    ],
-    "label": [
-      "美国版权局使用作品问答",
-      "U.S. Copyright Office permission FAQ"
-    ],
-    "url": "https://www.copyright.gov/help/faq/faq-fairuse.html",
-    "reviewedAt": "2026-11-04",
-    "claims": [
-      "Actual primary text read Nov4: request owner permission, copies distinct from copyright, no automatic fixed percentage fair-use rule. US context only; not a universal conclusion on specific reference use."
-    ]
-  },
   "laterHome": {
     "terms": [
       "Later官方产品入口",
@@ -57,36 +42,6 @@
     "reviewedAt": "2026-11-04",
     "claims": [
       "Read current whole page. Review/comment roles/sharedcalendar; FAQ qualification: Members scheduledposts publish regardlessapproval and Reviewer PublishWithoutApprovalcannotdisabled. Do notpromiseunconditional hardgate fromheadline. Availabilityplan-dependent, no accounttrial."
-    ]
-  },
-  "frameCompare": {
-    "terms": [
-      "Frame.io版本比较说明",
-      "Frame.io version-comparison guide"
-    ],
-    "label": [
-      "Frame.io版本比较说明",
-      "Frame.io version-comparison guide"
-    ],
-    "url": "https://help.frame.io/en/articles/9952618-comparison-viewer",
-    "reviewedAt": "2026-11-04",
-    "claims": [
-      "Sept9 2026 current source freshly readNov4. V4 compares assets and comments assignedto correctside. Comparisonnotcommercialapproval; no softwareaccounttest."
-    ]
-  },
-  "adobeExport": {
-    "terms": [
-      "Adobe导出设置说明",
-      "Adobe export-settings guide"
-    ],
-    "label": [
-      "Adobe导出设置说明",
-      "Adobe export-settings guide"
-    ],
-    "url": "https://helpx.adobe.com/premiere/desktop/render-and-export/export-files/overview-of-export-settings.html",
-    "reviewedAt": "2026-11-04",
-    "claims": [
-      "Aug18 2026 source actualbody video/audio/captions/metadata readNov4. Availableoptionsvarybyformat, frameSize andrate independent, captionssidecar/burned/embedded conditional, no clientfile tested or universal TikTokspec imposed."
     ]
   },
   "laterPlatform": {
@@ -402,36 +357,6 @@
     "reviewedAt": "2026-11-04",
     "claims": [
       "Official full body read Nov4: propertiespeerindustrycohortpercentiles,25/50/75; absolutevaluesnormalizedestimates exceptactiveusers. Availability/data sharing prerequisites current. Do not applyweb/appcohorttoTikTokcreatorengagement; no accountsettingchanges."
-    ]
-  },
-  "igSave": {
-    "terms": [
-      "Instagram收藏说明",
-      "Instagram saved-posts guide"
-    ],
-    "label": [
-      "Instagram收藏说明",
-      "Instagram saved-posts guide"
-    ],
-    "url": "https://help.instagram.com/1744643532522513/?cms_platform=android-app",
-    "reviewedAt": "2026-11-04",
-    "claims": [
-      "Actual official mobileplatform Chinese body read browser Nov4: Reels Options→Save, personal Saved area, collection/view routes, onlypersonalSavedvisibletoyou/nosavenotification. Desktopdefault saysnotavailablebutmobilebody hasdesktopviewaccordion; do not universalizeunsupportedUIclaim."
-    ]
-  },
-  "igDownload": {
-    "terms": [
-      "Instagram下载条件说明",
-      "Instagram download-conditions guide"
-    ],
-    "label": [
-      "Instagram下载条件说明",
-      "Instagram download-conditions guide"
-    ],
-    "url": "https://help.instagram.com/520831036611383/?cms_platform=android-app",
-    "reviewedAt": "2026-11-04",
-    "claims": [
-      "Actual official full Chinese Android body read browser Nov4: public/private/newReels controls, publicunder18offdefault, copiesalreadydownloadednotrecalled, downloadedfilewatermarkusernameaudioattribution, originalaudio conditional, downloadedReelsMUSTNOTBEUSEDFORCOMMERCIALPURPOSES. Brands needappropriateoriginalseparatedeliveryandbasis, notsuggestlicenseoverridesnativecopycondition. No actualuserdownload/accounttest."
     ]
   },
   "googleTrendData": {
@@ -987,36 +912,6 @@
     "reviewedAt": "2026-11-04",
     "claims": [
       "May9 2024 fullbodyreadNov4, publiccontentnotunrestrictedbulkcommercialextraction; policies/licensingconditions. NoAPIuseperformed."
-    ]
-  },
-  "igExport": {
-    "terms": [
-      "Instagram信息导出说明",
-      "Instagram information-export guide"
-    ],
-    "label": [
-      "Instagram信息导出说明",
-      "Instagram information-export guide"
-    ],
-    "url": "https://help.instagram.com/181231772500920/",
-    "reviewedAt": "2026-11-04",
-    "claims": [
-      "Official renderedChinese desktopfullbodyreadNov4 via browser. GradualMetaaccountsmigration,AccountsCenterinformationpermissions/export/selectprofile/device/categories/date/format/quality,4dayavailability,up30days,deletedinfoexcluded. Noexportrequested."
-    ]
-  },
-  "metaInfo": {
-    "terms": [
-      "Meta信息管理说明",
-      "Meta information-management explanation"
-    ],
-    "label": [
-      "Meta信息管理说明",
-      "Meta information-management explanation"
-    ],
-    "url": "https://about.fb.com/news/2023/10/manage-your-information-across-apps/",
-    "reviewedAt": "2026-11-04",
-    "claims": [
-      "Oct17 2023 officialbodyreadNov4: centralizedAccess/DownloadYourInfo,transferInstagramphotosvideos. Historicalannouncementnotcurrentexactlabels."
     ]
   }
 }

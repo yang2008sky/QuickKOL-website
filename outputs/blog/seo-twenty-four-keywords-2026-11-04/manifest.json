@@ -3,7 +3,7 @@
   "repository": "https://github.com/yang2008sky/QuickKOL-website",
   "branch": "seo-blog",
   "baseRevision": "71480921e1ceacadfbd6d6f3254f272d95584de9",
-  "articleCount": 24,
+  "articleCount": 21,
   "languages": [
     "zh",
     "en"
@@ -348,54 +348,6 @@
         "zh": "https://www.quickkol.com/zh/blog/free-instagram-followers-organic-audience-plan/"
       },
       "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
-    },
-    {
-      "id": 22,
-      "originalId": 28,
-      "keyword": "download instagram reels",
-      "slug": "download-instagram-reels-account-owner-archive",
-      "title": [
-        "下载Instagram Reels：整理账号自有归档",
-        "Download Instagram Reels: Organize an Account Archive"
-      ],
-      "englishBodyWords": 1511,
-      "urls": {
-        "en": "https://www.quickkol.com/blog/download-instagram-reels-account-owner-archive/",
-        "zh": "https://www.quickkol.com/zh/blog/download-instagram-reels-account-owner-archive/"
-      },
-      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
-    },
-    {
-      "id": 23,
-      "originalId": 29,
-      "keyword": "download instagram reel",
-      "slug": "download-instagram-reel-single-post-reference",
-      "title": [
-        "下载单条Instagram Reel：保留来源与用途",
-        "Download an Instagram Reel: Keep Source and Purpose"
-      ],
-      "englishBodyWords": 1507,
-      "urls": {
-        "en": "https://www.quickkol.com/blog/download-instagram-reel-single-post-reference/",
-        "zh": "https://www.quickkol.com/zh/blog/download-instagram-reel-single-post-reference/"
-      },
-      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
-    },
-    {
-      "id": 24,
-      "originalId": 30,
-      "keyword": "download ig reel",
-      "slug": "download-ig-reel-campaign-closeout-record",
-      "title": [
-        "IG Reel下载：活动结束交接",
-        "Download an IG Reel: Complete the Campaign Handoff"
-      ],
-      "englishBodyWords": 1509,
-      "urls": {
-        "en": "https://www.quickkol.com/blog/download-ig-reel-campaign-closeout-record/",
-        "zh": "https://www.quickkol.com/zh/blog/download-ig-reel-campaign-closeout-record/"
-      },
-      "publicationDate": "Draft/research date2026-11-04; maintainer to confirm actual release date."
     }
   ],
   "cancelled": [
@@ -428,6 +380,23 @@
       "originalId": 23,
       "keyword": "philippine golfers",
       "slug": "philippine-golfers-brand-content-roles"
+    },
+    {
+      "originalId": 28,
+      "keyword": "download instagram reels",
+      "slug": "download-instagram-reels-account-owner-archive"
+    },
+    {
+      "originalId": 29,
+      "keyword": "download instagram reel",
+      "slug": "download-instagram-reel-single-post-reference"
+    },
+    {
+      "originalId": 30,
+      "keyword": "download ig reel",
+      "slug": "download-ig-reel-campaign-closeout-record"
     }
-  ]
+  ],
+  "lastScopeChange": "User additionally cancelled download instagram reels, download instagram reel and download ig reel; active21, cancelled9.",
+  "lastScopeChangeBaseRevision": "5778eca60a5517c73cf13cbe0421c05c55f117e1"
 }

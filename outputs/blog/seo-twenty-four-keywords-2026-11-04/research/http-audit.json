@@ -1,21 +1,9 @@
 {
   "checkedAt": "2026-11-04",
-  "paths": 78,
+  "paths": 67,
   "passed": true,
   "failed": [],
   "results": [
-    {
-      "path": "/assets/blog/later-social-influence-services-task-fit.jpg",
-      "status": 200,
-      "type": "image/jpeg",
-      "bytes": 97753
-    },
-    {
-      "path": "/zh/blog/later-social-influence-services-task-fit/",
-      "status": 200,
-      "type": "text/html",
-      "bytes": 2513
-    },
     {
       "path": "/blog/later-social-influence-services-task-fit/",
       "status": 200,
@@ -27,6 +15,18 @@
       "status": 200,
       "type": "text/html",
       "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/later-social-influence-services-task-fit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/later-social-influence-services-task-fit.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 97753
     },
     {
       "path": "/zh/blog/bluesky-social-brand-public-conversation/",
@@ -53,13 +53,13 @@
       "bytes": 263712
     },
     {
-      "path": "/zh/blog/social-blade-public-channel-statistics/",
+      "path": "/blog/social-blade-public-channel-statistics/",
       "status": 200,
       "type": "text/html",
       "bytes": 2513
     },
     {
-      "path": "/blog/social-blade-public-channel-statistics/",
+      "path": "/zh/blog/social-blade-public-channel-statistics/",
       "status": 200,
       "type": "text/html",
       "bytes": 2513
@@ -77,13 +77,13 @@
       "bytes": 77552
     },
     {
-      "path": "/blog/free-tiktok-likes-engagement-literacy/",
+      "path": "/zh/blog/free-tiktok-likes-engagement-literacy/",
       "status": 200,
       "type": "text/html",
       "bytes": 2513
     },
     {
-      "path": "/zh/blog/free-tiktok-likes-engagement-literacy/",
+      "path": "/blog/free-tiktok-likes-engagement-literacy/",
       "status": 200,
       "type": "text/html",
       "bytes": 2513
@@ -101,6 +101,12 @@
       "bytes": 68385
     },
     {
+      "path": "/zh/blog/benchmarking-creator-pilot-comparison-design/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
       "path": "/blog/trending-social-content-signal-brief/",
       "status": 200,
       "type": "text/html",
@@ -108,12 +114,6 @@
     },
     {
       "path": "/zh/blog/trending-social-content-signal-brief/",
-      "status": 200,
-      "type": "text/html",
-      "bytes": 2513
-    },
-    {
-      "path": "/zh/blog/benchmarking-creator-pilot-comparison-design/",
       "status": 200,
       "type": "text/html",
       "bytes": 2513
@@ -161,16 +161,16 @@
       "bytes": 2513
     },
     {
-      "path": "/blog/socialblade-official-site-identity-navigation/",
-      "status": 200,
-      "type": "text/html",
-      "bytes": 2513
-    },
-    {
       "path": "/assets/blog/linktree-brand-destination-hierarchy.jpg",
       "status": 200,
       "type": "image/jpeg",
       "bytes": 75548
+    },
+    {
+      "path": "/blog/socialblade-official-site-identity-navigation/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
     },
     {
       "path": "/zh/blog/socialblade-official-site-identity-navigation/",
@@ -281,16 +281,16 @@
       "bytes": 2513
     },
     {
-      "path": "/assets/blog/use-pinterest-brand-search-content-planning.jpg",
-      "status": 200,
-      "type": "image/jpeg",
-      "bytes": 247316
-    },
-    {
       "path": "/assets/blog/grin-creator-product-program-task-fit.jpg",
       "status": 200,
       "type": "image/jpeg",
       "bytes": 245864
+    },
+    {
+      "path": "/assets/blog/use-pinterest-brand-search-content-planning.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 247316
     },
     {
       "path": "/blog/instagram-story-brand-sequence-brief/",
@@ -353,22 +353,16 @@
       "bytes": 2513
     },
     {
-      "path": "/assets/blog/what-is-reddit-brand-community-context.jpg",
-      "status": 200,
-      "type": "image/jpeg",
-      "bytes": 357940
-    },
-    {
       "path": "/assets/blog/social-media-marketing-operating-plan.jpg",
       "status": 200,
       "type": "image/jpeg",
       "bytes": 273497
     },
     {
-      "path": "/zh/blog/free-instagram-followers-organic-audience-plan/",
+      "path": "/assets/blog/what-is-reddit-brand-community-context.jpg",
       "status": 200,
-      "type": "text/html",
-      "bytes": 2513
+      "type": "image/jpeg",
+      "bytes": 357940
     },
     {
       "path": "/blog/free-instagram-followers-organic-audience-plan/",
@@ -377,64 +371,10 @@
       "bytes": 2513
     },
     {
-      "path": "/blog/download-instagram-reels-account-owner-archive/",
+      "path": "/zh/blog/free-instagram-followers-organic-audience-plan/",
       "status": 200,
       "type": "text/html",
       "bytes": 2513
-    },
-    {
-      "path": "/assets/blog/free-instagram-followers-organic-audience-plan.jpg",
-      "status": 200,
-      "type": "image/jpeg",
-      "bytes": 70335
-    },
-    {
-      "path": "/zh/blog/download-instagram-reels-account-owner-archive/",
-      "status": 200,
-      "type": "text/html",
-      "bytes": 2513
-    },
-    {
-      "path": "/blog/download-instagram-reel-single-post-reference/",
-      "status": 200,
-      "type": "text/html",
-      "bytes": 2513
-    },
-    {
-      "path": "/zh/blog/download-instagram-reel-single-post-reference/",
-      "status": 200,
-      "type": "text/html",
-      "bytes": 2513
-    },
-    {
-      "path": "/assets/blog/download-instagram-reels-account-owner-archive.jpg",
-      "status": 200,
-      "type": "image/jpeg",
-      "bytes": 214741
-    },
-    {
-      "path": "/blog/download-ig-reel-campaign-closeout-record/",
-      "status": 200,
-      "type": "text/html",
-      "bytes": 2513
-    },
-    {
-      "path": "/zh/blog/download-ig-reel-campaign-closeout-record/",
-      "status": 200,
-      "type": "text/html",
-      "bytes": 2513
-    },
-    {
-      "path": "/assets/blog/download-ig-reel-campaign-closeout-record.jpg",
-      "status": 200,
-      "type": "image/jpeg",
-      "bytes": 70857
-    },
-    {
-      "path": "/assets/blog/download-instagram-reel-single-post-reference.jpg",
-      "status": 200,
-      "type": "image/jpeg",
-      "bytes": 289598
     },
     {
       "path": "/downloads/pilot-comparison-design.zh.csv",
@@ -446,10 +386,16 @@
       "lines": 3
     },
     {
-      "path": "/downloads/source-snapshot-handoff.zh.csv",
+      "path": "/assets/blog/free-instagram-followers-organic-audience-plan.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 70335
+    },
+    {
+      "path": "/downloads/pilot-comparison-design.en.csv",
       "status": 200,
       "type": "text/csv",
-      "bytes": 231,
+      "bytes": 282,
       "utf8BOM": true,
       "hasCR": false,
       "lines": 3
@@ -464,28 +410,10 @@
       "lines": 3
     },
     {
-      "path": "/downloads/pilot-comparison-design.en.csv",
+      "path": "/downloads/source-snapshot-handoff.zh.csv",
       "status": 200,
       "type": "text/csv",
-      "bytes": 282,
-      "utf8BOM": true,
-      "hasCR": false,
-      "lines": 3
-    },
-    {
-      "path": "/downloads/reel-campaign-closeout.zh.csv",
-      "status": 200,
-      "type": "text/csv",
-      "bytes": 288,
-      "utf8BOM": true,
-      "hasCR": false,
-      "lines": 3
-    },
-    {
-      "path": "/downloads/reel-campaign-closeout.en.csv",
-      "status": 200,
-      "type": "text/csv",
-      "bytes": 299,
+      "bytes": 231,
       "utf8BOM": true,
       "hasCR": false,
       "lines": 3

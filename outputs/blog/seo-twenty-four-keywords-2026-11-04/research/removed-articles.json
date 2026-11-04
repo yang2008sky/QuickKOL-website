@@ -1,6 +1,6 @@
 {
   "recordedAt": "2026-11-04",
-  "reason": "User explicitly cancelled these six articles before GitHub upload.",
+  "reason": "User cancelled six articles, then these three Instagram download articles before maintainer integration.",
   "removed": [
     {
       "originalId": 1,
@@ -31,6 +31,21 @@
       "originalId": 23,
       "keyword": "philippine golfers",
       "slug": "philippine-golfers-brand-content-roles"
+    },
+    {
+      "originalId": 28,
+      "keyword": "download instagram reels",
+      "slug": "download-instagram-reels-account-owner-archive"
+    },
+    {
+      "originalId": 29,
+      "keyword": "download instagram reel",
+      "slug": "download-instagram-reel-single-post-reference"
+    },
+    {
+      "originalId": 30,
+      "keyword": "download ig reel",
+      "slug": "download-ig-reel-campaign-closeout-record"
     }
   ]
 }

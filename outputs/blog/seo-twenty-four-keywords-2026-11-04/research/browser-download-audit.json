@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-11-04",
-  "method": "Actual browser downloadMedia on each rendered download link; byte comparison with delivered source.",
+  "method": "Actual browser downloadMedia on each rendered download link; byte comparison with delivered source. Cancelled article attachments removed; retained four files unchanged.",
   "records": [
     {
       "article": "benchmarking-creator-pilot-comparison-design",
@@ -41,27 +41,8 @@
       "matchesSource": true,
       "utf8BOM": true,
       "hasCR": false
-    },
-    {
-      "article": "download-ig-reel-campaign-closeout-record",
-      "href": "/downloads/reel-campaign-closeout.zh.csv",
-      "fileName": "reel-campaign-closeout.zh.csv",
-      "bytes": 288,
-      "sha256": "63db3bf46268c8ef4d6f6acc78387a5586d8981de2d149989b972f314f707956",
-      "matchesSource": true,
-      "utf8BOM": true,
-      "hasCR": false
-    },
-    {
-      "article": "download-ig-reel-campaign-closeout-record",
-      "href": "/downloads/reel-campaign-closeout.en.csv",
-      "fileName": "reel-campaign-closeout.en.csv",
-      "bytes": 299,
-      "sha256": "763fd036dad9a65b9dddc32a593f947a5903cb3035a11194fd8739fcf498265e",
-      "matchesSource": true,
-      "utf8BOM": true,
-      "hasCR": false
     }
   ],
-  "passed": true
+  "passed": true,
+  "activeFiles": 4
 }
