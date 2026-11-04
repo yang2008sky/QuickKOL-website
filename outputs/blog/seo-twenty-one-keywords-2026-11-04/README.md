@@ -1,6 +1,6 @@
 # QuickKOL · 21篇双语文章交付包
 
-原30篇中，用户先取消6篇，上传24篇后又取消3篇Instagram下载文章。**当前实际保留21篇、42份中英文Markdown、21张最终封面及源图/SVG、4份CSV。**目录沿用seo-twenty-four-keywords-2026-11-04以保持交接链接稳定；以manifest.json中的21篇清单为准。
+原30篇中，用户先取消6篇，上传24篇后又取消3篇Instagram下载文章。**当前实际保留21篇、42份中英文Markdown、21张最终封面及源图/SVG、4份CSV。**交付目录为seo-twenty-one-keywords-2026-11-04，与manifest.json中的21篇清单一致。
 
 ## 状态与范围
 
