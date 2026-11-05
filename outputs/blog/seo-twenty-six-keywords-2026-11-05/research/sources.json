@@ -1,0 +1,977 @@
+{
+  "duet": {
+    "terms": [
+      "TikTok合拍操作说明",
+      "TikTok Duet guide"
+    ],
+    "label": [
+      "TikTok合拍操作说明",
+      "TikTok Duet guide"
+    ],
+    "url": "https://www.tiktok.com/support/faq_detail?id=7636670084584512021",
+    "claims": [
+      "Actual rendered official help: share, select Duet, record, continue and edit, save draft or post. Original and response appear on different profiles; not every source permits Duet."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "duetPrivacy": {
+    "terms": [
+      "TikTok合拍隐私说明",
+      "TikTok Duet privacy guide"
+    ],
+    "label": [
+      "TikTok合拍隐私说明",
+      "TikTok Duet privacy guide"
+    ],
+    "url": "https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/duets",
+    "claims": [
+      "Indexed official full help text: public account for incoming Duets, everyone/friends and per-post reuse controls, shared reuse consequences; Remove all posts includes original and associated Duet/Stitch. Live old help route now redirects to TikTok Support."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttMusic": {
+    "terms": [
+      "TikTok商业音乐说明",
+      "TikTok commercial music guidance"
+    ],
+    "label": [
+      "TikTok商业音乐说明",
+      "TikTok commercial music guidance"
+    ],
+    "url": "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/commercial-use-of-music-on-tiktok",
+    "claims": [
+      "Indexed first-party help recommends Commercial Music Library for promotion. Outside it, Music Usage Confirmation applies when disclosure is enabled. Check specific use rights independently."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttDisclosure": {
+    "terms": [
+      "TikTok商业披露说明",
+      "TikTok commercial disclosure guidance"
+    ],
+    "label": [
+      "TikTok商业披露说明",
+      "TikTok commercial disclosure guidance"
+    ],
+    "url": "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service",
+    "claims": [
+      "Indexed official full help text: disclose own or third-party promotions, own label Promotional content and third party Paid partnership. Actual live and post routes described."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "copyrightDance": {
+    "terms": [
+      "美国版权局舞蹈编排说明",
+      "U.S. Copyright Office choreography circular"
+    ],
+    "label": [
+      "美国版权局舞蹈编排说明",
+      "U.S. Copyright Office choreography circular"
+    ],
+    "url": "https://www.copyright.gov/circs/circ52.pdf",
+    "claims": [
+      "Circular 52 lines 3–29,60–62,71–87: copyrightable U.S. choreography can involve a fixed coherent arrangement; commonplace steps/simple routines may not be registrable, and music is separately assessed."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "w3Captions": {
+    "terms": [
+      "W3C字幕指南",
+      "W3C captions guide"
+    ],
+    "label": [
+      "W3C字幕指南",
+      "W3C captions guide"
+    ],
+    "url": "https://www.w3.org/WAI/media/av/captions/",
+    "claims": [
+      "Accessibility guidance on timed text and relevant non-speech audio. Used as an editorial review reference, not certification."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttLive": {
+    "terms": [
+      "TikTok直播资格与操作指南",
+      "TikTok LIVE eligibility and setup guide"
+    ],
+    "label": [
+      "TikTok直播资格与操作指南",
+      "TikTok LIVE eligibility and setup guide"
+    ],
+    "url": "https://www.tiktok.com/support/faq_detail?id=7543604790438451768",
+    "claims": [
+      "Rendered official help on 2026-11-05: 18+ to host, 1,000 followers with regional variation, mobile Add post → LIVE → settings/title → Go LIVE, End LIVE → End now."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttLiveIssues": {
+    "terms": [
+      "TikTok直播问题排查说明",
+      "TikTok LIVE troubleshooting guide"
+    ],
+    "label": [
+      "TikTok直播问题排查说明",
+      "TikTok LIVE troubleshooting guide"
+    ],
+    "url": "https://support.tiktok.com/en/log-in-troubleshoot/troubleshooting/issues-with-tiktok-live",
+    "claims": [
+      "Official guidance to check eligibility if unable to start LIVE and report issues."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttRewards": {
+    "terms": [
+      "TikTok创作者奖励计划规则",
+      "TikTok Creator Rewards Program requirements"
+    ],
+    "label": [
+      "TikTok创作者奖励计划规则",
+      "TikTok Creator Rewards Program requirements"
+    ],
+    "url": "https://www.tiktok.com/support/faq_detail?id=7581821550694013452",
+    "claims": [
+      "Rendered official English help: eligible region, Personal Account, 18+ (19 in South Korea), 10,000 followers and 100,000 video views in last 30 days, original 1+ minute videos, post-join, 1,000 qualified For You views, sponsored/promoted videos excluded."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttRewardModel": {
+    "terms": [
+      "TikTok奖励计算说明",
+      "TikTok rewards calculation guide"
+    ],
+    "label": [
+      "TikTok奖励计算说明",
+      "TikTok rewards calculation guide"
+    ],
+    "url": "https://support.tiktok.com/en/business-and-creator/creator-rewards-program/how-rewards-work",
+    "claims": [
+      "Official Rewards documentation. Standard Reward uses qualified views and RPM; Additional Reward evaluates quality, engagement and specialization."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttRewardFund": {
+    "terms": [
+      "TikTok奖励计划与旧基金对照",
+      "TikTok comparison with the former Creator Fund"
+    ],
+    "label": [
+      "TikTok奖励计划与旧基金对照",
+      "TikTok comparison with the former Creator Fund"
+    ],
+    "url": "https://support.tiktok.com/en/business-and-creator/creator-rewards-program/how-is-the-creator-rewards-program-different-from-the-tiktok-creator-fund",
+    "claims": [
+      "First-party comparison of program requirements and estimated dashboard reporting; prefer current requirements page for precise thresholds."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "metaSpam": {
+    "terms": [
+      "Meta垃圾信息政策",
+      "Meta spam policy"
+    ],
+    "label": [
+      "Meta垃圾信息政策",
+      "Meta spam policy"
+    ],
+    "url": "https://transparency.meta.com/policies/community-standards/spam/",
+    "claims": [
+      "Meta describes restrictions on artificial collection of likes/followers/shares; policy is not individual attribution proof."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ftcPhishing": {
+    "terms": [
+      "美国FTC防钓鱼指南",
+      "FTC phishing guidance"
+    ],
+    "label": [
+      "美国FTC防钓鱼指南",
+      "FTC phishing guidance"
+    ],
+    "url": "https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams",
+    "claims": [
+      "Use an independently trusted contact or website; watch for requests for sensitive information, suspicious messages and links."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttAuthenticity": {
+    "terms": [
+      "TikTok反欺骗行为说明",
+      "TikTok deceptive behavior overview"
+    ],
+    "label": [
+      "TikTok反欺骗行为说明",
+      "TikTok deceptive behavior overview"
+    ],
+    "url": "https://newsroom.tiktok.com/how-tiktok-counters-deceptive-behaviour?lang=en-150",
+    "claims": [
+      "Platform first-party account of fake engagement and deceptive practices; no evidence about an individual vendor or profile."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttRecommend": {
+    "terms": [
+      "TikTok推荐说明",
+      "TikTok recommendation guide"
+    ],
+    "label": [
+      "TikTok推荐说明",
+      "TikTok recommendation guide"
+    ],
+    "url": "https://www.tiktok.com/support/faq_detail?id=7655285288050104852&category=web_account",
+    "claims": [
+      "Rendered November 4 official support: recommendations use interactions, content information and user information; relative weights vary by surface."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttHashtags": {
+    "terms": [
+      "TikTok创意中心趋势说明",
+      "TikTok Creative Center Trends guide"
+    ],
+    "label": [
+      "TikTok创意中心趋势说明",
+      "TikTok Creative Center Trends guide"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/how-to-use-trends?lang=en-GB",
+    "claims": [
+      "First-party help includes time/industry filters and hashtag analysis with trendline, related videos and regional popularity."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "bskyAbout": {
+    "terms": [
+      "Bluesky官方介绍",
+      "Bluesky official overview"
+    ],
+    "label": [
+      "Bluesky官方介绍",
+      "Bluesky official overview"
+    ],
+    "url": "https://bsky.social/about",
+    "claims": [
+      "First-party app entry bsky.app, custom feeds and moderation; official company overview links directly to browser and stores."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "bskyStarter": {
+    "terms": [
+      "Bluesky入门包说明",
+      "Bluesky starter pack guide"
+    ],
+    "label": [
+      "Bluesky入门包说明",
+      "Bluesky starter pack guide"
+    ],
+    "url": "https://bsky.social/about/blog/06-26-2024-starter-packs",
+    "claims": [
+      "A starter pack is a set of recommended follows and custom feeds shared as a bundle; avoid older discoverability claims."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "bskyFeeds": {
+    "terms": [
+      "Bluesky自定义信息流说明",
+      "Bluesky custom feeds guide"
+    ],
+    "label": [
+      "Bluesky自定义信息流说明",
+      "Bluesky custom feeds guide"
+    ],
+    "url": "https://bsky.social/about/blog/7-27-2023-custom-feeds",
+    "claims": [
+      "Describes independent feed selection and examples, not comprehensive measurement."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "bskyAccounts": {
+    "terms": [
+      "Bluesky账号托管说明",
+      "Bluesky account management documentation"
+    ],
+    "label": [
+      "Bluesky账号托管说明",
+      "Bluesky account management documentation"
+    ],
+    "url": "https://docs.bsky.app/blog/account-management",
+    "claims": [
+      "Distinguishes Bluesky app and hosting; hosting provider determines some account-management controls."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ytId": {
+    "terms": [
+      "YouTube频道标识说明",
+      "YouTube channel ID guide"
+    ],
+    "label": [
+      "YouTube频道标识说明",
+      "YouTube channel ID guide"
+    ],
+    "url": "https://support.google.com/youtube/answer/3250431?hl=en",
+    "claims": [
+      "Each channel has a unique channel ID; primary account owner can see own ID in Advanced Settings."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ytSearch": {
+    "terms": [
+      "YouTube搜索说明",
+      "YouTube search guide"
+    ],
+    "label": [
+      "YouTube搜索说明",
+      "YouTube search guide"
+    ],
+    "url": "https://support.google.com/youtube/answer/16090438?hl=en",
+    "claims": [
+      "Search prioritizes relevance, engagement and quality and can be personalized by history."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ytShare": {
+    "terms": [
+      "YouTube视频分享说明",
+      "YouTube sharing guide"
+    ],
+    "label": [
+      "YouTube视频分享说明",
+      "YouTube sharing guide"
+    ],
+    "url": "https://support.google.com/youtube/answer/171780?hl=en",
+    "claims": [
+      "Official video sharing options, including copying a link and starting at a specific point."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "igPlus": {
+    "terms": [
+      "Meta的Instagram Plus公告",
+      "Meta Instagram Plus announcement"
+    ],
+    "label": [
+      "Meta的Instagram Plus公告",
+      "Meta Instagram Plus announcement"
+    ],
+    "url": "https://about.fb.com/ja/news/2026/06/introducing-instagram-plus/",
+    "claims": [
+      "June 5 2026 Japanese newsroom article states ordinary 24-hour Stories and optional extension to 48 hours for this offering."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "igApi": {
+    "terms": [
+      "Meta的Instagram API文档",
+      "Meta Instagram API documentation"
+    ],
+    "label": [
+      "Meta的Instagram API文档",
+      "Meta Instagram API documentation"
+    ],
+    "url": "https://www.postman.com/meta/instagram/documentation/6yqw8pt/instagram-api",
+    "claims": [
+      "Meta official Postman collection documents professional account scope and media and account insights surfaces, not a promise of any account’s metric availability."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "igRank": {
+    "terms": [
+      "Meta的内容排序说明",
+      "Meta content ranking explanation"
+    ],
+    "label": [
+      "Meta的内容排序说明",
+      "Meta content ranking explanation"
+    ],
+    "url": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
+    "claims": [
+      "First-party transparency overview distinguishes Feed, Reels, and Stories ranking surfaces."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "igPractices": {
+    "terms": [
+      "Instagram创作者实践指南",
+      "Instagram creator best practices announcement"
+    ],
+    "label": [
+      "Instagram创作者实践指南",
+      "Instagram creator best practices announcement"
+    ],
+    "url": "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/",
+    "claims": [
+      "First-party launch of in-app professional dashboard guidance about creation, engagement, reach, monetization, and guidelines."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "wmTerms": {
+    "terms": [
+      "Walmart Creator计划条款",
+      "Walmart Creator program terms"
+    ],
+    "label": [
+      "Walmart Creator计划条款",
+      "Walmart Creator program terms"
+    ],
+    "url": "https://creator.walmart.com/terms",
+    "claims": [
+      "September 2026 US terms, enrollment §1, qualifying links §2, commission and payout §§5–7, rights §10, onsite §27 including qualifying transactions and dedicated storefront ID."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "wmSetup": {
+    "terms": [
+      "Walmart Creator设置指南",
+      "Walmart Creator setup guide"
+    ],
+    "label": [
+      "Walmart Creator设置指南",
+      "Walmart Creator setup guide"
+    ],
+    "url": "https://creator.walmart.com/education/new-to-walmart-creator",
+    "claims": [
+      "Walmart documentation of storefront collections, desktop publishing and Impact payout setup. September terms are authoritative for residency eligibility."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "wmGuides": {
+    "terms": [
+      "Walmart创作者披露指南",
+      "Walmart creator disclosure guidelines"
+    ],
+    "label": [
+      "Walmart创作者披露指南",
+      "Walmart creator disclosure guidelines"
+    ],
+    "url": "https://creator.walmart.com/influencerguidelines",
+    "claims": [
+      "Official disclosure and honest claims guidance, including visible and audible disclosures for video and placement requirements."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ftcDisclosure": {
+    "terms": [
+      "美国FTC达人披露说明",
+      "FTC influencer disclosure guidance"
+    ],
+    "label": [
+      "美国FTC达人披露说明",
+      "FTC influencer disclosure guidance"
+    ],
+    "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+    "claims": [
+      "FTC staff guidance on clearly disclosing material connections, within endorsement content and in view, where U.S. rules apply."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "nikeWick": {
+    "terms": [
+      "Nike吸湿排汗面料说明",
+      "Nike moisture-wicking fabric guide"
+    ],
+    "label": [
+      "Nike吸湿排汗面料说明",
+      "Nike moisture-wicking fabric guide"
+    ],
+    "url": "https://www.nike.com/ca/a/nike-what-is-moisture-wicking",
+    "claims": [
+      "Nike July 2026 editorial describes Dri-FIT and moisture wicking. Vendor description, not independent cross-brand test."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "luluSize": {
+    "terms": [
+      "lululemon女装尺码指南",
+      "lululemon women’s size guide"
+    ],
+    "label": [
+      "lululemon女装尺码指南",
+      "lululemon women’s size guide"
+    ],
+    "url": "https://shop.lululemon.com/help/size-guide/womens",
+    "claims": [
+      "Official market fit and body-measurement guidance with separate size tables for product groups."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "patCare": {
+    "terms": [
+      "Patagonia护理与维修指南",
+      "Patagonia product care and repair guide"
+    ],
+    "label": [
+      "Patagonia护理与维修指南",
+      "Patagonia product care and repair guide"
+    ],
+    "url": "https://www.patagonia.com/repairs/",
+    "claims": [
+      "Official Product Care and Repair information, separates care resources and repair options. No claims about all products or markets."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "atProtocol": {
+    "terms": [
+      "AT Protocol架构概览",
+      "AT Protocol architecture overview"
+    ],
+    "label": [
+      "AT Protocol架构概览",
+      "AT Protocol architecture overview"
+    ],
+    "url": "https://atproto.com/guides/overview",
+    "claims": [
+      "First-party architecture overview: repositories, DIDs, PDS, relays and application views."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "atPaper": {
+    "terms": [
+      "Bluesky与AT Protocol原始论文",
+      "Bluesky and AT Protocol paper"
+    ],
+    "label": [
+      "Bluesky与AT Protocol原始论文",
+      "Bluesky and AT Protocol paper"
+    ],
+    "url": "https://bsky.social/about/bluesky-and-the-at-protocol-usable-decentralized-social-media-martin-kleppmann.pdf",
+    "claims": [
+      "Primary architecture paper on account portability, identity and separation of services."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "bskyDomains": {
+    "terms": [
+      "Bluesky域名账号指南",
+      "Bluesky domain handle guide"
+    ],
+    "label": [
+      "Bluesky域名账号指南",
+      "Bluesky domain handle guide"
+    ],
+    "url": "https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial",
+    "claims": [
+      "DNS or HTTP domain verification to link domain handle to the account."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "bskyVerify": {
+    "terms": [
+      "Bluesky认证标记说明",
+      "Bluesky verification announcement"
+    ],
+    "label": [
+      "Bluesky认证标记说明",
+      "Bluesky verification announcement"
+    ],
+    "url": "https://bsky.social/about/blog/04-21-2025-verification",
+    "claims": [
+      "April 2025 first-party announcement of badges and Trusted Verifiers, alongside domain handles."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "igRecord": {
+    "terms": [
+      "Instagram录制Reels帮助",
+      "Instagram Reel recording help"
+    ],
+    "label": [
+      "Instagram录制Reels帮助",
+      "Instagram Reel recording help"
+    ],
+    "url": "https://help.instagram.com/225190788256708",
+    "claims": [
+      "Rendered November 5 official Help desktop Chinese details multiple clips, upload, trimming, cover, post fields and availability. Mobile record/upload supported by launch documentation."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "igReelsLaunch": {
+    "terms": [
+      "Meta发布Reels的说明",
+      "Meta Reels introduction"
+    ],
+    "label": [
+      "Meta发布Reels的说明",
+      "Meta Reels introduction"
+    ],
+    "url": "https://about.fb.com/news/2020/08/introducing-instagram-reels/",
+    "claims": [
+      "First-party launch description of creating Reel by selecting creation mode, recording clips or uploading, editing and sharing; no reliance on old length limits."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "igReelsEdit": {
+    "terms": [
+      "Meta的Reels编辑更新说明",
+      "Meta Reels editing announcement"
+    ],
+    "label": [
+      "Meta的Reels编辑更新说明",
+      "Meta Reels editing announcement"
+    ],
+    "url": "https://about.fb.com/news/2023/11/new-ways-to-create-content-on-instagram/",
+    "claims": [
+      "First-party historic editing updates including trim/undo/redo and post creation; exact capabilities check current account."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttAdViews": {
+    "terms": [
+      "TikTok广告视频播放定义",
+      "TikTok ad video play definitions"
+    ],
+    "label": [
+      "TikTok广告视频播放定义",
+      "TikTok ad video play definitions"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/video-play?lang=en-0",
+    "claims": [
+      "Ads Manager impression-session starts, 2s/6s rules, completion, average watch time includes replays, focused views and split paid-view vs interaction metrics."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttPromote": {
+    "terms": [
+      "TikTok Promote官方说明",
+      "TikTok Promote documentation"
+    ],
+    "label": [
+      "TikTok Promote官方说明",
+      "TikTok Promote documentation"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/about-promote-on-tiktok?lang=en",
+    "claims": [
+      "July 2026 first-party guide defines Promote as in-app advertising with budget, duration, audience and distinct objectives."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttFocused": {
+    "terms": [
+      "TikTok专注观看目标说明",
+      "TikTok focused view objective guide"
+    ],
+    "label": [
+      "TikTok专注观看目标说明",
+      "TikTok focused view objective guide"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/video-views-objective?lang=en-GB",
+    "claims": [
+      "First-party Ads Manager video views objective and focused view optimization; match to current column name and report version."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttLikes": {
+    "terms": [
+      "TikTok点赞说明",
+      "TikTok likes guide"
+    ],
+    "label": [
+      "TikTok点赞说明",
+      "TikTok likes guide"
+    ],
+    "url": "https://www.tiktok.com/support/faq_detail?id=7636670088171035157&category=web_account",
+    "claims": [
+      "Official help previously rendered Nov4: likes can be removed; profile total reflects current posts and may update after delays or removals; liked videos can be private."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "twitchAnalytics": {
+    "terms": [
+      "Twitch频道分析指南",
+      "Twitch channel analytics guide"
+    ],
+    "label": [
+      "Twitch频道分析指南",
+      "Twitch channel analytics guide"
+    ],
+    "url": "https://help.twitch.tv/s/article/channel-analytics",
+    "claims": [
+      "First-party indexed Analytics Overview explains average concurrent viewers, unique viewers over selected period, live views, and date ranges."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "twitchSummary": {
+    "terms": [
+      "Twitch场次摘要说明",
+      "Twitch stream summary guide"
+    ],
+    "label": [
+      "Twitch场次摘要说明",
+      "Twitch stream summary guide"
+    ],
+    "url": "https://help.twitch.tv/s/article/stream-summary?language=en_US",
+    "claims": [
+      "First-party Stream Summary describes after-stream performance and audience statistics for one stream."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "twitchBrand": {
+    "terms": [
+      "Twitch品牌内容规则",
+      "Twitch branded content guidance"
+    ],
+    "label": [
+      "Twitch品牌内容规则",
+      "Twitch branded content guidance"
+    ],
+    "url": "https://help.twitch.tv/s/article/branded-content-policy?language=en_US",
+    "claims": [
+      "Official branded content guidance describes the built-in branded content disclosure tool and relevant policy; no claim that it is a substitute for legal disclosure."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "metaPartner": {
+    "terms": [
+      "Meta的Instagram合作广告说明",
+      "Meta Instagram partnership ads announcement"
+    ],
+    "label": [
+      "Meta的Instagram合作广告说明",
+      "Meta Instagram partnership ads announcement"
+    ],
+    "url": "https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/",
+    "claims": [
+      "Official guidance explains amplification with creator/partner handle, eligible organic branded content and new partnership ads via Ads Manager."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "metaAdsLib": {
+    "terms": [
+      "Meta广告透明度说明",
+      "Meta ads transparency explanation"
+    ],
+    "label": [
+      "Meta广告透明度说明",
+      "Meta ads transparency explanation"
+    ],
+    "url": "https://about.fb.com/news/2023/02/increasing-our-ads-transparency/",
+    "claims": [
+      "Official context on ad transparency and ad visibility. Do not infer campaign access, complete commercial reporting or performance from Ad Library."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "metaSuite": {
+    "terms": [
+      "Meta Business Suite官方介绍",
+      "Meta Business Suite announcement"
+    ],
+    "label": [
+      "Meta Business Suite官方介绍",
+      "Meta Business Suite announcement"
+    ],
+    "url": "https://about.fb.com/news/2020/09/a-faster-and-easier-way-to-manage-your-business-on-facebook-and-instagram/",
+    "claims": [
+      "First-party announcement of publishing, inbox and performance capabilities. Present UI and availability depend on the connected accounts."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "metaOne": {
+    "terms": [
+      "Meta的Meta One公告",
+      "Meta One announcement"
+    ],
+    "label": [
+      "Meta的Meta One公告",
+      "Meta One announcement"
+    ],
+    "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/",
+    "claims": [
+      "September 2026 first-party announcement distinguishes staged rollout and some optional tools/offerings. Do not assume universal availability."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttWebSuite": {
+    "terms": [
+      "TikTok网页商务套件说明",
+      "TikTok Web Business Suite guide"
+    ],
+    "label": [
+      "TikTok网页商务套件说明",
+      "TikTok Web Business Suite guide"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/navigate-web-business-suite?lang=en",
+    "claims": [
+      "TikTok for Business describes Business Account analytics, including new followers, demographics, top countries and cities and activity. Actual data varies by account and scope."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttAud": {
+    "terms": [
+      "TikTok广告受众洞察说明",
+      "TikTok Ads Manager Audience Insights guide"
+    ],
+    "label": [
+      "TikTok广告受众洞察说明",
+      "TikTok Ads Manager Audience Insights guide"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/audience-insights?lang=en",
+    "claims": [
+      "TikTok for Business distinguishes platform-level Audience Insights from campaign reach and describes demographics as estimates."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttCreative": {
+    "terms": [
+      "TikTok创意中心概览",
+      "TikTok Creative Center overview"
+    ],
+    "label": [
+      "TikTok创意中心概览",
+      "TikTok Creative Center overview"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/creative-center?redirected=2",
+    "claims": [
+      "TikTok Business first-party overview of public Creative Center and trend inspiration tools."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "ttCommentUpdate": {
+    "terms": [
+      "TikTok评论功能更新公告",
+      "TikTok comment features announcement"
+    ],
+    "label": [
+      "TikTok评论功能更新公告",
+      "TikTok comment features announcement"
+    ],
+    "url": "https://newsroom.tiktok.com/say-more-in-the-comments?lang=en",
+    "claims": [
+      "September 3, 2026 announcement describes Comment Polls as globally available and Voice Comments for 18+ rolling out globally over the following month. Photo Carousel timing differs. Announcement does not establish specific account availability."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "bwHelp": {
+    "terms": [
+      "Brandwatch产品帮助中心",
+      "Brandwatch product help center"
+    ],
+    "label": [
+      "Brandwatch产品帮助中心",
+      "Brandwatch product help center"
+    ],
+    "url": "https://www.brandwatch.com/help-center/",
+    "claims": [
+      "Vendor lists Consumer Research, Influence, and Social Media Management with distinct tools and scopes."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "bwData": {
+    "terms": [
+      "Brandwatch数据网络目录",
+      "Brandwatch data network directory"
+    ],
+    "label": [
+      "Brandwatch数据网络目录",
+      "Brandwatch data network directory"
+    ],
+    "url": "https://www.brandwatch.com/datanetworks/",
+    "claims": [
+      "Vendor maps source and network coverage by product; coverage and entitlements require confirmation in actual account."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "bwResearch": {
+    "terms": [
+      "Brandwatch消费者研究说明",
+      "Brandwatch Consumer Intelligence overview"
+    ],
+    "label": [
+      "Brandwatch消费者研究说明",
+      "Brandwatch Consumer Intelligence overview"
+    ],
+    "url": "https://influence-help.brandwatch.com/en/articles/12414695-overview-of-consumer-intelligence",
+    "claims": [
+      "September 2026 vendor overview describes Consumer Research and segmentation/data sources. No third-party validation of coverage volume or accuracy."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "igBadge": {
+    "terms": [
+      "Instagram认证徽章官方说明",
+      "Instagram verified badge help"
+    ],
+    "label": [
+      "Instagram认证徽章官方说明",
+      "Instagram verified badge help"
+    ],
+    "url": "https://help.instagram.com/733907830039577",
+    "claims": [
+      "Rendered official Help Chinese, 2026-11-05: badge verifies identity; can reflect previous criteria or paid Meta Verified; not endorsement, expertise or importance; no transfer."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "igBadgeReq": {
+    "terms": [
+      "Instagram知名度认证条件",
+      "Instagram notability verification requirements"
+    ],
+    "label": [
+      "Instagram知名度认证条件",
+      "Instagram notability verification requirements"
+    ],
+    "url": "https://help.instagram.com/312685272613322",
+    "claims": [
+      "Rendered official Help Chinese 2026-11-05: authentic, unique, complete and notable; multiple news sources, paid or sponsored media not considered news."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "igBadgeApply": {
+    "terms": [
+      "Instagram手机认证申请指引",
+      "Instagram mobile badge application guide"
+    ],
+    "label": [
+      "Instagram手机认证申请指引",
+      "Instagram mobile badge application guide"
+    ],
+    "url": "https://help.instagram.com/398038890351915/?cms_platform=iphone-app",
+    "claims": [
+      "Rendered iPhone official Help on 2026-11-05: correct account, profile/menu, Insights and tools → Professional dashboard → settings → Request verification, requested ID/business document, submit; no guarantee and duplicate submissions before decision can cancel."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "igMetaVerified": {
+    "terms": [
+      "Meta Verified创作者订阅条件",
+      "Meta Verified creator eligibility guide"
+    ],
+    "label": [
+      "Meta Verified创作者订阅条件",
+      "Meta Verified creator eligibility guide"
+    ],
+    "url": "https://help.instagram.com/2419286908233223",
+    "claims": [
+      "Rendered official Help Chinese 2026-11-05: age 18 or age of majority, eligible region, personal or creator profile, identity document, Advanced Protection and profile conditions."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "igMetaPaid": {
+    "terms": [
+      "Meta Verified订阅官方介绍",
+      "Meta Verified creator subscription overview"
+    ],
+    "label": [
+      "Meta Verified订阅官方介绍",
+      "Meta Verified creator subscription overview"
+    ],
+    "url": "https://help.instagram.com/738055111270671",
+    "claims": [
+      "Rendered official Help 2026-11-05: paid recurring auto-renewing subscription; benefits depend on market, account and plan; official verification flow."
+    ],
+    "reviewedAt": "2026-11-05"
+  },
+  "igBusinessVerified": {
+    "terms": [
+      "Meta Verified商家版公告",
+      "Meta Verified for businesses announcement"
+    ],
+    "label": [
+      "Meta Verified商家版公告",
+      "Meta Verified for businesses announcement"
+    ],
+    "url": "https://about.fb.com/news/2023/09/meta-verified-for-businesses/",
+    "claims": [
+      "First-party announcement of separate business subscription; current local plan and requirements must be verified on the account."
+    ],
+    "reviewedAt": "2026-11-05"
+  }
+}

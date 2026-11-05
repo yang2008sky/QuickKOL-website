@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941">
+ <rect width="1672" height="941" fill="#fff0d9"/>
+ <path d="M45 941L473 0H288L0 685v256zm1154 0L1672 0h-156l-433 941z" fill="#f6d9bc"/>
+ <g fill="#1e4544" font-family="sans-serif" font-weight="700" text-anchor="middle">
+  <text x="836" y="258" font-size="88" letter-spacing="-2">Same interactions</text>
+  <rect x="292" y="316" width="1088" height="14" rx="7"/>
+  <text x="600" y="535" font-size="84">Followers</text><text x="1097" y="535" font-size="84">Reach</text>
+  <path d="M837 404v179" stroke="#1e4544" stroke-width="4" stroke-dasharray="6 16" opacity=".5"/>
+  <text x="836" y="707" font-size="42" letter-spacing="6">TWO DENOMINATORS</text>
+ </g>
+ <circle cx="1332" cy="709" r="43" fill="#bd5739"/><circle cx="338" cy="707" r="22" fill="#bf8750"/>
+</svg>

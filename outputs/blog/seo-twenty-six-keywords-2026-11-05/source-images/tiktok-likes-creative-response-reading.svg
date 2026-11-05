@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941">
+ <rect width="1672" height="941" fill="#f3e9df"/>
+ <circle cx="497" cy="470" r="288" fill="#e4bfb2"/>
+ <path d="M498 650c-16-11-201-123-201-238 0-94 128-124 201-38 73-86 201-56 201 38 0 115-185 227-201 238z" fill="#ac4d51"/>
+ <path d="M828 307H1422M828 480H1422M828 656H1422" stroke="#384e5c" stroke-width="3" opacity=".5"/>
+ <g font-family="sans-serif" font-weight="700" letter-spacing="5" fill="#364854">
+  <text x="836" y="423" font-size="80">VIEWS</text>
+  <text x="836" y="598" font-size="80">QUESTIONS</text>
+ </g>
+ <path d="M1313 376h75m-38-38v76" stroke="#ac4d51" stroke-width="8" stroke-linecap="round"/>
+</svg>

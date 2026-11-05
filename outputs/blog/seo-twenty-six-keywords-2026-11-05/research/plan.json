@@ -1,0 +1,1332 @@
+[
+  {
+    "id": 1,
+    "keyword": "how to do duet in tiktok",
+    "slug": "tiktok-duet-brand-response-brief",
+    "topic": "campaign",
+    "title": [
+      "TikTok合拍怎么做：拍好并排回应",
+      "How to Do a Duet on TikTok for a Brand Response"
+    ],
+    "family": "Solo creator",
+    "decision": "Show a reaction and record the in-app route, original context, consent and paid use.",
+    "overlap": "Earlier Reels guide teaches standalone explainers. This explains a response tied to one original TikTok post.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1521,
+    "chineseHanzi": 2293,
+    "primarySources": [
+      {
+        "id": "duet",
+        "url": "https://www.tiktok.com/support/faq_detail?id=7636670084584512021"
+      },
+      {
+        "id": "duetPrivacy",
+        "url": "https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/duets"
+      },
+      {
+        "id": "ttMusic",
+        "url": "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/commercial-use-of-music-on-tiktok"
+      },
+      {
+        "id": "ttDisclosure",
+        "url": "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "制作Brief指南",
+          "production brief guide"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "使用权协商指南",
+          "usage-rights guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      },
+      {
+        "terms": [
+          "Spark Ads授权流程",
+          "Spark Ads authorization workflow"
+        ],
+        "url": "/blog/tiktok-spark-ads-authorization-lifecycle/#answer"
+      },
+      {
+        "terms": [
+          "项目测量指南",
+          "campaign measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 2,
+    "keyword": "dancer",
+    "slug": "dancer-creator-movement-production-brief",
+    "topic": "discovery",
+    "title": [
+      "舞者合作：从动作要求到制作Brief",
+      "Dancer Collaborations: Write a Movement Brief"
+    ],
+    "family": "Human documentary",
+    "decision": "Separate performer, choreographer and teacher roles and define movement and capture requirements.",
+    "overlap": "Fitness creator pieces evaluate a product story. This article scopes movement production and ownership.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1517,
+    "chineseHanzi": 1579,
+    "primarySources": [
+      {
+        "id": "copyrightDance",
+        "url": "https://www.copyright.gov/circs/circ52.pdf"
+      },
+      {
+        "id": "ttMusic",
+        "url": "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/commercial-use-of-music-on-tiktok"
+      },
+      {
+        "id": "w3Captions",
+        "url": "https://www.w3.org/WAI/media/av/captions/"
+      },
+      {
+        "id": "ttDisclosure",
+        "url": "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "实用的合作简报",
+          "a useful campaign brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "创作者素材权利说明",
+          "creator raw footage rights"
+        ],
+        "url": "/blog/creator-raw-footage-rights/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 3,
+    "keyword": "how to go live on tiktok",
+    "slug": "go-live-tiktok-account-readiness",
+    "topic": "campaign",
+    "title": [
+      "TikTok怎么开直播：先验账号和场地",
+      "How to Go Live on TikTok: Check Launch Readiness"
+    ],
+    "family": "Environment / objects",
+    "decision": "Confirm host account access, interface, rehearsal and moderator handoff.",
+    "overlap": "The generic live runbook covers all platforms. This article verifies TikTok’s access gates and app start.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1511,
+    "chineseHanzi": 1514,
+    "primarySources": [
+      {
+        "id": "ttLive",
+        "url": "https://www.tiktok.com/support/faq_detail?id=7543604790438451768"
+      },
+      {
+        "id": "ttDisclosure",
+        "url": "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service"
+      },
+      {
+        "id": "ttLiveIssues",
+        "url": "https://support.tiktok.com/en/log-in-troubleshoot/troubleshooting/issues-with-tiktok-live"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "创作者直播执行手册",
+          "creator live campaign runbook"
+        ],
+        "url": "/blog/creator-live-campaign-runbook/#answer"
+      },
+      {
+        "terms": [
+          "合作简报模板",
+          "campaign brief template"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 4,
+    "keyword": "tiktok creator rewards program",
+    "slug": "tiktok-creator-rewards-brand-budget-boundary",
+    "topic": "commercial",
+    "title": [
+      "TikTok创作者奖励计划：和品牌预算分开",
+      "TikTok Creator Rewards Program: Separate Brand Fees"
+    ],
+    "family": "Editorial collage / data art",
+    "decision": "Distinguish account admission, video qualification and qualified views from negotiated compensation.",
+    "overlap": "Existing creator income explains gross/net workload across sources. This article is program specific.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1516,
+    "chineseHanzi": 1560,
+    "primarySources": [
+      {
+        "id": "ttRewards",
+        "url": "https://www.tiktok.com/support/faq_detail?id=7581821550694013452"
+      },
+      {
+        "id": "ttRewardFund",
+        "url": "https://support.tiktok.com/en/business-and-creator/creator-rewards-program/how-is-the-creator-rewards-program-different-from-the-tiktok-creator-fund"
+      },
+      {
+        "id": "ttRewardModel",
+        "url": "https://support.tiktok.com/en/business-and-creator/creator-rewards-program/how-rewards-work"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "创作者费率与使用权指南",
+          "creator rates and usage rights"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      },
+      {
+        "terms": [
+          "品牌合作商业备忘录",
+          "a brand deal memo"
+        ],
+        "url": "/blog/brand-deals-commercial-memo-content-brief/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 5,
+    "keyword": "instamark followers",
+    "slug": "instamark-followers-source-verification",
+    "topic": "analytics",
+    "title": [
+      "Instamark Followers：先核对数据来源",
+      "Instamark Followers: Verify the Source of the Count"
+    ],
+    "family": "Type / background",
+    "decision": "Treat the ambiguous query as an unverified label and investigate provenance without attributing service features.",
+    "overlap": "Free follower guide studies offer terms. This article checks an unidentified source on a report.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1515,
+    "chineseHanzi": 1509,
+    "primarySources": [
+      {
+        "id": "metaSpam",
+        "url": "https://transparency.meta.com/policies/community-standards/spam/"
+      },
+      {
+        "id": "ftcPhishing",
+        "url": "https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "Instagram粉丝变更日志",
+          "Instagram follower change log"
+        ],
+        "url": "/blog/instagram-followers-check-change-log/#answer"
+      },
+      {
+        "terms": [
+          "创作者互动数据解读",
+          "creator engagement data analysis"
+        ],
+        "url": "/blog/read-creator-engagement-data/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 6,
+    "keyword": "free tiktok followers",
+    "slug": "free-tiktok-followers-organic-learning-plan",
+    "topic": "campaign",
+    "title": [
+      "免费TikTok粉丝：设计自然关注路径",
+      "Free TikTok Followers: Build a Reason to Follow"
+    ],
+    "family": "Solo creator",
+    "decision": "Plan a genuine organic series, opt-in follow signals and a costed learning cycle.",
+    "overlap": "The Instagram organic audience article covers profile positioning. This uses TikTok series and learning.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1504,
+    "chineseHanzi": 1592,
+    "primarySources": [
+      {
+        "id": "ttRecommend",
+        "url": "https://www.tiktok.com/support/faq_detail?id=7655285288050104852&category=web_account"
+      },
+      {
+        "id": "ttHashtags",
+        "url": "https://ads.tiktok.com/resources/help/article/how-to-use-trends?lang=en-GB"
+      },
+      {
+        "id": "ttAuthenticity",
+        "url": "https://newsroom.tiktok.com/how-tiktok-counters-deceptive-behaviour?lang=en-150"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "实用合作简报",
+          "useful campaign brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "创作者活动衡量指南",
+          "creator campaign measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 7,
+    "keyword": "bluesky app",
+    "slug": "bluesky-app-editorial-desk-workflow",
+    "topic": "campaign",
+    "title": [
+      "Bluesky App：建立日常编辑流程",
+      "Bluesky App: Set Up a Daily Editorial Workflow"
+    ],
+    "family": "Human documentary",
+    "decision": "Use follows, feeds and starter packs to build a reproducible daily reading and response workflow.",
+    "overlap": "Earlier blue sky social covers public conversation and identity. This focuses on first-week desk operation.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1502,
+    "chineseHanzi": 1493,
+    "primarySources": [
+      {
+        "id": "bskyAbout",
+        "url": "https://bsky.social/about"
+      },
+      {
+        "id": "bskyFeeds",
+        "url": "https://bsky.social/about/blog/7-27-2023-custom-feeds"
+      },
+      {
+        "id": "bskyStarter",
+        "url": "https://bsky.social/about/blog/06-26-2024-starter-packs"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "社交媒体运营计划",
+          "social media operating plan"
+        ],
+        "url": "/blog/social-media-marketing-operating-plan/#answer"
+      },
+      {
+        "terms": [
+          "活动衡量与记录指南",
+          "campaign measurement and logging guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 8,
+    "keyword": "instagram stories",
+    "slug": "instagram-stories-frame-level-reporting",
+    "topic": "analytics",
+    "title": [
+      "Instagram Stories：逐帧记录表现",
+      "Instagram Stories: Report Results Frame by Frame"
+    ],
+    "family": "Editorial collage / data art",
+    "decision": "Capture frame IDs, eligible windows and actions without equating a ratio to individual completion.",
+    "overlap": "Previous Story article briefs an ephemeral sequence. This one reads first-party reports after publication.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1532,
+    "chineseHanzi": 1425,
+    "primarySources": [
+      {
+        "id": "igPlus",
+        "url": "https://about.fb.com/ja/news/2026/06/introducing-instagram-plus/"
+      },
+      {
+        "id": "igApi",
+        "url": "https://www.postman.com/meta/instagram/documentation/6yqw8pt/instagram-api"
+      },
+      {
+        "id": "igRank",
+        "url": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "创作者活动衡量手册",
+          "creator campaign measurement handbook"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      },
+      {
+        "terms": [
+          "互动率口径约定",
+          "engagement rate metric contract"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 9,
+    "keyword": "youtubed",
+    "slug": "youtubed-youtube-video-provenance",
+    "topic": "campaign",
+    "title": [
+      "Youtubed：怎样追溯YouTube视频",
+      "Youtubed: Trace a Video Back to Its YouTube Source"
+    ],
+    "family": "Environment / objects",
+    "decision": "Disambiguate a note meaning uploaded, found or cited and record video, channel and relevant interval.",
+    "overlap": "YouTube Analytics compares cohorts. This focuses on object identity and source traceability.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1519,
+    "chineseHanzi": 1421,
+    "primarySources": [
+      {
+        "id": "ytSearch",
+        "url": "https://support.google.com/youtube/answer/16090438?hl=en"
+      },
+      {
+        "id": "ytId",
+        "url": "https://support.google.com/youtube/answer/3250431?hl=en"
+      },
+      {
+        "id": "ytShare",
+        "url": "https://support.google.com/youtube/answer/171780?hl=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "核验YouTube频道联系人的方法",
+          "YouTube channel contact guide"
+        ],
+        "url": "/blog/find-youtube-channel-owner-business-email/#answer"
+      },
+      {
+        "terms": [
+          "创作者素材使用权",
+          "creator footage usage rights"
+        ],
+        "url": "/blog/creator-raw-footage-rights/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 10,
+    "keyword": "instagram followers",
+    "slug": "instagram-followers-reach-denominator",
+    "topic": "analytics",
+    "title": [
+      "Instagram粉丝数：何时适合作分母",
+      "Instagram Followers: Choose the Right Denominator"
+    ],
+    "family": "Type / background",
+    "decision": "Use follower count only where it answers a defined question and separate it from reached accounts.",
+    "overlap": "Existing follower tracker measures change. This article decides denominator for a brand report.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1503,
+    "chineseHanzi": 1434,
+    "primarySources": [
+      {
+        "id": "igApi",
+        "url": "https://www.postman.com/meta/instagram/documentation/6yqw8pt/instagram-api"
+      },
+      {
+        "id": "igPractices",
+        "url": "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/"
+      },
+      {
+        "id": "igRank",
+        "url": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "创作者活动衡量指南",
+          "creator campaign measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      },
+      {
+        "terms": [
+          "互动率公式的口径约定",
+          "engagement rate formula metric contract"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 11,
+    "keyword": "walmart creator",
+    "slug": "walmart-creator-retail-placement-commission",
+    "topic": "commercial",
+    "title": [
+      "Walmart Creator：区分推荐入口与佣金",
+      "Walmart Creator: Separate Placement and Commission"
+    ],
+    "family": "Environment / objects",
+    "decision": "Check U.S. creator routes, storefront, onsite compensation, qualifying items and settlement.",
+    "overlap": "Amazon storefront piece distinguishes account roles. This checks Walmart placement and commission states.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1518,
+    "chineseHanzi": 1523,
+    "primarySources": [
+      {
+        "id": "wmTerms",
+        "url": "https://creator.walmart.com/terms"
+      },
+      {
+        "id": "wmSetup",
+        "url": "https://creator.walmart.com/education/new-to-walmart-creator"
+      },
+      {
+        "id": "wmGuides",
+        "url": "https://creator.walmart.com/influencerguidelines"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "品牌合作备忘录",
+          "a brand deal memo"
+        ],
+        "url": "/blog/brand-deals-commercial-memo-content-brief/#answer"
+      },
+      {
+        "terms": [
+          "创作者使用权指南",
+          "creator usage rights guide"
+        ],
+        "url": "/blog/creator-rates-usage-rights/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 12,
+    "keyword": "activewear apparel brands",
+    "slug": "activewear-apparel-brands-movement-evidence",
+    "topic": "discovery",
+    "title": [
+      "运动服饰品牌：按使用场景核对产品",
+      "Activewear Apparel Brands: Match Product to Movement"
+    ],
+    "family": "Solo creator",
+    "decision": "Compare publicly documented garment attributes against fit, movement and care requirements.",
+    "overlap": "Repeat-wear fashion brief concerns wear cadence. This covers movement-based demonstration evidence.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1507,
+    "chineseHanzi": 1505,
+    "primarySources": [
+      {
+        "id": "luluSize",
+        "url": "https://shop.lululemon.com/help/size-guide/womens"
+      },
+      {
+        "id": "nikeWick",
+        "url": "https://www.nike.com/ca/a/nike-what-is-moisture-wicking"
+      },
+      {
+        "id": "patCare",
+        "url": "https://www.patagonia.com/repairs/"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "健身创作者试点简报",
+          "fitness creator pilot brief"
+        ],
+        "url": "/blog/fitness-influencer-pilot-brief/#answer"
+      },
+      {
+        "terms": [
+          "时尚达人重复试穿简报",
+          "fashion creator repeat-wear brief"
+        ],
+        "url": "/blog/fashion-influencers-repeat-wear-brief/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 13,
+    "keyword": "what is bluesky",
+    "slug": "what-is-bluesky-at-protocol-brand-context",
+    "topic": "discovery",
+    "title": [
+      "Bluesky是什么：分清应用和协议",
+      "What Is Bluesky? Separate the App and the Protocol"
+    ],
+    "family": "Editorial collage / data art",
+    "decision": "Explain app, protocol, hosting and feed roles for an organizational channel decision.",
+    "overlap": "The conversation article covers brand etiquette. This defines system boundaries without adoption claims.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1503,
+    "chineseHanzi": 1518,
+    "primarySources": [
+      {
+        "id": "bskyAbout",
+        "url": "https://bsky.social/about"
+      },
+      {
+        "id": "atProtocol",
+        "url": "https://atproto.com/guides/overview"
+      },
+      {
+        "id": "bskyAccounts",
+        "url": "https://docs.bsky.app/blog/account-management"
+      },
+      {
+        "id": "bskyDomains",
+        "url": "https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial"
+      },
+      {
+        "id": "atPaper",
+        "url": "https://bsky.social/about/bluesky-and-the-at-protocol-usable-decentralized-social-media-martin-kleppmann.pdf"
+      },
+      {
+        "id": "bskyFeeds",
+        "url": "https://bsky.social/about/blog/7-27-2023-custom-feeds"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "社交媒体运营计划",
+          "social media operating plan"
+        ],
+        "url": "/blog/social-media-marketing-operating-plan/#answer"
+      },
+      {
+        "terms": [
+          "活动数据口径指南",
+          "campaign measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 14,
+    "keyword": "app.bluesky",
+    "slug": "app-bluesky-official-entry-identity-check",
+    "topic": "commercial",
+    "title": [
+      "App.Bluesky：核对官网和账号入口",
+      "App.Bluesky: Check the Official Bluesky Entry Point"
+    ],
+    "family": "Type / background",
+    "decision": "Interpret domain-like search text and verify official URLs, handles and legitimate login routes.",
+    "overlap": "Blue sky social covers public conversation. This is a navigation and identity verification checklist.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1503,
+    "chineseHanzi": 1482,
+    "primarySources": [
+      {
+        "id": "bskyAbout",
+        "url": "https://bsky.social/about"
+      },
+      {
+        "id": "bskyDomains",
+        "url": "https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial"
+      },
+      {
+        "id": "bskyVerify",
+        "url": "https://bsky.social/about/blog/04-21-2025-verification"
+      },
+      {
+        "id": "ftcPhishing",
+        "url": "https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams"
+      },
+      {
+        "id": "bskyAccounts",
+        "url": "https://docs.bsky.app/blog/account-management"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "社交媒体运营计划",
+          "social media operating plan"
+        ],
+        "url": "/blog/social-media-marketing-operating-plan/#answer"
+      },
+      {
+        "terms": [
+          "创作者身份核验方法",
+          "creator identity verification workflow"
+        ],
+        "url": "/blog/verify-creator-brand-safety/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 15,
+    "keyword": "how to make a reel on instagram",
+    "slug": "make-instagram-reel-production-review",
+    "topic": "campaign",
+    "title": [
+      "Instagram Reels怎么做：从拍摄到审片",
+      "How to Make a Reel on Instagram: A Production Review"
+    ],
+    "family": "Human documentary",
+    "decision": "Follow the creation route and review script, clip, captions, disclosure, crop and handoff.",
+    "overlap": "Reels education content covers assigning an explainer. This explains editing and publishing review.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1509,
+    "chineseHanzi": 1481,
+    "primarySources": [
+      {
+        "id": "igReelsLaunch",
+        "url": "https://about.fb.com/news/2020/08/introducing-instagram-reels/"
+      },
+      {
+        "id": "igRecord",
+        "url": "https://help.instagram.com/225190788256708"
+      },
+      {
+        "id": "igReelsEdit",
+        "url": "https://about.fb.com/news/2023/11/new-ways-to-create-content-on-instagram/"
+      },
+      {
+        "id": "w3Captions",
+        "url": "https://www.w3.org/WAI/media/av/captions/"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "实用合作简报",
+          "a useful campaign brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "创作者素材权利指南",
+          "creator footage rights guide"
+        ],
+        "url": "/blog/creator-raw-footage-rights/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 16,
+    "keyword": "free tiktok views",
+    "slug": "free-tiktok-views-promotion-literacy",
+    "topic": "analytics",
+    "title": [
+      "免费TikTok播放量：分清来源和代价",
+      "Free TikTok Views: Understand Sources and Tradeoffs"
+    ],
+    "family": "Editorial collage / data art",
+    "decision": "Distinguish natural distribution, official paid promotion and unexplained or artificial traffic.",
+    "overlap": "Free TikTok followers builds editorial demand. This explains the meaning of a promise of views.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1508,
+    "chineseHanzi": 1433,
+    "primarySources": [
+      {
+        "id": "ttRecommend",
+        "url": "https://www.tiktok.com/support/faq_detail?id=7655285288050104852&category=web_account"
+      },
+      {
+        "id": "ttPromote",
+        "url": "https://ads.tiktok.com/resources/help/article/about-promote-on-tiktok?lang=en"
+      },
+      {
+        "id": "ttAuthenticity",
+        "url": "https://newsroom.tiktok.com/how-tiktok-counters-deceptive-behaviour?lang=en-150"
+      },
+      {
+        "id": "ttAdViews",
+        "url": "https://ads.tiktok.com/resources/help/article/video-play?lang=en-0"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "实用创作者简报",
+          "a useful creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "创作者活动衡量指南",
+          "creator campaign measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 17,
+    "keyword": "tiktok views",
+    "slug": "tiktok-views-count-definition-comparison",
+    "topic": "analytics",
+    "title": [
+      "TikTok播放量：先对齐报表口径",
+      "TikTok Views: Match the Report and Counting Rule"
+    ],
+    "family": "Environment / objects",
+    "decision": "Compare starts, duration metrics and qualified views with source and window in a metric register.",
+    "overlap": "Generic engagement formulas use actions. This explains TikTok view definitions across surfaces.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1505,
+    "chineseHanzi": 1467,
+    "primarySources": [
+      {
+        "id": "ttAdViews",
+        "url": "https://ads.tiktok.com/resources/help/article/video-play?lang=en-0"
+      },
+      {
+        "id": "ttFocused",
+        "url": "https://ads.tiktok.com/resources/help/article/video-views-objective?lang=en-GB"
+      },
+      {
+        "id": "ttRewards",
+        "url": "https://www.tiktok.com/support/faq_detail?id=7581821550694013452"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "创作者活动数据指南",
+          "creator campaign measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      },
+      {
+        "terms": [
+          "互动率公式的口径约定",
+          "engagement rate metric contract"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 18,
+    "keyword": "tiktok likes",
+    "slug": "tiktok-likes-creative-response-reading",
+    "topic": "analytics",
+    "title": [
+      "TikTok点赞：读懂内容反馈",
+      "TikTok Likes: Read the Creative Response"
+    ],
+    "family": "Type / background",
+    "decision": "Use likes to frame a creative feedback question with contextual behavior and no individual accusation.",
+    "overlap": "Free TikTok likes discusses artificial offers. This interprets legitimate content response.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1500,
+    "chineseHanzi": 1418,
+    "primarySources": [
+      {
+        "id": "ttLikes",
+        "url": "https://www.tiktok.com/support/faq_detail?id=7636670088171035157&category=web_account"
+      },
+      {
+        "id": "ttRecommend",
+        "url": "https://www.tiktok.com/support/faq_detail?id=7655285288050104852&category=web_account"
+      },
+      {
+        "id": "ttAdViews",
+        "url": "https://ads.tiktok.com/resources/help/article/video-play?lang=en-0"
+      },
+      {
+        "id": "ttAuthenticity",
+        "url": "https://newsroom.tiktok.com/how-tiktok-counters-deceptive-behaviour?lang=en-150"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "创作者互动数据解读",
+          "creator engagement data analysis"
+        ],
+        "url": "/blog/read-creator-engagement-data/#answer"
+      },
+      {
+        "terms": [
+          "互动率口径约定",
+          "engagement rate metric contract"
+        ],
+        "url": "/blog/engagement-rate-formula-metric-contract/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 19,
+    "keyword": "twitch statistics",
+    "slug": "twitch-statistics-live-sponsor-window",
+    "topic": "analytics",
+    "title": [
+      "Twitch统计：核对赞助时段的观众数据",
+      "Twitch Statistics: Read the Sponsored Stream Window"
+    ],
+    "family": "Solo creator",
+    "decision": "Distinguish average concurrent and unique viewers and isolate a live sponsorship segment.",
+    "overlap": "Generic live runbook covers production. This article reconciles Twitch statistics with the integration window.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1500,
+    "chineseHanzi": 1364,
+    "primarySources": [
+      {
+        "id": "twitchAnalytics",
+        "url": "https://help.twitch.tv/s/article/channel-analytics"
+      },
+      {
+        "id": "twitchSummary",
+        "url": "https://help.twitch.tv/s/article/stream-summary?language=en_US"
+      },
+      {
+        "id": "twitchBrand",
+        "url": "https://help.twitch.tv/s/article/branded-content-policy?language=en_US"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "创作者直播执行指南",
+          "creator live campaign runbook"
+        ],
+        "url": "/blog/creator-live-campaign-runbook/#answer"
+      },
+      {
+        "terms": [
+          "创作者活动衡量指南",
+          "creator campaign measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 20,
+    "keyword": "instagram ads",
+    "slug": "instagram-ads-creator-placement-preflight",
+    "topic": "commercial",
+    "title": [
+      "Instagram广告：核对素材和版位",
+      "Instagram Ads: Preflight Creator Assets and Placements"
+    ],
+    "family": "Human documentary",
+    "decision": "Separate objective, placement, creative and partnership permissions before launch.",
+    "overlap": "Whitelisting articles explain permission. This checks Instagram delivery and creative specification.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1500,
+    "chineseHanzi": 1437,
+    "primarySources": [
+      {
+        "id": "metaPartner",
+        "url": "https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      },
+      {
+        "id": "metaAdsLib",
+        "url": "https://about.fb.com/news/2023/02/increasing-our-ads-transparency/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "创作者活动衡量指南",
+          "creator campaign measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      },
+      {
+        "terms": [
+          "合作广告权限指南",
+          "partnership ad permissions guide"
+        ],
+        "url": "/blog/what-is-whitelisting-creator-ad-permissions/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 21,
+    "keyword": "facebook marketing",
+    "slug": "facebook-marketing-page-service-workflow",
+    "topic": "campaign",
+    "title": [
+      "Facebook营销：把主页变成服务入口",
+      "Facebook Marketing: Run a Useful Page Workflow"
+    ],
+    "family": "Environment / objects",
+    "decision": "Operate a page from a concrete audience task, content, responses and qualified handoff.",
+    "overlap": "Cross-platform social plan scopes channels. This gives Facebook Page and Business Suite operational detail.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1501,
+    "chineseHanzi": 1451,
+    "primarySources": [
+      {
+        "id": "metaSuite",
+        "url": "https://about.fb.com/news/2020/09/a-faster-and-easier-way-to-manage-your-business-on-facebook-and-instagram/"
+      },
+      {
+        "id": "metaOne",
+        "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "社交媒体运营计划",
+          "a social media operating plan"
+        ],
+        "url": "/blog/social-media-marketing-operating-plan/#answer"
+      },
+      {
+        "terms": [
+          "创作者活动衡量指南",
+          "campaign measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 22,
+    "keyword": "tiktok followers",
+    "slug": "tiktok-followers-count-cohort-fit",
+    "topic": "analytics",
+    "title": [
+      "TikTok粉丝数：从规模走到受众匹配",
+      "TikTok Followers: Use Counts With Audience Evidence"
+    ],
+    "family": "Editorial collage / data art",
+    "decision": "Record follower snapshot, first-party audience context and relevant view samples for hiring.",
+    "overlap": "Instagram denominator article is report math. This checks candidate fit without authenticity scoring.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1501,
+    "chineseHanzi": 1497,
+    "primarySources": [
+      {
+        "id": "ttWebSuite",
+        "url": "https://ads.tiktok.com/resources/help/article/navigate-web-business-suite?lang=en"
+      },
+      {
+        "id": "ttAud",
+        "url": "https://ads.tiktok.com/resources/help/article/audience-insights?lang=en"
+      },
+      {
+        "id": "ttRecommend",
+        "url": "https://www.tiktok.com/support/faq_detail?id=7655285288050104852&category=web_account"
+      },
+      {
+        "id": "ttAuthenticity",
+        "url": "https://newsroom.tiktok.com/how-tiktok-counters-deceptive-behaviour?lang=en-150"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "粉丝数之外的创作者筛选方法",
+          "creator selection beyond followers"
+        ],
+        "url": "/blog/creator-selection-beyond-followers/#answer"
+      },
+      {
+        "terms": [
+          "查看粉丝地区的证据方法",
+          "follower location evidence guide"
+        ],
+        "url": "/blog/how-to-see-followers-countries-evidence/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 23,
+    "keyword": "best hashtags for tiktok",
+    "slug": "best-tiktok-hashtags-query-fit-experiment",
+    "topic": "campaign",
+    "title": [
+      "TikTok标签怎么选：按查询做小实验",
+      "Best Hashtags for TikTok: Test Relevance by Query"
+    ],
+    "family": "Type / background",
+    "decision": "Use query-specific tags with documented region/time and controlled creative tests.",
+    "overlap": "Trending article turns trend into a brief. This tests hashtag relevance and records exclusions.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1500,
+    "chineseHanzi": 1424,
+    "primarySources": [
+      {
+        "id": "ttCreative",
+        "url": "https://ads.tiktok.com/resources/help/article/creative-center?redirected=2"
+      },
+      {
+        "id": "ttHashtags",
+        "url": "https://ads.tiktok.com/resources/help/article/how-to-use-trends?lang=en-GB"
+      },
+      {
+        "id": "ttRecommend",
+        "url": "https://www.tiktok.com/support/faq_detail?id=7655285288050104852&category=web_account"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "实用的创作者简报",
+          "a useful creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "创作者活动衡量指南",
+          "creator campaign measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 24,
+    "keyword": "tiktok updates",
+    "slug": "tiktok-updates-change-control-register",
+    "topic": "campaign",
+    "title": [
+      "TikTok更新：记录变化与适用范围",
+      "TikTok Updates: Keep a Change Control Register"
+    ],
+    "family": "Solo creator",
+    "decision": "Distinguish announcement, help, eligibility and observed rollout before altering a workflow.",
+    "overlap": "Technology disruption article is cross-platform. This is TikTok update intake with source and rollout evidence.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1500,
+    "chineseHanzi": 1490,
+    "primarySources": [
+      {
+        "id": "ttCommentUpdate",
+        "url": "https://newsroom.tiktok.com/say-more-in-the-comments?lang=en"
+      },
+      {
+        "id": "ttAdViews",
+        "url": "https://ads.tiktok.com/resources/help/article/video-play?lang=en-0"
+      },
+      {
+        "id": "ttDisclosure",
+        "url": "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "社交媒体运营计划",
+          "a social media operating plan"
+        ],
+        "url": "/blog/social-media-marketing-operating-plan/#answer"
+      },
+      {
+        "terms": [
+          "创作者活动衡量指南",
+          "campaign measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 25,
+    "keyword": "brandwatch",
+    "slug": "brandwatch-listening-influence-task-pilot",
+    "topic": "commercial",
+    "title": [
+      "Brandwatch：按工作任务核对产品",
+      "Brandwatch: Scope a Listening and Influence Pilot"
+    ],
+    "family": "Environment / objects",
+    "decision": "Compare current product surfaces using query coverage, workflow ownership and handoff checks.",
+    "overlap": "GRIN product-seeding review is operational fit for gifting. This tests listening to creator research handoff.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1500,
+    "chineseHanzi": 1453,
+    "primarySources": [
+      {
+        "id": "bwResearch",
+        "url": "https://influence-help.brandwatch.com/en/articles/12414695-overview-of-consumer-intelligence"
+      },
+      {
+        "id": "bwHelp",
+        "url": "https://www.brandwatch.com/help-center/"
+      },
+      {
+        "id": "bwData",
+        "url": "https://www.brandwatch.com/datanetworks/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "创作者活动衡量指南",
+          "campaign measurement guide"
+        ],
+        "url": "/blog/creator-campaign-measurement/#answer"
+      },
+      {
+        "terms": [
+          "社交媒体运营计划",
+          "a social media operating plan"
+        ],
+        "url": "/blog/social-media-marketing-operating-plan/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 26,
+    "keyword": "how can i get instagram verification",
+    "slug": "instagram-verification-routes-evidence",
+    "topic": "commercial",
+    "title": [
+      "Instagram怎么认证：准备两类申请资料",
+      "How Can I Get Instagram Verification? Compare Routes"
+    ],
+    "family": "Editorial collage / data art",
+    "decision": "Separate notability-based request from Meta Verified routes, evidence, impersonation, and commercial identity.",
+    "overlap": "Existing identity articles are research evidence. This is an Instagram account-holder preparation guide.",
+    "reviewedAt": "2026-11-05",
+    "status": "bilingual-body-audit-passed",
+    "englishBodyWords": 1502,
+    "chineseHanzi": 1601,
+    "primarySources": [
+      {
+        "id": "igBadge",
+        "url": "https://help.instagram.com/733907830039577"
+      },
+      {
+        "id": "igBadgeReq",
+        "url": "https://help.instagram.com/312685272613322"
+      },
+      {
+        "id": "igBadgeApply",
+        "url": "https://help.instagram.com/398038890351915/?cms_platform=iphone-app"
+      },
+      {
+        "id": "igMetaVerified",
+        "url": "https://help.instagram.com/2419286908233223"
+      },
+      {
+        "id": "igMetaPaid",
+        "url": "https://help.instagram.com/738055111270671"
+      },
+      {
+        "id": "igBusinessVerified",
+        "url": "https://about.fb.com/news/2023/09/meta-verified-for-businesses/"
+      },
+      {
+        "id": "ftcPhishing",
+        "url": "https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "社交媒体运营计划",
+          "a social media operating plan"
+        ],
+        "url": "/blog/social-media-marketing-operating-plan/#answer"
+      },
+      {
+        "terms": [
+          "创作者身份核验指南",
+          "creator identity verification guide"
+        ],
+        "url": "/blog/verify-creator-brand-safety/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  }
+]

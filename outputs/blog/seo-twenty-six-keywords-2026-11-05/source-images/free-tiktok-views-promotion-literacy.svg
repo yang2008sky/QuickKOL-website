@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941">
+ <rect width="1672" height="941" fill="#f6f0df"/>
+ <path d="M262 476H488Q611 476 659 384T795 264H1128" stroke="#267367" stroke-width="38" fill="none" stroke-linecap="round"/>
+ <path d="M262 476H1146" stroke="#ae4c38" stroke-width="38" fill="none" stroke-linecap="round"/>
+ <path d="M262 476H488Q611 476 659 568T795 688H1128" stroke="#696484" stroke-width="27" fill="none" stroke-linecap="round" stroke-dasharray="14 31"/>
+ <circle cx="262" cy="476" r="76" fill="#203d48"/>
+ <path d="M242 437l58 39-58 39z" fill="#fff3d7"/>
+ <g font-family="sans-serif" font-weight="700" font-size="43" letter-spacing="3">
+  <rect x="1014" y="210" width="426" height="110" rx="19" fill="#267367"/><text x="1077" y="280" fill="#fff">ORGANIC</text>
+  <rect x="1014" y="421" width="426" height="110" rx="19" fill="#ae4c38"/><text x="1077" y="490" fill="#fff">PROMOTED</text>
+  <rect x="1014" y="633" width="426" height="110" rx="19" fill="#696484"/><text x="1077" y="704" fill="#fff">UNVERIFIED</text>
+ </g>
+ <circle cx="1392" cy="264" r="12" fill="#f0c58a"/><circle cx="1392" cy="475" r="12" fill="#f0c58a"/><circle cx="1392" cy="688" r="12" fill="#f0c58a"/>
+</svg>

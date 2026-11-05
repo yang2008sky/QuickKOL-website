@@ -1,0 +1,476 @@
+{
+  "checkedAt": "2026-11-05",
+  "paths": 78,
+  "passed": true,
+  "failed": [],
+  "results": [
+    {
+      "path": "/assets/blog/tiktok-duet-brand-response-brief.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 233472
+    },
+    {
+      "path": "/blog/tiktok-duet-brand-response-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/tiktok-duet-brand-response-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/dancer-creator-movement-production-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/dancer-creator-movement-production-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/go-live-tiktok-account-readiness/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/go-live-tiktok-account-readiness/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/dancer-creator-movement-production-brief.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 198526
+    },
+    {
+      "path": "/zh/blog/tiktok-creator-rewards-brand-budget-boundary/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/tiktok-creator-rewards-brand-budget-boundary.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 53389
+    },
+    {
+      "path": "/blog/tiktok-creator-rewards-brand-budget-boundary/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/go-live-tiktok-account-readiness.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 184751
+    },
+    {
+      "path": "/blog/instamark-followers-source-verification/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/free-tiktok-followers-organic-learning-plan/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/instamark-followers-source-verification/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/instamark-followers-source-verification.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 84837
+    },
+    {
+      "path": "/zh/blog/free-tiktok-followers-organic-learning-plan/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/bluesky-app-editorial-desk-workflow/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/bluesky-app-editorial-desk-workflow/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/free-tiktok-followers-organic-learning-plan.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 280250
+    },
+    {
+      "path": "/blog/instagram-stories-frame-level-reporting/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/instagram-stories-frame-level-reporting/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/instagram-stories-frame-level-reporting.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 52810
+    },
+    {
+      "path": "/assets/blog/bluesky-app-editorial-desk-workflow.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 245602
+    },
+    {
+      "path": "/blog/youtubed-youtube-video-provenance/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/youtubed-youtube-video-provenance/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/instagram-followers-reach-denominator/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/youtubed-youtube-video-provenance.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 251137
+    },
+    {
+      "path": "/zh/blog/instagram-followers-reach-denominator/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/walmart-creator-retail-placement-commission/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/walmart-creator-retail-placement-commission/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/instagram-followers-reach-denominator.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 62469
+    },
+    {
+      "path": "/blog/activewear-apparel-brands-movement-evidence/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/activewear-apparel-brands-movement-evidence/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/walmart-creator-retail-placement-commission.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 239212
+    },
+    {
+      "path": "/assets/blog/activewear-apparel-brands-movement-evidence.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 303862
+    },
+    {
+      "path": "/blog/what-is-bluesky-at-protocol-brand-context/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/what-is-bluesky-at-protocol-brand-context/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/app-bluesky-official-entry-identity-check/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/what-is-bluesky-at-protocol-brand-context.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 46068
+    },
+    {
+      "path": "/zh/blog/app-bluesky-official-entry-identity-check/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/make-instagram-reel-production-review/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/make-instagram-reel-production-review/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/app-bluesky-official-entry-identity-check.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 51089
+    },
+    {
+      "path": "/blog/free-tiktok-views-promotion-literacy/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/free-tiktok-views-promotion-literacy/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/free-tiktok-views-promotion-literacy.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 43956
+    },
+    {
+      "path": "/assets/blog/make-instagram-reel-production-review.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 218123
+    },
+    {
+      "path": "/blog/tiktok-views-count-definition-comparison/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/tiktok-views-count-definition-comparison/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/tiktok-likes-creative-response-reading/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/tiktok-views-count-definition-comparison.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 267538
+    },
+    {
+      "path": "/zh/blog/tiktok-likes-creative-response-reading/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/twitch-statistics-live-sponsor-window/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/twitch-statistics-live-sponsor-window/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/tiktok-likes-creative-response-reading.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 38715
+    },
+    {
+      "path": "/blog/instagram-ads-creator-placement-preflight/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/instagram-ads-creator-placement-preflight/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/twitch-statistics-live-sponsor-window.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 225763
+    },
+    {
+      "path": "/assets/blog/instagram-ads-creator-placement-preflight.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 254026
+    },
+    {
+      "path": "/zh/blog/facebook-marketing-page-service-workflow/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/facebook-marketing-page-service-workflow/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/tiktok-followers-count-cohort-fit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/facebook-marketing-page-service-workflow.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 188940
+    },
+    {
+      "path": "/zh/blog/tiktok-followers-count-cohort-fit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/best-tiktok-hashtags-query-fit-experiment/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/best-tiktok-hashtags-query-fit-experiment/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/tiktok-followers-count-cohort-fit.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 43481
+    },
+    {
+      "path": "/blog/tiktok-updates-change-control-register/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/tiktok-updates-change-control-register/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/best-tiktok-hashtags-query-fit-experiment.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 38941
+    },
+    {
+      "path": "/assets/blog/tiktok-updates-change-control-register.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 264909
+    },
+    {
+      "path": "/blog/brandwatch-listening-influence-task-pilot/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/brandwatch-listening-influence-task-pilot/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/instagram-verification-routes-evidence/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/brandwatch-listening-influence-task-pilot.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 229521
+    },
+    {
+      "path": "/zh/blog/instagram-verification-routes-evidence/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/instagram-verification-routes-evidence.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 42184
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941">
+ <defs><filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="17" flood-color="#3f263f" flood-opacity=".17"/></filter></defs>
+ <rect width="1672" height="941" fill="#f5e4dd"/>
+ <circle cx="1259" cy="332" r="284" fill="#d8cbe8"/><circle cx="465" cy="625" r="301" fill="#efd1b8"/>
+ <path d="M836 222v142m0 0H540v125m296-125h296v125" fill="none" stroke="#464c75" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle cx="836" cy="222" r="63" fill="#464c75"/><path d="M807 223l20 20 41-43" fill="none" stroke="#fff8ed" stroke-width="11" stroke-linecap="round"/>
+ <g filter="url(#shadow)">
+  <rect x="292" y="476" width="496" height="206" rx="29" fill="#fff7ec"/>
+  <rect x="884" y="476" width="496" height="206" rx="29" fill="#fff7ec"/>
+ </g>
+ <g fill="#3d436b" font-family="sans-serif" font-weight="700" font-size="49" letter-spacing="2" text-anchor="middle">
+  <text x="540" y="595">NOTABILITY</text><text x="1132" y="595">SUBSCRIPTION</text>
+ </g>
+ <path d="M465 625h150m443 0h148" stroke="#c47969" stroke-width="6" stroke-linecap="round"/>
+</svg>

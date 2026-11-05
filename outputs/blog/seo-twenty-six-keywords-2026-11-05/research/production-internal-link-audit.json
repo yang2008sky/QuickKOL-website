@@ -1,0 +1,463 @@
+{
+  "total": 57,
+  "passed": true,
+  "failed": [],
+  "results": [
+    {
+      "path": "/blog/ai-creator-research-prompts/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/ai-creator-research-prompts/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/brand-deals-commercial-memo-content-brief/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/brand-deals-commercial-memo-content-brief/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/creator-campaign-measurement/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/creator-campaign-measurement/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/creator-content-approval-workflow/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/creator-content-approval-workflow/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/creator-landing-page-conversion/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/creator-landing-page-conversion/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/creator-live-campaign-runbook/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/creator-live-campaign-runbook/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/creator-metric-definitions/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/creator-metric-definitions/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/creator-outreach-follow-up/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/creator-outreach-follow-up/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/creator-performance-benchmarks/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/creator-performance-benchmarks/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/creator-product-claims-review/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/creator-product-claims-review/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/creator-rates-usage-rights/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/creator-rates-usage-rights/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/creator-raw-footage-rights/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/creator-raw-footage-rights/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/creator-selection-beyond-followers/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/creator-selection-beyond-followers/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/creator-shortlist-workflow/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/creator-shortlist-workflow/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/creator-usage-rights-renewal/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/creator-usage-rights-renewal/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/engagement-rate-formula-metric-contract/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/engagement-rate-formula-metric-contract/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/evaluate-creator-rate-cards/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/evaluate-creator-rate-cards/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/fashion-influencers-repeat-wear-brief/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/fashion-influencers-repeat-wear-brief/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/find-youtube-channel-owner-business-email/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/find-youtube-channel-owner-business-email/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/fitness-influencer-pilot-brief/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/fitness-influencer-pilot-brief/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/how-to-see-followers-countries-evidence/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/how-to-see-followers-countries-evidence/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/influencer-campaign-budget-planning/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/influencer-campaign-budget-planning/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/instagram-followers-check-change-log/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/instagram-followers-check-change-log/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/multilingual-creator-campaign/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/multilingual-creator-campaign/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/read-creator-engagement-data/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/read-creator-engagement-data/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/social-media-marketing-operating-plan/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/social-media-marketing-operating-plan/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/tiktok-spark-ads-authorization-lifecycle/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/tiktok-spark-ads-authorization-lifecycle/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/verify-creator-brand-safety/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/verify-creator-brand-safety/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/what-is-whitelisting-creator-ad-permissions/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/what-is-whitelisting-creator-ad-permissions/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/blog/write-a-useful-campaign-brief/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/blog/write-a-useful-campaign-brief/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/analyze-creator-comment-quality/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/analyze-creator-comment-quality/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/brand-deals-commercial-memo-content-brief/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/brand-deals-commercial-memo-content-brief/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/creator-campaign-measurement/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/creator-campaign-measurement/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/creator-landing-page-conversion/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/creator-landing-page-conversion/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/creator-live-campaign-runbook/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/creator-live-campaign-runbook/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/creator-outreach-follow-up/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/creator-outreach-follow-up/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/creator-rates-usage-rights/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/creator-rates-usage-rights/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/creator-raw-footage-rights/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/creator-raw-footage-rights/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/creator-retention-watch-time/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/creator-retention-watch-time/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/creator-selection-beyond-followers/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/creator-selection-beyond-followers/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/creator-shortlist-workflow/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/creator-shortlist-workflow/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/detect-suspicious-creator-growth/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/detect-suspicious-creator-growth/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/engagement-rate-formula-metric-contract/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/engagement-rate-formula-metric-contract/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/estimate-creator-reach-frequency/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/estimate-creator-reach-frequency/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/evaluate-creator-rate-cards/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/evaluate-creator-rate-cards/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/fashion-influencers-repeat-wear-brief/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/fashion-influencers-repeat-wear-brief/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/find-youtube-channel-owner-business-email/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/find-youtube-channel-owner-business-email/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/fitness-influencer-pilot-brief/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/fitness-influencer-pilot-brief/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/how-to-see-followers-countries-evidence/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/how-to-see-followers-countries-evidence/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/influencer-campaign-budget-planning/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/influencer-campaign-budget-planning/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/instagram-followers-check-change-log/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/instagram-followers-check-change-log/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/read-creator-engagement-data/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/read-creator-engagement-data/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/social-media-marketing-operating-plan/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/social-media-marketing-operating-plan/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/tiktok-spark-ads-authorization-lifecycle/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/tiktok-spark-ads-authorization-lifecycle/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/verify-creator-brand-safety/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/verify-creator-brand-safety/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/what-is-whitelisting-creator-ad-permissions/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/what-is-whitelisting-creator-ad-permissions/",
+      "hasArticle": true,
+      "hasAnswer": true
+    },
+    {
+      "path": "/zh/blog/write-a-useful-campaign-brief/",
+      "status": 200,
+      "canonical": true,
+      "finalPath": "/zh/blog/write-a-useful-campaign-brief/",
+      "hasArticle": true,
+      "hasAnswer": true
+    }
+  ]
+}
