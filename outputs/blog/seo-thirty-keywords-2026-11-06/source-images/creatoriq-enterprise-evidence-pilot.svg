@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 941">
-<title>Approvals and evidence across teams</title>
-<defs><linearGradient id="bg"><stop stop-color="#233565"/><stop offset="1" stop-color="#544273"/></linearGradient></defs>
-<rect width="1672" height="941" fill="url(#bg)"/><path d="M0 768l582-768h263L199 941H0z" fill="#514984"/><path d="M1672 330l-462 611h462z" fill="#294b71"/>
-<g transform="translate(260 308) rotate(-10 205 140)"><rect width="392" height="306" rx="25" fill="#b8a9ed"/><path d="M0 87h392" stroke="#3a3066" stroke-width="8"/><g fill="#f8f3ff"><circle cx="86" cy="158" r="27"/><circle cx="86" cy="231" r="27"/></g><path d="M138 157h171M138 230h142" stroke="#635793" stroke-width="12" stroke-linecap="round"/></g>
-<g transform="translate(623 190) rotate(5 230 250)"><rect x="18" y="18" width="443" height="525" rx="35" fill="#18182d" opacity=".45"/><rect width="443" height="525" rx="35" fill="#fff5e5"/><path d="M62 74h228M62 103h164M62 412h270M62 443h187" stroke="#d5b6a6" stroke-width="13" stroke-linecap="round"/><rect x="64" y="160" width="318" height="189" rx="24" fill="#f3d1b3"/><circle cx="222" cy="253" r="65" fill="#155b59"/><path d="M191 253l19 19 41-46" fill="none" stroke="#d6f4de" stroke-width="12" stroke-linecap="round"/></g>
-<g transform="translate(1139 359) rotate(8 130 118)"><rect width="261" height="240" rx="29" fill="#77c2ba"/><path d="M37 55h117M37 80h84M36 119h188M36 162h188M36 205h188" stroke="#245557" stroke-width="8" stroke-linecap="round"/><path d="M177 47h45v37h-45z" fill="#e0f5da"/></g>
-</svg>

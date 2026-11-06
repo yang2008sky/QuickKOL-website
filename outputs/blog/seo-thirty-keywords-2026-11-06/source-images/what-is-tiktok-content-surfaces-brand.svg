@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 941">
-<title>Four routes to content</title><rect width="1672" height="941" fill="#222837"/>
-<circle cx="836" cy="470" r="292" fill="#33354e"/><circle cx="836" cy="470" r="213" fill="none" stroke="#555573" stroke-width="4" stroke-dasharray="12 15"/>
-<path d="M745 409l-177-118m354 118 177-118M745 530L568 649m354-119 177 119" stroke="#9ca8c1" stroke-width="9"/>
-<circle cx="836" cy="470" r="122" fill="#d9b8ea"/><path d="M808 416v108l84-55z" fill="#432e60"/>
-<g fill="#a9d9cb"><rect x="202" y="172" width="403" height="182" rx="35"/><rect x="1067" y="586" width="403" height="182" rx="35"/></g>
-<g fill="#e7adad"><rect x="1067" y="172" width="403" height="182" rx="35"/><rect x="202" y="586" width="403" height="182" rx="35"/></g>
-<g fill="#28344a" text-anchor="middle" font-family="Arial,sans-serif" font-size="50" font-weight="700"><text x="405" y="281">DISCOVER</text><text x="1268" y="281">SEARCH</text><text x="405" y="693">FOLLOW</text><text x="1268" y="693">LIVE</text></g>
-</svg>

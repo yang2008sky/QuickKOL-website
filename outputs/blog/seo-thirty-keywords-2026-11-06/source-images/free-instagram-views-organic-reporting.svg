@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 941">
-<title>Views, accounts and open source questions</title>
-<rect width="1672" height="941" fill="#273249"/><path d="M0 0h856L645 941H0z" fill="#394366"/><path d="M1672 0v324l-446-96 100-228z" fill="#463c66"/>
-<g transform="translate(253 210)" font-family="Arial,sans-serif" font-weight="700" font-size="68" fill="#fff1e8">
-<rect width="1164" height="145" rx="29" fill="#8b4e6c"/><path d="M67 44v60l49-30z" fill="#ffe0d0"/><text x="174" y="96">VIEWS</text><path d="M688 76h393" stroke="#ffcfbd" stroke-width="10" stroke-linecap="round"/>
-<rect y="188" width="1164" height="145" rx="29" fill="#38656d"/><circle cx="90" cy="244" r="16" fill="#c6e7db"/><path d="M61 294c0-35 57-35 57 0" fill="none" stroke="#c6e7db" stroke-width="8"/><text x="174" y="284">ACCOUNTS</text><path d="M688 264h275" stroke="#bbe0d9" stroke-width="10" stroke-linecap="round"/>
-<rect y="376" width="1164" height="145" rx="29" fill="#514477"/><circle cx="90" cy="450" r="34" fill="none" stroke="#dbc6f2" stroke-width="7"/><text x="77" y="466" font-size="44" fill="#dbc6f2">?</text><text x="174" y="472">UNVERIFIED</text><path d="M688 453h392" stroke="#dbcaee" stroke-width="10" stroke-dasharray="20 21" stroke-linecap="round"/>
-</g></svg>

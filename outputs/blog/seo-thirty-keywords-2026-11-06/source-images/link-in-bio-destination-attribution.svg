@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941">
-<rect width="1672" height="941" fill="#f4eddf"/><circle cx="1230" cy="420" r="350" fill="#f1d1bf"/>
-<path d="M387 498C540 498 518 390 685 390s135 108 324 108h216" fill="none" stroke="#1c5273" stroke-width="20" stroke-linecap="round"/>
-<g font-family="sans-serif" font-size="46" font-weight="700" text-anchor="middle">
-<g transform="translate(190 255)"><rect width="324" height="303" rx="35" fill="#214263"/><circle cx="162" cy="106" r="52" fill="#f1b885"/><path d="M90 193h144" stroke="#dde9e4" stroke-width="14" stroke-linecap="round"/><text x="162" y="269" fill="#fff3e4">PROFILE</text></g>
-<g transform="translate(675 167)"><rect width="324" height="303" rx="35" fill="#397f83"/><path d="M88 95h149m-149 49h149m-149 49h149" stroke="#f4eddf" stroke-width="16" stroke-linecap="round"/><text x="162" y="267" fill="#fff3e4">LINK</text></g>
-<g transform="translate(1160 255)"><rect width="324" height="303" rx="35" fill="#a45145"/><rect x="82" y="72" width="160" height="117" rx="16" fill="#f3d4b5"/><text x="162" y="269" fill="#fff3e4">PAGE</text></g>
-</g><path d="M315 697H1370" stroke="#327080" stroke-width="4" stroke-dasharray="10 16"/><g fill="#327080"><circle cx="345" cy="697" r="15"/><circle cx="839" cy="697" r="15"/><circle cx="1320" cy="697" r="15"/></g>
-</svg>
