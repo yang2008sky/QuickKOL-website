@@ -13,7 +13,7 @@ import { semrushBatchFourPosts } from './blog-semrush-b4-posts.js';
 import './blog.css';
 import { canonicalUrl, siteOrigin, articleShareImage } from './seo.js';
 import { routePath, localizedPath, pathLocale } from './localized-paths.js';
-import { BLOG_PAGE_SIZE as PAGE_SIZE, blogPagePath } from './blog-pagination.js';
+import { BLOG_PAGE_SIZE as PAGE_SIZE, blogPageItems, blogPagePath } from './blog-pagination.js';
 import { blogPosts as baseBlogPosts, blogTopics } from './blog-posts.js';
 import { additionalBlogPosts } from './blog-additional-posts.js';
 import { seriesBlogPosts } from './blog-series-posts.js';
@@ -290,11 +290,12 @@ export function mountBlog(initialLocale) {
     return `<a class="blog-card" href="${escapeHtml(postUrl(item))}"><div class="blog-cover"><img src="${coverUrl(item)}" alt="${escapeHtml(text(item.coverAlt))}" loading="lazy" width="640" height="360" /></div><div class="blog-card-meta"><span class="blog-badge">${topicName(item.topic)}</span><time datetime="${item.date}">${date(item.date)}</time></div><h3>${escapeHtml(text(item.title))}</h3><p class="blog-card-description">${escapeHtml(text(item.summary))}</p><div class="blog-card-bottom"><small>Daniel Craig · ${readTime(item)} ${copy('分钟阅读', 'min read')}</small><span>${copy('阅读', 'Read')} ${arrow}</span></div></a>`;
   }
 
+  function activeFilters() {
+    return Object.entries({ q: query, topic, tag }).filter(([, value]) => value);
+  }
+
   function resultsUrl(pageNumber) {
-    const next = new URLSearchParams();
-    if (query) next.set('q', query);
-    if (topic) next.set('topic', topic);
-    if (tag) next.set('tag', tag);
+    const next = new URLSearchParams(activeFilters());
     const search = next.size ? `?${next}` : '';
     return sitePath(`${blogPagePath(pageNumber)}${search}`);
   }
@@ -322,8 +323,34 @@ export function mountBlog(initialLocale) {
     const pageLink = (target, label, ariaLabel, disabled = false) => disabled
       ? `<span aria-disabled="true" aria-label="${ariaLabel}">${label}</span>`
       : `<a href="${escapeHtml(resultsUrl(target))}" data-blog-page="${target}" ${target === page ? 'aria-current="page"' : ''} aria-label="${ariaLabel}">${label}</a>`;
-    document.querySelector('[data-blog-pagination]').innerHTML = matching.length ? `<span>${copy(`第 ${page} / ${pages} 页`, `PAGE ${page} OF ${pages}`)}</span><div class="blog-page-buttons">${pageLink(page - 1, '←', copy('上一页', 'Previous page'), page === 1)}${Array.from({length: pages}, (_, index) => pageLink(index + 1, index + 1, copy(`第 ${index + 1} 页`, `Page ${index + 1}`))).join('')}${pageLink(page + 1, '→', copy('下一页', 'Next page'), page === pages)}</div>` : '';
+    const pagination = document.querySelector('[data-blog-pagination]');
+    pagination.hidden = pages <= 1;
+    if (pages > 1) {
+      const pageNumbers = blogPageItems(page, pages).map((target) => target === null
+        ? '<span class="blog-page-gap" aria-hidden="true">…</span>'
+        : pageLink(target, target, copy(`第 ${target} 页`, `Page ${target}`))).join('');
+      const filters = activeFilters().map(([name, value]) => `<input type="hidden" name="${name}" value="${escapeHtml(value)}" />`).join('');
+      pagination.innerHTML = `<span>${copy(`第 ${page} / ${pages} 页`, `PAGE ${page} OF ${pages}`)}</span>
+        <div class="blog-page-buttons">
+          ${pageLink(page - 1, '←', copy('上一页', 'Previous page'), page === 1)}${pageNumbers}${pageLink(page + 1, '→', copy('下一页', 'Next page'), page === pages)}
+        </div>
+        <form class="blog-page-jump" data-blog-jump action="${sitePath('/blog/')}" method="get">
+          ${filters}<input type="number" name="page" min="1" max="${pages}" step="1" required placeholder="${copy('页码', 'Page')}" aria-label="${copy(`页码（1 到 ${pages}）`, `Page number (1 to ${pages})`)}" />
+          <button type="submit">${copy('跳转', 'Go')}</button>
+        </form>`;
+    } else {
+      pagination.innerHTML = '';
+    }
     metadata();
+  }
+
+  function goToPage(nextPage) {
+    page = nextPage;
+    renderResults();
+    document.querySelector('.blog-results').scrollIntoView({ behavior: 'instant', block: 'start' });
+    const count = document.querySelector('[data-blog-count]');
+    count.setAttribute('tabindex', '-1');
+    count.focus({ preventScroll: true });
   }
 
   function updateBlogTool(container) {
@@ -638,10 +665,15 @@ export function mountBlog(initialLocale) {
       main.innerHTML = `<section class="blog-article-hero"><p class="blog-kicker">QUICKKOL / BLOG</p><h1>${copy('文章未找到', 'Article not found')}</h1><a class="button button-primary" href="/blog/">${copy('返回 Blog', 'Back to the blog')}</a></section>`;
     } else if (post) {
       linkedInternalUrls.clear();
+      // Link neighboring articles in each topic so older guides stay connected.
+      const topicPosts = blogPosts.filter((item) => item.topic === post.topic);
+      const topicIndex = topicPosts.indexOf(post);
+      const relatedStart = Math.max(0, Math.min(topicIndex - 1, topicPosts.length - 3));
+      const relatedPosts = topicPosts.slice(relatedStart, relatedStart + 3).filter((item) => item !== post);
       const renderDeepDive = () => post.deepDive.map((section, index) => `<section id="deep-dive-${index + 1}"><h2>${escapeHtml(text(section.heading))}</h2>${linkedParagraphs(post, section.body, section.citations)}</section>`).join('');
       const sourceList = `<section class="blog-sources" id="sources"><h2>${copy('资料来源与延伸阅读', 'Sources and further reading')}</h2><ul>${post.sources.map((source, index) => `<li><span class="blog-list-index">${String(index + 1).padStart(2, '0')}</span><a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(text(source.label))} ${arrow}</a></li>`).join('')}</ul><p>${copy('外部页面可能更新；平台规则、合同与当地法规应在 Campaign 启动前再次确认。', 'External pages can change. Recheck platform rules, contracts and local law before launch.')}</p></section>`;
       const toc = `<nav class="blog-toc" aria-label="${copy('文章目录', 'Article contents')}"><p>${copy('本文目录', 'IN THIS ARTICLE')}</p><a href="#answer">${copy('先给结论', 'The short answer')}</a>${post.sections.map(([heading], index) => `<a href="#section-${index + 1}">${escapeHtml(text(heading))}</a>`).join('')}${post.deepDive.map((section, index) => `<a href="#deep-dive-${index + 1}">${escapeHtml(text(section.heading))}</a>`).join('')}<a href="#evidence-table">${escapeHtml(text(post.table.title))}</a><a href="#interactive-tool">${escapeHtml(text(post.tool.title))}</a><a href="#sources">${copy('资料来源与延伸阅读', 'Sources')}</a></nav>`;
-      main.innerHTML = `<article><div class="blog-article-hero"><a class="blog-back" href="${escapeHtml(listUrl())}">← ${copy('所有文章', 'All articles')}</a><p class="blog-kicker">QUICKKOL BLOG / ${topicName(post.topic)}</p><h1>${escapeHtml(text(post.title))}</h1><p class="blog-intro">${escapeHtml(text(post.summary))}</p><div class="blog-article-meta"><span><a href="${sitePath('/about/')}#daniel-craig" rel="author">Daniel Craig</a></span><time datetime="${post.date}">${date(post.date)}</time><span>${readTime(post)} ${copy('分钟阅读', 'min read')}</span></div></div><div class="blog-article-layout"><div class="blog-article-inner">${toc}<div class="blog-article-content"><img class="blog-article-cover" src="${coverUrl(post)}" alt="${escapeHtml(text(post.coverAlt))}" width="640" height="360" />${post.coverCredit ? `<p class="blog-cover-credit">${escapeHtml(text(post.coverCredit))}</p>` : ''}<section class="blog-answer" id="answer"><p class="blog-answer-label">${copy('总结', 'THE SHORT ANSWER')}</p>${renderAnswer(post)}</section>${post.sections.map(([heading, body, citations = []], index) => `<section id="section-${index + 1}"><h2>${escapeHtml(text(heading))}</h2>${linkedParagraphs(post, body, citations)}${(post.figures || []).filter(figure => figure.afterSection === index + 1).map(figure => `<figure class="blog-inline-figure"><img src="/assets/blog/${escapeHtml(figure.file)}" alt="${escapeHtml(text(figure.alt))}" loading="lazy" width="1200" height="540" /><figcaption>${escapeHtml(text(figure.caption))}</figcaption></figure>`).join('')}</section>`).join('')}${renderDeepDive()}${renderTable(post)}${renderTool(post.tool)}<aside class="blog-product-note"><p class="blog-kicker">IN QUICKKOL</p><h2>${post.cta ? escapeHtml(text(post.cta.title)) : copy('把方法变成可执行的 Campaign', 'Turn the method into an executable campaign')}</h2><p>${post.cta ? escapeHtml(text(post.cta.body)) : copy('用 QuickKOL Agent 整理需求、发现达人、准备个性化外联，并把关键状态留在同一条工作流里。', 'Use QuickKOL Agent to structure requirements, discover creators, prepare personalized outreach and keep campaign decisions in one workflow.')}</p><a href="${escapeHtml(post.cta?.href || '/#agent-team')}">${post.cta ? escapeHtml(text(post.cta.label)) : copy('体验 QuickKOL Agent', 'Try QuickKOL Agent')} ${arrow}</a></aside>${sourceList}<div class="blog-related"><p class="blog-kicker">${copy('继续阅读', 'KEEP READING')}</p>${blogPosts.filter((item) => item.slug !== post.slug).sort((a, b) => Number(b.topic === post.topic) - Number(a.topic === post.topic)).slice(0, 2).map((item, index) => `<a href="${escapeHtml(postUrl(item))}"><span class="blog-list-index">${String(index + 1).padStart(2, '0')}</span><span>${escapeHtml(text(item.title))} ${arrow}</span></a>`).join('')}</div></div></div></div></article>${cta()}`;
+      main.innerHTML = `<article><div class="blog-article-hero"><a class="blog-back" href="${escapeHtml(listUrl())}">← ${copy('所有文章', 'All articles')}</a><p class="blog-kicker">QUICKKOL BLOG / ${topicName(post.topic)}</p><h1>${escapeHtml(text(post.title))}</h1><p class="blog-intro">${escapeHtml(text(post.summary))}</p><div class="blog-article-meta"><span><a href="${sitePath('/about/')}#daniel-craig" rel="author">Daniel Craig</a></span><time datetime="${post.date}">${date(post.date)}</time><span>${readTime(post)} ${copy('分钟阅读', 'min read')}</span></div></div><div class="blog-article-layout"><div class="blog-article-inner">${toc}<div class="blog-article-content"><img class="blog-article-cover" src="${coverUrl(post)}" alt="${escapeHtml(text(post.coverAlt))}" width="640" height="360" />${post.coverCredit ? `<p class="blog-cover-credit">${escapeHtml(text(post.coverCredit))}</p>` : ''}<section class="blog-answer" id="answer"><p class="blog-answer-label">${copy('总结', 'THE SHORT ANSWER')}</p>${renderAnswer(post)}</section>${post.sections.map(([heading, body, citations = []], index) => `<section id="section-${index + 1}"><h2>${escapeHtml(text(heading))}</h2>${linkedParagraphs(post, body, citations)}${(post.figures || []).filter(figure => figure.afterSection === index + 1).map(figure => `<figure class="blog-inline-figure"><img src="/assets/blog/${escapeHtml(figure.file)}" alt="${escapeHtml(text(figure.alt))}" loading="lazy" width="1200" height="540" /><figcaption>${escapeHtml(text(figure.caption))}</figcaption></figure>`).join('')}</section>`).join('')}${renderDeepDive()}${renderTable(post)}${renderTool(post.tool)}<aside class="blog-product-note"><p class="blog-kicker">IN QUICKKOL</p><h2>${post.cta ? escapeHtml(text(post.cta.title)) : copy('把方法变成可执行的 Campaign', 'Turn the method into an executable campaign')}</h2><p>${post.cta ? escapeHtml(text(post.cta.body)) : copy('用 QuickKOL Agent 整理需求、发现达人、准备个性化外联，并把关键状态留在同一条工作流里。', 'Use QuickKOL Agent to structure requirements, discover creators, prepare personalized outreach and keep campaign decisions in one workflow.')}</p><a href="${escapeHtml(post.cta?.href || '/#agent-team')}">${post.cta ? escapeHtml(text(post.cta.label)) : copy('体验 QuickKOL Agent', 'Try QuickKOL Agent')} ${arrow}</a></aside>${sourceList}<div class="blog-related"><p class="blog-kicker">${copy('继续阅读', 'KEEP READING')}</p>${relatedPosts.map((item, index) => `<a href="${escapeHtml(postUrl(item))}"><span class="blog-list-index">${String(index + 1).padStart(2, '0')}</span><span>${escapeHtml(text(item.title))} ${arrow}</span></a>`).join('')}</div></div></div></div></article>${cta()}`;
       document.querySelectorAll('[data-blog-tool]').forEach(updateBlogTool);
     } else {
       main.innerHTML = `<section class="blog-hero"><p class="blog-kicker">QUICKKOL / INSIGHTS</p><h1>THE QUICKKOL <span>BLOG.</span></h1><p class="blog-intro">${copy('给品牌和营销团队的达人营销实战指南：从发现与评估，到外联、执行和复盘，让每一个判断都有证据。', 'Practical creator marketing guides for brand and marketing teams—from discovery and evaluation to outreach, execution and review, with evidence behind every decision.')}</p></section><section class="blog-library" aria-label="${copy('文章库', 'Article library')}"><aside class="blog-sidebar"><label class="blog-search"><i class="ph ph-magnifying-glass" aria-hidden="true"></i><input type="search" data-blog-search placeholder="${copy('搜索文章', 'Search insights')}" aria-label="${copy('搜索 Blog 文章', 'Search blog articles')}" value="${escapeHtml(query)}" /></label><p class="blog-filter-title">${copy('探索主题', 'Explore topics')}</p><div class="blog-topics" role="group" aria-label="${copy('按主题筛选', 'Filter by topic')}">${[{key:'',label:['全部文章','All articles']}, ...blogTopics].map((item) => `<button class="blog-topic" data-blog-topic="${item.key}" aria-pressed="${topic === item.key}"><span>${text(item.label)}</span><span>${blogPosts.filter((post) => !item.key || post.topic === item.key).length}</span></button>`).join('')}</div><div class="blog-tags-panel"><p class="blog-filter-title">${copy('热门标签', 'Popular tags')}</p><div class="blog-tags" role="group" aria-label="${copy('按标签筛选', 'Filter by tag')}">${tags.map((item) => `<button class="blog-tag" data-blog-tag="${item}" aria-pressed="${tag === item}"><b>#</b>${escapeHtml(tagLabel(item))} <small>${tagCounts.get(item)}</small></button>`).join('')}</div></div></aside><div class="blog-results"><h2 class="blog-count" data-blog-count role="status" aria-live="polite"></h2><div class="blog-grid" data-blog-grid></div><nav class="blog-pagination" data-blog-pagination aria-label="${copy('文章分页', 'Article pagination')}"></nav></div></section>${cta()}`;
@@ -686,19 +718,25 @@ export function mountBlog(initialLocale) {
     page = 1;
     renderResults();
   });
+  document.addEventListener('submit', (event) => {
+    if (!event.target.matches('[data-blog-jump]')) return;
+    event.preventDefault();
+    const input = event.target.elements.namedItem('page');
+    if (input.reportValidity()) goToPage(input.valueAsNumber);
+  });
   document.addEventListener('click', async (event) => {
     const topicButton = event.target.closest('[data-blog-topic]');
     const tagButton = event.target.closest('[data-blog-tag]');
     const pageButton = event.target.closest('[data-blog-page]');
     if (pageButton && (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey)) return;
-    if (topicButton || tagButton || pageButton || event.target.closest('[data-blog-clear]')) {
-      if (pageButton) event.preventDefault();
+    if (pageButton) {
+      event.preventDefault();
+      goToPage(Number(pageButton.dataset.blogPage));
+    } else if (topicButton || tagButton || event.target.closest('[data-blog-clear]')) {
       if (topicButton) { topic = topicButton.dataset.blogTopic; page = 1; }
       else if (tagButton) { tag = tag === tagButton.dataset.blogTag ? '' : tagButton.dataset.blogTag; page = 1; }
-      else if (pageButton) page = Number(pageButton.dataset.blogPage);
       else { query = ''; topic = ''; tag = ''; page = 1; document.querySelector('[data-blog-search]').value = ''; }
       renderResults();
-      if (pageButton) { document.querySelector('.blog-results').scrollIntoView({behavior: 'instant', block: 'start'}); document.querySelector('[data-blog-count]').setAttribute('tabindex', '-1'); document.querySelector('[data-blog-count]').focus({preventScroll: true}); }
     }
     const themeButton = event.target.closest('[data-theme-value]');
     if (themeButton) { document.documentElement.dataset.theme = themeButton.dataset.themeValue; window.localStorage.setItem('quickkol-blog-theme', themeButton.dataset.themeValue); updateTheme(); }

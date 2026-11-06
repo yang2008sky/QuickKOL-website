@@ -20,6 +20,7 @@ export function mountInvoiceGenerator(initialLocale) {
   document.querySelector('meta[name="description"]')?.setAttribute('content', 'Create, customize, and export professional invoices in minutes with QuickKOL’s free Invoice Generator.');
   document.querySelectorAll('.brand').forEach((link) => { link.href = '/'; });
   document.querySelectorAll('.site-footer a[href^="#"]').forEach((link) => { if (link.getAttribute('href') !== '#') link.href = `/${link.getAttribute('href')}`; });
+  document.querySelector('.site-footer').classList.add('is-visible');
   const editor = main.querySelector('.invoice-editor');
   const preview = main.querySelector('.invoice-preview');
   const lines = main.querySelector('.invoice-line-items');

@@ -251,6 +251,7 @@ const siteMarkup = `
       <a href="/#tools">Tools</a>
       <a href="https://chromewebstore.google.com/detail/quickkol/pibnaegnljjogommepodcjdgmaobpeag" target="_blank" rel="noopener noreferrer">Chrome 扩展</a>
       <a href="/pricing/">定价</a>
+      <a href="/blog/">Blog</a>
     </nav>
     <div class="header-actions">
       <div class="theme-toggle" role="group" aria-label="外观模式">
@@ -272,6 +273,7 @@ const siteMarkup = `
     </div>
     <nav class="mobile-nav" data-mobile-nav aria-label="移动端导航">
     <a href="/">首页</a><a href="/#tools">Tools</a><a href="https://chromewebstore.google.com/detail/quickkol/pibnaegnljjogommepodcjdgmaobpeag" target="_blank" rel="noopener noreferrer">Chrome 扩展</a><a href="/pricing/">定价</a>
+      <a href="/blog/">Blog</a>
       <div class="mobile-language-list" role="listbox" aria-label="选择语言">${renderLanguageOptions()}</div>
     </nav>
   </header>

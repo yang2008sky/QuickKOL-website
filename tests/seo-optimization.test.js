@@ -37,11 +37,17 @@ test('blog pagination exposes every article without JavaScript', async () => {
       assert.equal(document.querySelector('meta[property="og:url"]').content, url);
       const collection = JSON.parse(document.querySelector('script[data-blog-structured]').textContent);
       assert.equal(collection.url, url);
-      assert.equal(document.querySelectorAll('[data-blog-pagination] button').length, 0);
-      for (let target = 1; target <= pageCount; target++) {
+      const pagination = document.querySelector('[data-blog-pagination]');
+      assert.ok(pagination.querySelectorAll('.blog-page-buttons > *').length <= 9, 'Page navigation stays compact');
+      assert.equal(pagination.querySelector('[aria-current="page"]').getAttribute('href'), path);
+      for (const target of [1, page - 1, page + 1, pageCount]) {
+        if (target < 1 || target > pageCount) continue;
         const targetPath = target === 1 ? '/blog/' : `/blog/page/${target}/`;
-        assert.ok(document.querySelector(`[data-blog-pagination] a[href="${targetPath}"]`), `${path} -> ${targetPath}`);
+        assert.ok(pagination.querySelector(`a[href="${targetPath}"]`), `${path} -> ${targetPath}`);
       }
+      const jump = pagination.querySelector('form');
+      assert.equal(jump.getAttribute('action'), '/blog/');
+      assert.equal(jump.querySelector('input[name="page"]').max, String(pageCount));
     });
   }
   assert.equal(seen.size, articles.length);

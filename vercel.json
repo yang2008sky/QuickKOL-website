@@ -1,0 +1,8 @@
+{
+  "headers": [
+    {
+      "source": "/downloads/:file*",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex" }]
+    }
+  ]
+}

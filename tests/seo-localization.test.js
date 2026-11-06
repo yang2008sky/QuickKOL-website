@@ -9,6 +9,8 @@ test('translated HTML, language pairs, author identity and share images agree ac
   const sitemap = await readFile('dist/sitemap.xml', 'utf8');
   const urls = [...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].map((match) => match[1]);
   const urlSet = new Set(urls);
+  const articles = new Set();
+  const relatedTargets = new Set();
   assert.equal(urlSet.size, urls.length);
   for (const url of urls) {
     const path = new URL(url).pathname;
@@ -37,6 +39,14 @@ test('translated HTML, language pairs, author identity and share images agree ac
         }
       }
       if (document.querySelector('.blog-article-content')) {
+        articles.add(url);
+        for (const link of document.querySelectorAll('.blog-related a')) {
+          const target = new URL(link.getAttribute('href'), url);
+          assert.ok(urlSet.has(target.href), `${path}: related article ${target.href}`);
+          assert.notEqual(target.href, url, path);
+          assert.equal(target.pathname.startsWith('/zh/'), !english, path);
+          relatedTargets.add(target.href);
+        }
         const schema = JSON.parse(document.querySelector('script[data-blog-structured]').textContent);
         assert.equal(schema.mainEntityOfPage, url, path);
         assert.equal(schema.inLanguage, document.documentElement.lang, path);
@@ -55,6 +65,9 @@ test('translated HTML, language pairs, author identity and share images agree ac
       await window.happyDOM.close();
     }
   }
+  for (const article of articles) {
+    assert.ok(relatedTargets.has(article), `${article}: no incoming related-article link`);
+  }
 });
 
 test('legacy pagination and aliases redirect once while preserving filters and tracking', () => {
@@ -63,6 +76,10 @@ test('legacy pagination and aliases redirect once while preserving filters and t
     ['/en/', '/'],
     ['/en', '/'],
     ['/en/privacy.html?ref=old', '/privacy.html?ref=old'],
+    ['/privacy-policy?ref=old', '/privacy.html?ref=old'],
+    ['/privacy-policy/', '/privacy.html'],
+    ['/zh/privacy-policy/', '/zh/privacy.html'],
+    ['/en/blog/page/2/', '/blog/page/2/'],
     ['/zh', '/zh/'],
     ['/zh/index.html?ref=launch', '/zh/?ref=launch'],
     ['/zh/blog/?page=2&q=creator', '/zh/blog/page/2/?q=creator'],

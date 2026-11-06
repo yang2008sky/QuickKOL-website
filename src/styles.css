@@ -451,6 +451,7 @@ img { display: block; max-width: 100%; }
 }
 
 @media (max-width: 1180px) {
+  .site-header { column-gap: 12px; }
   .site-header.is-scrolled { padding-inline: 20px; }
   .desktop-nav { gap: 22px; }
   .header-actions { gap: 12px; }
@@ -464,6 +465,11 @@ img { display: block; max-width: 100%; }
   .trust-platforms li { width: 34px; height: 34px; }
   .agent-team-stats { grid-template-columns: repeat(2, 1fr); }
   .capability-panel { grid-template-columns: 1fr 1fr; gap: 40px; }
+}
+
+@media (min-width: 861px) and (max-width: 980px) {
+  .site-header { padding-inline: 24px; }
+  .desktop-nav { gap: 14px; }
 }
 
 @media (max-width: 860px) {
