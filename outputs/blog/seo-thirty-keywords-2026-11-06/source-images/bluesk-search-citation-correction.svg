@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 941">
+<title>From an incomplete query to a verified spelling</title>
+<defs><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#142443"/><stop offset="1" stop-color="#3b6ba6"/></linearGradient></defs>
+<rect width="1672" height="941" fill="url(#paper)"/><circle cx="1370" cy="113" r="433" fill="#7ed1e9" opacity=".13"/><circle cx="1370" cy="113" r="337" fill="none" stroke="#a4daf3" stroke-width="4" opacity=".27"/>
+<g transform="translate(202 306) rotate(-6 285 119)"><rect x="10" y="15" width="570" height="237" rx="34" fill="#18314d" opacity=".7"/><rect width="570" height="237" rx="34" fill="#ecf1fe"/><circle cx="66" cy="117" r="23" fill="none" stroke="#47638a" stroke-width="7"/><path d="M83 135l23 22" stroke="#47638a" stroke-width="7" stroke-linecap="round"/><text x="136" y="145" font-family="Arial,sans-serif" font-weight="700" font-size="88" fill="#263657">bluesk</text><path d="M422 68v90" stroke="#287ca9" stroke-width="8" stroke-linecap="round" stroke-dasharray="12 16"/></g>
+<path d="M749 604c50 89 101 95 168 26m-34-1l39-6-6 39" stroke="#f4b961" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<g transform="translate(915 423) rotate(6 265 115)"><rect x="10" y="15" width="565" height="234" rx="34" fill="#193454" opacity=".65"/><rect width="565" height="234" rx="34" fill="#b7e9f7"/><text x="58" y="143" font-family="Arial,sans-serif" font-weight="700" font-size="91" fill="#102942">Bluesky</text><circle cx="480" cy="115" r="33" fill="#1d636c"/><path d="M464 115l12 12 20-24" stroke="#e6f9f3" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

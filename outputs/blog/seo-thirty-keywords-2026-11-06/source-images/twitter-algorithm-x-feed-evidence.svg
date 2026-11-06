@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 941">
+<title>Candidate streams and feed observations</title><rect width="1672" height="941" fill="#e4ece9"/>
+<path d="M0 0h997L608 941H0z" fill="#c4dfdb"/><path d="M1672 0v941h-359L1472 0z" fill="#f1d0a6"/>
+<g fill="#295d6b"><rect x="161" y="251" width="327" height="97" rx="20"/><rect x="203" y="383" width="285" height="97" rx="20"/></g>
+<g fill="#7a628d"><rect x="161" y="519" width="327" height="97" rx="20"/><rect x="203" y="651" width="285" height="97" rx="20"/></g>
+<path d="M489 433c142 0 177-65 237-65m-237 193c142 0 177 65 237 65" stroke="#59777d" stroke-width="12" fill="none"/>
+<rect x="706" y="304" width="395" height="387" rx="44" fill="#274857"/>
+<path d="M778 393h254m-254 77h203m-203 77h153m-153 77h181" stroke="#bbe4d7" stroke-width="18" stroke-linecap="round"/>
+<g transform="translate(1204 344) rotate(9 149 167)"><rect width="298" height="364" rx="29" fill="#fff7e6"/><path d="M47 74h172m-172 36h111m-111 80h183m-183 40h126m-126 44h163" stroke="#a56e52" stroke-width="9" stroke-linecap="round"/><circle cx="219" cy="297" r="27" fill="#e6b076"/></g>
+</svg>

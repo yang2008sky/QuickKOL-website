@@ -1,0 +1,510 @@
+{
+  "batch": "seo-thirty-keywords-2026-11-06",
+  "baseRevision": "362732fbe3da632f45cfd939697f46a26d5a275f",
+  "branch": "seo-blog",
+  "articleCount": 30,
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "contentModule": "src/blog-november-sixth.js",
+  "exportName": "novemberSixthPosts",
+  "draftDate": "2026-11-06",
+  "status": "awaiting-maintainer-integration-and-publication",
+  "articles": [
+    {
+      "id": 1,
+      "keyword": "social cat",
+      "slug": "social-cat-gifting-brand-pilot",
+      "title": [
+        "Social Cat：品牌如何验收赠样试点",
+        "Social Cat for Brands: Scope a Gifting Pilot"
+      ],
+      "englishBodyWords": 1503,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/social-cat-gifting-brand-pilot/",
+        "zh": "https://www.quickkol.com/zh/blog/social-cat-gifting-brand-pilot/"
+      },
+      "cover": "social-cat-gifting-brand-pilot.jpg",
+      "inlinePhotos": [
+        "social-cat-gifting-brand-pilot-receiving.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "keyword": "link in bio",
+      "slug": "link-in-bio-destination-attribution",
+      "title": [
+        "Link in Bio：检查主页到落地页的路径",
+        "Link in Bio: Test the Path to the Destination"
+      ],
+      "englishBodyWords": 1500,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/link-in-bio-destination-attribution/",
+        "zh": "https://www.quickkol.com/zh/blog/link-in-bio-destination-attribution/"
+      },
+      "cover": "link-in-bio-destination-attribution.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 3,
+      "keyword": "tiktok creator fund",
+      "slug": "tiktok-creator-fund-legacy-records",
+      "title": [
+        "TikTok 创作者基金：如何核对历史记录",
+        "TikTok Creator Fund: Reconcile Legacy Earnings"
+      ],
+      "englishBodyWords": 1511,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-creator-fund-legacy-records/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-creator-fund-legacy-records/"
+      },
+      "cover": "tiktok-creator-fund-legacy-records.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 4,
+      "keyword": "linkedin ads",
+      "slug": "linkedin-ads-b2b-lead-preflight",
+      "title": [
+        "LinkedIn Ads：B2B 线索广告投放前检查",
+        "LinkedIn Ads: Preflight a B2B Lead Campaign"
+      ],
+      "englishBodyWords": 1515,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/linkedin-ads-b2b-lead-preflight/",
+        "zh": "https://www.quickkol.com/zh/blog/linkedin-ads-b2b-lead-preflight/"
+      },
+      "cover": "linkedin-ads-b2b-lead-preflight.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 5,
+      "keyword": "twitch tv statistics",
+      "slug": "twitch-tv-statistics-channel-category-sample",
+      "title": [
+        "Twitch TV 统计：如何核对频道与分类样本",
+        "Twitch TV Statistics: Check Channel and Category Data"
+      ],
+      "englishBodyWords": 1527,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/twitch-tv-statistics-channel-category-sample/",
+        "zh": "https://www.quickkol.com/zh/blog/twitch-tv-statistics-channel-category-sample/"
+      },
+      "cover": "twitch-tv-statistics-channel-category-sample.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 6,
+      "keyword": "dancers",
+      "slug": "dancers-ensemble-shoot-handoff",
+      "title": [
+        "舞者群演合作：队形、镜头和交接",
+        "Dancers for Campaigns: Plan an Ensemble Shoot"
+      ],
+      "englishBodyWords": 1508,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/dancers-ensemble-shoot-handoff/",
+        "zh": "https://www.quickkol.com/zh/blog/dancers-ensemble-shoot-handoff/"
+      },
+      "cover": "dancers-ensemble-shoot-handoff.jpg",
+      "inlinePhotos": [
+        "dancers-ensemble-shoot-handoff-formation.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "keyword": "creatoriq",
+      "slug": "creatoriq-enterprise-evidence-pilot",
+      "title": [
+        "CreatorIQ：怎样验收企业达人营销试点",
+        "CreatorIQ: Evaluate an Enterprise Creator Pilot"
+      ],
+      "englishBodyWords": 1528,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/creatoriq-enterprise-evidence-pilot/",
+        "zh": "https://www.quickkol.com/zh/blog/creatoriq-enterprise-evidence-pilot/"
+      },
+      "cover": "creatoriq-enterprise-evidence-pilot.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 8,
+      "keyword": "bluesk",
+      "slug": "bluesk-search-citation-correction",
+      "title": [
+        "Bluesk 是什么：先找准引用对象",
+        "Bluesk: Check the Source Before Citing Bluesky"
+      ],
+      "englishBodyWords": 1504,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/bluesk-search-citation-correction/",
+        "zh": "https://www.quickkol.com/zh/blog/bluesk-search-citation-correction/"
+      },
+      "cover": "bluesk-search-citation-correction.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 9,
+      "keyword": "bluesky social media",
+      "slug": "bluesky-social-media-moderation-brief",
+      "title": [
+        "Bluesky 社交媒体：品牌如何管理公开互动",
+        "Bluesky Social Media: Plan Brand Moderation"
+      ],
+      "englishBodyWords": 1524,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/bluesky-social-media-moderation-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/bluesky-social-media-moderation-brief/"
+      },
+      "cover": "bluesky-social-media-moderation-brief.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 10,
+      "keyword": "dimensions for cover photo facebook",
+      "slug": "facebook-page-cover-photo-dimensions-crop",
+      "title": [
+        "Facebook 封面尺寸：怎样核对桌面和手机裁切",
+        "Facebook Cover Photo Dimensions and Crop Checks"
+      ],
+      "englishBodyWords": 1501,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/facebook-page-cover-photo-dimensions-crop/",
+        "zh": "https://www.quickkol.com/zh/blog/facebook-page-cover-photo-dimensions-crop/"
+      },
+      "cover": "facebook-page-cover-photo-dimensions-crop.jpg",
+      "inlinePhotos": [
+        "facebook-page-cover-photo-dimensions-crop-crop-scene.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "keyword": "collabstr",
+      "slug": "collabstr-marketplace-order-checklist",
+      "title": [
+        "Collabstr：下单前怎样确认达人交付",
+        "Collabstr: Scope a Creator Marketplace Order"
+      ],
+      "englishBodyWords": 1505,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/collabstr-marketplace-order-checklist/",
+        "zh": "https://www.quickkol.com/zh/blog/collabstr-marketplace-order-checklist/"
+      },
+      "cover": "collabstr-marketplace-order-checklist.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 12,
+      "keyword": "what is threads on instagram",
+      "slug": "threads-instagram-profile-publishing-roles",
+      "title": [
+        "Instagram 的 Threads 是什么：账号与发布分工",
+        "What Is Threads on Instagram? Plan Publishing Roles"
+      ],
+      "englishBodyWords": 1523,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/threads-instagram-profile-publishing-roles/",
+        "zh": "https://www.quickkol.com/zh/blog/threads-instagram-profile-publishing-roles/"
+      },
+      "cover": "threads-instagram-profile-publishing-roles.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 13,
+      "keyword": "modash",
+      "slug": "modash-audience-discovery-shortlist-pilot",
+      "title": [
+        "Modash：如何核对达人发现与受众数据",
+        "Modash: Test Discovery and Audience Evidence"
+      ],
+      "englishBodyWords": 1535,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/modash-audience-discovery-shortlist-pilot/",
+        "zh": "https://www.quickkol.com/zh/blog/modash-audience-discovery-shortlist-pilot/"
+      },
+      "cover": "modash-audience-discovery-shortlist-pilot.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 14,
+      "keyword": "free instagram views",
+      "slug": "free-instagram-views-organic-reporting",
+      "title": [
+        "免费 Instagram 播放量：核对来源和指标",
+        "Free Instagram Views: Check Source and Metric Scope"
+      ],
+      "englishBodyWords": 1531,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-instagram-views-organic-reporting/",
+        "zh": "https://www.quickkol.com/zh/blog/free-instagram-views-organic-reporting/"
+      },
+      "cover": "free-instagram-views-organic-reporting.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 15,
+      "keyword": "free instagram like",
+      "slug": "free-instagram-like-post-quality-audit",
+      "title": [
+        "免费 Instagram 点赞：报告验收时看什么",
+        "Free Instagram Like Claims: An Evidence Review"
+      ],
+      "englishBodyWords": 1506,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-instagram-like-post-quality-audit/",
+        "zh": "https://www.quickkol.com/zh/blog/free-instagram-like-post-quality-audit/"
+      },
+      "cover": "free-instagram-like-post-quality-audit.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 16,
+      "keyword": "best youtube channels",
+      "slug": "best-youtube-channels-brand-research-scorecard",
+      "title": [
+        "优质 YouTube 频道：按品牌任务筛选",
+        "Best YouTube Channels for a Brand Brief"
+      ],
+      "englishBodyWords": 1511,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/best-youtube-channels-brand-research-scorecard/",
+        "zh": "https://www.quickkol.com/zh/blog/best-youtube-channels-brand-research-scorecard/"
+      },
+      "cover": "best-youtube-channels-brand-research-scorecard.jpg",
+      "inlinePhotos": [
+        "best-youtube-channels-brand-research-scorecard-review-sample.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "keyword": "youtube channels",
+      "slug": "youtube-channels-identity-scope-handoff",
+      "title": [
+        "YouTube 频道：核对账号身份与合作范围",
+        "YouTube Channels: Verify Identity and Scope"
+      ],
+      "englishBodyWords": 1508,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-channels-identity-scope-handoff/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-channels-identity-scope-handoff/"
+      },
+      "cover": "youtube-channels-identity-scope-handoff.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 18,
+      "keyword": "instagram model",
+      "slug": "instagram-model-fit-casting-brief",
+      "title": [
+        "Instagram 模特：如何写试穿拍摄简报",
+        "Instagram Model Casting for a Fit Brief"
+      ],
+      "englishBodyWords": 1503,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-model-fit-casting-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-model-fit-casting-brief/"
+      },
+      "cover": "instagram-model-fit-casting-brief.jpg",
+      "inlinePhotos": [
+        "instagram-model-fit-casting-brief-fit-framing.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "keyword": "shopify collabs",
+      "slug": "shopify-collabs-merchant-payout-reconciliation",
+      "title": [
+        "Shopify Collabs：商家如何核对佣金",
+        "Shopify Collabs: Reconcile Creator Commissions"
+      ],
+      "englishBodyWords": 1502,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/shopify-collabs-merchant-payout-reconciliation/",
+        "zh": "https://www.quickkol.com/zh/blog/shopify-collabs-merchant-payout-reconciliation/"
+      },
+      "cover": "shopify-collabs-merchant-payout-reconciliation.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 20,
+      "keyword": "social listening",
+      "slug": "social-listening-query-sample-validation",
+      "title": [
+        "社交聆听：怎样设计查询和人工抽样",
+        "Social Listening: Validate the Query and Sample"
+      ],
+      "englishBodyWords": 1513,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/social-listening-query-sample-validation/",
+        "zh": "https://www.quickkol.com/zh/blog/social-listening-query-sample-validation/"
+      },
+      "cover": "social-listening-query-sample-validation.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 21,
+      "keyword": "how to get more followers on instagram",
+      "slug": "instagram-followers-profile-content-pilot",
+      "title": [
+        "Instagram 怎么涨粉：做一次自然内容试验",
+        "How to Get More Followers on Instagram Organically"
+      ],
+      "englishBodyWords": 1513,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-followers-profile-content-pilot/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-followers-profile-content-pilot/"
+      },
+      "cover": "instagram-followers-profile-content-pilot.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 22,
+      "keyword": "what is tiktok",
+      "slug": "what-is-tiktok-content-surfaces-brand",
+      "title": [
+        "TikTok 是什么：品牌先了解哪些内容入口",
+        "What Is TikTok? Choose a Brand Content Surface"
+      ],
+      "englishBodyWords": 1501,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/what-is-tiktok-content-surfaces-brand/",
+        "zh": "https://www.quickkol.com/zh/blog/what-is-tiktok-content-surfaces-brand/"
+      },
+      "cover": "what-is-tiktok-content-surfaces-brand.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 23,
+      "keyword": "socialcat",
+      "slug": "socialcat-creator-offer-handoff",
+      "title": [
+        "SocialCat：创作者怎样核对合作邀约",
+        "SocialCat: Review a Creator Collaboration Offer"
+      ],
+      "englishBodyWords": 1500,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/socialcat-creator-offer-handoff/",
+        "zh": "https://www.quickkol.com/zh/blog/socialcat-creator-offer-handoff/"
+      },
+      "cover": "socialcat-creator-offer-handoff.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 24,
+      "keyword": "horse rider",
+      "slug": "horse-rider-equestrian-content-brief",
+      "title": [
+        "骑手达人合作：场地、马匹与镜头安排",
+        "Horse Rider Collaborations: Plan an Equestrian Shoot"
+      ],
+      "englishBodyWords": 1501,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/horse-rider-equestrian-content-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/horse-rider-equestrian-content-brief/"
+      },
+      "cover": "horse-rider-equestrian-content-brief.jpg",
+      "inlinePhotos": [
+        "horse-rider-equestrian-content-brief-camera-zone.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "keyword": "upfluence",
+      "slug": "upfluence-shopify-attribution-pilot",
+      "title": [
+        "Upfluence：用 Shopify 订单验证归因",
+        "Upfluence: Test Shopify Affiliate Attribution"
+      ],
+      "englishBodyWords": 1507,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/upfluence-shopify-attribution-pilot/",
+        "zh": "https://www.quickkol.com/zh/blog/upfluence-shopify-attribution-pilot/"
+      },
+      "cover": "upfluence-shopify-attribution-pilot.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 26,
+      "keyword": "twitter algorithm",
+      "slug": "twitter-algorithm-x-feed-evidence",
+      "title": [
+        "Twitter 算法：用公开资料理解 X 推荐",
+        "Twitter Algorithm: Read the X Feed Evidence"
+      ],
+      "englishBodyWords": 1508,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/twitter-algorithm-x-feed-evidence/",
+        "zh": "https://www.quickkol.com/zh/blog/twitter-algorithm-x-feed-evidence/"
+      },
+      "cover": "twitter-algorithm-x-feed-evidence.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 27,
+      "keyword": "childhood youtuber",
+      "slug": "childhood-youtuber-archive-reuse-review",
+      "title": [
+        "童年 YouTuber 旧片：品牌如何核对再使用",
+        "Childhood YouTuber Footage: Review Archive Reuse"
+      ],
+      "englishBodyWords": 1509,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/childhood-youtuber-archive-reuse-review/",
+        "zh": "https://www.quickkol.com/zh/blog/childhood-youtuber-archive-reuse-review/"
+      },
+      "cover": "childhood-youtuber-archive-reuse-review.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 28,
+      "keyword": "subscribers",
+      "slug": "youtube-subscribers-count-and-active-viewers",
+      "title": [
+        "YouTube 订阅数：区分账号规模与活跃观众",
+        "YouTube Subscribers: Separate Scale from Activity"
+      ],
+      "englishBodyWords": 1503,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-subscribers-count-and-active-viewers/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-subscribers-count-and-active-viewers/"
+      },
+      "cover": "youtube-subscribers-count-and-active-viewers.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 29,
+      "keyword": "hypeauditor",
+      "slug": "hypeauditor-score-evidence-review",
+      "title": [
+        "HypeAuditor：怎样核对受众质量评分",
+        "HypeAuditor: Review Audience Quality Evidence"
+      ],
+      "englishBodyWords": 1501,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/hypeauditor-score-evidence-review/",
+        "zh": "https://www.quickkol.com/zh/blog/hypeauditor-score-evidence-review/"
+      },
+      "cover": "hypeauditor-score-evidence-review.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 30,
+      "keyword": "tiktokers",
+      "slug": "tiktokers-brand-shortlist-production-fit",
+      "title": [
+        "TikTok 创作者：按制作任务做候选名单",
+        "TikTokers: Build a Production-Ready Shortlist"
+      ],
+      "englishBodyWords": 1502,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktokers-brand-shortlist-production-fit/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktokers-brand-shortlist-production-fit/"
+      },
+      "cover": "tiktokers-brand-shortlist-production-fit.jpg",
+      "inlinePhotos": [
+        "tiktokers-brand-shortlist-production-fit-action-sample.jpg"
+      ]
+    }
+  ]
+}

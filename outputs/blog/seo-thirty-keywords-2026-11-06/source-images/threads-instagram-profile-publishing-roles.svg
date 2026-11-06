@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 941">
+<title>Threads and Instagram, two publication paths</title>
+<rect width="1672" height="941" fill="#efe9fc"/><path d="M0 712C531 471 1049 103 1672 252V0H0z" fill="#dfd0fa"/><path d="M0 930c643-352 1050-391 1672-254v265H0z" fill="#d5ebea"/>
+<g transform="translate(245 215)"><rect x="12" y="16" width="540" height="420" rx="49" fill="#8f79b5" opacity=".28"/><rect width="540" height="420" rx="49" fill="#2d294a"/><path d="M74 83h109m-109 24h65" stroke="#a99bc5" stroke-width="8" stroke-linecap="round"/><path d="M73 143h391v87H182l-41 35v-35H73z" fill="#d9ceff"/><path d="M103 179h182m-182 23h253" stroke="#675290" stroke-width="9" stroke-linecap="round"/><text x="74" y="350" fill="#f9f4fe" font-family="Arial,sans-serif" font-size="65" font-weight="700">Threads</text></g>
+<g transform="translate(897 275)"><rect x="12" y="16" width="540" height="420" rx="49" fill="#52848b" opacity=".28"/><rect width="540" height="420" rx="49" fill="#195763"/><rect x="75" y="83" width="389" height="188" rx="24" fill="#9ad2cc"/><circle cx="197" cy="140" r="30" fill="#f5ca8d"/><path d="M76 241l122-78 58 35 68-63 140 104v32H76z" fill="#438e8d"/><text x="75" y="350" fill="#f2f9f6" font-family="Arial,sans-serif" font-size="62" font-weight="700">Instagram</text></g>
+<path d="M506 658v103h197m-20-18l20 18-20 18M1178 719v68H982m20-18l-20 18 20 18" fill="none" stroke="#475b7a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

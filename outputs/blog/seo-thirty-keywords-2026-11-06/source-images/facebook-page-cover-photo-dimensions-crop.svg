@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 941">
+<title>Crop masks and cover-photo overlap</title>
+<rect width="1672" height="941" fill="#e9cbb1"/><rect x="173" y="164" width="1326" height="610" rx="45" fill="#bb785d"/>
+<rect x="213" y="196" width="1246" height="526" rx="25" fill="#2a5051"/>
+<path d="M213 562l283-168 204 102 251-187 508 246v167H213z" fill="#3b7670"/>
+<g stroke="#f8df9a" stroke-width="11" fill="none" transform="translate(527 335)"><circle cx="137" cy="184" r="105"/><circle cx="540" cy="184" r="105"/><path d="M137 184l130-147 94 151H137l97-181h141m-14 181 133-162 46 158m-46-158h80M234 7h-43"/></g>
+<rect x="213" y="196" width="1246" height="526" rx="25" fill="none" stroke="#faefd6" stroke-width="9"/>
+<path d="M275 278h1121v367H275z" fill="none" stroke="#8ce1dd" stroke-width="8" stroke-dasharray="28 16"/>
+<circle cx="340" cy="675" r="108" fill="#f29a77" stroke="#f7ead3" stroke-width="12"/>
+<path d="M298 676h84m-42-42v84" stroke="#6a3f48" stroke-width="10" stroke-linecap="round"/>
+<path d="M1395 281h96m-96 364h96m-40-364v364" stroke="#faefd6" stroke-width="5" stroke-linecap="round"/>
+</svg>

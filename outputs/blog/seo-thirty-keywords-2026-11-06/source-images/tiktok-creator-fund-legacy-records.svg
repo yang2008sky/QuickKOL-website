@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941">
+<rect width="1672" height="941" fill="#192f50"/><path d="M0 729L550 0h277L198 941H0z" fill="#234367"/>
+<g font-family="sans-serif" font-weight="700" letter-spacing="3" fill="#f7eedc">
+<text x="230" y="285" font-size="69">CREATOR FUND</text><text x="230" y="477" font-size="69">CREATOR REWARDS</text><text x="230" y="669" font-size="69">BRAND FEE</text>
+</g><path d="M230 338h1130m-1130 192h1130m-1130 192h1130" stroke="#adcdd2" stroke-width="4"/>
+<circle cx="1320" cy="257" r="34" fill="#df927d"/><circle cx="1320" cy="449" r="34" fill="#f3cb91"/><circle cx="1320" cy="641" r="34" fill="#80b3b0"/>
+</svg>

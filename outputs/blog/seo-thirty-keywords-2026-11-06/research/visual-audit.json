@@ -1,0 +1,143 @@
+{
+  "checkedAt": "2026-11-06",
+  "grid": [
+    {
+      "lang": "zh",
+      "page": 1,
+      "cards": 12,
+      "match": true
+    },
+    {
+      "lang": "zh",
+      "page": 2,
+      "cards": 12,
+      "match": true
+    },
+    {
+      "lang": "zh",
+      "page": 3,
+      "cards": 12,
+      "match": true
+    },
+    {
+      "lang": "en",
+      "page": 1,
+      "cards": 12,
+      "match": true
+    },
+    {
+      "lang": "en",
+      "page": 2,
+      "cards": 12,
+      "match": true
+    },
+    {
+      "lang": "en",
+      "page": 3,
+      "cards": 12,
+      "match": true
+    }
+  ],
+  "figures": [
+    {
+      "slug": "social-cat-gifting-brand-pilot",
+      "alt": "一名创作者在厨房台面检查收到的陶瓷滤杯和配件。",
+      "caption": "AI 生成的编辑示意图。寄样到货后，先核对型号、配件和状态，再确定拍摄安排。",
+      "height": 540,
+      "loading": "lazy",
+      "natural": 1200,
+      "top": 2740,
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "dancers-ensemble-shoot-handoff",
+      "alt": "摄影师从侧后方操作三脚架相机，两名舞者站在地面的彩色标记后方。",
+      "caption": "AI 生成的编辑示意图。把站位标记和摄像机的画幅一起检查，录一段包含最大横向动作的测试。",
+      "height": 540,
+      "loading": "lazy",
+      "natural": 1200,
+      "top": 2526,
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "facebook-page-cover-photo-dimensions-crop",
+      "alt": "自行车修理师和车架位于工作室照片中部，边缘工具架与主体之间留有空间。",
+      "caption": "AI 生成的编辑示意图。虚线用于说明构图余量，不对应 Facebook 的实际裁切范围。",
+      "height": 540,
+      "loading": "lazy",
+      "natural": 1200,
+      "top": 2616,
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "best-youtube-channels-brand-research-scorecard",
+      "alt": "研究员对照两张样片分镜，一张显示全景叙述，另一张显示台灯操作细节。",
+      "caption": "AI 生成的编辑示意图。比较普通片和合作片时，记录具体动作与时间点，方便复核。",
+      "height": 540,
+      "loading": "lazy",
+      "natural": 1200,
+      "top": 2513,
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "instagram-model-fit-casting-brief",
+      "alt": "一名成年模特穿蓝色外套侧伸手臂，旁边有摄影师和三脚架相机。",
+      "caption": "AI 生成的编辑示意图。让上身和袖口同时入画，观众才能看到伸手时袖口如何移动。",
+      "height": 540,
+      "loading": "lazy",
+      "natural": 1200,
+      "top": 2505,
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "horse-rider-equestrian-content-brief",
+      "alt": "摄影师和三脚架在围栏外，围栏内有骑手、马匹和场地工作人员。",
+      "caption": "AI 生成的编辑示意图。机位与通行范围由现场负责人按真实场地确认。",
+      "height": 540,
+      "loading": "lazy",
+      "natural": 1200,
+      "top": 2475,
+      "viewport": 390,
+      "width": 350
+    },
+    {
+      "slug": "tiktokers-brand-shortlist-production-fit",
+      "alt": "创作者展示木盒上的插销，机身屏幕能看到手指与插销位置。",
+      "caption": "AI 生成的编辑示意图。试片时看手部动作和部件是否同时清楚入画。",
+      "height": 540,
+      "loading": "lazy",
+      "natural": 1200,
+      "top": 2447,
+      "viewport": 390,
+      "width": 350
+    }
+  ],
+  "mobileVisible": {
+    "bottom": 129,
+    "screenOverflow": 1,
+    "top": -80,
+    "viewport": 844
+  },
+  "screenshots": [
+    "preview-desktop-list.jpg",
+    "preview-mobile-inline.jpg"
+  ],
+  "scope": "Desktop EN/ZH first 3 list pages and 7 Chinese inline figures at 390 px. Mobile photo and caption visibly checked on TikTokers.",
+  "mobileTableAndCta": {
+    "cta": [
+      "/zh/blog/read-creator-engagement-data/#answer",
+      "/zh/blog/read-creator-engagement-data/#answer"
+    ],
+    "documentWidth": 391,
+    "hash": "#evidence-table",
+    "tableBox": 348,
+    "tableContent": 620,
+    "tableOverflow": "auto",
+    "width": 390
+  }
+}

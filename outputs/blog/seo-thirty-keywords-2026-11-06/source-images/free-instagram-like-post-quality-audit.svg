@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 941">
+<title>Separate a like count from the quality review</title>
+<rect width="1672" height="941" fill="#e6dbe1"/><circle cx="511" cy="462" r="335" fill="#ecd0d7"/><path d="M1342 0h330v941H871z" fill="#bdd2c9"/>
+<path d="M411 363c-54-102-202-54-202 58 0 132 202 253 202 253s202-120 202-253c0-112-148-160-202-58z" fill="#ac4f69"/>
+<g transform="translate(640 189) rotate(-8 210 261)"><rect x="14" y="17" width="422" height="548" rx="40" fill="#b59aaa"/><rect width="422" height="548" rx="40" fill="#fff7ef"/><path d="M54 87h223M54 118h177m-177 258h249m-249 45h185m-185 44h207" stroke="#c69fa9" stroke-width="12" stroke-linecap="round"/><circle cx="211" cy="256" r="89" fill="#ffe3ab"/><text x="181" y="288" fill="#70494b" font-family="Arial,sans-serif" font-weight="700" font-size="90">?</text></g>
+<g transform="translate(1120 311) rotate(9 149 181)"><rect x="12" y="16" width="305" height="382" rx="37" fill="#8aaba1"/><rect width="305" height="382" rx="37" fill="#2e6360"/><path d="M53 95l13 15 26-30m-39 113l13 15 26-30m-39 113l13 15 26-30" fill="none" stroke="#dcebbf" stroke-width="11" stroke-linecap="round"/><path d="M123 95h124m-124 98h88m-88 98h111" stroke="#ecf7e9" stroke-width="10" stroke-linecap="round"/></g>
+</svg>
