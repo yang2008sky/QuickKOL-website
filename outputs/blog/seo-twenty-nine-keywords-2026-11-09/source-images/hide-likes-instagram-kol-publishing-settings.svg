@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941"><defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#f7def1" opacity=".24"/></pattern></defs>
-  <rect width="1672" height="941" fill="#462d42"/><rect x="880" y="0" width="792" height="941" fill="url(#dots)"/>
-  <rect x="103" y="111" width="64" height="8" rx="4" fill="#f6abd3"/>
-  <text x="102" y="185" font-family="Helvetica, sans-serif" font-size="24" font-weight="700" fill="#f6abd3">INSTAGRAM PUBLISHING</text>
-  <text x="96" y="436" font-family="Helvetica, sans-serif" font-size="74" font-weight="700" fill="#f7def1">Hide the like count</text>
-  <text x="103" y="510" font-family="Helvetica, sans-serif" font-size="28" font-weight="500" fill="#f7def1">Check the intended view on the live post</text>
-  <path d="M103 768L760 768" fill="none" stroke="#f7def1" stroke-width="2" stroke-linecap="round"/>
-  <text x="103" y="826" font-family="Helvetica, sans-serif" font-size="21" font-weight="700" fill="#f7def1">QUICKKOL  /  FIELD GUIDE</text>
-  <g transform="translate(1000 240)"><rect x="45" y="52" width="196" height="350" rx="18" fill="#f7def1"/><text x="66" y="90" font-family="Helvetica, sans-serif" font-size="22" font-weight="700" fill="#462d42">PUBLISHER</text><rect x="66" y="107" width="154" height="5" rx="2" fill="#462d42"/><rect x="268" y="52" width="196" height="350" rx="18" fill="#f6abd3"/><text x="289" y="90" font-family="Helvetica, sans-serif" font-size="22" font-weight="700" fill="#462d42">VIEWER</text><rect x="289" y="107" width="154" height="5" rx="2" fill="#462d42"/><rect x="65" y="136" width="156" height="148" rx="18" fill="#462d42"/><rect x="288" y="136" width="156" height="148" rx="18" fill="#462d42"/><rect x="65" y="307" width="105" height="14" rx="7" fill="#462d42"/><rect x="288" y="307" width="63" height="14" rx="7" fill="#462d42"/></g></svg>
