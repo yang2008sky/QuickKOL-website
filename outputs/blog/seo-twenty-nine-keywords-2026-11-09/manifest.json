@@ -1,0 +1,604 @@
+{
+  "batch": "seo-twenty-nine-keywords-2026-11-09",
+  "baseRevision": "194234c0180050500e627c4f01483c0090da5dc2",
+  "branch": "seo-blog",
+  "articleCount": 29,
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "contentModule": "src/blog-november-ninth.js",
+  "exportName": "novemberNinthPosts",
+  "draftDate": "2026-11-09",
+  "status": "awaiting-maintainer-integration-and-publication",
+  "articles": [
+    {
+      "id": 1,
+      "keyword": "naizop free tiktok followers",
+      "slug": "tiktok-free-follower-offer-permissions-review",
+      "title": [
+        "Naizop 免费 TikTok 粉丝邀约如何影响赞助合作",
+        "Naizop Free TikTok Followers: Risks for Sponsors"
+      ],
+      "readerDecision": {
+        "zh": "把一次异常变成下一份合作条款",
+        "en": "Turn the incident into a better sponsorship brief"
+      },
+      "englishBodyWords": 1519,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-free-follower-offer-permissions-review/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-free-follower-offer-permissions-review/"
+      },
+      "cover": "tiktok-free-follower-offer-permissions-review.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 2,
+      "keyword": "who has largest followers on instagram",
+      "slug": "instagram-most-followed-kol-ranking-scope",
+      "title": [
+        "Instagram 谁的粉丝最多？榜单怎样用来选人",
+        "Who Has the Most Instagram Followers? What Rankings Tell You"
+      ],
+      "readerDecision": {
+        "zh": "从榜单留下谁取决于要买的交付",
+        "en": "Build the shortlist around the work being bought"
+      },
+      "englishBodyWords": 1550,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-most-followed-kol-ranking-scope/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-most-followed-kol-ranking-scope/"
+      },
+      "cover": "instagram-most-followed-kol-ranking-scope.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 3,
+      "keyword": "free youtube subscribers",
+      "slug": "youtube-free-subscribers-brand-anomaly-review",
+      "title": [
+        "免费 YouTube 订阅会影响赞助结算吗",
+        "Free YouTube Subscribers: What Sponsors Should Check"
+      ],
+      "readerDecision": {
+        "zh": "给订阅奖金一个可验证的补件范围",
+        "en": "Set the evidence request for a subscriber bonus"
+      },
+      "englishBodyWords": 1558,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-free-subscribers-brand-anomaly-review/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-free-subscribers-brand-anomaly-review/"
+      },
+      "cover": "youtube-free-subscribers-brand-anomaly-review.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 4,
+      "keyword": "youtube channels youtube",
+      "slug": "youtube-channel-source-reupload-verification",
+      "title": [
+        "如何找到 YouTube 片段里的原作者",
+        "How to Find the Creator Behind a YouTube Clip"
+      ],
+      "readerDecision": {
+        "zh": "有出镜证据就能邀约新作品吗",
+        "en": "Use the clip to scope a new commission"
+      },
+      "englishBodyWords": 1513,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-channel-source-reupload-verification/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-channel-source-reupload-verification/"
+      },
+      "cover": "youtube-channel-source-reupload-verification.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 5,
+      "keyword": "social listening tools",
+      "slug": "social-listening-tools-kol-coverage-pilot",
+      "title": [
+        "社交聆听工具怎么选？先用真实合作样本测试",
+        "How to Choose Social Listening Tools for Creator Research"
+      ],
+      "readerDecision": {
+        "zh": "给两个不同的团队设不同的采购门槛",
+        "en": "Set acceptance rules for sourcing and delivery"
+      },
+      "englishBodyWords": 1514,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/social-listening-tools-kol-coverage-pilot/",
+        "zh": "https://www.quickkol.com/zh/blog/social-listening-tools-kol-coverage-pilot/"
+      },
+      "cover": "social-listening-tools-kol-coverage-pilot.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 6,
+      "keyword": "amazon store front",
+      "slug": "amazon-store-front-kol-listing-handoff",
+      "title": [
+        "Amazon Storefront 合作怎么验收商品入口",
+        "How to Check an Amazon Storefront Partnership"
+      ],
+      "readerDecision": {
+        "zh": "用合同约定判断换链接是否算改交付",
+        "en": "Decide whether a link change alters the creator deliverable"
+      },
+      "englishBodyWords": 1521,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/amazon-store-front-kol-listing-handoff/",
+        "zh": "https://www.quickkol.com/zh/blog/amazon-store-front-kol-listing-handoff/"
+      },
+      "cover": "amazon-store-front-kol-listing-handoff.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 7,
+      "keyword": "blue sky social media",
+      "slug": "blue-sky-social-media-kol-discovery-feed",
+      "title": [
+        "如何用 Bluesky 信息流找到合适的创作者",
+        "How to Find Creators Through Bluesky Feeds"
+      ],
+      "readerDecision": {
+        "zh": "把信息流里的账号变成可联系的候选人",
+        "en": "Turn feed discoveries into an outreach shortlist"
+      },
+      "englishBodyWords": 1513,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/blue-sky-social-media-kol-discovery-feed/",
+        "zh": "https://www.quickkol.com/zh/blog/blue-sky-social-media-kol-discovery-feed/"
+      },
+      "cover": "blue-sky-social-media-kol-discovery-feed.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 8,
+      "keyword": "share of voice",
+      "slug": "share-of-voice-kol-campaign-denominator",
+      "title": [
+        "声量份额怎么算？达人活动复盘的分母怎么定",
+        "How to Calculate Share of Voice for a Creator Campaign"
+      ],
+      "readerDecision": {
+        "zh": "把签约达人的交付从行业声量里读出来",
+        "en": "Read contracted delivery alongside category conversation"
+      },
+      "englishBodyWords": 1508,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/share-of-voice-kol-campaign-denominator/",
+        "zh": "https://www.quickkol.com/zh/blog/share-of-voice-kol-campaign-denominator/"
+      },
+      "cover": "share-of-voice-kol-campaign-denominator.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 9,
+      "keyword": "carousels",
+      "slug": "instagram-carousels-kol-sequence-brief",
+      "title": [
+        "Instagram 轮播怎么拍才方便读者做选择",
+        "Instagram Carousels That Help Shoppers Decide"
+      ],
+      "readerDecision": {
+        "zh": "品牌验收意见要指向缺少的画面证据",
+        "en": "Give feedback on the evidence a creator needs to show"
+      },
+      "englishBodyWords": 1525,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-carousels-kol-sequence-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-carousels-kol-sequence-brief/"
+      },
+      "cover": "instagram-carousels-kol-sequence-brief.jpg",
+      "inlinePhotos": [
+        "instagram-carousels-kol-sequence-brief-storyboard.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "keyword": "create youtube channel",
+      "slug": "create-youtube-channel-kol-series-ownership",
+      "title": [
+        "创建 YouTube 频道前，先确定谁拥有系列节目",
+        "Create a YouTube Channel or Publish on an Existing One?"
+      ],
+      "readerDecision": {
+        "zh": "把首发延期和达人交付一起处理",
+        "en": "Handle a delay without losing track of what the creator owes"
+      },
+      "englishBodyWords": 1511,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/create-youtube-channel-kol-series-ownership/",
+        "zh": "https://www.quickkol.com/zh/blog/create-youtube-channel-kol-series-ownership/"
+      },
+      "cover": "create-youtube-channel-kol-series-ownership.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 11,
+      "keyword": "how do i get more followers on ig",
+      "slug": "instagram-kol-co-post-follower-pilot",
+      "title": [
+        "Instagram 怎么涨粉？先做一次共同发布试点",
+        "How to Get More Instagram Followers With a Co-Post"
+      ],
+      "readerDecision": {
+        "zh": "用下一条内容判断是否续做",
+        "en": "Use the follow-up to decide whether to renew the collaboration"
+      },
+      "englishBodyWords": 1509,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-kol-co-post-follower-pilot/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-kol-co-post-follower-pilot/"
+      },
+      "cover": "instagram-kol-co-post-follower-pilot.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 12,
+      "keyword": "free ig followers",
+      "slug": "ig-free-followers-agency-report-reconciliation",
+      "title": [
+        "免费 IG 粉丝邀约出现后，代理报表怎么更正",
+        "Free IG Followers: How to Correct an Agency Report"
+      ],
+      "readerDecision": {
+        "zh": "在代理交接时防止同一错误再发生",
+        "en": "Prevent the same reporting error in the next agency handoff"
+      },
+      "englishBodyWords": 1543,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/ig-free-followers-agency-report-reconciliation/",
+        "zh": "https://www.quickkol.com/zh/blog/ig-free-followers-agency-report-reconciliation/"
+      },
+      "cover": "ig-free-followers-agency-report-reconciliation.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 13,
+      "keyword": "maternity photographer",
+      "slug": "maternity-photographer-kol-production-brief",
+      "title": [
+        "品牌如何与孕妇摄影创作者合作",
+        "How to Work With a Maternity Photography Creator"
+      ],
+      "readerDecision": {
+        "zh": "从试拍作品决定买制作还是买分发",
+        "en": "Use the pilot to decide whether to buy production or distribution"
+      },
+      "englishBodyWords": 1516,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/maternity-photographer-kol-production-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/maternity-photographer-kol-production-brief/"
+      },
+      "cover": "maternity-photographer-kol-production-brief.jpg",
+      "inlinePhotos": [
+        "maternity-photographer-kol-production-brief-studio-layout.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "keyword": "linktr.ee",
+      "slug": "linktr-ee-kol-campaign-redirect-audit",
+      "title": [
+        "linktr.ee 链接的点击怎样对到账",
+        "Linktree Clicks: How to Reconcile a Sponsored Link"
+      ],
+      "readerDecision": {
+        "zh": "结算前用一条签约链接重走证据",
+        "en": "Reproduce the sponsored route before settlement"
+      },
+      "englishBodyWords": 1519,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/linktr-ee-kol-campaign-redirect-audit/",
+        "zh": "https://www.quickkol.com/zh/blog/linktr-ee-kol-campaign-redirect-audit/"
+      },
+      "cover": "linktr-ee-kol-campaign-redirect-audit.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 15,
+      "keyword": "how to schedule instagram posts",
+      "slug": "schedule-instagram-posts-kol-release-calendar",
+      "title": [
+        "Instagram 帖子如何定时发布？合作方怎样对齐排期",
+        "How to Schedule Instagram Posts Across a Partnership"
+      ],
+      "readerDecision": {
+        "zh": "排期变更要传给每位受影响的达人",
+        "en": "Carry a schedule change through the whole creator roster"
+      },
+      "englishBodyWords": 1532,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/schedule-instagram-posts-kol-release-calendar/",
+        "zh": "https://www.quickkol.com/zh/blog/schedule-instagram-posts-kol-release-calendar/"
+      },
+      "cover": "schedule-instagram-posts-kol-release-calendar.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 16,
+      "keyword": "how to hide likes on instagram",
+      "slug": "hide-likes-instagram-kol-publishing-settings",
+      "title": [
+        "Instagram 怎么隐藏点赞？合作帖上线前怎么核对",
+        "How to Hide Likes on an Instagram Partnership Post"
+      ],
+      "readerDecision": {
+        "zh": "用两个观众视角解决验收分歧",
+        "en": "Resolve an acceptance dispute with two viewer contexts"
+      },
+      "englishBodyWords": 1520,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/hide-likes-instagram-kol-publishing-settings/",
+        "zh": "https://www.quickkol.com/zh/blog/hide-likes-instagram-kol-publishing-settings/"
+      },
+      "cover": "hide-likes-instagram-kol-publishing-settings.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 17,
+      "keyword": "real youtube subs",
+      "slug": "real-youtube-subs-kol-renewal-evidence",
+      "title": [
+        "YouTube 订阅者还在看吗？品牌续约前怎么判断",
+        "Do YouTube Subscribers Still Watch? A Sponsor’s Guide"
+      ],
+      "readerDecision": {
+        "zh": "写明什么证据足以多买一期",
+        "en": "Decide what evidence would justify another episode"
+      },
+      "englishBodyWords": 1518,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/real-youtube-subs-kol-renewal-evidence/",
+        "zh": "https://www.quickkol.com/zh/blog/real-youtube-subs-kol-renewal-evidence/"
+      },
+      "cover": "real-youtube-subs-kol-renewal-evidence.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 18,
+      "keyword": "youtube music channel",
+      "slug": "youtube-music-channel-kol-licensing-brief",
+      "title": [
+        "赞助 YouTube 音乐频道前要确认哪些权利",
+        "What to Check Before Sponsoring a YouTube Music Channel"
+      ],
+      "readerDecision": {
+        "zh": "同一位音乐达人可以交付两种不同的成片",
+        "en": "Give the artist brief two distinct deliverables"
+      },
+      "englishBodyWords": 1532,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-music-channel-kol-licensing-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-music-channel-kol-licensing-brief/"
+      },
+      "cover": "youtube-music-channel-kol-licensing-brief.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 19,
+      "keyword": "car girl",
+      "slug": "car-girl-automotive-kol-demo-brief",
+      "title": [
+        "汽车品牌怎样选创作者做功能演示",
+        "How to Find the Right Creator for a Car Demo"
+      ],
+      "readerDecision": {
+        "zh": "让候选人的作品决定试拍任务",
+        "en": "Let work samples decide the pilot brief"
+      },
+      "englishBodyWords": 1536,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/car-girl-automotive-kol-demo-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/car-girl-automotive-kol-demo-brief/"
+      },
+      "cover": "car-girl-automotive-kol-demo-brief.jpg",
+      "inlinePhotos": [
+        "car-girl-automotive-kol-demo-brief-camera-detail.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "keyword": "youtube news creators",
+      "slug": "youtube-news-creators-kol-editorial-fit",
+      "title": [
+        "品牌赞助 YouTube 新闻创作者前要看什么",
+        "What to Check Before Sponsoring YouTube News Creators"
+      ],
+      "readerDecision": {
+        "zh": "用一次小合作验证编辑边界",
+        "en": "Test editorial boundaries in one pilot partnership"
+      },
+      "englishBodyWords": 1553,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-news-creators-kol-editorial-fit/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-news-creators-kol-editorial-fit/"
+      },
+      "cover": "youtube-news-creators-kol-editorial-fit.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 21,
+      "keyword": "how to hide likes from instagram",
+      "slug": "hide-instagram-likes-kol-reporting-audit",
+      "title": [
+        "Instagram 点赞隐藏后，合作报表怎么算",
+        "How to Report Engagement When Instagram Likes Are Hidden"
+      ],
+      "readerDecision": {
+        "zh": "在续约表里更正被当成零的点赞",
+        "en": "Correct a hidden count that affected renewal"
+      },
+      "englishBodyWords": 1508,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/hide-instagram-likes-kol-reporting-audit/",
+        "zh": "https://www.quickkol.com/zh/blog/hide-instagram-likes-kol-reporting-audit/"
+      },
+      "cover": "hide-instagram-likes-kol-reporting-audit.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 22,
+      "keyword": "celebrity ecuador",
+      "slug": "celebrity-ecuador-kol-market-verification",
+      "title": [
+        "在厄瓜多尔做本地推广，怎样核对名人和创作者",
+        "How to Vet Ecuadorian Public Figures for a Local Campaign"
+      ],
+      "readerDecision": {
+        "zh": "同一场活动可分别购买曝光与本地解释",
+        "en": "Buy launch awareness and local explanation as distinct jobs"
+      },
+      "englishBodyWords": 1557,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/celebrity-ecuador-kol-market-verification/",
+        "zh": "https://www.quickkol.com/zh/blog/celebrity-ecuador-kol-market-verification/"
+      },
+      "cover": "celebrity-ecuador-kol-market-verification.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 23,
+      "keyword": "fitness brands",
+      "slug": "fitness-brands-kol-campaign-claims",
+      "title": [
+        "健身品牌怎样选达人并审核产品宣称",
+        "Fitness Brands: How to Brief Creators on Product Claims"
+      ],
+      "readerDecision": {
+        "zh": "选人和宣称审核可以得出不同结论",
+        "en": "Make separate decisions about casting and claims"
+      },
+      "englishBodyWords": 1550,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/fitness-brands-kol-campaign-claims/",
+        "zh": "https://www.quickkol.com/zh/blog/fitness-brands-kol-campaign-claims/"
+      },
+      "cover": "fitness-brands-kol-campaign-claims.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 24,
+      "keyword": "gym clothing brands",
+      "slug": "gym-clothing-brands-kol-fit-test",
+      "title": [
+        "运动服装品牌如何做一场可复核的试穿",
+        "How Gym Clothing Brands Can Run a Useful Fit Test"
+      ],
+      "readerDecision": {
+        "zh": "让试穿反馈指导下一轮选人",
+        "en": "Use fit-test evidence to decide the next commission"
+      },
+      "englishBodyWords": 1544,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/gym-clothing-brands-kol-fit-test/",
+        "zh": "https://www.quickkol.com/zh/blog/gym-clothing-brands-kol-fit-test/"
+      },
+      "cover": "gym-clothing-brands-kol-fit-test.jpg",
+      "inlinePhotos": [
+        "gym-clothing-brands-kol-fit-test-seam-review.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "keyword": "aspireiq",
+      "slug": "aspireiq-kol-marketplace-operations-pilot",
+      "title": [
+        "AspireIQ 评估指南：从达人申请到作品交付",
+        "How to Evaluate Aspire for Creator Partnerships"
+      ],
+      "readerDecision": {
+        "zh": "验证平台能否减少一次选人往返",
+        "en": "Measure whether the platform reduces a sourcing round"
+      },
+      "englishBodyWords": 1552,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/aspireiq-kol-marketplace-operations-pilot/",
+        "zh": "https://www.quickkol.com/zh/blog/aspireiq-kol-marketplace-operations-pilot/"
+      },
+      "cover": "aspireiq-kol-marketplace-operations-pilot.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 26,
+      "keyword": "what is blue sky",
+      "slug": "what-is-blue-sky-kol-channel-fit",
+      "title": [
+        "Bluesky 是什么？品牌该用它做哪类合作",
+        "What Is Bluesky? When It Fits a Brand Partnership"
+      ],
+      "readerDecision": {
+        "zh": "决定该让达人在哪个渠道完成主要交付",
+        "en": "Choose where the creator should do the main work"
+      },
+      "englishBodyWords": 1521,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/what-is-blue-sky-kol-channel-fit/",
+        "zh": "https://www.quickkol.com/zh/blog/what-is-blue-sky-kol-channel-fit/"
+      },
+      "cover": "what-is-blue-sky-kol-channel-fit.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 27,
+      "keyword": "youtube algorithm explained",
+      "slug": "youtube-algorithm-kol-distribution-diagnosis",
+      "title": [
+        "YouTube 算法解读：赞助视频表现低于预期怎么查",
+        "YouTube Algorithm Explained: Diagnose a Sponsored Video"
+      ],
+      "readerDecision": {
+        "zh": "根据三个观察结果决定要不要续约",
+        "en": "Use three observations to decide what to renew"
+      },
+      "englishBodyWords": 1519,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-algorithm-kol-distribution-diagnosis/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-algorithm-kol-distribution-diagnosis/"
+      },
+      "cover": "youtube-algorithm-kol-distribution-diagnosis.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 28,
+      "keyword": "instagram algorithm",
+      "slug": "instagram-algorithm-kol-surface-diagnosis",
+      "title": [
+        "Instagram 算法怎么影响合作内容的触达",
+        "How the Instagram Algorithm Affects Sponsored Reach"
+      ],
+      "readerDecision": {
+        "zh": "从触达差距决定下次买什么内容",
+        "en": "Use the reach gap to choose the next creator brief"
+      },
+      "englishBodyWords": 1547,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-algorithm-kol-surface-diagnosis/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-algorithm-kol-surface-diagnosis/"
+      },
+      "cover": "instagram-algorithm-kol-surface-diagnosis.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 29,
+      "keyword": "linkedin campaign manager",
+      "slug": "linkedin-campaign-manager-kol-ad-handoff",
+      "title": [
+        "如何用 LinkedIn Campaign Manager 推广创作者原帖",
+        "How to Promote a Creator’s Post in LinkedIn Campaign Manager"
+      ],
+      "readerDecision": {
+        "zh": "按合作目标决定下一轮用原帖还是另做素材",
+        "en": "Decide whether to renew the post or commission a different asset"
+      },
+      "englishBodyWords": 1527,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/linkedin-campaign-manager-kol-ad-handoff/",
+        "zh": "https://www.quickkol.com/zh/blog/linkedin-campaign-manager-kol-ad-handoff/"
+      },
+      "cover": "linkedin-campaign-manager-kol-ad-handoff.jpg",
+      "inlinePhotos": []
+    }
+  ]
+}

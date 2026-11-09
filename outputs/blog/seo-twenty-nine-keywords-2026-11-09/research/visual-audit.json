@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-09",
+  "desktopViewport": [
+    1440,
+    900
+  ],
+  "mobileViewport": [
+    390,
+    844
+  ],
+  "desktopLists": [
+    "/blog/",
+    "/blog/page/2/",
+    "/blog/page/3/",
+    "/zh/blog/",
+    "/zh/blog/page/2/",
+    "/zh/blog/page/3/"
+  ],
+  "listsFinding": "First 29 cards follow keyword order across pages 1–3 (12, 12, 5 new articles in each locale). Opening rows and thumbnail crops visually inspected.",
+  "contactSheets": [
+    "graphic-contact-sheet.jpg",
+    "photo-contact-sheet.jpg"
+  ],
+  "mobileFigures": [
+    {
+      "id": "09",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "loaded": true,
+      "lazy": true,
+      "imageWidth": 350,
+      "captionAndAltDescribeScene": true
+    },
+    {
+      "id": "13",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "loaded": true,
+      "lazy": true,
+      "imageWidth": 350,
+      "captionAndAltDescribeScene": true
+    },
+    {
+      "id": "19",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "loaded": true,
+      "lazy": true,
+      "imageWidth": 350,
+      "captionAndAltDescribeScene": true
+    },
+    {
+      "id": "24",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "loaded": true,
+      "lazy": true,
+      "imageWidth": 350,
+      "captionAndAltDescribeScene": true
+    }
+  ],
+  "mobileTable": {
+    "slug": "maternity-photographer-kol-production-brief",
+    "contentWidth": 620,
+    "containerWidth": 348,
+    "overflowX": "auto",
+    "tocJumpVerified": true
+  },
+  "correction": "Shortened the Chinese heading about copyright and appearance to fit on one mobile line.",
+  "finalTab": "http://127.0.0.1:5174/zh/blog/",
+  "editorialRevisionSample": {
+    "enArticle": "/blog/youtube-algorithm-kol-distribution-diagnosis/",
+    "enNewHeading": "YouTube Algorithm Explained: Diagnose a Sponsored Video",
+    "enCaseHeading": "Use three observations to decide what to renew",
+    "zhMobileArticle": "/zh/blog/maternity-photographer-kol-production-brief/",
+    "zhMobileNewHeading": "品牌如何与孕妇摄影创作者合作",
+    "zhMobileViewport": [
+      390,
+      844
+    ],
+    "zhMobileFigureWidth": 350,
+    "zhMobileFigureLoaded": true,
+    "zhMobileFigureLazy": true,
+    "zhMobileContentsJump": "#section-3",
+    "finalVisiblePage": "/zh/blog/"
+  }
+}

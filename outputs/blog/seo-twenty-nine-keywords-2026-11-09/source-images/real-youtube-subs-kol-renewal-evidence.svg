@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941"><defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#f8e2dc" opacity=".24"/></pattern></defs>
+  <rect width="1672" height="941" fill="#4b2e35"/><rect x="880" y="0" width="792" height="941" fill="url(#dots)"/>
+  <rect x="103" y="111" width="64" height="8" rx="4" fill="#f7b197"/>
+  <text x="102" y="185" font-family="Helvetica, sans-serif" font-size="24" font-weight="700" fill="#f7b197">YOUTUBE RENEWALS</text>
+  <text x="96" y="436" font-family="Helvetica, sans-serif" font-size="74" font-weight="700" fill="#f8e2dc">Look beyond subs</text>
+  <text x="103" y="510" font-family="Helvetica, sans-serif" font-size="28" font-weight="500" fill="#f8e2dc">Compare the viewers a sponsor can reach</text>
+  <path d="M103 768L760 768" fill="none" stroke="#f8e2dc" stroke-width="2" stroke-linecap="round"/>
+  <text x="103" y="826" font-family="Helvetica, sans-serif" font-size="21" font-weight="700" fill="#f8e2dc">QUICKKOL  /  FIELD GUIDE</text>
+  <g transform="translate(1000 240)"><circle cx="255" cy="230" r="190" fill="#f8e2dc"/><circle cx="255" cy="230" r="130" fill="#4b2e35"/><circle cx="255" cy="230" r="85" fill="#f8e2dc"/><circle cx="255" cy="230" r="61" fill="#4b2e35"/><circle cx="255" cy="230" r="43" fill="#f7b197"/><text x="146" y="464" font-family="Helvetica, sans-serif" font-size="22" font-weight="700" fill="#f8e2dc">RECENT ACTIVE VIEWERS</text></g></svg>

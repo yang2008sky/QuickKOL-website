@@ -1,0 +1,554 @@
+{
+  "checkedAt": "2026-11-09",
+  "paths": 91,
+  "passed": true,
+  "failed": [],
+  "results": [
+    {
+      "path": "/assets/blog/tiktok-free-follower-offer-permissions-review.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 71978
+    },
+    {
+      "path": "/blog/tiktok-free-follower-offer-permissions-review/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35517
+    },
+    {
+      "path": "/zh/blog/tiktok-free-follower-offer-permissions-review/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34688
+    },
+    {
+      "path": "/blog/instagram-most-followed-kol-ranking-scope/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35250
+    },
+    {
+      "path": "/assets/blog/instagram-most-followed-kol-ranking-scope.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 74622
+    },
+    {
+      "path": "/zh/blog/youtube-free-subscribers-brand-anomaly-review/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34900
+    },
+    {
+      "path": "/zh/blog/instagram-most-followed-kol-ranking-scope/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34791
+    },
+    {
+      "path": "/blog/youtube-free-subscribers-brand-anomaly-review/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35778
+    },
+    {
+      "path": "/assets/blog/youtube-free-subscribers-brand-anomaly-review.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 68050
+    },
+    {
+      "path": "/assets/blog/youtube-channel-source-reupload-verification.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 281697
+    },
+    {
+      "path": "/blog/youtube-channel-source-reupload-verification/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35045
+    },
+    {
+      "path": "/zh/blog/youtube-channel-source-reupload-verification/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34420
+    },
+    {
+      "path": "/assets/blog/social-listening-tools-kol-coverage-pilot.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 69884
+    },
+    {
+      "path": "/zh/blog/social-listening-tools-kol-coverage-pilot/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 33609
+    },
+    {
+      "path": "/blog/amazon-store-front-kol-listing-handoff/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35271
+    },
+    {
+      "path": "/blog/social-listening-tools-kol-coverage-pilot/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34323
+    },
+    {
+      "path": "/assets/blog/amazon-store-front-kol-listing-handoff.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 198271
+    },
+    {
+      "path": "/zh/blog/blue-sky-social-media-kol-discovery-feed/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34190
+    },
+    {
+      "path": "/blog/blue-sky-social-media-kol-discovery-feed/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34480
+    },
+    {
+      "path": "/zh/blog/amazon-store-front-kol-listing-handoff/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34818
+    },
+    {
+      "path": "/assets/blog/blue-sky-social-media-kol-discovery-feed.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 72283
+    },
+    {
+      "path": "/assets/blog/share-of-voice-kol-campaign-denominator.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 64052
+    },
+    {
+      "path": "/blog/share-of-voice-kol-campaign-denominator/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34068
+    },
+    {
+      "path": "/zh/blog/share-of-voice-kol-campaign-denominator/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 33905
+    },
+    {
+      "path": "/blog/instagram-carousels-kol-sequence-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34949
+    },
+    {
+      "path": "/assets/blog/instagram-carousels-kol-sequence-brief.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 185303
+    },
+    {
+      "path": "/assets/blog/instagram-carousels-kol-sequence-brief-storyboard.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 122570
+    },
+    {
+      "path": "/zh/blog/instagram-carousels-kol-sequence-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34708
+    },
+    {
+      "path": "/assets/blog/create-youtube-channel-kol-series-ownership.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 307663
+    },
+    {
+      "path": "/blog/instagram-kol-co-post-follower-pilot/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34619
+    },
+    {
+      "path": "/zh/blog/create-youtube-channel-kol-series-ownership/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34954
+    },
+    {
+      "path": "/blog/create-youtube-channel-kol-series-ownership/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34876
+    },
+    {
+      "path": "/assets/blog/instagram-kol-co-post-follower-pilot.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 315110
+    },
+    {
+      "path": "/zh/blog/instagram-kol-co-post-follower-pilot/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34360
+    },
+    {
+      "path": "/blog/ig-free-followers-agency-report-reconciliation/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35009
+    },
+    {
+      "path": "/zh/blog/ig-free-followers-agency-report-reconciliation/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34712
+    },
+    {
+      "path": "/assets/blog/ig-free-followers-agency-report-reconciliation.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 71584
+    },
+    {
+      "path": "/assets/blog/maternity-photographer-kol-production-brief.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 157640
+    },
+    {
+      "path": "/zh/blog/maternity-photographer-kol-production-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34570
+    },
+    {
+      "path": "/blog/maternity-photographer-kol-production-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35455
+    },
+    {
+      "path": "/assets/blog/maternity-photographer-kol-production-brief-studio-layout.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 128580
+    },
+    {
+      "path": "/assets/blog/linktr-ee-kol-campaign-redirect-audit.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 68493
+    },
+    {
+      "path": "/blog/linktr-ee-kol-campaign-redirect-audit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34404
+    },
+    {
+      "path": "/zh/blog/linktr-ee-kol-campaign-redirect-audit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34089
+    },
+    {
+      "path": "/assets/blog/schedule-instagram-posts-kol-release-calendar.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 293860
+    },
+    {
+      "path": "/blog/schedule-instagram-posts-kol-release-calendar/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35184
+    },
+    {
+      "path": "/blog/hide-likes-instagram-kol-publishing-settings/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34851
+    },
+    {
+      "path": "/zh/blog/schedule-instagram-posts-kol-release-calendar/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35385
+    },
+    {
+      "path": "/assets/blog/hide-likes-instagram-kol-publishing-settings.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 65174
+    },
+    {
+      "path": "/zh/blog/real-youtube-subs-kol-renewal-evidence/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34657
+    },
+    {
+      "path": "/zh/blog/hide-likes-instagram-kol-publishing-settings/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34514
+    },
+    {
+      "path": "/blog/real-youtube-subs-kol-renewal-evidence/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35056
+    },
+    {
+      "path": "/assets/blog/real-youtube-subs-kol-renewal-evidence.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 73345
+    },
+    {
+      "path": "/zh/blog/youtube-music-channel-kol-licensing-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35701
+    },
+    {
+      "path": "/assets/blog/youtube-music-channel-kol-licensing-brief.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 272943
+    },
+    {
+      "path": "/blog/youtube-music-channel-kol-licensing-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35656
+    },
+    {
+      "path": "/assets/blog/car-girl-automotive-kol-demo-brief-camera-detail.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 130057
+    },
+    {
+      "path": "/zh/blog/car-girl-automotive-kol-demo-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34700
+    },
+    {
+      "path": "/assets/blog/car-girl-automotive-kol-demo-brief.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 212748
+    },
+    {
+      "path": "/blog/car-girl-automotive-kol-demo-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34954
+    },
+    {
+      "path": "/assets/blog/youtube-news-creators-kol-editorial-fit.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 199637
+    },
+    {
+      "path": "/blog/youtube-news-creators-kol-editorial-fit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35074
+    },
+    {
+      "path": "/zh/blog/youtube-news-creators-kol-editorial-fit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34668
+    },
+    {
+      "path": "/blog/hide-instagram-likes-kol-reporting-audit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35153
+    },
+    {
+      "path": "/assets/blog/hide-instagram-likes-kol-reporting-audit.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 71439
+    },
+    {
+      "path": "/blog/celebrity-ecuador-kol-market-verification/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35885
+    },
+    {
+      "path": "/zh/blog/celebrity-ecuador-kol-market-verification/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35845
+    },
+    {
+      "path": "/zh/blog/hide-instagram-likes-kol-reporting-audit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35052
+    },
+    {
+      "path": "/assets/blog/celebrity-ecuador-kol-market-verification.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 308373
+    },
+    {
+      "path": "/assets/blog/fitness-brands-kol-campaign-claims.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 320748
+    },
+    {
+      "path": "/zh/blog/fitness-brands-kol-campaign-claims/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35075
+    },
+    {
+      "path": "/blog/fitness-brands-kol-campaign-claims/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35486
+    },
+    {
+      "path": "/assets/blog/gym-clothing-brands-kol-fit-test-seam-review.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 112757
+    },
+    {
+      "path": "/assets/blog/gym-clothing-brands-kol-fit-test.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 207318
+    },
+    {
+      "path": "/zh/blog/gym-clothing-brands-kol-fit-test/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34922
+    },
+    {
+      "path": "/blog/gym-clothing-brands-kol-fit-test/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 35018
+    },
+    {
+      "path": "/assets/blog/aspireiq-kol-marketplace-operations-pilot.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 72188
+    },
+    {
+      "path": "/blog/aspireiq-kol-marketplace-operations-pilot/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 36316
+    },
+    {
+      "path": "/zh/blog/aspireiq-kol-marketplace-operations-pilot/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 36207
+    },
+    {
+      "path": "/blog/what-is-blue-sky-kol-channel-fit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34725
+    },
+    {
+      "path": "/assets/blog/what-is-blue-sky-kol-channel-fit.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 69090
+    },
+    {
+      "path": "/blog/youtube-algorithm-kol-distribution-diagnosis/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 36249
+    },
+    {
+      "path": "/zh/blog/youtube-algorithm-kol-distribution-diagnosis/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 36159
+    },
+    {
+      "path": "/zh/blog/what-is-blue-sky-kol-channel-fit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 34616
+    },
+    {
+      "path": "/assets/blog/youtube-algorithm-kol-distribution-diagnosis.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 70728
+    },
+    {
+      "path": "/assets/blog/instagram-algorithm-kol-surface-diagnosis.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 66668
+    },
+    {
+      "path": "/zh/blog/instagram-algorithm-kol-surface-diagnosis/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 36189
+    },
+    {
+      "path": "/blog/instagram-algorithm-kol-surface-diagnosis/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 36381
+    },
+    {
+      "path": "/assets/blog/linkedin-campaign-manager-kol-ad-handoff.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 73058
+    },
+    {
+      "path": "/zh/blog/linkedin-campaign-manager-kol-ad-handoff/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 36877
+    },
+    {
+      "path": "/blog/linkedin-campaign-manager-kol-ad-handoff/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 36418
+    }
+  ]
+}

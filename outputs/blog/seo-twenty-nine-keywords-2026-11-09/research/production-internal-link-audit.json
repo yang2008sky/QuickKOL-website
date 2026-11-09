@@ -1,0 +1,568 @@
+{
+  "checkedAt": "2026-11-09",
+  "paths": 70,
+  "passed": true,
+  "failures": [],
+  "outcomes": [
+    {
+      "path": "/blog/amazon-storefront-creator-brand-program-routes/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/amazon-storefront-creator-brand-program-routes/",
+      "canonical": "https://www.quickkol.com/blog/amazon-storefront-creator-brand-program-routes/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/bluesky-social-brand-public-conversation/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/bluesky-social-brand-public-conversation/",
+      "canonical": "https://www.quickkol.com/blog/bluesky-social-brand-public-conversation/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/car-youtubers-long-term-loan-brief/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/car-youtubers-long-term-loan-brief/",
+      "canonical": "https://www.quickkol.com/blog/car-youtubers-long-term-loan-brief/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/collabstr-marketplace-order-checklist/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/collabstr-marketplace-order-checklist/",
+      "canonical": "https://www.quickkol.com/blog/collabstr-marketplace-order-checklist/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/creator-campaign-measurement/",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/creator-campaign-measurement/",
+      "canonical": "https://www.quickkol.com/blog/creator-campaign-measurement/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/creator-campaign-measurement/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/creator-campaign-measurement/",
+      "canonical": "https://www.quickkol.com/blog/creator-campaign-measurement/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/creator-rates-usage-rights/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/creator-rates-usage-rights/",
+      "canonical": "https://www.quickkol.com/blog/creator-rates-usage-rights/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/creator-selection-beyond-followers/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/creator-selection-beyond-followers/",
+      "canonical": "https://www.quickkol.com/blog/creator-selection-beyond-followers/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/engagement-rate-formula-metric-contract/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/engagement-rate-formula-metric-contract/",
+      "canonical": "https://www.quickkol.com/blog/engagement-rate-formula-metric-contract/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/fake-followers-anomaly-evidence-literacy/",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/fake-followers-anomaly-evidence-literacy/",
+      "canonical": "https://www.quickkol.com/blog/fake-followers-anomaly-evidence-literacy/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/fitness-influencer-pilot-brief/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/fitness-influencer-pilot-brief/",
+      "canonical": "https://www.quickkol.com/blog/fitness-influencer-pilot-brief/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/follow-electronic-music-creators-brand-listening/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/follow-electronic-music-creators-brand-listening/",
+      "canonical": "https://www.quickkol.com/blog/follow-electronic-music-creators-brand-listening/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/free-tiktok-followers-organic-learning-plan/",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/free-tiktok-followers-organic-learning-plan/",
+      "canonical": "https://www.quickkol.com/blog/free-tiktok-followers-organic-learning-plan/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/how-to-see-followers-countries-evidence/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/how-to-see-followers-countries-evidence/",
+      "canonical": "https://www.quickkol.com/blog/how-to-see-followers-countries-evidence/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/instagram-ads-creator-placement-preflight/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/instagram-ads-creator-placement-preflight/",
+      "canonical": "https://www.quickkol.com/blog/instagram-ads-creator-placement-preflight/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/instagram-analytics-format-decision-matrix/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/instagram-analytics-format-decision-matrix/",
+      "canonical": "https://www.quickkol.com/blog/instagram-analytics-format-decision-matrix/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/instagram-and-influencers-distribution-roles/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/instagram-and-influencers-distribution-roles/",
+      "canonical": "https://www.quickkol.com/blog/instagram-and-influencers-distribution-roles/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/instagram-follower-check-minimum-evidence-request/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/instagram-follower-check-minimum-evidence-request/",
+      "canonical": "https://www.quickkol.com/blog/instagram-follower-check-minimum-evidence-request/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/instagram-follower-count-two-source-reconciliation/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/instagram-follower-count-two-source-reconciliation/",
+      "canonical": "https://www.quickkol.com/blog/instagram-follower-count-two-source-reconciliation/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/instagram-followers-check-net-vs-gross-change/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/instagram-followers-check-net-vs-gross-change/",
+      "canonical": "https://www.quickkol.com/blog/instagram-followers-check-net-vs-gross-change/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/instagram-followers-profile-content-pilot/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/instagram-followers-profile-content-pilot/",
+      "canonical": "https://www.quickkol.com/blog/instagram-followers-profile-content-pilot/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/instagram-model-fit-casting-brief/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/instagram-model-fit-casting-brief/",
+      "canonical": "https://www.quickkol.com/blog/instagram-model-fit-casting-brief/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/instagram-story-brand-sequence-brief/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/instagram-story-brand-sequence-brief/",
+      "canonical": "https://www.quickkol.com/blog/instagram-story-brand-sequence-brief/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/link-in-bio-destination-attribution/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/link-in-bio-destination-attribution/",
+      "canonical": "https://www.quickkol.com/blog/link-in-bio-destination-attribution/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/linkedin-ads-b2b-lead-preflight/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/linkedin-ads-b2b-lead-preflight/",
+      "canonical": "https://www.quickkol.com/blog/linkedin-ads-b2b-lead-preflight/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/linktree-brand-destination-hierarchy/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/linktree-brand-destination-hierarchy/",
+      "canonical": "https://www.quickkol.com/blog/linktree-brand-destination-hierarchy/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/read-creator-engagement-data/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/read-creator-engagement-data/",
+      "canonical": "https://www.quickkol.com/blog/read-creator-engagement-data/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/social-listening-query-sample-validation/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/social-listening-query-sample-validation/",
+      "canonical": "https://www.quickkol.com/blog/social-listening-query-sample-validation/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/tiktok-spark-ads-authorization-lifecycle/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/tiktok-spark-ads-authorization-lifecycle/",
+      "canonical": "https://www.quickkol.com/blog/tiktok-spark-ads-authorization-lifecycle/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/top-instagram-influencers-by-account-role/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/top-instagram-influencers-by-account-role/",
+      "canonical": "https://www.quickkol.com/blog/top-instagram-influencers-by-account-role/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/what-is-bluesky-at-protocol-brand-context/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/what-is-bluesky-at-protocol-brand-context/",
+      "canonical": "https://www.quickkol.com/blog/what-is-bluesky-at-protocol-brand-context/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/write-a-useful-campaign-brief/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/write-a-useful-campaign-brief/",
+      "canonical": "https://www.quickkol.com/blog/write-a-useful-campaign-brief/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/youtube-analytics-sponsored-content-cohorts/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/youtube-analytics-sponsored-content-cohorts/",
+      "canonical": "https://www.quickkol.com/blog/youtube-analytics-sponsored-content-cohorts/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/youtube-channels-identity-scope-handoff/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/youtube-channels-identity-scope-handoff/",
+      "canonical": "https://www.quickkol.com/blog/youtube-channels-identity-scope-handoff/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/blog/youtube-subscribers-count-and-active-viewers/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/blog/youtube-subscribers-count-and-active-viewers/",
+      "canonical": "https://www.quickkol.com/blog/youtube-subscribers-count-and-active-viewers/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/amazon-storefront-creator-brand-program-routes/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/amazon-storefront-creator-brand-program-routes/",
+      "canonical": "https://www.quickkol.com/zh/blog/amazon-storefront-creator-brand-program-routes/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/bluesky-social-brand-public-conversation/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/bluesky-social-brand-public-conversation/",
+      "canonical": "https://www.quickkol.com/zh/blog/bluesky-social-brand-public-conversation/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/car-youtubers-long-term-loan-brief/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/car-youtubers-long-term-loan-brief/",
+      "canonical": "https://www.quickkol.com/zh/blog/car-youtubers-long-term-loan-brief/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/collabstr-marketplace-order-checklist/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/collabstr-marketplace-order-checklist/",
+      "canonical": "https://www.quickkol.com/zh/blog/collabstr-marketplace-order-checklist/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/creator-campaign-measurement/",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/creator-campaign-measurement/",
+      "canonical": "https://www.quickkol.com/zh/blog/creator-campaign-measurement/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/creator-campaign-measurement/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/creator-campaign-measurement/",
+      "canonical": "https://www.quickkol.com/zh/blog/creator-campaign-measurement/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/creator-rates-usage-rights/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/creator-rates-usage-rights/",
+      "canonical": "https://www.quickkol.com/zh/blog/creator-rates-usage-rights/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/creator-selection-beyond-followers/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/creator-selection-beyond-followers/",
+      "canonical": "https://www.quickkol.com/zh/blog/creator-selection-beyond-followers/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/engagement-rate-formula-metric-contract/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/engagement-rate-formula-metric-contract/",
+      "canonical": "https://www.quickkol.com/zh/blog/engagement-rate-formula-metric-contract/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/fake-followers-anomaly-evidence-literacy/",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/fake-followers-anomaly-evidence-literacy/",
+      "canonical": "https://www.quickkol.com/zh/blog/fake-followers-anomaly-evidence-literacy/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/fitness-influencer-pilot-brief/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/fitness-influencer-pilot-brief/",
+      "canonical": "https://www.quickkol.com/zh/blog/fitness-influencer-pilot-brief/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/follow-electronic-music-creators-brand-listening/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/follow-electronic-music-creators-brand-listening/",
+      "canonical": "https://www.quickkol.com/zh/blog/follow-electronic-music-creators-brand-listening/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/free-tiktok-followers-organic-learning-plan/",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/free-tiktok-followers-organic-learning-plan/",
+      "canonical": "https://www.quickkol.com/zh/blog/free-tiktok-followers-organic-learning-plan/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/how-to-see-followers-countries-evidence/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/how-to-see-followers-countries-evidence/",
+      "canonical": "https://www.quickkol.com/zh/blog/how-to-see-followers-countries-evidence/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/instagram-ads-creator-placement-preflight/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/instagram-ads-creator-placement-preflight/",
+      "canonical": "https://www.quickkol.com/zh/blog/instagram-ads-creator-placement-preflight/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/instagram-analytics-format-decision-matrix/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/instagram-analytics-format-decision-matrix/",
+      "canonical": "https://www.quickkol.com/zh/blog/instagram-analytics-format-decision-matrix/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/instagram-and-influencers-distribution-roles/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/instagram-and-influencers-distribution-roles/",
+      "canonical": "https://www.quickkol.com/zh/blog/instagram-and-influencers-distribution-roles/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/instagram-follower-check-minimum-evidence-request/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/instagram-follower-check-minimum-evidence-request/",
+      "canonical": "https://www.quickkol.com/zh/blog/instagram-follower-check-minimum-evidence-request/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/instagram-follower-count-two-source-reconciliation/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/instagram-follower-count-two-source-reconciliation/",
+      "canonical": "https://www.quickkol.com/zh/blog/instagram-follower-count-two-source-reconciliation/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/instagram-followers-check-net-vs-gross-change/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/instagram-followers-check-net-vs-gross-change/",
+      "canonical": "https://www.quickkol.com/zh/blog/instagram-followers-check-net-vs-gross-change/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/instagram-followers-profile-content-pilot/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/instagram-followers-profile-content-pilot/",
+      "canonical": "https://www.quickkol.com/zh/blog/instagram-followers-profile-content-pilot/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/instagram-model-fit-casting-brief/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/instagram-model-fit-casting-brief/",
+      "canonical": "https://www.quickkol.com/zh/blog/instagram-model-fit-casting-brief/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/instagram-story-brand-sequence-brief/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/instagram-story-brand-sequence-brief/",
+      "canonical": "https://www.quickkol.com/zh/blog/instagram-story-brand-sequence-brief/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/link-in-bio-destination-attribution/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/link-in-bio-destination-attribution/",
+      "canonical": "https://www.quickkol.com/zh/blog/link-in-bio-destination-attribution/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/linkedin-ads-b2b-lead-preflight/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/linkedin-ads-b2b-lead-preflight/",
+      "canonical": "https://www.quickkol.com/zh/blog/linkedin-ads-b2b-lead-preflight/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/linktree-brand-destination-hierarchy/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/linktree-brand-destination-hierarchy/",
+      "canonical": "https://www.quickkol.com/zh/blog/linktree-brand-destination-hierarchy/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/read-creator-engagement-data/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/read-creator-engagement-data/",
+      "canonical": "https://www.quickkol.com/zh/blog/read-creator-engagement-data/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/social-listening-query-sample-validation/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/social-listening-query-sample-validation/",
+      "canonical": "https://www.quickkol.com/zh/blog/social-listening-query-sample-validation/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/tiktok-spark-ads-authorization-lifecycle/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/tiktok-spark-ads-authorization-lifecycle/",
+      "canonical": "https://www.quickkol.com/zh/blog/tiktok-spark-ads-authorization-lifecycle/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/top-instagram-influencers-by-account-role/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/top-instagram-influencers-by-account-role/",
+      "canonical": "https://www.quickkol.com/zh/blog/top-instagram-influencers-by-account-role/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/what-is-bluesky-at-protocol-brand-context/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/what-is-bluesky-at-protocol-brand-context/",
+      "canonical": "https://www.quickkol.com/zh/blog/what-is-bluesky-at-protocol-brand-context/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/write-a-useful-campaign-brief/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/write-a-useful-campaign-brief/",
+      "canonical": "https://www.quickkol.com/zh/blog/write-a-useful-campaign-brief/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/youtube-analytics-sponsored-content-cohorts/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/youtube-analytics-sponsored-content-cohorts/",
+      "canonical": "https://www.quickkol.com/zh/blog/youtube-analytics-sponsored-content-cohorts/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/youtube-channels-identity-scope-handoff/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/youtube-channels-identity-scope-handoff/",
+      "canonical": "https://www.quickkol.com/zh/blog/youtube-channels-identity-scope-handoff/",
+      "anchorFound": true,
+      "pass": true
+    },
+    {
+      "path": "/zh/blog/youtube-subscribers-count-and-active-viewers/#answer",
+      "status": 200,
+      "finalUrl": "https://www.quickkol.com/zh/blog/youtube-subscribers-count-and-active-viewers/",
+      "canonical": "https://www.quickkol.com/zh/blog/youtube-subscribers-count-and-active-viewers/",
+      "anchorFound": true,
+      "pass": true
+    }
+  ]
+}
