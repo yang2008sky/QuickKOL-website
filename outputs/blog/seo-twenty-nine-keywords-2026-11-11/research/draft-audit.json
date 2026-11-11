@@ -1,0 +1,1428 @@
+[
+  {
+    "file": "post-01.mjs",
+    "slug": "whatsapp-business-creator-conversation-handoff",
+    "englishWords": 1528,
+    "chineseHanzi": 2710,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "waPolicy",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "waControls",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcPrivacy",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-measurement/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-02.mjs",
+    "slug": "google-business-profile-creator-location-proof",
+    "englishWords": 1535,
+    "chineseHanzi": 2636,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "googleReview",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "googleMetrics",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "googleRestrictions",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-measurement/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-03.mjs",
+    "slug": "free-instagram-followers-website-preflight",
+    "englishWords": 1513,
+    "chineseHanzi": 2549,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "metaClone",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcFake",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "metaEnforce",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "metaSecurity",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-shortlist-workflow/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/audit-creator-audience-quality/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-04.mjs",
+    "slug": "free-followers-instagram-incentive-design",
+    "englishWords": 1514,
+    "chineseHanzi": 2585,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "ftcFake",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "metaClone",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-shortlist-workflow/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-05.mjs",
+    "slug": "insta-follower-search-offer-identity-review",
+    "englishWords": 1503,
+    "chineseHanzi": 2542,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "metaClone",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcFake",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcPrivacy",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-metric-definitions/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-shortlist-workflow/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-06.mjs",
+    "slug": "gaming-creator-demo-role-selection",
+    "englishWords": 1505,
+    "chineseHanzi": 2513,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "ytAudience",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytRights",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytPaid",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-shortlist-workflow/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-rates-usage-rights/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-07.mjs",
+    "slug": "keymailer-game-key-coverage-pilot",
+    "englishWords": 1506,
+    "chineseHanzi": 2562,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "keyPublisher",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "keyCreator",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-shortlist-workflow/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-08.mjs",
+    "slug": "amazon-creator-connections-campaign-economics",
+    "englishWords": 1532,
+    "chineseHanzi": 2470,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "amazonCampaign",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "amazonCreator",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-rates-usage-rights/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-measurement/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-09.mjs",
+    "slug": "instagram-scheduling-approved-asset-freeze",
+    "englishWords": 1506,
+    "chineseHanzi": 2421,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "bufferPublish",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "bufferReminder",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "bufferConnect",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-status-system/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-10.mjs",
+    "slug": "what-is-mavrck-platform-migration-evidence",
+    "englishWords": 1507,
+    "chineseHanzi": 2444,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "laterRename",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "laterPrivacy",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "laterHistory",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-shortlist-workflow/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-rates-usage-rights/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-11.mjs",
+    "slug": "canva-story-templates-creator-sequence",
+    "englishWords": 1520,
+    "chineseHanzi": 2387,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "canvaStories",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "canvaLicense",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-measurement/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-12.mjs",
+    "slug": "shadowbanned-sponsored-post-diagnostic",
+    "englishWords": 1520,
+    "chineseHanzi": 2441,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "igRec",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "igBest",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "igWatch",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-metric-definitions/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-status-system/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-13.mjs",
+    "slug": "instagram-scheduled-post-release-verification",
+    "englishWords": 1561,
+    "chineseHanzi": 2470,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "bufferReminder",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "bufferPublish",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-campaign-status-system/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-14.mjs",
+    "slug": "instagram-reel-sponsored-product-proof",
+    "englishWords": 1534,
+    "chineseHanzi": 2410,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "igWatch",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "igBest",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-rates-usage-rights/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-15.mjs",
+    "slug": "canva-instagram-templates-creator-kit-rights",
+    "englishWords": 1539,
+    "chineseHanzi": 2489,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "canvaPosts",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "canvaLicense",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "canvaMusic",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-rates-usage-rights/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-16.mjs",
+    "slug": "instagram-shop-creator-product-tag-preflight",
+    "englishWords": 1537,
+    "chineseHanzi": 2442,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "shopifyMeta",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "bufferReminder",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-campaign-measurement/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-17.mjs",
+    "slug": "social-blade-youtube-sponsorship-estimate-check",
+    "englishWords": 1531,
+    "chineseHanzi": 2411,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "sbEstimate",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytSubs",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytAudience",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-shortlist-workflow/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-rates-usage-rights/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-18.mjs",
+    "slug": "top-youtube-channels-sponsorship-longlist",
+    "englishWords": 1512,
+    "chineseHanzi": 2434,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "mkbhd",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "veritasium",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "kurzgesagt",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytSubs",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytAudience",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-shortlist-workflow/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-19.mjs",
+    "slug": "youtube-subscribers-sponsor-reach-forecast",
+    "englishWords": 1503,
+    "chineseHanzi": 2055,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "ytSubs",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytUnique",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytAudience",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-rates-usage-rights/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-20.mjs",
+    "slug": "free-followers-instagram-provenance-record",
+    "englishWords": 1506,
+    "chineseHanzi": 2178,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "metaClone",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "metaEnforce",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcFake",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "metaSecurity",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-measurement/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-21.mjs",
+    "slug": "free-ig-followers-website-vendor-exit",
+    "englishWords": 1503,
+    "chineseHanzi": 2149,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "ftcPrivacy",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "metaSecurity",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "metaClone",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-campaign-status-system/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-measurement/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-22.mjs",
+    "slug": "free-instagram-likes-measurement-contamination",
+    "englishWords": 1512,
+    "chineseHanzi": 1995,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "metaEnforce",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "igWatch",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcFake",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-campaign-measurement/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-23.mjs",
+    "slug": "get-free-instagram-likes-brief-redesign",
+    "englishWords": 1500,
+    "chineseHanzi": 1979,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "metaEnforce",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcFake",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-measurement/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-24.mjs",
+    "slug": "popular-youtube-channels-category-comparison",
+    "englishWords": 1520,
+    "chineseHanzi": 1948,
+    "sections": 10,
+    "sources": [
+      {
+        "id": "mkbhd",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "veritasium",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytSubs",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytAudience",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-rates-usage-rights/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-25.mjs",
+    "slug": "twitch-statistics-sponsored-segment-window",
+    "englishWords": 1501,
+    "chineseHanzi": 1970,
+    "sections": 9,
+    "sources": [
+      {
+        "id": "twitchAnalytics",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "twitchData",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-measurement/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-26.mjs",
+    "slug": "bolivia-celebrities-local-creator-campaign-fit",
+    "englishWords": 1509,
+    "chineseHanzi": 2046,
+    "sections": 10,
+    "sources": [
+      {
+        "id": "dellien",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "angus",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-shortlist-workflow/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-27.mjs",
+    "slug": "instagram-dm-creator-inquiry-triage",
+    "englishWords": 1520,
+    "chineseHanzi": 1967,
+    "sections": 10,
+    "sources": [
+      {
+        "id": "metaSecurity",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "igDm",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcPrivacy",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-shortlist-workflow/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-28.mjs",
+    "slug": "social-media-metrics-creator-decision-tree",
+    "englishWords": 1504,
+    "chineseHanzi": 1986,
+    "sections": 10,
+    "sources": [
+      {
+        "id": "igWatch",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytImpressions",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ytUnique",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/creator-campaign-measurement/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-status-system/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  },
+  {
+    "file": "post-29.mjs",
+    "slug": "social-media-schedule-creator-launch-dependencies",
+    "englishWords": 1503,
+    "chineseHanzi": 1945,
+    "sections": 10,
+    "sources": [
+      {
+        "id": "bufferPublish",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "bufferReminder",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "id": "ftcDisclose",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "/blog/write-a-useful-campaign-brief/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      },
+      {
+        "url": "/blog/creator-campaign-status-system/#answer",
+        "matched": [
+          true,
+          true
+        ]
+      }
+    ],
+    "pass": true
+  }
+]

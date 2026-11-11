@@ -1,0 +1,231 @@
+{
+  "checkedAt": "2026-11-11",
+  "paths": 37,
+  "links": 45,
+  "passed": true,
+  "failed": [],
+  "results": [
+    {
+      "path": "/blog/ai-creator-research-prompts/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/ai-creator-research-prompts/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/audit-creator-audience-quality/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/audit-creator-audience-quality/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/creator-campaign-incrementality/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/creator-campaign-incrementality/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/creator-campaign-measurement/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/creator-campaign-measurement/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/creator-campaign-status-system/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/creator-campaign-status-system/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/creator-content-approval-workflow/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/creator-content-approval-workflow/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/creator-metric-definitions/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/creator-metric-definitions/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/creator-outreach-follow-up/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/creator-outreach-follow-up/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/creator-performance-benchmarks/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/creator-performance-benchmarks/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/creator-product-claims-review/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/creator-product-claims-review/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/creator-rates-usage-rights/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/creator-rates-usage-rights/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/creator-shortlist-workflow/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/creator-shortlist-workflow/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/detect-suspicious-creator-growth/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/detect-suspicious-creator-growth/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/evaluate-creator-rate-cards/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/evaluate-creator-rate-cards/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/influencer-campaign-budget-planning/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/influencer-campaign-budget-planning/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/personalized-creator-outreach/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/personalized-creator-outreach/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/read-creator-engagement-data/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/read-creator-engagement-data/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/sponsored-content-crisis-response/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/sponsored-content-crisis-response/",
+      "missingFragments": []
+    },
+    {
+      "path": "/blog/write-a-useful-campaign-brief/",
+      "status": 200,
+      "final": "https://www.quickkol.com/blog/write-a-useful-campaign-brief/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/audit-creator-audience-quality/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/audit-creator-audience-quality/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/creator-campaign-incrementality/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/creator-campaign-incrementality/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/creator-campaign-measurement/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/creator-campaign-measurement/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/creator-campaign-status-system/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/creator-campaign-status-system/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/creator-live-campaign-runbook/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/creator-live-campaign-runbook/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/creator-metric-definitions/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/creator-metric-definitions/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/creator-outreach-follow-up/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/creator-outreach-follow-up/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/creator-rates-usage-rights/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/creator-rates-usage-rights/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/creator-raw-footage-rights/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/creator-raw-footage-rights/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/creator-shortlist-workflow/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/creator-shortlist-workflow/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/detect-suspicious-creator-growth/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/detect-suspicious-creator-growth/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/evaluate-creator-rate-cards/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/evaluate-creator-rate-cards/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/influencer-campaign-budget-planning/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/influencer-campaign-budget-planning/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/influencer-product-seeding-logistics/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/influencer-product-seeding-logistics/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/organic-vs-paid-creator-content/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/organic-vs-paid-creator-content/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/personalized-creator-outreach/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/personalized-creator-outreach/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/read-creator-engagement-data/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/read-creator-engagement-data/",
+      "missingFragments": []
+    },
+    {
+      "path": "/zh/blog/write-a-useful-campaign-brief/",
+      "status": 200,
+      "final": "https://www.quickkol.com/zh/blog/write-a-useful-campaign-brief/",
+      "missingFragments": []
+    }
+  ]
+}
