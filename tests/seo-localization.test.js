@@ -8,6 +8,7 @@ import { localizedPath, routePath } from '../src/localized-paths.js';
 test('translated HTML, language pairs, author identity and share images agree across the sitemap', async () => {
   const sitemap = await readFile('dist/sitemap.xml', 'utf8');
   const urls = [...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].map((match) => match[1]);
+  const sitemapDates = new Map([...sitemap.matchAll(/<loc>(.*?)<\/loc><lastmod>(.*?)<\/lastmod>/g)].map(([, url, date]) => [url, date]));
   const urlSet = new Set(urls);
   const articles = new Set();
   const relatedTargets = new Set();
@@ -48,6 +49,9 @@ test('translated HTML, language pairs, author identity and share images agree ac
           relatedTargets.add(target.href);
         }
         const schema = JSON.parse(document.querySelector('script[data-blog-structured]').textContent);
+        const expectedDate = schema.dateModified > schema.datePublished ? schema.dateModified : undefined;
+        assert.equal(sitemapDates.get(url), expectedDate, path);
+        if (expectedDate) sitemapDates.delete(url);
         assert.equal(schema.mainEntityOfPage, url, path);
         assert.equal(schema.inLanguage, document.documentElement.lang, path);
         assert.equal(schema.author['@type'], 'Person', path);
@@ -68,6 +72,7 @@ test('translated HTML, language pairs, author identity and share images agree ac
   for (const article of articles) {
     assert.ok(relatedTargets.has(article), `${article}: no incoming related-article link`);
   }
+  assert.equal(sitemapDates.size, 0, 'Only articles with explicit updates have a sitemap lastmod');
 });
 
 test('legacy pagination and aliases redirect once while preserving filters and tracking', () => {
@@ -83,6 +88,7 @@ test('legacy pagination and aliases redirect once while preserving filters and t
     ['/zh', '/zh/'],
     ['/zh/index.html?ref=launch', '/zh/?ref=launch'],
     ['/zh/blog/?page=2&q=creator', '/zh/blog/page/2/?q=creator'],
+    ['/zh/blog/topic/discovery?page=2&q=creator', '/zh/blog/topic/discovery/page/2/?q=creator'],
     ['/zh/about', '/zh/about/'],
     ['/zh/tools/invoice-generator/', '/tools/invoice-generator/'],
     ['/en/blog/?page=3&q=creator&topic=discovery&tag=AI&utm_source=email', '/blog/page/3/?q=creator&topic=discovery&tag=AI&utm_source=email'],

@@ -1,11 +1,17 @@
 // Original QuickKOL editorial content. Each text pair is [Chinese, English].
 export const blogTopics = [
-  { key: 'discovery', label: ['达人发现', 'Creator Discovery'] },
-  { key: 'analytics', label: ['受众与数据', 'Audience & Analytics'] },
-  { key: 'outreach', label: ['触达与关系', 'Outreach & Relationships'] },
-  { key: 'commercial', label: ['报价、权益与合规', 'Rates, Rights & Compliance'] },
-  { key: 'campaign', label: ['Campaign 管理', 'Campaign Operations'] },
-  { key: 'ai', label: ['AI 与自动化', 'AI & Automation'] },
+  { key: 'discovery', label: ['达人发现', 'Creator Discovery'], guide: 'creator-selection-beyond-followers',
+    description: ['按市场、平台和内容信号寻找达人，判断品牌契合度并建立可复核的候选名单。', 'Find creators by market, platform and content signals. Evaluate brand fit and build a shortlist your team can review.'] },
+  { key: 'analytics', label: ['受众与数据', 'Audience & Analytics'], guide: 'read-creator-engagement-data',
+    description: ['读懂达人的受众、互动率和观看数据，识别异常，并选择适合本次活动的衡量指标。', 'Interpret creator audience, engagement and viewing data, spot anomalies and choose metrics that fit your campaign.'] },
+  { key: 'outreach', label: ['触达与关系', 'Outreach & Relationships'], guide: 'personalized-creator-outreach',
+    description: ['从第一封个性化邮件到跟进与交接，建立团队可以持续使用的达人外联流程。', 'Build a repeatable creator outreach workflow, from the first personalized email to follow-ups and relationship handoff.'] },
+  { key: 'commercial', label: ['报价、权益与合规', 'Rates, Rights & Compliance'], guide: 'creator-contract-scope-checklist',
+    description: ['评估达人报价，厘清交付、授权与排他条款，并识别需要核实的广告披露要求。', 'Evaluate creator rates, clarify deliverables and usage rights, and identify disclosure requirements to verify before launch.'] },
+  { key: 'campaign', label: ['Campaign 管理', 'Campaign Operations'], guide: 'write-a-useful-campaign-brief',
+    description: ['把达人营销目标变成可执行的简报，安排预算、分工、审核和发布后的复盘。', 'Turn creator marketing goals into a usable brief, then manage budget, ownership, approvals and post-campaign review.'] },
+  { key: 'ai', label: ['AI 与自动化', 'AI & Automation'], guide: 'ai-agent-human-checkpoints',
+    description: ['探索如何用 AI 辅助达人研究、候选筛选和外联，并为关键决定保留人工审核。', 'Use AI to support creator research, shortlisting and outreach while keeping human review for key decisions.'] },
 ];
 
 export const blogPosts = [

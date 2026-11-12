@@ -38,7 +38,7 @@ test('blog pagination exposes every article without JavaScript', async () => {
       const collection = JSON.parse(document.querySelector('script[data-blog-structured]').textContent);
       assert.equal(collection.url, url);
       const pagination = document.querySelector('[data-blog-pagination]');
-      assert.ok(pagination.querySelectorAll('.blog-page-buttons > *').length <= 9, 'Page navigation stays compact');
+      assert.ok(pagination.querySelectorAll(':scope > .blog-page-buttons > *').length <= 9, 'Visible page navigation stays compact');
       assert.equal(pagination.querySelector('[aria-current="page"]').getAttribute('href'), path);
       for (const target of [1, page - 1, page + 1, pageCount]) {
         if (target < 1 || target > pageCount) continue;
@@ -51,6 +51,34 @@ test('blog pagination exposes every article without JavaScript', async () => {
     });
   }
   assert.equal(seen.size, articles.length);
+});
+
+test('both blog libraries link to indexable topic archives and their older articles', async () => {
+  const sitemap = await readFile('dist/sitemap.xml', 'utf8');
+  for (const prefix of ['', '/zh']) {
+    const blog = `${prefix}/blog/`;
+    const topic = `${blog}topic/discovery/`;
+    const older = `${topic}page/2/`;
+    await withPage(blog, (document) => {
+      assert.ok(document.querySelector(`nav.blog-topics a[href="${topic}"]`), topic);
+      assert.ok(document.querySelector(`details.blog-page-directory a[href="${blog}page/20/"]`));
+    });
+    for (const path of [topic, older]) {
+      await withPage(path, (document) => {
+        assert.equal(document.querySelector('link[rel="canonical"]').href, `https://www.quickkol.com${path}`);
+        assert.equal(document.querySelector('meta[name="robots"]').content, 'index,follow');
+        assert.ok(document.querySelector(`a.blog-card[href^="${blog}"]`));
+        assert.ok(sitemap.includes(`<loc>https://www.quickkol.com${path}</loc>`));
+      });
+    }
+    await withPage(topic, (document) => {
+      assert.ok(document.querySelector(`a[href="${blog}creator-selection-beyond-followers/"]`));
+      assert.ok(document.querySelector(`a[href="${older}"]`));
+    });
+    await withPage(`${blog}creator-selection-beyond-followers/`, (document) => {
+      assert.ok(document.querySelector(`.blog-related a[href="${topic}"]`));
+    });
+  }
 });
 
 test('English invoice content and page schema declare English', async () => {

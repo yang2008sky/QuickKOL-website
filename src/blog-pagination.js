@@ -1,7 +1,8 @@
 export const BLOG_PAGE_SIZE = 12;
 
-export function blogPagePath(page) {
-  return page > 1 ? `/blog/page/${page}/` : '/blog/';
+export function blogPagePath(page, topic = '') {
+  const root = topic ? `/blog/topic/${topic}/` : '/blog/';
+  return page > 1 ? `${root}page/${page}/` : root;
 }
 
 export function blogPageItems(page, pages) {

@@ -16,7 +16,7 @@ export default function middleware(request) {
     url.pathname += '/';
   }
   const page = url.searchParams.get('page');
-  if (/^\/(?:zh\/)?blog\/$/.test(url.pathname) && /^[1-9]\d*$/.test(page || '')) {
+  if (/^\/(?:zh\/)?blog\/(?:topic\/[a-z-]+\/)?$/.test(url.pathname) && /^[1-9]\d*$/.test(page || '')) {
     if (page !== '1') url.pathname += `page/${page}/`;
     url.searchParams.delete('page');
   }

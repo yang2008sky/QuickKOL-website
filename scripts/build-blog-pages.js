@@ -12,7 +12,7 @@ import { colleagueThreePosts } from '../src/blog-colleague-three-posts.js';
 import { laInfluencerPosts } from '../src/blog-la-influencer.js';
 import { semrushBatchFourPosts } from '../src/blog-semrush-b4-posts.js';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
-import { blogPosts as baseBlogPosts } from '../src/blog-posts.js';
+import { blogPosts as baseBlogPosts, blogTopics } from '../src/blog-posts.js';
 import { additionalBlogPosts } from '../src/blog-additional-posts.js';
 import { seriesBlogPosts } from '../src/blog-series-posts.js';
 import { expansionBlogPosts } from '../src/blog-expansion-posts.js';
@@ -56,7 +56,11 @@ const pages = [
     path: blogPagePath(index + 2).slice(1, -1),
     title: 'QuickKOL Blog — 达人营销洞察与实战指南', description: '探索达人发现、数据洞察、个性化外联与 AI 营销的实战指南。',
   })),
-  ...blogPosts.map((post) => ({ path: `blog/${post.slug}`, title: `${post.title[0]} | QuickKOL Blog`, description: post.metaDescription[0], type: 'article', image: articleShareImage(`/assets/blog/${post.cover}`), imageAlt: post.coverAlt[0] })),
+  ...blogTopics.flatMap(({ key, label, description }) => Array.from(
+    { length: Math.ceil(blogPosts.filter((post) => post.topic === key).length / BLOG_PAGE_SIZE) },
+    (_, index) => ({ path: blogPagePath(index + 1, key).slice(1, -1), title: `${label[0]} | QuickKOL Blog`, description: description[0] }),
+  )),
+  ...blogPosts.map((post) => ({ path: `blog/${post.slug}`, title: `${post.title[0]} | QuickKOL Blog`, description: post.metaDescription[0], type: 'article', image: articleShareImage(`/assets/blog/${post.cover}`), imageAlt: post.coverAlt[0], lastmod: post.updatedDate > post.date ? post.updatedDate : undefined })),
 ];
 const localizedPages = pages.flatMap((page) => {
   const chinese = localizedPath(`/${page.path}/`, 'zh-CN').slice(1, -1);
@@ -84,10 +88,13 @@ for (const filename of ['index.html', 'terms.html', 'privacy.html']) {
 }
 console.log(`Generated ${localizedPages.length + 6} Chinese/English site, tool and blog entry points.`);
 
-const sitemapPaths = ['/', '/terms.html', '/privacy.html', '/zh/', '/zh/terms.html', '/zh/privacy.html', ...localizedPages.map((page) => `/${page.path}/`)];
+const sitemapPages = [
+  ...['/', '/terms.html', '/privacy.html', '/zh/', '/zh/terms.html', '/zh/privacy.html'].map((path) => ({ path })),
+  ...localizedPages.map(({ path, lastmod }) => ({ path: `/${path}/`, lastmod })),
+];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${sitemapPaths.map((path) => `  <url><loc>${escapeHtml(new URL(path, siteOrigin).href)}</loc></url>`).join('\n')}
+${sitemapPages.map(({ path, lastmod }) => `  <url><loc>${escapeHtml(new URL(path, siteOrigin).href)}</loc>${lastmod ? `<lastmod>${escapeHtml(lastmod)}</lastmod>` : ''}</url>`).join('\n')}
 </urlset>
 `;
 const robots = `User-agent: *
@@ -99,4 +106,4 @@ for (const directory of ['public', 'dist']) {
   await writeFile(new URL(`../${directory}/sitemap.xml`, import.meta.url), sitemap);
   await writeFile(new URL(`../${directory}/robots.txt`, import.meta.url), robots);
 }
-console.log(`Generated sitemap.xml with ${sitemapPaths.length} URLs and robots.txt.`);
+console.log(`Generated sitemap.xml with ${sitemapPages.length} URLs and robots.txt.`);
