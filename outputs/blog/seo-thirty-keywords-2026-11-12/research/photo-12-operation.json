@@ -1,0 +1,16 @@
+{
+  "id": "12-operation",
+  "role": "figure",
+  "family": "Human documentary",
+  "prompt": "Use case photorealistic-natural. Wide landscape 16:9 explanatory editorial photograph for a QuickKOL creator marketing article, 1200x675 delivery. One fictional adult video editor in a bright compact creative studio comparing a small real color reference card beside an unbranded portable display facing away from viewer, while a second fictional adult creator indicates a camera-frame crop using two separate cardboard L-shaped corner markers held well apart at a table. The camera is on the near table next to a lens cap. Show plausible practical equipment arrangement and natural hands, candid focused work. Cream and pale blue studio, small coral objects, bright daylight. This illustrates confirming an approved creative variant before an agency handoff. No readable text, metrics, logos, watermarks, AI notice or recognizable software interface. Not a real client or celebrity.",
+  "originalGeneratedFilename": "exec-44187987-188a-4ca4-925e-6cd039982830.png",
+  "originalStorage": "Retained in local authoring archive; original PNG omitted from Git handoff.",
+  "inspected": true,
+  "edit": {
+    "method": "Built-in imagegen",
+    "prompt": "Remove only the tiny pale stray mark at the extreme bottom-right; preserve all other details.",
+    "originalGeneratedFilename": "exec-6c2cc423-23f8-4661-81b6-08147ce119f5.png",
+    "originalStorage": "Retained in local authoring archive; original PNG omitted from Git handoff.",
+    "inspected": true
+  }
+}

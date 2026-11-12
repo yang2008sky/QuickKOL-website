@@ -1,0 +1,1584 @@
+{
+  "checkedAt": "2026-11-12",
+  "pages": 60,
+  "passed": true,
+  "errors": [],
+  "records": [
+    {
+      "slug": "creator-engagement-response-routing",
+      "locale": "zh",
+      "route": "/zh/blog/creator-engagement-response-routing/",
+      "h1": "社媒互动怎样变成达人合作的下一步",
+      "title": "社媒互动怎样变成达人合作的下一步 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/creator-engagement-response-routing/",
+      "description": "Social media engagement 怎样服务达人营销：定义互动对象、分流真实问题、安排回复权限，并用响应记录改善下一份合作 Brief。",
+      "cover": "/assets/blog/creator-engagement-response-routing.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/creator-engagement-response-routing.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/social-media-metrics-creator-decision-tree/#answer"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/youtube/answer/9482556?hl=en",
+        "https://www.ftc.gov/system/files/documents/plain-language/pdf-0136_proteting-personal-information.pdf",
+        "https://about.fb.com/news/2024/03/instagram-dm-updates/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "creator-engagement-response-routing",
+      "locale": "en",
+      "route": "/blog/creator-engagement-response-routing/",
+      "h1": "Social Media Engagement: Turn Responses Into Action",
+      "title": "Social Media Engagement: Turn Responses Into Action | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/creator-engagement-response-routing/",
+      "description": "Turn social media engagement into useful creator-campaign actions with defined interaction types, response ownership, privacy limits and a clear learning record.",
+      "cover": "/assets/blog/creator-engagement-response-routing.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/creator-engagement-response-routing.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/social-media-metrics-creator-decision-tree/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/youtube/answer/9482556?hl=en",
+        "https://www.ftc.gov/system/files/documents/plain-language/pdf-0136_proteting-personal-information.pdf",
+        "https://about.fb.com/news/2024/03/instagram-dm-updates/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "create-youtube-channel-collaboration-launch-check",
+      "locale": "zh",
+      "route": "/zh/blog/create-youtube-channel-collaboration-launch-check/",
+      "h1": "与创作者合作开设 YouTube 频道前要确认什么",
+      "title": "与创作者合作开设 YouTube 频道前要确认什么 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/create-youtube-channel-collaboration-launch-check/",
+      "description": "Create a YouTube channel 用于达人合作时，如何创建正确身份、设置适当权限、安排首条作品、核对披露与发布交接。",
+      "cover": "/assets/blog/create-youtube-channel-collaboration-launch-check.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/create-youtube-channel-collaboration-launch-check.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/create-youtube-channel-kol-series-ownership/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/influencer-product-seeding-logistics/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/youtube/answer/1646861?hl=en",
+        "https://support.google.com/youtube/answer/9481328?hl=en",
+        "https://www.ftc.gov/system/files/documents/plain-language/1001a-influencer-guide-508_1.pdf",
+        "https://support.google.com/youtube/answer/9482556?hl=en"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "create-youtube-channel-collaboration-launch-check",
+      "locale": "en",
+      "route": "/blog/create-youtube-channel-collaboration-launch-check/",
+      "h1": "Create a YouTube Channel for a Creator-Led Launch",
+      "title": "Create a YouTube Channel for a Creator-Led Launch | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/create-youtube-channel-collaboration-launch-check/",
+      "description": "Create a YouTube channel for a creator-led launch with verified identity, appropriate delegated access, a scoped first video and a clear release handoff.",
+      "cover": "/assets/blog/create-youtube-channel-collaboration-launch-check.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/create-youtube-channel-collaboration-launch-check.jpg",
+      "bodyInternalLinks": [
+        "/blog/create-youtube-channel-kol-series-ownership/#answer",
+        "/blog/write-a-useful-campaign-brief/#answer"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/youtube/answer/1646861?hl=en",
+        "https://support.google.com/youtube/answer/9481328?hl=en",
+        "https://www.ftc.gov/system/files/documents/plain-language/1001a-influencer-guide-508_1.pdf",
+        "https://support.google.com/youtube/answer/9482556?hl=en"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "social-media-manager-salary-creator-operations",
+      "locale": "zh",
+      "route": "/zh/blog/social-media-manager-salary-creator-operations/",
+      "h1": "达人项目要配怎样的社媒经理预算",
+      "title": "达人项目要配怎样的社媒经理预算 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/social-media-manager-salary-creator-operations/",
+      "description": "Social media manager salary 怎样用于达人项目预算：区分相关职业工资、员工完整成本、可用工时、创作者费用和代理采购。",
+      "cover": "/assets/blog/social-media-manager-salary-creator-operations.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/social-media-manager-salary-creator-operations.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/multilingual-creator-campaign/#evidence-table",
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/influencer-product-seeding-logistics/#interactive-tool",
+        "/zh/blog/creator-campaign-status-system/#answer"
+      ],
+      "bodyCitations": [
+        "https://www.bls.gov/ooh/media-and-communication/public-relations-specialists.htm",
+        "https://www.bls.gov/oes/oes_ques.htm",
+        "https://www.bls.gov/eci/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "social-media-manager-salary-creator-operations",
+      "locale": "en",
+      "route": "/blog/social-media-manager-salary-creator-operations/",
+      "h1": "Social Media Manager Salary for Creator Operations",
+      "title": "Social Media Manager Salary for Creator Operations | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/social-media-manager-salary-creator-operations/",
+      "description": "Plan social media manager salary for creator operations by separating related wage benchmarks, loaded employment cost, available hours, creator fees and agency scope.",
+      "cover": "/assets/blog/social-media-manager-salary-creator-operations.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/social-media-manager-salary-creator-operations.jpg",
+      "bodyInternalLinks": [
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/multilingual-creator-campaign/#evidence-table",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/creator-campaign-status-system/#answer"
+      ],
+      "bodyCitations": [
+        "https://www.bls.gov/ooh/media-and-communication/public-relations-specialists.htm",
+        "https://www.bls.gov/oes/oes_ques.htm",
+        "https://www.bls.gov/eci/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "creator-rewards-sponsored-video-eligibility",
+      "locale": "zh",
+      "route": "/zh/blog/creator-rewards-sponsored-video-eligibility/",
+      "h1": "创作者奖励计划怎样影响一条赞助视频的安排",
+      "title": "创作者奖励计划怎样影响一条赞助视频的安排 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/creator-rewards-sponsored-video-eligibility/",
+      "description": "TikTok Creator Rewards Program 怎样影响品牌合作：区分账号与视频资格、赞助内容、平台估计收入及品牌验收，避免隐藏商业关系。",
+      "cover": "/assets/blog/creator-rewards-sponsored-video-eligibility.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/creator-rewards-sponsored-video-eligibility.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/influencer-product-seeding-logistics/#interactive-tool",
+        "/zh/blog/creator-rates-usage-rights/#interactive-tool",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/creator-raw-footage-rights/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://newsroom.tiktok.com/introducing-the-new-creator-rewards-program-uk?from_seo_redirect=1&lang=en-GB",
+        "https://support.tiktok.com/en/business-and-creator/creator-rewards-program/how-is-the-creator-rewards-program-different-from-the-tiktok-creator-fund?invalid_lang=zh_Hant",
+        "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service?invalid_lang=ms",
+        "https://www.ftc.gov/system/files/documents/plain-language/1001a-influencer-guide-508_1.pdf"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "creator-rewards-sponsored-video-eligibility",
+      "locale": "en",
+      "route": "/blog/creator-rewards-sponsored-video-eligibility/",
+      "h1": "Creator Rewards Program: Check the Sponsored Video",
+      "title": "Creator Rewards Program: Check the Sponsored Video | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/creator-rewards-sponsored-video-eligibility/",
+      "description": "Review a sponsored video against TikTok Creator Rewards Program conditions. Separate account and video eligibility, brand fees, estimated rewards and acceptance.",
+      "cover": "/assets/blog/creator-rewards-sponsored-video-eligibility.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/creator-rewards-sponsored-video-eligibility.jpg",
+      "bodyInternalLinks": [
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/creator-rates-usage-rights/#answer"
+      ],
+      "bodyCitations": [
+        "https://newsroom.tiktok.com/introducing-the-new-creator-rewards-program-uk?from_seo_redirect=1&lang=en-GB",
+        "https://support.tiktok.com/en/business-and-creator/creator-rewards-program/how-is-the-creator-rewards-program-different-from-the-tiktok-creator-fund?invalid_lang=zh_Hant",
+        "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service?invalid_lang=ms",
+        "https://www.ftc.gov/system/files/documents/plain-language/1001a-influencer-guide-508_1.pdf"
+      ],
+      "sourceCount": 4,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "creator-networking-strategy-peer-conversations",
+      "locale": "zh",
+      "route": "/zh/blog/creator-networking-strategy-peer-conversations/",
+      "h1": "社交网络策略怎样让创作者开启专业对话",
+      "title": "社交网络策略怎样让创作者开启专业对话 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/creator-networking-strategy-peer-conversations/",
+      "description": "Social networking marketing strategy 如何结合达人合作：定义专业讨论、选择解释与主持角色、规划响应路径，并区分自然沟通和付费放大。",
+      "cover": "/assets/blog/creator-networking-strategy-peer-conversations.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/creator-networking-strategy-peer-conversations.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/organic-vs-paid-creator-content/#evidence-table",
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/creator-shortlist-workflow/#answer",
+        "/zh/blog/creator-rates-usage-rights/#interactive-tool",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://www.ftc.gov/system/files/documents/plain-language/1001a-influencer-guide-508_1.pdf",
+        "https://business.linkedin.com/advertise/ads/sponsored-content/thought-leader-ads",
+        "https://about.fb.com/news/2024/03/instagram-dm-updates/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "creator-networking-strategy-peer-conversations",
+      "locale": "en",
+      "route": "/blog/creator-networking-strategy-peer-conversations/",
+      "h1": "A Social Networking Strategy Built Around Creators",
+      "title": "A Social Networking Strategy Built Around Creators | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/creator-networking-strategy-peer-conversations/",
+      "description": "Build a social networking marketing strategy with creator roles, relevant professional questions, response ownership and clear boundaries between organic and paid activity.",
+      "cover": "/assets/blog/creator-networking-strategy-peer-conversations.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/creator-networking-strategy-peer-conversations.jpg",
+      "bodyInternalLinks": [
+        "/blog/organic-vs-paid-creator-content/#evidence-table",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/creator-shortlist-workflow/#answer",
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/blog/creator-rates-usage-rights/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://www.ftc.gov/system/files/documents/plain-language/1001a-influencer-guide-508_1.pdf",
+        "https://business.linkedin.com/advertise/ads/sponsored-content/thought-leader-ads",
+        "https://about.fb.com/news/2024/03/instagram-dm-updates/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "free-instagram-followers-hidden-campaign-costs",
+      "locale": "zh",
+      "route": "/zh/blog/free-instagram-followers-hidden-campaign-costs/",
+      "h1": "免费 Instagram 粉丝承诺有哪些隐性成本",
+      "title": "免费 Instagram 粉丝承诺有哪些隐性成本 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/free-instagram-followers-hidden-campaign-costs/",
+      "description": "免费 Instagram 粉丝的教育向风险指南：品牌怎样核对账号访问、隐性工时、指标失真与合作影响，不推荐服务或凭单项指标指控。",
+      "cover": "/assets/blog/free-instagram-followers-hidden-campaign-costs.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/free-instagram-followers-hidden-campaign-costs.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/detect-suspicious-creator-growth/#evidence-table",
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/free-instagram-likes-measurement-contamination/#answer"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2022/07/how-meta-safeguards-people-against-clone-sites/",
+        "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers",
+        "https://about.fb.com/news/2021/07/keeping-instagram-safe-and-secure/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "free-instagram-followers-hidden-campaign-costs",
+      "locale": "en",
+      "route": "/blog/free-instagram-followers-hidden-campaign-costs/",
+      "h1": "Free Instagram Followers: Understand the Hidden Costs",
+      "title": "Free Instagram Followers: Understand the Hidden Costs | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/free-instagram-followers-hidden-campaign-costs/",
+      "description": "An educational review of free Instagram followers: account access, hidden work, measurement distortion and partnership decisions without service recommendations or unsupported accusations.",
+      "cover": "/assets/blog/free-instagram-followers-hidden-campaign-costs.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/free-instagram-followers-hidden-campaign-costs.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/free-instagram-likes-measurement-contamination/#answer",
+        "/blog/creator-outreach-follow-up/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2022/07/how-meta-safeguards-people-against-clone-sites/",
+        "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers",
+        "https://about.fb.com/news/2021/07/keeping-instagram-safe-and-secure/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "insta-followers-retention-content-promise",
+      "locale": "zh",
+      "route": "/zh/blog/insta-followers-retention-content-promise/",
+      "h1": "Insta Followers 增长后怎样兑现内容承诺",
+      "title": "Insta Followers 增长后怎样兑现内容承诺 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/insta-followers-retention-content-promise/",
+      "description": "Insta followers 增长后品牌该做什么：明确内容承诺、安排后续演示、保留创作者关系与测量限制，不用净增长冒充留存。",
+      "cover": "/assets/blog/insta-followers-retention-content-promise.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/insta-followers-retention-content-promise.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/social-media-metrics-creator-decision-tree/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/",
+        "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+        "https://www.ftc.gov/system/files/documents/plain-language/1001a-influencer-guide-508_1.pdf"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "insta-followers-retention-content-promise",
+      "locale": "en",
+      "route": "/blog/insta-followers-retention-content-promise/",
+      "h1": "Insta Followers: Keep the Promise After a Collaboration",
+      "title": "Insta Followers: Keep the Promise After a Collaboration | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/insta-followers-retention-content-promise/",
+      "description": "Plan what happens after an Insta followers increase: a clear content promise, relevant follow-up, creator scope and honest limits on measuring retention.",
+      "cover": "/assets/blog/insta-followers-retention-content-promise.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/insta-followers-retention-content-promise.jpg",
+      "bodyInternalLinks": [
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/social-media-metrics-creator-decision-tree/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/",
+        "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+        "https://www.ftc.gov/system/files/documents/plain-language/1001a-influencer-guide-508_1.pdf"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "free-insta-followers-pitch-evidence-response",
+      "locale": "zh",
+      "route": "/zh/blog/free-insta-followers-pitch-evidence-response/",
+      "h1": "收到免费 Insta Followers 提案怎样回复",
+      "title": "收到免费 Insta Followers 提案怎样回复 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/free-insta-followers-pitch-evidence-response/",
+      "description": "收到 Free Insta Followers 提案后，区分对方承诺、实际证据与账号风险；用明确回复保护达人项目，不提供刷量操作。",
+      "cover": "/assets/blog/free-insta-followers-pitch-evidence-response.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/free-insta-followers-pitch-evidence-response.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/detect-suspicious-creator-growth/#evidence-table",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/creator-outreach-follow-up/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2022/07/how-meta-safeguards-people-against-clone-sites/",
+        "https://about.fb.com/news/2021/07/keeping-instagram-safe-and-secure/",
+        "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "free-insta-followers-pitch-evidence-response",
+      "locale": "en",
+      "route": "/blog/free-insta-followers-pitch-evidence-response/",
+      "h1": "Free Insta Followers: Respond to a Growth Pitch",
+      "title": "Free Insta Followers: Respond to a Growth Pitch | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/free-insta-followers-pitch-evidence-response/",
+      "description": "Respond to a Free Insta Followers pitch with clear evidence questions, permission boundaries and a practical alternative for your creator campaign.",
+      "cover": "/assets/blog/free-insta-followers-pitch-evidence-response.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/free-insta-followers-pitch-evidence-response.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/detect-suspicious-creator-growth/#evidence-table",
+        "/blog/creator-metric-definitions/#evidence-table",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/creator-outreach-follow-up/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2022/07/how-meta-safeguards-people-against-clone-sites/",
+        "https://about.fb.com/news/2021/07/keeping-instagram-safe-and-secure/",
+        "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "instagram-follower-cohort-project-boundaries",
+      "locale": "zh",
+      "route": "/zh/blog/instagram-follower-cohort-project-boundaries/",
+      "h1": "品牌怎样定义一次合作中的 Instagram Follower",
+      "title": "品牌怎样定义一次合作中的 Instagram Follower | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/instagram-follower-cohort-project-boundaries/",
+      "description": "Instagram Follower 在品牌达人项目中该怎样定义：约定对象、时间、来源、群体重叠与未知状态，不把关注当成购买或触达。",
+      "cover": "/assets/blog/instagram-follower-cohort-project-boundaries.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/instagram-follower-cohort-project-boundaries.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/detect-suspicious-creator-growth/#evidence-table",
+        "/zh/blog/creator-rates-usage-rights/#interactive-tool",
+        "/zh/blog/social-media-metrics-creator-decision-tree/#answer"
+      ],
+      "bodyCitations": [
+        "https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/",
+        "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/",
+        "https://www.ftc.gov/system/files/documents/plain-language/pdf-0136_proteting-personal-information.pdf"
+      ],
+      "sourceCount": 3,
+      "tableRows": 5,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "instagram-follower-cohort-project-boundaries",
+      "locale": "en",
+      "route": "/blog/instagram-follower-cohort-project-boundaries/",
+      "h1": "Instagram Follower: Define the Campaign Cohort",
+      "title": "Instagram Follower: Define the Campaign Cohort | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/instagram-follower-cohort-project-boundaries/",
+      "description": "Define an Instagram follower cohort for creator marketing: account, timing, source, overlap and unknowns, without confusing follows with reach or sales.",
+      "cover": "/assets/blog/instagram-follower-cohort-project-boundaries.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/instagram-follower-cohort-project-boundaries.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/detect-suspicious-creator-growth/#evidence-table",
+        "/blog/creator-shortlist-workflow/#evidence-table",
+        "/blog/social-media-metrics-creator-decision-tree/#answer",
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/",
+        "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/",
+        "https://www.ftc.gov/system/files/documents/plain-language/pdf-0136_proteting-personal-information.pdf"
+      ],
+      "sourceCount": 3,
+      "tableRows": 5,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "facebook-ad-library-creator-creative-research",
+      "locale": "zh",
+      "route": "/zh/blog/facebook-ad-library-creator-creative-research/",
+      "h1": "怎样用 Facebook Ad Library 研究达人广告表达",
+      "title": "怎样用 Facebook Ad Library 研究达人广告表达 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/facebook-ad-library-creator-creative-research/",
+      "description": "用 Facebook Ad Library 研究达人广告的开头、演示与下一步：保存查询条件、明确证据局限，不把可见广告当成效果或许可证明。",
+      "cover": "/assets/blog/facebook-ad-library-creator-creative-research.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/facebook-ad-library-creator-creative-research.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/personalized-creator-outreach/#interactive-tool",
+        "/zh/blog/influencer-content-licensing-paid-media-schedule/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/creator-rates-usage-rights/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2019/03/a-better-way-to-learn-about-ads/",
+        "https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/",
+        "https://www.copyright.gov/help/faq/faq-fairuse.html"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "facebook-ad-library-creator-creative-research",
+      "locale": "en",
+      "route": "/blog/facebook-ad-library-creator-creative-research/",
+      "h1": "Facebook Ad Library for Creator Ad Research",
+      "title": "Facebook Ad Library for Creator Ad Research | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/facebook-ad-library-creator-creative-research/",
+      "description": "Research creator ads with Facebook Ad Library: record context, compare demonstrations and separate creative observations from performance and reuse rights.",
+      "cover": "/assets/blog/facebook-ad-library-creator-creative-research.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/facebook-ad-library-creator-creative-research.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/price-creator-exclusivity/#interactive-tool",
+        "/blog/personalized-creator-outreach/#interactive-tool",
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/influencer-content-licensing-paid-media-schedule/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2019/03/a-better-way-to-learn-about-ads/",
+        "https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/",
+        "https://www.copyright.gov/help/faq/faq-fairuse.html"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "creatoriq-pricing-commercial-scope-questions",
+      "locale": "zh",
+      "route": "/zh/blog/creatoriq-pricing-commercial-scope-questions/",
+      "h1": "CreatorIQ 报价怎样拆成可比较的采购范围",
+      "title": "CreatorIQ 报价怎样拆成可比较的采购范围 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/creatoriq-pricing-commercial-scope-questions/",
+      "description": "CreatorIQ business model pricing 应怎样研究：以官方询价为起点，核对软件与服务范围、达人付款和续约条件，不编造公开价。",
+      "cover": "/assets/blog/creatoriq-pricing-commercial-scope-questions.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/creatoriq-pricing-commercial-scope-questions.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/creator-relationship-crm/#evidence-table",
+        "/zh/blog/creatoriq-enterprise-evidence-pilot/#answer"
+      ],
+      "bodyCitations": [
+        "https://www.creatoriq.com/-pricing-request-page",
+        "https://www.creatoriq.com/influencer-marketing-solution/governance",
+        "https://www.creatoriq.com/influencer-marketing-solution/creator-payments"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "creatoriq-pricing-commercial-scope-questions",
+      "locale": "en",
+      "route": "/blog/creatoriq-pricing-commercial-scope-questions/",
+      "h1": "CreatorIQ Pricing: Compare the Commercial Scope",
+      "title": "CreatorIQ Pricing: Compare the Commercial Scope | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/creatoriq-pricing-commercial-scope-questions/",
+      "description": "Evaluate CreatorIQ business model pricing through a scoped quote: software, services, creator payments, implementation and renewal questions without invented rates.",
+      "cover": "/assets/blog/creatoriq-pricing-commercial-scope-questions.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/creatoriq-pricing-commercial-scope-questions.jpg",
+      "bodyInternalLinks": [
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/creatoriq-enterprise-evidence-pilot/#answer"
+      ],
+      "bodyCitations": [
+        "https://www.creatoriq.com/-pricing-request-page",
+        "https://www.creatoriq.com/influencer-marketing-solution/governance",
+        "https://www.creatoriq.com/influencer-marketing-solution/creator-payments"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "paid-media-agency-creator-asset-responsibility",
+      "locale": "zh",
+      "route": "/zh/blog/paid-media-agency-creator-asset-responsibility/",
+      "h1": "付费媒体代理怎样接手达人素材",
+      "title": "付费媒体代理怎样接手达人素材 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/paid-media-agency-creator-asset-responsibility/",
+      "description": "Paid Media Agency 怎样接手达人素材：逐项确认版本、使用权、可编辑范围、账号权限、上线验收与停用责任，保留创作者真实表达。",
+      "cover": "/assets/blog/paid-media-agency-creator-asset-responsibility.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/paid-media-agency-creator-asset-responsibility.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/creator-rates-usage-rights/#interactive-tool",
+        "/zh/blog/influencer-content-licensing-paid-media-schedule/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/creator-landing-page-conversion/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://www.copyright.gov/help/faq/faq-fairuse.html",
+        "https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/",
+        "https://support.google.com/adspolicy/answer/6086450?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "paid-media-agency-creator-asset-responsibility",
+      "locale": "en",
+      "route": "/blog/paid-media-agency-creator-asset-responsibility/",
+      "h1": "Paid Media Agency: Define the Creator Asset Handoff",
+      "title": "Paid Media Agency: Define the Creator Asset Handoff | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/paid-media-agency-creator-asset-responsibility/",
+      "description": "Hand creator assets to a paid media agency with explicit versions, usage scope, editing limits, account access, launch checks and stop responsibilities.",
+      "cover": "/assets/blog/paid-media-agency-creator-asset-responsibility.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/paid-media-agency-creator-asset-responsibility.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/influencer-content-licensing-paid-media-schedule/#answer",
+        "/blog/creator-metric-definitions/#evidence-table",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/creator-outreach-follow-up/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://www.copyright.gov/help/faq/faq-fairuse.html",
+        "https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/",
+        "https://support.google.com/adspolicy/answer/6086450?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "reels-follower-growth-2025-practices-review",
+      "locale": "zh",
+      "route": "/zh/blog/reels-follower-growth-2025-practices-review/",
+      "h1": "2025 年 Reels 涨粉建议，品牌现在该怎样使用",
+      "title": "2025 年 Reels 涨粉建议，品牌现在该怎样使用 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/reels-follower-growth-2025-practices-review/",
+      "description": "复核 grow followers with reels best practices 2025：区分历史更新、内容建议与增长承诺，用达人项目的具体问题设计当前测试。",
+      "cover": "/assets/blog/reels-follower-growth-2025-practices-review.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/reels-follower-growth-2025-practices-review.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/reels-brand-education-content-assignment/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2025/06/inspiring-creativity-that-brings-people-together/",
+        "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/",
+        "https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "reels-follower-growth-2025-practices-review",
+      "locale": "en",
+      "route": "/blog/reels-follower-growth-2025-practices-review/",
+      "h1": "Reels Follower Growth: Review the 2025 Advice",
+      "title": "Reels Follower Growth: Review the 2025 Advice | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/reels-follower-growth-2025-practices-review/",
+      "description": "Review grow followers with reels best practices 2025: distinguish dated features, editorial advice and growth claims before designing a creator-led test.",
+      "cover": "/assets/blog/reels-follower-growth-2025-practices-review.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/reels-follower-growth-2025-practices-review.jpg",
+      "bodyInternalLinks": [
+        "/blog/creator-performance-benchmarks/#evidence-table",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/reels-brand-education-content-assignment/#answer"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2025/06/inspiring-creativity-that-brings-people-together/",
+        "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/",
+        "https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "instagram-search-creator-topic-brief",
+      "locale": "zh",
+      "route": "/zh/blog/instagram-search-creator-topic-brief/",
+      "h1": "Instagram 搜索怎样帮助品牌找到相关创作者",
+      "title": "Instagram 搜索怎样帮助品牌找到相关创作者 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/instagram-search-creator-topic-brief/",
+      "description": "Instagram SEO 怎样服务达人营销：整理观众词汇、设计搜索查询、核对作品与身份，并准确表达合作主题，不承诺排名。",
+      "cover": "/assets/blog/instagram-search-creator-topic-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/instagram-search-creator-topic-brief.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/multilingual-creator-campaign/#evidence-table",
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/influencer-discovery-tool-brief-to-candidates/#answer",
+        "/zh/blog/personalized-creator-outreach/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
+        "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/",
+        "https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "instagram-search-creator-topic-brief",
+      "locale": "en",
+      "route": "/blog/instagram-search-creator-topic-brief/",
+      "h1": "Instagram SEO: Build a Searchable Creator Topic Brief",
+      "title": "Instagram SEO: Build a Searchable Creator Topic Brief | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/instagram-search-creator-topic-brief/",
+      "description": "Use Instagram SEO for creator marketing: map audience language, research relevant work and describe partnership topics clearly without ranking guarantees.",
+      "cover": "/assets/blog/instagram-search-creator-topic-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/instagram-search-creator-topic-brief.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/multilingual-creator-campaign/#evidence-table",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/personalized-creator-outreach/#interactive-tool",
+        "/blog/influencer-discovery-tool-brief-to-candidates/#answer"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
+        "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/",
+        "https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "tiktok-trends-today-creator-relevance-check",
+      "locale": "zh",
+      "route": "/zh/blog/tiktok-trends-today-creator-relevance-check/",
+      "h1": "今天的 TikTok 趋势怎样判断是否值得合作",
+      "title": "今天的 TikTok 趋势怎样判断是否值得合作 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/tiktok-trends-today-creator-relevance-check/",
+      "description": "研究 TikTok Trends Today 时，记录地区、时间和来源，核对创作者能力、商业音乐与执行条件，再决定是否值得合作。",
+      "cover": "/assets/blog/tiktok-trends-today-creator-relevance-check.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/tiktok-trends-today-creator-relevance-check.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/organic-vs-paid-creator-content/#evidence-table",
+        "/zh/blog/influencer-discovery-tool-brief-to-candidates/#answer"
+      ],
+      "bodyCitations": [
+        "https://ads.tiktok.com/resources/help/article/how-to-use-trends?redirected=2",
+        "https://ads.tiktok.com/business/en/blog/tiktok-trends-digest?redirected=1",
+        "https://ads.tiktok.com/resources/help/article/commercial-music-library?lang=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "tiktok-trends-today-creator-relevance-check",
+      "locale": "en",
+      "route": "/blog/tiktok-trends-today-creator-relevance-check/",
+      "h1": "TikTok Trends Today: Check Relevance Before the Brief",
+      "title": "TikTok Trends Today: Check Relevance Before the Brief | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/tiktok-trends-today-creator-relevance-check/",
+      "description": "Evaluate TikTok Trends Today with dated regional evidence, creator capability, commercial music checks and a feasible partnership assignment.",
+      "cover": "/assets/blog/tiktok-trends-today-creator-relevance-check.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/tiktok-trends-today-creator-relevance-check.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/organic-vs-paid-creator-content/#evidence-table",
+        "/blog/influencer-discovery-tool-brief-to-candidates/#answer"
+      ],
+      "bodyCitations": [
+        "https://ads.tiktok.com/resources/help/article/how-to-use-trends?redirected=2",
+        "https://ads.tiktok.com/business/en/blog/tiktok-trends-digest?redirected=1",
+        "https://ads.tiktok.com/resources/help/article/commercial-music-library?lang=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "trial-reels-creator-concept-test-design",
+      "locale": "zh",
+      "route": "/zh/blog/trial-reels-creator-concept-test-design/",
+      "h1": "Trial Reels 怎样用于达人创意小测试",
+      "title": "Trial Reels 怎样用于达人创意小测试 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/trial-reels-creator-concept-test-design/",
+      "description": "Trial Reels 怎样用于达人创意测试：确认账号条件、公开范围、自动分享、可比因素与指标含义，不把试发称为随机实验。",
+      "cover": "/assets/blog/trial-reels-creator-concept-test-design.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/trial-reels-creator-concept-test-design.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/reels-brand-education-content-assignment/#answer"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2024/12/trial-reels-try-content-non-followers-first-see-what-perfoms-best/",
+        "https://about.fb.com/news/2025/06/inspiring-creativity-that-brings-people-together/",
+        "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "trial-reels-creator-concept-test-design",
+      "locale": "en",
+      "route": "/blog/trial-reels-creator-concept-test-design/",
+      "h1": "Trial Reels: Design a Creator Concept Test",
+      "title": "Trial Reels: Design a Creator Concept Test | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/trial-reels-creator-concept-test-design/",
+      "description": "Use Trial Reels for a scoped creator concept test: check access, visibility, sharing settings, comparison conditions and honest interpretation of available metrics.",
+      "cover": "/assets/blog/trial-reels-creator-concept-test-design.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/trial-reels-creator-concept-test-design.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/reels-brand-education-content-assignment/#answer",
+        "/blog/creator-outreach-follow-up/#interactive-tool",
+        "/blog/detect-suspicious-creator-growth/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2024/12/trial-reels-try-content-non-followers-first-see-what-perfoms-best/",
+        "https://about.fb.com/news/2025/06/inspiring-creativity-that-brings-people-together/",
+        "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "schedule-instagram-post-review-cutoff",
+      "locale": "zh",
+      "route": "/zh/blog/schedule-instagram-post-review-cutoff/",
+      "h1": "Instagram 合作帖怎样设置最终审核截止",
+      "title": "Instagram 合作帖怎样设置最终审核截止 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/schedule-instagram-post-review-cutoff/",
+      "description": "How to schedule a post on Instagram：为达人合作帖明确审核截止、版本、时区、排程责任与迟到变更，不把预约成功当上线验收。",
+      "cover": "/assets/blog/schedule-instagram-post-review-cutoff.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/schedule-instagram-post-review-cutoff.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/influencer-content-licensing-paid-media-schedule/#answer",
+        "/zh/blog/detect-suspicious-creator-growth/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2023/11/new-ways-to-create-content-on-instagram/",
+        "https://www.copyright.gov/help/faq/faq-fairuse.html",
+        "https://about.fb.com/news/2021/07/keeping-instagram-safe-and-secure/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "schedule-instagram-post-review-cutoff",
+      "locale": "en",
+      "route": "/blog/schedule-instagram-post-review-cutoff/",
+      "h1": "How to Schedule an Instagram Post With a Review Cutoff",
+      "title": "How to Schedule an Instagram Post With a Review Cutoff | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/schedule-instagram-post-review-cutoff/",
+      "description": "Learn how to schedule a post on Instagram with a creator review cutoff, approved version, time zone, scheduling owner and a clear path for late changes.",
+      "cover": "/assets/blog/schedule-instagram-post-review-cutoff.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/schedule-instagram-post-review-cutoff.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/influencer-content-licensing-paid-media-schedule/#answer"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2023/11/new-ways-to-create-content-on-instagram/",
+        "https://www.copyright.gov/help/faq/faq-fairuse.html",
+        "https://about.fb.com/news/2021/07/keeping-instagram-safe-and-secure/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "tiktok-bio-link-creator-destination-readiness",
+      "locale": "zh",
+      "route": "/zh/blog/tiktok-bio-link-creator-destination-readiness/",
+      "h1": "TikTok 简介链接怎样承接达人合作流量",
+      "title": "TikTok 简介链接怎样承接达人合作流量 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/tiktok-bio-link-creator-destination-readiness/",
+      "description": "How to add link to TikTok bio：确认账号资格与可用入口，准备符合达人作品承诺的目的地，测试手机访问并保留测量边界。",
+      "cover": "/assets/blog/tiktok-bio-link-creator-destination-readiness.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/tiktok-bio-link-creator-destination-readiness.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/link-in-bio-destination-attribution/#answer"
+      ],
+      "bodyCitations": [
+        "https://ads.tiktok.com/resources/help/article/about-business-registration?lang=en-GB",
+        "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service?invalid_lang=ms",
+        "https://support.google.com/analytics/answer/10917952?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "tiktok-bio-link-creator-destination-readiness",
+      "locale": "en",
+      "route": "/blog/tiktok-bio-link-creator-destination-readiness/",
+      "h1": "Add a TikTok Bio Link for a Creator Partnership",
+      "title": "Add a TikTok Bio Link for a Creator Partnership | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/tiktok-bio-link-creator-destination-readiness/",
+      "description": "Plan how to add link to TikTok bio for a creator partnership: account access, a matching destination, mobile checks and honest measurement boundaries.",
+      "cover": "/assets/blog/tiktok-bio-link-creator-destination-readiness.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/tiktok-bio-link-creator-destination-readiness.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/creator-landing-page-conversion/#interactive-tool",
+        "/blog/link-in-bio-destination-attribution/#answer"
+      ],
+      "bodyCitations": [
+        "https://ads.tiktok.com/resources/help/article/about-business-registration?lang=en-GB",
+        "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service?invalid_lang=ms",
+        "https://support.google.com/analytics/answer/10917952?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "high-instagram-followers-low-campaign-fit",
+      "locale": "zh",
+      "route": "/zh/blog/high-instagram-followers-low-campaign-fit/",
+      "h1": "Instagram 粉丝很多，为什么仍可能不适合本次合作",
+      "title": "Instagram 粉丝很多，为什么仍可能不适合本次合作 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/high-instagram-followers-low-campaign-fit/",
+      "description": "Instagram followers high 不代表所有合作都合适：分别核对观众任务、作品能力、地域、制作与承接条件，不从规模推断真假。",
+      "cover": "/assets/blog/high-instagram-followers-low-campaign-fit.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/high-instagram-followers-low-campaign-fit.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/influencer-discovery-tool-brief-to-candidates/#answer",
+        "/zh/blog/creator-rates-usage-rights/#interactive-tool",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/",
+        "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+        "https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "high-instagram-followers-low-campaign-fit",
+      "locale": "en",
+      "route": "/blog/high-instagram-followers-low-campaign-fit/",
+      "h1": "High Instagram Followers: Check the Task Fit",
+      "title": "High Instagram Followers: Check the Task Fit | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/high-instagram-followers-low-campaign-fit/",
+      "description": "Instagram followers high does not settle partnership fit. Review audience task, work, geography, production and receiving capacity without inferring authenticity from scale.",
+      "cover": "/assets/blog/high-instagram-followers-low-campaign-fit.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/high-instagram-followers-low-campaign-fit.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/influencer-discovery-tool-brief-to-candidates/#answer",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/audit-creator-audience-quality/#evidence-table",
+        "/blog/personalized-creator-outreach/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/",
+        "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+        "https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "social-blade-accuracy-measurement-reconciliation",
+      "locale": "zh",
+      "route": "/zh/blog/social-blade-accuracy-measurement-reconciliation/",
+      "h1": "Social Blade 准确吗？先核对哪种数字",
+      "title": "Social Blade 准确吗？先核对哪种数字 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/social-blade-accuracy-measurement-reconciliation/",
+      "description": "How accurate is Social Balde：核对账号、字段、时点、舍入与估算假设，判断差异能否用于达人采购，不把估算当真实收入。",
+      "cover": "/assets/blog/social-blade-accuracy-measurement-reconciliation.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/social-blade-accuracy-measurement-reconciliation.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/zh/blog/social-media-metrics-creator-decision-tree/#answer"
+      ],
+      "bodyCitations": [
+        "https://developers.google.com/youtube/v3/docs/channels?hl=en",
+        "https://socialblade.com/help/how-often-does-socialblade-update-my-stats",
+        "https://socialblade.com/help/how-are-estimated-earnings-calculated"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "social-blade-accuracy-measurement-reconciliation",
+      "locale": "en",
+      "route": "/blog/social-blade-accuracy-measurement-reconciliation/",
+      "h1": "How Accurate Is Social Blade? Check the Measurement",
+      "title": "How Accurate Is Social Blade? Check the Measurement | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/social-blade-accuracy-measurement-reconciliation/",
+      "description": "Answer how accurate is Social Balde by checking identity, field, timing, rounding and estimate assumptions before using a difference in creator procurement.",
+      "cover": "/assets/blog/social-blade-accuracy-measurement-reconciliation.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/social-blade-accuracy-measurement-reconciliation.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/social-media-metrics-creator-decision-tree/#answer"
+      ],
+      "bodyCitations": [
+        "https://developers.google.com/youtube/v3/docs/channels?hl=en",
+        "https://socialblade.com/help/how-often-does-socialblade-update-my-stats",
+        "https://socialblade.com/help/how-are-estimated-earnings-calculated"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "famous-tiktokers-brief-specific-shortlist",
+      "locale": "zh",
+      "route": "/zh/blog/famous-tiktokers-brief-specific-shortlist/",
+      "h1": "知名 TikTok 创作者怎样进入品牌合作名单",
+      "title": "知名 TikTok 创作者怎样进入品牌合作名单 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/famous-tiktokers-brief-specific-shortlist/",
+      "description": "研究 Famous TikTokers 时，区分历史知名度、实际作品、当前联系与商业条件；以公开人物例子说明品牌怎样准备合适邀请。",
+      "cover": "/assets/blog/famous-tiktokers-brief-specific-shortlist.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/famous-tiktokers-brief-specific-shortlist.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/personalized-creator-outreach/#interactive-tool",
+        "/zh/blog/influencer-discovery-tool-brief-to-candidates/#answer",
+        "/zh/blog/price-creator-exclusivity/#interactive-tool",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://newsroom.tiktok.com/congratulations-khaby-lame-for-100-m-followers-bringing-joy-to-our-global-community?lang=en",
+        "https://newsroom.tiktok.com/introducing-the-winners-of-the-tiktok-awards-us-2025-new-era-new-icons?lang=en&stream=top",
+        "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service?invalid_lang=ms"
+      ],
+      "sourceCount": 3,
+      "tableRows": 3,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "famous-tiktokers-brief-specific-shortlist",
+      "locale": "en",
+      "route": "/blog/famous-tiktokers-brief-specific-shortlist/",
+      "h1": "Famous TikTokers: Research the Role Before Outreach",
+      "title": "Famous TikTokers: Research the Role Before Outreach | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/famous-tiktokers-brief-specific-shortlist/",
+      "description": "Research famous TikTokers through dated public profiles, actual work, representation and commercial scope before preparing a suitable brand invitation.",
+      "cover": "/assets/blog/famous-tiktokers-brief-specific-shortlist.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/famous-tiktokers-brief-specific-shortlist.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/ai-creator-research-prompts/#interactive-tool",
+        "/blog/personalized-creator-outreach/#interactive-tool",
+        "/blog/influencer-discovery-tool-brief-to-candidates/#answer",
+        "/blog/price-creator-exclusivity/#interactive-tool",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/creator-product-claims-review/#evidence-table",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://newsroom.tiktok.com/congratulations-khaby-lame-for-100-m-followers-bringing-joy-to-our-global-community?lang=en",
+        "https://newsroom.tiktok.com/introducing-the-winners-of-the-tiktok-awards-us-2025-new-era-new-icons?lang=en&stream=top",
+        "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service?invalid_lang=ms"
+      ],
+      "sourceCount": 3,
+      "tableRows": 3,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "male-creator-brand-partnership-portfolio",
+      "locale": "zh",
+      "route": "/zh/blog/male-creator-brand-partnership-portfolio/",
+      "h1": "男性创作者怎样建立品牌可评估的合作作品集",
+      "title": "男性创作者怎样建立品牌可评估的合作作品集 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/male-creator-brand-partnership-portfolio/",
+      "description": "How to become an influencer men：建立与品牌任务相关的作品集，说明原创角色、样片状态、披露与使用范围，不承诺收入或涨粉。",
+      "cover": "/assets/blog/male-creator-brand-partnership-portfolio.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/male-creator-brand-partnership-portfolio.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/creator-rates-usage-rights/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://www.copyright.gov/help/faq/faq-fairuse.html",
+        "https://support.google.com/youtube/answer/17596007?hl=en",
+        "https://www.ftc.gov/system/files/documents/plain-language/1001a-influencer-guide-508_1.pdf"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "male-creator-brand-partnership-portfolio",
+      "locale": "en",
+      "route": "/blog/male-creator-brand-partnership-portfolio/",
+      "h1": "Build a Male Creator Portfolio Brands Can Evaluate",
+      "title": "Build a Male Creator Portfolio Brands Can Evaluate | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/male-creator-brand-partnership-portfolio/",
+      "description": "For men learning how to become an influencer, build a brand-ready portfolio with genuine work, clear roles, sample labels, disclosure and usage boundaries.",
+      "cover": "/assets/blog/male-creator-brand-partnership-portfolio.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/male-creator-brand-partnership-portfolio.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://www.copyright.gov/help/faq/faq-fairuse.html",
+        "https://support.google.com/youtube/answer/17596007?hl=en",
+        "https://www.ftc.gov/system/files/documents/plain-language/1001a-influencer-guide-508_1.pdf"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "fake-takipci-cross-language-evidence-literacy",
+      "locale": "zh",
+      "route": "/zh/blog/fake-takipci-cross-language-evidence-literacy/",
+      "h1": "Fake Takipçi 是什么？品牌怎样跨语言复核假粉说法",
+      "title": "Fake Takipçi 是什么？品牌怎样跨语言复核假粉说法 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/fake-takipci-cross-language-evidence-literacy/",
+      "description": "Fake takipçi 教育指南：理解词语与上下文，核对异常增长和互动来源，保护账号权限，不凭单一数字指控创作者或承诺百分百检测。",
+      "cover": "/assets/blog/fake-takipci-cross-language-evidence-literacy.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/fake-takipci-cross-language-evidence-literacy.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/detect-suspicious-creator-growth/#evidence-table",
+        "/zh/blog/social-blade-accuracy-measurement-reconciliation/#answer",
+        "/zh/blog/social-media-metrics-creator-decision-tree/#answer"
+      ],
+      "bodyCitations": [
+        "https://dictionary.cambridge.org/dictionary/english-turkish/follower",
+        "https://about.fb.com/news/2020/10/taking-action-against-fake-engagement-and-ad-scams/",
+        "https://about.fb.com/news/2022/07/how-meta-safeguards-people-against-clone-sites/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "fake-takipci-cross-language-evidence-literacy",
+      "locale": "en",
+      "route": "/blog/fake-takipci-cross-language-evidence-literacy/",
+      "h1": "Fake Takipçi: Review Follower Claims Across Languages",
+      "title": "Fake Takipçi: Review Follower Claims Across Languages | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/fake-takipci-cross-language-evidence-literacy/",
+      "description": "An educational fake takipçi guide: preserve language and context, review growth claims and sources, protect access and distinguish signals from established facts.",
+      "cover": "/assets/blog/fake-takipci-cross-language-evidence-literacy.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/fake-takipci-cross-language-evidence-literacy.jpg",
+      "bodyInternalLinks": [
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/detect-suspicious-creator-growth/#evidence-table",
+        "/blog/social-blade-accuracy-measurement-reconciliation/#answer",
+        "/blog/social-media-metrics-creator-decision-tree/#answer",
+        "/blog/ai-creator-research-prompts/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://dictionary.cambridge.org/dictionary/english-turkish/follower",
+        "https://about.fb.com/news/2020/10/taking-action-against-fake-engagement-and-ad-scams/",
+        "https://about.fb.com/news/2022/07/how-meta-safeguards-people-against-clone-sites/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "female-fitness-model-production-rights-brief",
+      "locale": "zh",
+      "route": "/zh/blog/female-fitness-model-production-rights-brief/",
+      "h1": "与女性健身模特合作，怎样界定拍摄与发布",
+      "title": "与女性健身模特合作，怎样界定拍摄与发布 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/female-fitness-model-production-rights-brief/",
+      "description": "Female fitness model 品牌合作指南：明确模特与创作者角色、拍摄条件、健康主张、个人同意与使用范围，不按身材评估专业资格。",
+      "cover": "/assets/blog/female-fitness-model-production-rights-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/female-fitness-model-production-rights-brief.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/creator-rates-usage-rights/#answer"
+      ],
+      "bodyCitations": [
+        "https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance",
+        "https://www.copyright.gov/help/faq/faq-fairuse.html",
+        "https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "female-fitness-model-production-rights-brief",
+      "locale": "en",
+      "route": "/blog/female-fitness-model-production-rights-brief/",
+      "h1": "Female Fitness Model: Scope Production and Publication",
+      "title": "Female Fitness Model: Scope Production and Publication | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/female-fitness-model-production-rights-brief/",
+      "description": "Scope a female fitness model partnership through role, production conditions, claim review, consent and usage, without inferring credentials from appearance.",
+      "cover": "/assets/blog/female-fitness-model-production-rights-brief.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/female-fitness-model-production-rights-brief.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/creator-rates-usage-rights/#answer",
+        "/blog/creator-product-claims-review/#evidence-table"
+      ],
+      "bodyCitations": [
+        "https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance",
+        "https://www.copyright.gov/help/faq/faq-fairuse.html",
+        "https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "popular-youtuber-identity-program-verification",
+      "locale": "zh",
+      "route": "/zh/blog/popular-youtuber-identity-program-verification/",
+      "h1": "寻找热门 YouTuber 时怎样确认实际合作对象",
+      "title": "寻找热门 YouTuber 时怎样确认实际合作对象 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/popular-youtuber-identity-program-verification/",
+      "description": "Popularist YouTuber 品牌研究指南：核对频道标识、出镜角色、节目来源和公开代表，再确认新作或素材使用的正确联系对象。",
+      "cover": "/assets/blog/popular-youtuber-identity-program-verification.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/popular-youtuber-identity-program-verification.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/price-creator-exclusivity/#interactive-tool",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/zh/blog/influencer-discovery-tool-brief-to-candidates/#answer"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/youtube/answer/3250431?hl=en",
+        "https://support.google.com/youtube/answer/9481328?hl=en",
+        "https://support.google.com/youtube/answer/2801947?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "popular-youtuber-identity-program-verification",
+      "locale": "en",
+      "route": "/blog/popular-youtuber-identity-program-verification/",
+      "h1": "Popular YouTubers: Verify the Person and Program",
+      "title": "Popular YouTubers: Verify the Person and Program | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/popular-youtuber-identity-program-verification/",
+      "description": "Research a popularist YouTuber query through channel identity, on-camera role, program provenance and public representation before defining the partnership request.",
+      "cover": "/assets/blog/popular-youtuber-identity-program-verification.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/popular-youtuber-identity-program-verification.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/price-creator-exclusivity/#interactive-tool",
+        "/blog/influencer-discovery-tool-brief-to-candidates/#answer"
+      ],
+      "bodyCitations": [
+        "https://support.google.com/youtube/answer/3250431?hl=en",
+        "https://support.google.com/youtube/answer/9481328?hl=en",
+        "https://support.google.com/youtube/answer/2801947?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "biggest-youtube-channels-purchase-unit",
+      "locale": "zh",
+      "route": "/zh/blog/biggest-youtube-channels-purchase-unit/",
+      "h1": "最大 YouTube 频道，品牌究竟能购买什么",
+      "title": "最大 YouTube 频道，品牌究竟能购买什么 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/biggest-youtube-channels-purchase-unit/",
+      "description": "Biggest YouTube Channels 品牌采购指南：区分频道规模、可购买内容单元、人员参与、发布条件与素材许可，避免把总量当保证。",
+      "cover": "/assets/blog/biggest-youtube-channels-purchase-unit.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/biggest-youtube-channels-purchase-unit.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/influencer-content-licensing-paid-media-schedule/#answer",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://developers.google.com/youtube/v3/docs/channels?hl=en",
+        "https://support.google.com/youtube/answer/9481328?hl=en",
+        "https://support.google.com/youtube/answer/17596007?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "biggest-youtube-channels-purchase-unit",
+      "locale": "en",
+      "route": "/blog/biggest-youtube-channels-purchase-unit/",
+      "h1": "Biggest YouTube Channels: Define What You Can Buy",
+      "title": "Biggest YouTube Channels: Define What You Can Buy | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/biggest-youtube-channels-purchase-unit/",
+      "description": "Research the biggest YouTube channels by defining the purchasable content unit, participation, publication and licensing rather than treating scale as a guarantee.",
+      "cover": "/assets/blog/biggest-youtube-channels-purchase-unit.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/biggest-youtube-channels-purchase-unit.jpg",
+      "bodyInternalLinks": [
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/influencer-content-licensing-paid-media-schedule/#answer"
+      ],
+      "bodyCitations": [
+        "https://developers.google.com/youtube/v3/docs/channels?hl=en",
+        "https://support.google.com/youtube/answer/9481328?hl=en",
+        "https://support.google.com/youtube/answer/17596007?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "youtube-algorithm-sponsored-audience-satisfaction",
+      "locale": "zh",
+      "route": "/zh/blog/youtube-algorithm-sponsored-audience-satisfaction/",
+      "h1": "YouTube 算法与赞助内容，怎样检查观众体验",
+      "title": "YouTube 算法与赞助内容，怎样检查观众体验 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/youtube-algorithm-sponsored-audience-satisfaction/",
+      "description": "YouTube algorithm 与达人赞助内容：核对标题承诺、内容整合、留存观察和比较条件，不凭一次下降断言算法惩罚或赞助导致。",
+      "cover": "/assets/blog/youtube-algorithm-sponsored-audience-satisfaction.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/youtube-algorithm-sponsored-audience-satisfaction.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/social-media-metrics-creator-decision-tree/#answer"
+      ],
+      "bodyCitations": [
+        "https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/",
+        "https://support.google.com/youtube/answer/17596007?hl=en",
+        "https://support.google.com/youtube/answer/9314415?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "youtube-algorithm-sponsored-audience-satisfaction",
+      "locale": "en",
+      "route": "/blog/youtube-algorithm-sponsored-audience-satisfaction/",
+      "h1": "YouTube Algorithm: Review the Sponsored Viewing Experience",
+      "title": "YouTube Algorithm: Review the Sponsored Viewing Experience | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/youtube-algorithm-sponsored-audience-satisfaction/",
+      "description": "Review the YouTube algorithm in sponsored creator work through viewer expectations, integration, retention evidence and comparison limits, without causal guarantees.",
+      "cover": "/assets/blog/youtube-algorithm-sponsored-audience-satisfaction.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/youtube-algorithm-sponsored-audience-satisfaction.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/social-media-metrics-creator-decision-tree/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/",
+        "https://support.google.com/youtube/answer/17596007?hl=en",
+        "https://support.google.com/youtube/answer/9314415?hl=en"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "bsky-app-collaborator-research-session",
+      "locale": "zh",
+      "route": "/zh/blog/bsky-app-collaborator-research-session/",
+      "h1": "用 bsky App 怎样组织一次创作者研究",
+      "title": "用 bsky App 怎样组织一次创作者研究 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/bsky-app-collaborator-research-session/",
+      "description": "Bsky app 品牌研究方法：定义观众问题、记录查询与作品、核对账号来源，按实际证据交接达人候选，不编造平台覆盖能力。",
+      "cover": "/assets/blog/bsky-app-collaborator-research-session.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/bsky-app-collaborator-research-session.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/influencer-discovery-tool-brief-to-candidates/#answer",
+        "/zh/blog/creator-rates-usage-rights/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial",
+        "https://bsky.social/about/blog/05-31-2024-search",
+        "https://bsky.social/about/blog/04-21-2025-verification"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "bsky-app-collaborator-research-session",
+      "locale": "en",
+      "route": "/blog/bsky-app-collaborator-research-session/",
+      "h1": "Bsky App: Run a Focused Creator Research Session",
+      "title": "Bsky App: Run a Focused Creator Research Session | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/bsky-app-collaborator-research-session/",
+      "description": "Use the bsky app for a scoped creator research session with clear questions, traceable queries, relevant work and account checks before shortlist handoff.",
+      "cover": "/assets/blog/bsky-app-collaborator-research-session.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/bsky-app-collaborator-research-session.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/creator-content-approval-workflow/#evidence-table",
+        "/blog/influencer-discovery-tool-brief-to-candidates/#answer"
+      ],
+      "bodyCitations": [
+        "https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial",
+        "https://bsky.social/about/blog/05-31-2024-search",
+        "https://bsky.social/about/blog/04-21-2025-verification"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "bluesku-brand-source-disambiguation",
+      "locale": "zh",
+      "route": "/zh/blog/bluesku-brand-source-disambiguation/",
+      "h1": "搜索 Bluesku 时，怎样确认创作者资料来源",
+      "title": "搜索 Bluesku 时，怎样确认创作者资料来源 | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/bluesku-brand-source-disambiguation/",
+      "description": "Bluesku 品牌来源核对：先确认语境与官方入口，再核对创作者作品、域名或验证线索及代表关系，不靠近似名称授权。",
+      "cover": "/assets/blog/bluesku-brand-source-disambiguation.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/bluesku-brand-source-disambiguation.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/zh/blog/bsky-app-collaborator-research-session/#answer",
+        "/zh/blog/influencer-campaign-budget-planning/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial",
+        "https://bsky.social/about/blog/04-21-2025-verification",
+        "https://bsky.social/about/blog/05-31-2024-search"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "bluesku-brand-source-disambiguation",
+      "locale": "en",
+      "route": "/blog/bluesku-brand-source-disambiguation/",
+      "h1": "Bluesku Search: Confirm the Creator Source",
+      "title": "Bluesku Search: Confirm the Creator Source | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/bluesku-brand-source-disambiguation/",
+      "description": "Resolve a Bluesku query in creator research through context, official entry, original work, domain or verification leads and the actual business representative.",
+      "cover": "/assets/blog/bluesku-brand-source-disambiguation.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/bluesku-brand-source-disambiguation.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/evaluate-creator-rate-cards/#interactive-tool",
+        "/blog/bsky-app-collaborator-research-session/#answer",
+        "/blog/influencer-campaign-budget-planning/#interactive-tool",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/ai-creator-research-prompts/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial",
+        "https://bsky.social/about/blog/04-21-2025-verification",
+        "https://bsky.social/about/blog/05-31-2024-search"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "creator-newsfeed-editorial-evidence-selection",
+      "locale": "zh",
+      "route": "/zh/blog/creator-newsfeed-editorial-evidence-selection/",
+      "h1": "信息流里的创作者内容，品牌怎样选进 Brief",
+      "title": "信息流里的创作者内容，品牌怎样选进 Brief | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/zh/blog/creator-newsfeed-editorial-evidence-selection/",
+      "description": "Newsfeed 怎样帮助达人营销研究：保留原作与发现上下文，区分个人信息流和市场证据，把观察变成创作者任务，不复制主张。",
+      "cover": "/assets/blog/creator-newsfeed-editorial-evidence-selection.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/creator-newsfeed-editorial-evidence-selection.jpg",
+      "bodyInternalLinks": [
+        "/zh/blog/write-a-useful-campaign-brief/#answer",
+        "/zh/blog/creator-rates-usage-rights/#interactive-tool",
+        "/zh/blog/influencer-discovery-tool-brief-to-candidates/#answer",
+        "/zh/blog/personalized-creator-outreach/#interactive-tool",
+        "/zh/blog/write-a-useful-campaign-brief/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
+        "https://bsky.social/about/blog/7-27-2023-custom-feeds",
+        "https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    },
+    {
+      "slug": "creator-newsfeed-editorial-evidence-selection",
+      "locale": "en",
+      "route": "/blog/creator-newsfeed-editorial-evidence-selection/",
+      "h1": "Newsfeed: Turn Creator Posts Into a Useful Brief",
+      "title": "Newsfeed: Turn Creator Posts Into a Useful Brief | QuickKOL Blog",
+      "canonical": "https://www.quickkol.com/blog/creator-newsfeed-editorial-evidence-selection/",
+      "description": "Use a newsfeed for creator research by preserving provenance, limiting market claims and turning observations into an original partnership brief.",
+      "cover": "/assets/blog/creator-newsfeed-editorial-evidence-selection.jpg",
+      "ogImage": "https://www.quickkol.com/assets/blog/creator-newsfeed-editorial-evidence-selection.jpg",
+      "bodyInternalLinks": [
+        "/blog/write-a-useful-campaign-brief/#answer",
+        "/blog/creator-rates-usage-rights/#interactive-tool",
+        "/blog/influencer-discovery-tool-brief-to-candidates/#answer",
+        "/blog/write-a-useful-campaign-brief/#interactive-tool",
+        "/blog/personalized-creator-outreach/#interactive-tool"
+      ],
+      "bodyCitations": [
+        "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
+        "https://bsky.social/about/blog/7-27-2023-custom-feeds",
+        "https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/"
+      ],
+      "sourceCount": 3,
+      "tableRows": 4,
+      "checklistItems": 5,
+      "failures": []
+    }
+  ]
+}

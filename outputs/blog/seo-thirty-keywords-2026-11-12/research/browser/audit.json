@@ -1,0 +1,1426 @@
+{
+  "checkedAt": "2026-11-12",
+  "pages": 72,
+  "passed": true,
+  "errors": [],
+  "screenshots": [
+    "research/browser/zh-list-1-390.jpg",
+    "research/browser/zh-list-1-1440.jpg",
+    "research/browser/zh-list-2-390.jpg",
+    "research/browser/zh-list-2-1440.jpg",
+    "research/browser/zh-list-3-390.jpg",
+    "research/browser/zh-list-3-1440.jpg",
+    "research/browser/zh-2-mobile-top.jpg",
+    "research/browser/zh-2-mobile-figure.jpg",
+    "research/browser/zh-2-mobile-table.jpg",
+    "research/browser/zh-2-desktop-top.jpg",
+    "research/browser/zh-6-mobile-top.jpg",
+    "research/browser/zh-6-mobile-table.jpg",
+    "research/browser/zh-6-desktop-top.jpg",
+    "research/browser/zh-8-mobile-top.jpg",
+    "research/browser/zh-8-mobile-table.jpg",
+    "research/browser/zh-8-desktop-top.jpg",
+    "research/browser/zh-12-mobile-top.jpg",
+    "research/browser/zh-12-mobile-figure.jpg",
+    "research/browser/zh-12-mobile-table.jpg",
+    "research/browser/zh-12-desktop-top.jpg",
+    "research/browser/zh-23-mobile-top.jpg",
+    "research/browser/zh-23-mobile-table.jpg",
+    "research/browser/zh-23-desktop-top.jpg",
+    "research/browser/zh-24-mobile-top.jpg",
+    "research/browser/zh-24-mobile-figure.jpg",
+    "research/browser/zh-24-mobile-table.jpg",
+    "research/browser/zh-24-desktop-top.jpg",
+    "research/browser/zh-27-mobile-top.jpg",
+    "research/browser/zh-27-mobile-table.jpg",
+    "research/browser/zh-27-desktop-top.jpg",
+    "research/browser/zh-30-mobile-top.jpg",
+    "research/browser/zh-30-mobile-table.jpg",
+    "research/browser/zh-30-desktop-top.jpg",
+    "research/browser/en-list-1-390.jpg",
+    "research/browser/en-list-1-1440.jpg",
+    "research/browser/en-list-2-390.jpg",
+    "research/browser/en-list-2-1440.jpg",
+    "research/browser/en-list-3-390.jpg",
+    "research/browser/en-list-3-1440.jpg",
+    "research/browser/en-2-mobile-top.jpg",
+    "research/browser/en-2-mobile-figure.jpg",
+    "research/browser/en-2-mobile-table.jpg",
+    "research/browser/en-2-desktop-top.jpg",
+    "research/browser/en-6-mobile-top.jpg",
+    "research/browser/en-6-mobile-table.jpg",
+    "research/browser/en-6-desktop-top.jpg",
+    "research/browser/en-8-mobile-top.jpg",
+    "research/browser/en-8-mobile-table.jpg",
+    "research/browser/en-8-desktop-top.jpg",
+    "research/browser/en-12-mobile-top.jpg",
+    "research/browser/en-12-mobile-figure.jpg",
+    "research/browser/en-12-mobile-table.jpg",
+    "research/browser/en-12-desktop-top.jpg",
+    "research/browser/en-23-mobile-top.jpg",
+    "research/browser/en-23-mobile-table.jpg",
+    "research/browser/en-23-desktop-top.jpg",
+    "research/browser/en-24-mobile-top.jpg",
+    "research/browser/en-24-mobile-figure.jpg",
+    "research/browser/en-24-mobile-table.jpg",
+    "research/browser/en-24-desktop-top.jpg",
+    "research/browser/en-27-mobile-top.jpg",
+    "research/browser/en-27-mobile-table.jpg",
+    "research/browser/en-27-desktop-top.jpg",
+    "research/browser/en-30-mobile-top.jpg",
+    "research/browser/en-30-mobile-table.jpg",
+    "research/browser/en-30-desktop-top.jpg"
+  ],
+  "records": [
+    {
+      "route": "/zh/blog/",
+      "kind": "list",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "QUICKKOL 博客。",
+      "cards": [
+        "/zh/blog/creator-engagement-response-routing/",
+        "/zh/blog/create-youtube-channel-collaboration-launch-check/",
+        "/zh/blog/social-media-manager-salary-creator-operations/",
+        "/zh/blog/creator-rewards-sponsored-video-eligibility/",
+        "/zh/blog/creator-networking-strategy-peer-conversations/",
+        "/zh/blog/free-instagram-followers-hidden-campaign-costs/",
+        "/zh/blog/insta-followers-retention-content-promise/",
+        "/zh/blog/free-insta-followers-pitch-evidence-response/",
+        "/zh/blog/instagram-follower-cohort-project-boundaries/",
+        "/zh/blog/facebook-ad-library-creator-creative-research/",
+        "/zh/blog/creatoriq-pricing-commercial-scope-questions/",
+        "/zh/blog/paid-media-agency-creator-asset-responsibility/"
+      ],
+      "publicAINotice": false,
+      "table": [],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/",
+      "kind": "list",
+      "width": 1440,
+      "scrollWidth": 1441,
+      "h1": "QUICKKOL 博客。",
+      "cards": [
+        "/zh/blog/creator-engagement-response-routing/",
+        "/zh/blog/create-youtube-channel-collaboration-launch-check/",
+        "/zh/blog/social-media-manager-salary-creator-operations/",
+        "/zh/blog/creator-rewards-sponsored-video-eligibility/",
+        "/zh/blog/creator-networking-strategy-peer-conversations/",
+        "/zh/blog/free-instagram-followers-hidden-campaign-costs/",
+        "/zh/blog/insta-followers-retention-content-promise/",
+        "/zh/blog/free-insta-followers-pitch-evidence-response/",
+        "/zh/blog/instagram-follower-cohort-project-boundaries/",
+        "/zh/blog/facebook-ad-library-creator-creative-research/",
+        "/zh/blog/creatoriq-pricing-commercial-scope-questions/",
+        "/zh/blog/paid-media-agency-creator-asset-responsibility/"
+      ],
+      "publicAINotice": false,
+      "table": [],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/page/2/",
+      "kind": "list",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "QUICKKOL 博客。",
+      "cards": [
+        "/zh/blog/reels-follower-growth-2025-practices-review/",
+        "/zh/blog/instagram-search-creator-topic-brief/",
+        "/zh/blog/tiktok-trends-today-creator-relevance-check/",
+        "/zh/blog/trial-reels-creator-concept-test-design/",
+        "/zh/blog/schedule-instagram-post-review-cutoff/",
+        "/zh/blog/tiktok-bio-link-creator-destination-readiness/",
+        "/zh/blog/high-instagram-followers-low-campaign-fit/",
+        "/zh/blog/social-blade-accuracy-measurement-reconciliation/",
+        "/zh/blog/famous-tiktokers-brief-specific-shortlist/",
+        "/zh/blog/male-creator-brand-partnership-portfolio/",
+        "/zh/blog/fake-takipci-cross-language-evidence-literacy/",
+        "/zh/blog/female-fitness-model-production-rights-brief/"
+      ],
+      "publicAINotice": false,
+      "table": [],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/page/2/",
+      "kind": "list",
+      "width": 1440,
+      "scrollWidth": 1441,
+      "h1": "QUICKKOL 博客。",
+      "cards": [
+        "/zh/blog/reels-follower-growth-2025-practices-review/",
+        "/zh/blog/instagram-search-creator-topic-brief/",
+        "/zh/blog/tiktok-trends-today-creator-relevance-check/",
+        "/zh/blog/trial-reels-creator-concept-test-design/",
+        "/zh/blog/schedule-instagram-post-review-cutoff/",
+        "/zh/blog/tiktok-bio-link-creator-destination-readiness/",
+        "/zh/blog/high-instagram-followers-low-campaign-fit/",
+        "/zh/blog/social-blade-accuracy-measurement-reconciliation/",
+        "/zh/blog/famous-tiktokers-brief-specific-shortlist/",
+        "/zh/blog/male-creator-brand-partnership-portfolio/",
+        "/zh/blog/fake-takipci-cross-language-evidence-literacy/",
+        "/zh/blog/female-fitness-model-production-rights-brief/"
+      ],
+      "publicAINotice": false,
+      "table": [],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/page/3/",
+      "kind": "list",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "QUICKKOL 博客。",
+      "cards": [
+        "/zh/blog/popular-youtuber-identity-program-verification/",
+        "/zh/blog/biggest-youtube-channels-purchase-unit/",
+        "/zh/blog/youtube-algorithm-sponsored-audience-satisfaction/",
+        "/zh/blog/bsky-app-collaborator-research-session/",
+        "/zh/blog/bluesku-brand-source-disambiguation/",
+        "/zh/blog/creator-newsfeed-editorial-evidence-selection/",
+        "/zh/blog/whatsapp-business-creator-conversation-handoff/",
+        "/zh/blog/google-business-profile-creator-location-proof/",
+        "/zh/blog/free-instagram-followers-website-preflight/",
+        "/zh/blog/free-followers-instagram-incentive-design/",
+        "/zh/blog/insta-follower-search-offer-identity-review/",
+        "/zh/blog/gaming-creator-demo-role-selection/"
+      ],
+      "publicAINotice": false,
+      "table": [],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/page/3/",
+      "kind": "list",
+      "width": 1440,
+      "scrollWidth": 1441,
+      "h1": "QUICKKOL 博客。",
+      "cards": [
+        "/zh/blog/popular-youtuber-identity-program-verification/",
+        "/zh/blog/biggest-youtube-channels-purchase-unit/",
+        "/zh/blog/youtube-algorithm-sponsored-audience-satisfaction/",
+        "/zh/blog/bsky-app-collaborator-research-session/",
+        "/zh/blog/bluesku-brand-source-disambiguation/",
+        "/zh/blog/creator-newsfeed-editorial-evidence-selection/",
+        "/zh/blog/whatsapp-business-creator-conversation-handoff/",
+        "/zh/blog/google-business-profile-creator-location-proof/",
+        "/zh/blog/free-instagram-followers-website-preflight/",
+        "/zh/blog/free-followers-instagram-incentive-design/",
+        "/zh/blog/insta-follower-search-offer-identity-review/",
+        "/zh/blog/gaming-creator-demo-role-selection/"
+      ],
+      "publicAINotice": false,
+      "table": [],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/creator-engagement-response-routing/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "社媒互动怎样变成达人合作的下一步",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/create-youtube-channel-collaboration-launch-check/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "与创作者合作开设 YouTube 频道前要确认什么",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": [
+        {
+          "src": "/assets/blog/youtube-channel-first-demo-camera-check.jpg",
+          "loading": "lazy",
+          "alt": "相机对准蓝色与珊瑚色马克杯，手部调整演示对象的位置",
+          "width": 350
+        }
+      ]
+    },
+    {
+      "route": "/zh/blog/social-media-manager-salary-creator-operations/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "达人项目要配怎样的社媒经理预算",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/creator-rewards-sponsored-video-eligibility/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "创作者奖励计划怎样影响一条赞助视频的安排",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/creator-networking-strategy-peer-conversations/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "社交网络策略怎样让创作者开启专业对话",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/free-instagram-followers-hidden-campaign-costs/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "免费 Instagram 粉丝承诺有哪些隐性成本",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/insta-followers-retention-content-promise/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Insta Followers 增长后怎样兑现内容承诺",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/free-insta-followers-pitch-evidence-response/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "收到免费 Insta Followers 提案怎样回复",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/instagram-follower-cohort-project-boundaries/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "品牌怎样定义一次合作中的 Instagram Follower",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/facebook-ad-library-creator-creative-research/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "怎样用 Facebook Ad Library 研究达人广告表达",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/creatoriq-pricing-commercial-scope-questions/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "CreatorIQ 报价怎样拆成可比较的采购范围",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/paid-media-agency-creator-asset-responsibility/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "付费媒体代理怎样接手达人素材",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": [
+        {
+          "src": "/assets/blog/creator-asset-variant-review.jpg",
+          "loading": "lazy",
+          "alt": "创作者用框角标示裁切范围，剪辑人员在旁检查显示与色卡",
+          "width": 350
+        }
+      ]
+    },
+    {
+      "route": "/zh/blog/reels-follower-growth-2025-practices-review/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "2025 年 Reels 涨粉建议，品牌现在该怎样使用",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/instagram-search-creator-topic-brief/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Instagram 搜索怎样帮助品牌找到相关创作者",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/tiktok-trends-today-creator-relevance-check/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "今天的 TikTok 趋势怎样判断是否值得合作",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/trial-reels-creator-concept-test-design/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Trial Reels 怎样用于达人创意小测试",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/schedule-instagram-post-review-cutoff/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Instagram 合作帖怎样设置最终审核截止",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/tiktok-bio-link-creator-destination-readiness/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "TikTok 简介链接怎样承接达人合作流量",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/high-instagram-followers-low-campaign-fit/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Instagram 粉丝很多，为什么仍可能不适合本次合作",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/social-blade-accuracy-measurement-reconciliation/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Social Blade 准确吗？先核对哪种数字",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/famous-tiktokers-brief-specific-shortlist/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "知名 TikTok 创作者怎样进入品牌合作名单",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/male-creator-brand-partnership-portfolio/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "男性创作者怎样建立品牌可评估的合作作品集",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/fake-takipci-cross-language-evidence-literacy/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Fake Takipçi 是什么？品牌怎样跨语言复核假粉说法",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/female-fitness-model-production-rights-brief/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "与女性健身模特合作，怎样界定拍摄与发布",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": [
+        {
+          "src": "/assets/blog/fitness-shoot-camera-floor-markers.jpg",
+          "loading": "lazy",
+          "alt": "相机三脚架对准垫子与地面标记，旁边放有服装与毛巾",
+          "width": 350
+        }
+      ]
+    },
+    {
+      "route": "/zh/blog/popular-youtuber-identity-program-verification/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "寻找热门 YouTuber 时怎样确认实际合作对象",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/biggest-youtube-channels-purchase-unit/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "最大 YouTube 频道，品牌究竟能购买什么",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/youtube-algorithm-sponsored-audience-satisfaction/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "YouTube 算法与赞助内容，怎样检查观众体验",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/bsky-app-collaborator-research-session/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "用 bsky App 怎样组织一次创作者研究",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/bluesku-brand-source-disambiguation/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "搜索 Bluesku 时，怎样确认创作者资料来源",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/zh/blog/creator-newsfeed-editorial-evidence-selection/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "信息流里的创作者内容，品牌怎样选进 Brief",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/",
+      "kind": "list",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "THE QUICKKOL BLOG.",
+      "cards": [
+        "/blog/creator-engagement-response-routing/",
+        "/blog/create-youtube-channel-collaboration-launch-check/",
+        "/blog/social-media-manager-salary-creator-operations/",
+        "/blog/creator-rewards-sponsored-video-eligibility/",
+        "/blog/creator-networking-strategy-peer-conversations/",
+        "/blog/free-instagram-followers-hidden-campaign-costs/",
+        "/blog/insta-followers-retention-content-promise/",
+        "/blog/free-insta-followers-pitch-evidence-response/",
+        "/blog/instagram-follower-cohort-project-boundaries/",
+        "/blog/facebook-ad-library-creator-creative-research/",
+        "/blog/creatoriq-pricing-commercial-scope-questions/",
+        "/blog/paid-media-agency-creator-asset-responsibility/"
+      ],
+      "publicAINotice": false,
+      "table": [],
+      "figures": []
+    },
+    {
+      "route": "/blog/",
+      "kind": "list",
+      "width": 1440,
+      "scrollWidth": 1441,
+      "h1": "THE QUICKKOL BLOG.",
+      "cards": [
+        "/blog/creator-engagement-response-routing/",
+        "/blog/create-youtube-channel-collaboration-launch-check/",
+        "/blog/social-media-manager-salary-creator-operations/",
+        "/blog/creator-rewards-sponsored-video-eligibility/",
+        "/blog/creator-networking-strategy-peer-conversations/",
+        "/blog/free-instagram-followers-hidden-campaign-costs/",
+        "/blog/insta-followers-retention-content-promise/",
+        "/blog/free-insta-followers-pitch-evidence-response/",
+        "/blog/instagram-follower-cohort-project-boundaries/",
+        "/blog/facebook-ad-library-creator-creative-research/",
+        "/blog/creatoriq-pricing-commercial-scope-questions/",
+        "/blog/paid-media-agency-creator-asset-responsibility/"
+      ],
+      "publicAINotice": false,
+      "table": [],
+      "figures": []
+    },
+    {
+      "route": "/blog/page/2/",
+      "kind": "list",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "THE QUICKKOL BLOG.",
+      "cards": [
+        "/blog/reels-follower-growth-2025-practices-review/",
+        "/blog/instagram-search-creator-topic-brief/",
+        "/blog/tiktok-trends-today-creator-relevance-check/",
+        "/blog/trial-reels-creator-concept-test-design/",
+        "/blog/schedule-instagram-post-review-cutoff/",
+        "/blog/tiktok-bio-link-creator-destination-readiness/",
+        "/blog/high-instagram-followers-low-campaign-fit/",
+        "/blog/social-blade-accuracy-measurement-reconciliation/",
+        "/blog/famous-tiktokers-brief-specific-shortlist/",
+        "/blog/male-creator-brand-partnership-portfolio/",
+        "/blog/fake-takipci-cross-language-evidence-literacy/",
+        "/blog/female-fitness-model-production-rights-brief/"
+      ],
+      "publicAINotice": false,
+      "table": [],
+      "figures": []
+    },
+    {
+      "route": "/blog/page/2/",
+      "kind": "list",
+      "width": 1440,
+      "scrollWidth": 1441,
+      "h1": "THE QUICKKOL BLOG.",
+      "cards": [
+        "/blog/reels-follower-growth-2025-practices-review/",
+        "/blog/instagram-search-creator-topic-brief/",
+        "/blog/tiktok-trends-today-creator-relevance-check/",
+        "/blog/trial-reels-creator-concept-test-design/",
+        "/blog/schedule-instagram-post-review-cutoff/",
+        "/blog/tiktok-bio-link-creator-destination-readiness/",
+        "/blog/high-instagram-followers-low-campaign-fit/",
+        "/blog/social-blade-accuracy-measurement-reconciliation/",
+        "/blog/famous-tiktokers-brief-specific-shortlist/",
+        "/blog/male-creator-brand-partnership-portfolio/",
+        "/blog/fake-takipci-cross-language-evidence-literacy/",
+        "/blog/female-fitness-model-production-rights-brief/"
+      ],
+      "publicAINotice": false,
+      "table": [],
+      "figures": []
+    },
+    {
+      "route": "/blog/page/3/",
+      "kind": "list",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "THE QUICKKOL BLOG.",
+      "cards": [
+        "/blog/popular-youtuber-identity-program-verification/",
+        "/blog/biggest-youtube-channels-purchase-unit/",
+        "/blog/youtube-algorithm-sponsored-audience-satisfaction/",
+        "/blog/bsky-app-collaborator-research-session/",
+        "/blog/bluesku-brand-source-disambiguation/",
+        "/blog/creator-newsfeed-editorial-evidence-selection/",
+        "/blog/whatsapp-business-creator-conversation-handoff/",
+        "/blog/google-business-profile-creator-location-proof/",
+        "/blog/free-instagram-followers-website-preflight/",
+        "/blog/free-followers-instagram-incentive-design/",
+        "/blog/insta-follower-search-offer-identity-review/",
+        "/blog/gaming-creator-demo-role-selection/"
+      ],
+      "publicAINotice": false,
+      "table": [],
+      "figures": []
+    },
+    {
+      "route": "/blog/page/3/",
+      "kind": "list",
+      "width": 1440,
+      "scrollWidth": 1441,
+      "h1": "THE QUICKKOL BLOG.",
+      "cards": [
+        "/blog/popular-youtuber-identity-program-verification/",
+        "/blog/biggest-youtube-channels-purchase-unit/",
+        "/blog/youtube-algorithm-sponsored-audience-satisfaction/",
+        "/blog/bsky-app-collaborator-research-session/",
+        "/blog/bluesku-brand-source-disambiguation/",
+        "/blog/creator-newsfeed-editorial-evidence-selection/",
+        "/blog/whatsapp-business-creator-conversation-handoff/",
+        "/blog/google-business-profile-creator-location-proof/",
+        "/blog/free-instagram-followers-website-preflight/",
+        "/blog/free-followers-instagram-incentive-design/",
+        "/blog/insta-follower-search-offer-identity-review/",
+        "/blog/gaming-creator-demo-role-selection/"
+      ],
+      "publicAINotice": false,
+      "table": [],
+      "figures": []
+    },
+    {
+      "route": "/blog/creator-engagement-response-routing/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Social Media Engagement: Turn Responses Into Action",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/create-youtube-channel-collaboration-launch-check/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Create a YouTube Channel for a Creator-Led Launch",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": [
+        {
+          "src": "/assets/blog/youtube-channel-first-demo-camera-check.jpg",
+          "loading": "lazy",
+          "alt": "A camera faces blue and coral mugs as a hand adjusts the demonstration object",
+          "width": 350
+        }
+      ]
+    },
+    {
+      "route": "/blog/social-media-manager-salary-creator-operations/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Social Media Manager Salary for Creator Operations",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/creator-rewards-sponsored-video-eligibility/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Creator Rewards Program: Check the Sponsored Video",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/creator-networking-strategy-peer-conversations/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "A Social Networking Strategy Built Around Creators",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/free-instagram-followers-hidden-campaign-costs/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Free Instagram Followers: Understand the Hidden Costs",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/insta-followers-retention-content-promise/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Insta Followers: Keep the Promise After a Collaboration",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/free-insta-followers-pitch-evidence-response/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Free Insta Followers: Respond to a Growth Pitch",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/instagram-follower-cohort-project-boundaries/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Instagram Follower: Define the Campaign Cohort",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/facebook-ad-library-creator-creative-research/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Facebook Ad Library for Creator Ad Research",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/creatoriq-pricing-commercial-scope-questions/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "CreatorIQ Pricing: Compare the Commercial Scope",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/paid-media-agency-creator-asset-responsibility/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Paid Media Agency: Define the Creator Asset Handoff",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": [
+        {
+          "src": "/assets/blog/creator-asset-variant-review.jpg",
+          "loading": "lazy",
+          "alt": "A creator indicates a crop with corner markers while an editor checks a display and color card",
+          "width": 350
+        }
+      ]
+    },
+    {
+      "route": "/blog/reels-follower-growth-2025-practices-review/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Reels Follower Growth: Review the 2025 Advice",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/instagram-search-creator-topic-brief/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Instagram SEO: Build a Searchable Creator Topic Brief",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/tiktok-trends-today-creator-relevance-check/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "TikTok Trends Today: Check Relevance Before the Brief",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/trial-reels-creator-concept-test-design/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Trial Reels: Design a Creator Concept Test",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/schedule-instagram-post-review-cutoff/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "How to Schedule an Instagram Post With a Review Cutoff",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/tiktok-bio-link-creator-destination-readiness/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Add a TikTok Bio Link for a Creator Partnership",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/high-instagram-followers-low-campaign-fit/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "High Instagram Followers: Check the Task Fit",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/social-blade-accuracy-measurement-reconciliation/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "How Accurate Is Social Blade? Check the Measurement",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/famous-tiktokers-brief-specific-shortlist/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Famous TikTokers: Research the Role Before Outreach",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/male-creator-brand-partnership-portfolio/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Build a Male Creator Portfolio Brands Can Evaluate",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/fake-takipci-cross-language-evidence-literacy/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Fake Takipçi: Review Follower Claims Across Languages",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/female-fitness-model-production-rights-brief/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Female Fitness Model: Scope Production and Publication",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": [
+        {
+          "src": "/assets/blog/fitness-shoot-camera-floor-markers.jpg",
+          "loading": "lazy",
+          "alt": "A tripod-mounted camera faces a mat and floor markers beside clothing and a towel",
+          "width": 350
+        }
+      ]
+    },
+    {
+      "route": "/blog/popular-youtuber-identity-program-verification/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Popular YouTubers: Verify the Person and Program",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/biggest-youtube-channels-purchase-unit/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Biggest YouTube Channels: Define What You Can Buy",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/youtube-algorithm-sponsored-audience-satisfaction/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "YouTube Algorithm: Review the Sponsored Viewing Experience",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/bsky-app-collaborator-research-session/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Bsky App: Run a Focused Creator Research Session",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/bluesku-brand-source-disambiguation/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Bluesku Search: Confirm the Creator Source",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "route": "/blog/creator-newsfeed-editorial-evidence-selection/",
+      "kind": "article",
+      "width": 390,
+      "scrollWidth": 391,
+      "h1": "Newsfeed: Turn Creator Posts Into a Useful Brief",
+      "cards": [],
+      "publicAINotice": false,
+      "table": [
+        {
+          "width": 348,
+          "scroll": 620,
+          "overflow": "auto"
+        }
+      ],
+      "figures": []
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "batch": "seo-thirty-keywords-2026-11-12",
+  "baseRevision": "988ba2571e6a3d40d8a2c0ede6f5421262467311",
+  "branch": "seo-blog",
+  "articleCount": 30,
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "contentModule": "src/blog-november-twelfth.js",
+  "exportName": "novemberTwelfthPosts",
+  "draftDate": "2026-11-12",
+  "status": "awaiting-maintainer-integration-and-publication",
+  "articles": [
+    {
+      "id": 1,
+      "keyword": "social media engagement",
+      "slug": "creator-engagement-response-routing",
+      "title": [
+        "社媒互动怎样变成达人合作的下一步",
+        "Social Media Engagement: Turn Responses Into Action"
+      ],
+      "brandDecision": "Route creator-led questions, feedback and support to accountable owners",
+      "educationOnly": false,
+      "englishBodyWords": 1644,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/creator-engagement-response-routing/",
+        "zh": "https://www.quickkol.com/zh/blog/creator-engagement-response-routing/"
+      },
+      "cover": "creator-engagement-response-routing.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 2,
+      "keyword": "create a youtube channel",
+      "slug": "create-youtube-channel-collaboration-launch-check",
+      "title": [
+        "与创作者合作开设 YouTube 频道前要确认什么",
+        "Create a YouTube Channel for a Creator-Led Launch"
+      ],
+      "brandDecision": "Set up and verify a brand-owned collaboration channel before first publication",
+      "educationOnly": false,
+      "englishBodyWords": 1586,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/create-youtube-channel-collaboration-launch-check/",
+        "zh": "https://www.quickkol.com/zh/blog/create-youtube-channel-collaboration-launch-check/"
+      },
+      "cover": "create-youtube-channel-collaboration-launch-check.jpg",
+      "inlinePhotos": [
+        "youtube-channel-first-demo-camera-check.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "keyword": "social media manager salary",
+      "slug": "social-media-manager-salary-creator-operations",
+      "title": [
+        "达人项目要配怎样的社媒经理预算",
+        "Social Media Manager Salary for Creator Operations"
+      ],
+      "brandDecision": "Budget employee scope and loaded capacity for creator operations using scoped wage references",
+      "educationOnly": false,
+      "englishBodyWords": 1591,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/social-media-manager-salary-creator-operations/",
+        "zh": "https://www.quickkol.com/zh/blog/social-media-manager-salary-creator-operations/"
+      },
+      "cover": "social-media-manager-salary-creator-operations.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 4,
+      "keyword": "creator rewards program",
+      "slug": "creator-rewards-sponsored-video-eligibility",
+      "title": [
+        "创作者奖励计划怎样影响一条赞助视频的安排",
+        "Creator Rewards Program: Check the Sponsored Video"
+      ],
+      "brandDecision": "Review one commissioned asset for program compatibility before promising a format",
+      "educationOnly": false,
+      "englishBodyWords": 1591,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/creator-rewards-sponsored-video-eligibility/",
+        "zh": "https://www.quickkol.com/zh/blog/creator-rewards-sponsored-video-eligibility/"
+      },
+      "cover": "creator-rewards-sponsored-video-eligibility.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 5,
+      "keyword": "social networking marketing strategy",
+      "slug": "creator-networking-strategy-peer-conversations",
+      "title": [
+        "社交网络策略怎样让创作者开启专业对话",
+        "A Social Networking Strategy Built Around Creators"
+      ],
+      "brandDecision": "Choose peer conversation roles and a response owner for a business audience",
+      "educationOnly": false,
+      "englishBodyWords": 1568,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/creator-networking-strategy-peer-conversations/",
+        "zh": "https://www.quickkol.com/zh/blog/creator-networking-strategy-peer-conversations/"
+      },
+      "cover": "creator-networking-strategy-peer-conversations.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 6,
+      "keyword": "free followers on instagram for free",
+      "slug": "free-instagram-followers-hidden-campaign-costs",
+      "title": [
+        "免费 Instagram 粉丝承诺有哪些隐性成本",
+        "Free Instagram Followers: Understand the Hidden Costs"
+      ],
+      "brandDecision": "Educate a brand about access, labor, data and opportunity costs of a zero-price pitch",
+      "educationOnly": true,
+      "englishBodyWords": 1573,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-instagram-followers-hidden-campaign-costs/",
+        "zh": "https://www.quickkol.com/zh/blog/free-instagram-followers-hidden-campaign-costs/"
+      },
+      "cover": "free-instagram-followers-hidden-campaign-costs.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 7,
+      "keyword": "insta followers",
+      "slug": "insta-followers-retention-content-promise",
+      "title": [
+        "Insta Followers 增长后怎样兑现内容承诺",
+        "Insta Followers: Keep the Promise After a Collaboration"
+      ],
+      "brandDecision": "Build the follow-up content promise for people arriving from a creator partnership",
+      "educationOnly": false,
+      "englishBodyWords": 1548,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/insta-followers-retention-content-promise/",
+        "zh": "https://www.quickkol.com/zh/blog/insta-followers-retention-content-promise/"
+      },
+      "cover": "insta-followers-retention-content-promise.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 8,
+      "keyword": "free insta followers",
+      "slug": "free-insta-followers-pitch-evidence-response",
+      "title": [
+        "收到免费 Insta Followers 提案怎样回复",
+        "Free Insta Followers: Respond to a Growth Pitch"
+      ],
+      "brandDecision": "Respond to a service pitch without procuring engagement or collecting credentials",
+      "educationOnly": true,
+      "englishBodyWords": 1516,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-insta-followers-pitch-evidence-response/",
+        "zh": "https://www.quickkol.com/zh/blog/free-insta-followers-pitch-evidence-response/"
+      },
+      "cover": "free-insta-followers-pitch-evidence-response.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 9,
+      "keyword": "instagram follower",
+      "slug": "instagram-follower-cohort-project-boundaries",
+      "title": [
+        "品牌怎样定义一次合作中的 Instagram Follower",
+        "Instagram Follower: Define the Campaign Cohort"
+      ],
+      "brandDecision": "Define account relationship and observation cohort without claiming reach or purchase intent",
+      "educationOnly": false,
+      "englishBodyWords": 1578,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-follower-cohort-project-boundaries/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-follower-cohort-project-boundaries/"
+      },
+      "cover": "instagram-follower-cohort-project-boundaries.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 10,
+      "keyword": "facebook ads libary",
+      "slug": "facebook-ad-library-creator-creative-research",
+      "title": [
+        "怎样用 Facebook Ad Library 研究达人广告表达",
+        "Facebook Ad Library for Creator Ad Research"
+      ],
+      "brandDecision": "Inspect public creative and sponsor context without inferring performance or rights",
+      "educationOnly": false,
+      "englishBodyWords": 1529,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/facebook-ad-library-creator-creative-research/",
+        "zh": "https://www.quickkol.com/zh/blog/facebook-ad-library-creator-creative-research/"
+      },
+      "cover": "facebook-ad-library-creator-creative-research.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 11,
+      "keyword": "creatoriq business model pricing",
+      "slug": "creatoriq-pricing-commercial-scope-questions",
+      "title": [
+        "CreatorIQ 报价怎样拆成可比较的采购范围",
+        "CreatorIQ Pricing: Compare the Commercial Scope"
+      ],
+      "brandDecision": "Request a scoped enterprise quote and separate subscription, services and creator payments",
+      "educationOnly": false,
+      "englishBodyWords": 1545,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/creatoriq-pricing-commercial-scope-questions/",
+        "zh": "https://www.quickkol.com/zh/blog/creatoriq-pricing-commercial-scope-questions/"
+      },
+      "cover": "creatoriq-pricing-commercial-scope-questions.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 12,
+      "keyword": "paid media agency",
+      "slug": "paid-media-agency-creator-asset-responsibility",
+      "title": [
+        "付费媒体代理怎样接手达人素材",
+        "Paid Media Agency: Define the Creator Asset Handoff"
+      ],
+      "brandDecision": "Assign agency duties for rights, versions, trafficking and outcome reporting",
+      "educationOnly": false,
+      "englishBodyWords": 1569,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/paid-media-agency-creator-asset-responsibility/",
+        "zh": "https://www.quickkol.com/zh/blog/paid-media-agency-creator-asset-responsibility/"
+      },
+      "cover": "paid-media-agency-creator-asset-responsibility.jpg",
+      "inlinePhotos": [
+        "creator-asset-variant-review.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "keyword": "grow followers with reels best practices 2025",
+      "slug": "reels-follower-growth-2025-practices-review",
+      "title": [
+        "2025 年 Reels 涨粉建议，品牌现在该怎样使用",
+        "Reels Follower Growth: Review the 2025 Advice"
+      ],
+      "brandDecision": "Separate dated platform advice from a current creator-led profile experiment",
+      "educationOnly": false,
+      "englishBodyWords": 1542,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/reels-follower-growth-2025-practices-review/",
+        "zh": "https://www.quickkol.com/zh/blog/reels-follower-growth-2025-practices-review/"
+      },
+      "cover": "reels-follower-growth-2025-practices-review.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 14,
+      "keyword": "instagram seo",
+      "slug": "instagram-search-creator-topic-brief",
+      "title": [
+        "Instagram 搜索怎样帮助品牌找到相关创作者",
+        "Instagram SEO: Build a Searchable Creator Topic Brief"
+      ],
+      "brandDecision": "Match audience vocabulary with creator profile and content search evidence",
+      "educationOnly": false,
+      "englishBodyWords": 1552,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-search-creator-topic-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-search-creator-topic-brief/"
+      },
+      "cover": "instagram-search-creator-topic-brief.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 15,
+      "keyword": "tiktok trends today",
+      "slug": "tiktok-trends-today-creator-relevance-check",
+      "title": [
+        "今天的 TikTok 趋势怎样判断是否值得合作",
+        "TikTok Trends Today: Check Relevance Before the Brief"
+      ],
+      "brandDecision": "Use a timestamped same-day source to decide whether to brief or skip a trend",
+      "educationOnly": false,
+      "englishBodyWords": 1513,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-trends-today-creator-relevance-check/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-trends-today-creator-relevance-check/"
+      },
+      "cover": "tiktok-trends-today-creator-relevance-check.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 16,
+      "keyword": "trial reels",
+      "slug": "trial-reels-creator-concept-test-design",
+      "title": [
+        "Trial Reels 怎样用于达人创意小测试",
+        "Trial Reels: Design a Creator Concept Test"
+      ],
+      "brandDecision": "Use account-available trial distribution with limited conclusions and agreed acceptance",
+      "educationOnly": false,
+      "englishBodyWords": 1517,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/trial-reels-creator-concept-test-design/",
+        "zh": "https://www.quickkol.com/zh/blog/trial-reels-creator-concept-test-design/"
+      },
+      "cover": "trial-reels-creator-concept-test-design.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 17,
+      "keyword": "how to schedule a post on instagram",
+      "slug": "schedule-instagram-post-review-cutoff",
+      "title": [
+        "Instagram 合作帖怎样设置最终审核截止",
+        "How to Schedule an Instagram Post With a Review Cutoff"
+      ],
+      "brandDecision": "Timebox review and late changes for one commissioned post",
+      "educationOnly": false,
+      "englishBodyWords": 1529,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/schedule-instagram-post-review-cutoff/",
+        "zh": "https://www.quickkol.com/zh/blog/schedule-instagram-post-review-cutoff/"
+      },
+      "cover": "schedule-instagram-post-review-cutoff.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 18,
+      "keyword": "how to add link to tiktok bio",
+      "slug": "tiktok-bio-link-creator-destination-readiness",
+      "title": [
+        "TikTok 简介链接怎样承接达人合作流量",
+        "Add a TikTok Bio Link for a Creator Partnership"
+      ],
+      "brandDecision": "Check link availability, account eligibility, destination and nonlink fallback",
+      "educationOnly": false,
+      "englishBodyWords": 1508,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-bio-link-creator-destination-readiness/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-bio-link-creator-destination-readiness/"
+      },
+      "cover": "tiktok-bio-link-creator-destination-readiness.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 19,
+      "keyword": "instagram followers high",
+      "slug": "high-instagram-followers-low-campaign-fit",
+      "title": [
+        "Instagram 粉丝很多，为什么仍可能不适合本次合作",
+        "High Instagram Followers: Check the Task Fit"
+      ],
+      "brandDecision": "Resolve scale-versus-task tradeoffs with work evidence, not a fraud assumption",
+      "educationOnly": false,
+      "englishBodyWords": 1532,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/high-instagram-followers-low-campaign-fit/",
+        "zh": "https://www.quickkol.com/zh/blog/high-instagram-followers-low-campaign-fit/"
+      },
+      "cover": "high-instagram-followers-low-campaign-fit.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 20,
+      "keyword": "how accurate is social balde",
+      "slug": "social-blade-accuracy-measurement-reconciliation",
+      "title": [
+        "Social Blade 准确吗？先核对哪种数字",
+        "How Accurate Is Social Blade? Check the Measurement"
+      ],
+      "brandDecision": "Audit a specific displayed field against identity, date, source and uncertainty",
+      "educationOnly": false,
+      "englishBodyWords": 1502,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/social-blade-accuracy-measurement-reconciliation/",
+        "zh": "https://www.quickkol.com/zh/blog/social-blade-accuracy-measurement-reconciliation/"
+      },
+      "cover": "social-blade-accuracy-measurement-reconciliation.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 21,
+      "keyword": "famous tiktokers",
+      "slug": "famous-tiktokers-brief-specific-shortlist",
+      "title": [
+        "知名 TikTok 创作者怎样进入品牌合作名单",
+        "Famous TikTokers: Research the Role Before Outreach"
+      ],
+      "brandDecision": "Research named public creators by work role, with current identity and no rank guarantee",
+      "educationOnly": false,
+      "englishBodyWords": 1512,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/famous-tiktokers-brief-specific-shortlist/",
+        "zh": "https://www.quickkol.com/zh/blog/famous-tiktokers-brief-specific-shortlist/"
+      },
+      "cover": "famous-tiktokers-brief-specific-shortlist.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 22,
+      "keyword": "how to become an influencer men",
+      "slug": "male-creator-brand-partnership-portfolio",
+      "title": [
+        "男性创作者怎样建立品牌可评估的合作作品集",
+        "Build a Male Creator Portfolio Brands Can Evaluate"
+      ],
+      "brandDecision": "Explain brand-ready evidence and authentic positioning without appearance or income guarantees",
+      "educationOnly": false,
+      "englishBodyWords": 1532,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/male-creator-brand-partnership-portfolio/",
+        "zh": "https://www.quickkol.com/zh/blog/male-creator-brand-partnership-portfolio/"
+      },
+      "cover": "male-creator-brand-partnership-portfolio.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 23,
+      "keyword": "fake takipçi",
+      "slug": "fake-takipci-cross-language-evidence-literacy",
+      "title": [
+        "Fake Takipçi 是什么？品牌怎样跨语言复核假粉说法",
+        "Fake Takipçi: Review Follower Claims Across Languages"
+      ],
+      "brandDecision": "Educational translation of fake-follower claims with preserved evidence states and no personal accusations",
+      "educationOnly": true,
+      "englishBodyWords": 1527,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/fake-takipci-cross-language-evidence-literacy/",
+        "zh": "https://www.quickkol.com/zh/blog/fake-takipci-cross-language-evidence-literacy/"
+      },
+      "cover": "fake-takipci-cross-language-evidence-literacy.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 24,
+      "keyword": "female fitness model",
+      "slug": "female-fitness-model-production-rights-brief",
+      "title": [
+        "与女性健身模特合作，怎样界定拍摄与发布",
+        "Female Fitness Model: Scope Production and Publication"
+      ],
+      "brandDecision": "Separate modeling, training instruction, creator publication and reuse permissions",
+      "educationOnly": false,
+      "englishBodyWords": 1510,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/female-fitness-model-production-rights-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/female-fitness-model-production-rights-brief/"
+      },
+      "cover": "female-fitness-model-production-rights-brief.jpg",
+      "inlinePhotos": [
+        "fitness-shoot-camera-floor-markers.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "keyword": "popularist youtuber",
+      "slug": "popular-youtuber-identity-program-verification",
+      "title": [
+        "寻找热门 YouTuber 时怎样确认实际合作对象",
+        "Popular YouTubers: Verify the Person and Program"
+      ],
+      "brandDecision": "Disambiguate search spelling, host, production team and channel representation",
+      "educationOnly": false,
+      "englishBodyWords": 1501,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/popular-youtuber-identity-program-verification/",
+        "zh": "https://www.quickkol.com/zh/blog/popular-youtuber-identity-program-verification/"
+      },
+      "cover": "popular-youtuber-identity-program-verification.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 26,
+      "keyword": "biggest youtube channels",
+      "slug": "biggest-youtube-channels-purchase-unit",
+      "title": [
+        "最大 YouTube 频道，品牌究竟能购买什么",
+        "Biggest YouTube Channels: Define What You Can Buy"
+      ],
+      "brandDecision": "Separate channel brand, series, creator role and actual inventory in a large-channel proposal",
+      "educationOnly": false,
+      "englishBodyWords": 1526,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/biggest-youtube-channels-purchase-unit/",
+        "zh": "https://www.quickkol.com/zh/blog/biggest-youtube-channels-purchase-unit/"
+      },
+      "cover": "biggest-youtube-channels-purchase-unit.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 27,
+      "keyword": "youtube algorithm",
+      "slug": "youtube-algorithm-sponsored-audience-satisfaction",
+      "title": [
+        "YouTube 算法与赞助内容，怎样检查观众体验",
+        "YouTube Algorithm: Review the Sponsored Viewing Experience"
+      ],
+      "brandDecision": "Use official recommendation context to assess sponsor integration and audience satisfaction without causal guarantees",
+      "educationOnly": false,
+      "englishBodyWords": 1505,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-algorithm-sponsored-audience-satisfaction/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-algorithm-sponsored-audience-satisfaction/"
+      },
+      "cover": "youtube-algorithm-sponsored-audience-satisfaction.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 28,
+      "keyword": "bsky app",
+      "slug": "bsky-app-collaborator-research-session",
+      "title": [
+        "用 bsky App 怎样组织一次创作者研究",
+        "Bsky App: Run a Focused Creator Research Session"
+      ],
+      "brandDecision": "Use official app route and reproducible search to research a specific creator topic",
+      "educationOnly": false,
+      "englishBodyWords": 1500,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/bsky-app-collaborator-research-session/",
+        "zh": "https://www.quickkol.com/zh/blog/bsky-app-collaborator-research-session/"
+      },
+      "cover": "bsky-app-collaborator-research-session.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 29,
+      "keyword": "bluesku",
+      "slug": "bluesku-brand-source-disambiguation",
+      "title": [
+        "搜索 Bluesku 时，怎样确认创作者资料来源",
+        "Bluesku Search: Confirm the Creator Source"
+      ],
+      "brandDecision": "Resolve a misspelling without assuming every similarly named site is Bluesky or safe to authorize",
+      "educationOnly": false,
+      "englishBodyWords": 1509,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/bluesku-brand-source-disambiguation/",
+        "zh": "https://www.quickkol.com/zh/blog/bluesku-brand-source-disambiguation/"
+      },
+      "cover": "bluesku-brand-source-disambiguation.jpg",
+      "inlinePhotos": []
+    },
+    {
+      "id": 30,
+      "keyword": "newsfeed",
+      "slug": "creator-newsfeed-editorial-evidence-selection",
+      "title": [
+        "信息流里的创作者内容，品牌怎样选进 Brief",
+        "Newsfeed: Turn Creator Posts Into a Useful Brief"
+      ],
+      "brandDecision": "Select observed feed posts with provenance and explain personalization limits",
+      "educationOnly": false,
+      "englishBodyWords": 1522,
+      "urls": {
+        "en": "https://www.quickkol.com/blog/creator-newsfeed-editorial-evidence-selection/",
+        "zh": "https://www.quickkol.com/zh/blog/creator-newsfeed-editorial-evidence-selection/"
+      },
+      "cover": "creator-newsfeed-editorial-evidence-selection.jpg",
+      "inlinePhotos": []
+    }
+  ]
+}

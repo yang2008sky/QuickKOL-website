@@ -1,0 +1,85 @@
+✔ pooling weights denominators rather than averaging post rates (0.809542ms)
+✔ reference comparison separates percentage points and rate ratios (0.303458ms)
+✔ TikTok actions are divided by views, including confirmed zero actions (0.085792ms)
+✔ snapshot differences preserve increases, decreases and a zero base (4.170417ms)
+✔ missing, negative and non-count observations cannot become arithmetic inputs (0.135709ms)
+✔ interaction target arithmetic, upward rounding and zero actions (1.141625ms)
+✔ invalid counts and goals remain unavailable (0.202917ms)
+✔ campaign fees use each platform CPM endpoint without a second fee band (1.82325ms)
+✔ creator allocation preserves every requested creator and goal changes the mix (3.23325ms)
+✔ additional costs and contingency reconcile with total campaign costs and CPM (1.317625ms)
+✔ budget mode finds whole affordable plans at both ends of the rate range (16.665125ms)
+✔ an insufficient budget returns zero creators and a useful minimum, never a fractional creator (0.80675ms)
+✔ country, niche, content format and custom views affect the same shared pricing engine (0.187292ms)
+✔ malformed input is rejected and size changes ignore inactive view overrides (0.193208ms)
+✔ YouTube defaults to dedicated video explicitly (0.671792ms)
+✔ platform minimums still apply to both CPM endpoints for small creators (0.180125ms)
+✔ multi-platform counts and fees sum correctly, charging extras and contingency once (0.524125ms)
+✔ multi-platform budget shares constrain each plan and the combined all-in total (0.512083ms)
+✔ three-way shares, zero allocations and insufficient platform budgets remain valid (1.894167ms)
+✔ invalid allocations, duplicate platforms and inactive cost-mode shares are handled (0.340541ms)
+✔ discover freezes in place, resumes, and disposes its animation frames (163.220916ms)
+✔ analytics freezes in place, resumes, and disposes its animation frames (532.073292ms)
+✔ outreach freezes in place, resumes, and disposes its animation frames (95.688625ms)
+✔ agent freezes in place, resumes, and disposes its animation frames (10.426875ms)
+✔ YouTube example applies all multipliers and rounds only display values (1.360542ms)
+✔ follower thresholds only apply the specified modest premiums (0.471791ms)
+✔ each platform uses its CPM and engagement boundaries including strict top tiers (0.254125ms)
+✔ platform minimum is applied before the range, even at zero views (0.480125ms)
+✔ quality and niche selections use every configured multiplier (0.19275ms)
+✔ country benchmarks match the supplied table and scale the estimate (0.313625ms)
+✔ performance remains the primary driver and scales linearly above the floor (1.227541ms)
+✔ blank, invalid and non-finite data cannot produce an estimate (0.433208ms)
+✔ natural quote rounding keeps small rates meaningful and matches examples (0.136041ms)
+✔ updated default CPMs are used when there is no override (0.251416ms)
+✔ custom CPM changes performance value without modifying defaults or multipliers (0.141167ms)
+✔ invalid custom CPM values do not generate a quote (0.080875ms)
+✔ every sitemap page ships readable, styled content and canonical metadata (18070.675125ms)
+✔ switching languages translates new dynamic content instead of restoring stale text (4.879375ms)
+✔ translates footer copy and image descriptions while preserving platform names (1.871583ms)
+✔ dynamic goal hints translate every goal and switch back without stale content (123.40525ms)
+✔ persists the selected locale and safely rejects invalid choices (0.181583ms)
+✔ all six languages translate navigation, dynamic counts, and preserve switching back (2.764292ms)
+✔ foreign catalogs cover the same content and preserve variables and HTML structure (63.059ms)
+✔ changing locale preserves user-edited form fields while translating their placeholders (0.717125ms)
+✔ saved templates survive remount, update independently, and preserve the legacy template (685.447917ms)
+✔ download names append a PO only when supplied and sanitize filename characters (4.18025ms)
+✔ invoice reconciles line items, tax, discount, shipping and partial payment (0.876792ms)
+✔ blank, deleted and overpaid lines keep finite nonnegative balances (1.671542ms)
+✔ Word and Excel exports include current metadata, adjustments and safely escaped user text (73.140625ms)
+✔ both legal documents have complete translations without English fallback (57.112041ms)
+✔ legal content keeps reference operators private and section anchors unambiguous (1.382625ms)
+✔ English is the default and Chinese uses the zh prefix (5.20875ms)
+✔ the English-only invoice editor keeps one URL in both language menus (0.666375ms)
+✖ translated HTML, language pairs, author identity and share images agree across the sitemap (11562.0995ms)
+✔ legacy pagination and aliases redirect once while preserving filters and tracking (21.602083ms)
+✔ blog pagination exposes every article without JavaScript (4659.031417ms)
+✔ English invoice content and page schema declare English (48.551708ms)
+✔ Chinese homepage ships all four capability explanations without JavaScript (148.940709ms)
+✔ canonical URLs use the production domain and discard filters and fragments (1.5965ms)
+✔ article sharing uses its own title, description and production image URL (0.881417ms)
+✔ static sharing tags escape text without breaking HTML attributes (1.411667ms)
+ℹ tests 61
+ℹ suites 0
+ℹ pass 60
+ℹ fail 1
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 18972.054083
+
+✖ failing tests:
+
+test at tests/seo-localization.test.js:8:1
+✖ translated HTML, language pairs, author identity and share images agree across the sitemap (11562.0995ms)
+  AssertionError [ERR_ASSERTION]: /blog/definition-influencer-multilingual-brief-glossary/
+      at TestContext.<anonymous> (file:///Users/damingxing/Desktop/codex%E5%BC%80%E5%8F%91/quickkol%20blog/QuickKOL-local-preview/tests/seo-localization.test.js:30:16)
+      at async Test.run (node:internal/test_runner/test:1409:7)
+      at async startSubtestAfterBootstrap (node:internal/test_runner/harness:387:3) {
+    generatedMessage: false,
+    code: 'ERR_ASSERTION',
+    actual: '← All articlesQUICKKOL BLOG / Outreach & RelationshipsDefinition Influencer: Align a Multilingual BriefTurn an influencer definition into shared brief terminology without adding publication, licensing or expertise obligations in translation.Daniel CraigOct 30, 20269 min readIN THIS ARTICLEThe short answerSeparate a meaning from an assignmentGive the concept a stable identifierSeparate subject, relationship and deliverableKeep the source’s purpose and geographyDo not translate disclosure as one universal labelUse a plain-language restatement to reveal disagreementUpdate affected materials when the concept changesGive the glossary to its actual usersResearch date and limitationsConnect terminology to separate scope fieldsMultilingual brief consistency reviewSourcesQuickKOL editorial graphic; not actual account metrics or a platform interface.THE SHORT ANSWERAn influencer may be rendered as 达人 or 影响者 in a Chinese brief, but one translated label cannot carry the complete scope of a collaboration. Use a shared record for the subject, relevant audience, actual role, commercial relationship and deliverables, then attach the language-specific wording. A label does not automatically establish publication duties, professional credentials,   exclusivity or advertising rights. This article proposes an editorial handoff method, not a universal industry definition or certified legal terminology. The goal is for both teams to make the same decision from their respective versions.Separate a meaning from an assignmentThe AMA influencer marketing overview explains the field through people able to influence potential buyers and brand communication around them. That is useful marketing context, but a noun does not become the complete assignment for a particular project. Teams can retain familiar translations while defining the scope discussed in the brief.The research classification definition addresses how subjects enter a research category. This article asks whether someone already under consideration has the same assignment across language versions. A glossary should not quietly expand 达人 into verified specialist, or assume that creator means someone delivering files without publishing.Define the project use at the first occurrence: for example, independent creators invited to produce and publish a demonstration on specified accounts. If publication remains unagreed, record the proposed role and the open condition. Describe the arrangement actually known rather than confirming a partnership for the sake of a concise label. Keep the original source definition separately from the project definition so a later reader can distinguish quotation, interpretation and operational choice.Give the concept a stable identifierAssign an internal concept identifier, such as role C01, and retain English wording, Chinese wording, project meaning, applicable materials, owner and version in one record. This identifier organizes the team’s work. It is not a public creator identity, industry credential or code the audience must see.Keep common alternatives as search terms without attaching different duties to them. A colleague saying blogger and another saying creator should find the same deliverable description when they mean the same assignment. When the work genuinely differs, create separate entries rather than forcing equivalence to make a tidy glossary.The campaign brief guide retains the overall task; the terminology record addresses expressions likely to cause disagreement. It need not make every ordinary word a controlled process. Prioritize words that change price, publication, use, payment or factual understanding. Give a translator a specific question route rather than requiring them to infer a business arrangement from surrounding marketing language. A small, maintained glossary is more useful than a large vocabulary whose definitions nobody owns.An example entry might identify C01 as a paid demonstration producer, supplying two files in this round, with personal-account publication pending. Both languages point to the same scope record. If publication is added, update responsibilities and commercial arrangements before the nearby explanation in each language. The second language should never become the only place where a new obligation appears.Separate subject, relationship and deliverableOne person may produce, publish, join a continuing brand relationship and use affiliate links. Do not compress every activity into ambassador or influencer. Record who does what, where, when and which relationship needs to be communicated clearly.The collaboration scope checklist supports detailed deliverable and use conditions. A glossary can point to that scope without replacing it. Collaborative video still needs quantity, versions, publisher, account and any advertising use. Continuing partner does not automatically mean unlimited duration, revisions or exclusivity.Use proposed or pending for unagreed work. Translating may into a definite commitment, or available for licensing discussion into already licensed, changes the team’s understanding. Review meaning item by item rather than checking fluency alone. Particular attention belongs to negative and conditional statements: excluding paid advertising must survive translation, and a permission dependent on a later agreement must remain dependent. The business owner should resolve ambiguous scope before a translator is asked to polish the sentence.Keep the source’s purpose and geographyThe ASA social advertising guidance uses a broad influencer scope in a United Kingdom advertising-recognition context, without a particular follower threshold or occupation. That context does not make the wording a professional qualification for brand selection or a worldwide contract definition.When a glossary cites an external definition, retain source, review date and purpose, such as UK advertising-recognition reference or marketing background. Do not combine institutions into an unattributed international standard, or remove conditions that make a statement applicable.If the assignment needs specialist credentials, locally relevant qualifications or audience geography, record separate evidence and an owner. Translation cannot perform those checks. Calling someone an influencer does not establish suitability for medical, financial or other specialist explanations, nor does the language of public posts establish every audience member’s location. This distinction lets a team use a broad category responsibly while keeping narrower selection criteria visible. A glossary should help people find those criteria rather than conceal them inside a prestigious-sounding title.Do not translate disclosure as one universal labelThe FTC disclosure guide says disclosures should be easy to notice and understand, and uses the language of the endorsement in its United States guidance. It does not establish that every market accepts a fixed English label or that a profile description replaces relevant explanation in the content itself.Have the appropriate owner confirm wording for the intended market, format and actual relationship. Store the approved wording’s conditions and version rather than asking translators to choose the shortest label. A change from cash payment to a gift can still require review; deleting paid does not establish that no issue remains.Language versions may differ in wording while preserving who supplied what, the relationship and the nature of the content. When space, framing or subtitles affect visibility, return the issue to content and market owners. Do not hide necessary information just to shorten a translation. A glossary is a reference to confirmed decisions, not a substitute for deciding which rules and facts apply to a particular publication.Use a plain-language restatement to reveal disagreementAsk a colleague to use only the translated brief and explain who supplies what, whether they publish, where it can be used, for how long and what remains unconfirmed. Compare that restatement with the scope record. The test concerns practical understanding, not merely translating a sentence back word for word.Suppose an English proposal requests two demonstration clips while Chinese wording describes two influencer publications. Both may sound professional, yet the publication obligation has changed. Record the issue, obtain the business owner’s decision and correct the related versions. The more formal-sounding language does not determine the arrangement.Prioritize numbers, dates, currency, quantities, negatives and conditions. Test a complex statement with an example: if the brand wants to advertise with the video, does the wording identify any separate confirmation needed? This is a hypothetical review exercise, not a legal determination or real client dispute. A good result is a resolved difference with a traceable reason, rather than a statement that the translation feels accurate.Record the actual discrepancy, such as English requesting two assets and Chinese requesting two publications, with the versions and the decision owner. Translation incorrect is not a sufficient issue description. After resolution, both users should produce equivalent task lists, including what has not been promised. This gives future reviewers a way to understand the correction without reopening the same scope discussion.Update affected materials when the concept changesChanging content production into production and publication can affect pricing, briefs, messages and timing. Retain the reason, applicable version and recipients who need the update. One revised spreadsheet should not coexist silently with an outreach message using old scope in another language.Distinguish factual changes from improved phrasing. A more natural expression of the same task may not require a new commercial discussion; added delivery, use or duration needs the appropriate owner. A translator can identify the difference without being assumed to hav'... 3778 more characters,
+    expected: /[\u3400-\u9fff]/,
+    operator: 'doesNotMatch',
+    diff: 'simple'
+  }
