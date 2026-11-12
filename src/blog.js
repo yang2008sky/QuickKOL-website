@@ -1,3 +1,4 @@
+import { novemberTwelfthPosts } from './blog-november-twelfth.js';
 import { novemberEleventhPosts } from './blog-november-eleventh.js';
 import { novemberNinthPosts } from './blog-november-ninth.js';
 import { novemberSixthPosts } from './blog-colleague-november-sixth.js';
@@ -38,7 +39,7 @@ import { growthBlogEnhancements } from './blog-growth-enhancements.js';
 import { initI18n, setPageLocale, localizeCopy, applyTranslations, loadLocale, localizeText } from './i18n.js';
 
 const enhancements = { ...blogEnhancements, ...additionalBlogEnhancements, ...seriesBlogEnhancements, ...expansionBlogEnhancements, ...growthBlogEnhancements };
-const blogPosts = [...novemberEleventhPosts, ...novemberNinthPosts, ...novemberSixthPosts, ...novemberFifthPosts, ...novemberFourthPosts, ...november29Posts, ...november30Posts, ...editorial20Posts, ...editorial9Posts, ...editorial16Posts, ...colleagueThreePosts, ...laInfluencerPosts, ...semrushBatchFourPosts, ...semrushBatchThreePosts, ...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
+const blogPosts = [...novemberTwelfthPosts, ...novemberEleventhPosts, ...novemberNinthPosts, ...novemberSixthPosts, ...novemberFifthPosts, ...novemberFourthPosts, ...november29Posts, ...november30Posts, ...editorial20Posts, ...editorial9Posts, ...editorial16Posts, ...colleagueThreePosts, ...laInfluencerPosts, ...semrushBatchFourPosts, ...semrushBatchThreePosts, ...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
 const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
 const arrow = '<i class="ph ph-arrow-up-right" aria-hidden="true"></i>';
 
