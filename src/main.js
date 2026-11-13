@@ -217,7 +217,8 @@ const renderLanguageOptions = () => languages.map((language) => {
   const target = languageSwitchPath(window.location.pathname + window.location.search + window.location.hash, language.code);
   return `
   <${tag} class="language-option ${language.code === currentLanguage ? "is-active" : ""}" ${linked ? `href="${target.replace(/&/g, '&amp;').replace(/"/g, '&quot;')}"` : 'type="button"'} role="option" data-language-option="${language.code}" aria-selected="${language.code === currentLanguage}" ${isLocaleAvailable(language.code) ? "" : "disabled"}>
-    <span data-i18n-ignore>${language.label}</span>
+    <span data-i18n-ignore>${language.code === 'id' ? 'Indonesia' : language.label}</span>
+    <small data-i18n-ignore aria-hidden="true">${language.code === 'zh-CN' ? 'ZH' : language.shortLabel}</small>
   </${tag}>
 `;
 }).join("");

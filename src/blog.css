@@ -75,7 +75,7 @@ html[lang^='zh'] .blog-page .mobile-menu-button::before { content: '菜单'; }
   overflow-y: auto;
   border-top: 1px solid #2a2b2f;
 }
-.blog-page .mobile-language-list .language-option { min-height: 42px; padding-inline: 12px; color: #f5f6f8; font-size: 13px; }
+.blog-page .mobile-language-list .language-option { min-height: 36px; padding: 6px 8px; color: #f5f6f8; font-size: 13px; }
 .blog-page .mobile-language-list .language-option:hover,
 .blog-page .mobile-language-list .language-option:focus-visible { background: #1b1d20; color: #74aaff; }
 
