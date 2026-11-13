@@ -1,0 +1,1518 @@
+[
+  {
+    "id": 1,
+    "keyword": "instagram accounts",
+    "slug": "instagram-accounts-collaboration-identity-map",
+    "topic": "discovery",
+    "family": "Editorial collage / data art",
+    "title": [
+      "研究 Instagram 账号时，怎样确认合作中的各个角色",
+      "Instagram Accounts: Map the People Behind a Collaboration"
+    ],
+    "brandDecision": "Distinguish profile, performer, publisher and authorized commercial representative",
+    "overlapWithExisting": "Existing identity deduplication merges accounts; this assigns roles without assuming authority",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1633,
+    "chineseHanzi": 2634,
+    "primarySources": [
+      {
+        "id": "transparency",
+        "url": "https://about.fb.com/news/2020/04/page-and-account-transparency/"
+      },
+      {
+        "id": "ftcScam",
+        "url": "https://consumer.ftc.gov/consumer-alerts/2024/03/influencers-spot-job-scam"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "创作者身份去重指南",
+          "creator identity deduplication guide"
+        ],
+        "url": "/blog/ai-creator-identity-deduplication/#answer"
+      },
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 2,
+    "keyword": "media strategy",
+    "slug": "creator-media-strategy-distribution-roles",
+    "topic": "campaign",
+    "family": "Type / background",
+    "title": [
+      "达人媒体策略：制作、发布与放大",
+      "Media Strategy: Assign Creator Content a Distribution Role"
+    ],
+    "brandDecision": "Allocate creator production, creator publishing, owned distribution and paid use separately",
+    "overlapWithExisting": "Existing strategy articles plan audiences and briefs; this sets a distribution responsibility model",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1638,
+    "chineseHanzi": 2685,
+    "primarySources": [
+      {
+        "id": "ytPaid",
+        "url": "https://support.google.com/youtube/answer/154235?hl=en"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      },
+      {
+        "id": "ttMusic",
+        "url": "https://ads.tiktok.com/resources/help/article/commercial-music-library?lang=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "社媒指标决策框架",
+          "social media metrics decision framework"
+        ],
+        "url": "/blog/social-media-metrics-creator-decision-tree/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 3,
+    "keyword": "best practices for homestay videos on meta platforms",
+    "slug": "homestay-creator-videos-stay-proof-shot-plan",
+    "topic": "campaign",
+    "family": "Solo creator",
+    "title": [
+      "民宿达人视频：空间与入住条件",
+      "Homestay Creator Videos: Show the Stay Before the Promise"
+    ],
+    "brandDecision": "Specify a truthful room-to-arrival shot sequence, consent and commercially relevant limitations",
+    "overlapWithExisting": "Travel and itinerary articles assess creators or logistics; this briefs property-specific visual evidence",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1638,
+    "chineseHanzi": 2685,
+    "primarySources": [
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      },
+      {
+        "id": "igBest",
+        "url": "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "旅行合作可行性指南",
+          "travel collaboration feasibility guide"
+        ],
+        "url": "/blog/top-travel-influencers-itinerary-feasibility/#answer"
+      },
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 4,
+    "keyword": "social media audit",
+    "slug": "creator-campaign-social-audit-record-retrieval",
+    "topic": "analytics",
+    "family": "Environment / objects",
+    "title": [
+      "社媒审计：找回达人项目记录",
+      "Social Media Audit: Recover the Creator Campaign Record"
+    ],
+    "brandDecision": "Audit whether campaign decisions and deliverables can be reconstructed",
+    "overlapWithExisting": "Existing metric and score audits assess numbers; this audits record completeness and provenance",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1591,
+    "chineseHanzi": 2615,
+    "primarySources": [
+      {
+        "id": "igDm",
+        "url": "https://about.fb.com/news/2024/03/instagram-dm-updates/"
+      },
+      {
+        "id": "ytPermissions",
+        "url": "https://support.google.com/youtube/answer/9481328?hl=en"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "达人活动状态管理方法",
+          "creator campaign status system"
+        ],
+        "url": "/blog/creator-campaign-status-system/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 5,
+    "keyword": "how to respond to messages on instagram",
+    "slug": "instagram-creator-messages-scope-clarification",
+    "topic": "outreach",
+    "family": "Human documentary",
+    "title": [
+      "怎样回复 Instagram 消息，把达人合作范围问清楚",
+      "Respond to Instagram Messages With Clear Scope Questions"
+    ],
+    "brandDecision": "Resolve ambiguous scope and distinguish acknowledgment, estimate and approval",
+    "overlapWithExisting": "Existing DM triage routes inquiries; this constructs clarification messages before quoting",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1614,
+    "chineseHanzi": 2653,
+    "primarySources": [
+      {
+        "id": "ftcScam",
+        "url": "https://consumer.ftc.gov/consumer-alerts/2024/03/influencers-spot-job-scam"
+      },
+      {
+        "id": "igDm",
+        "url": "https://about.fb.com/news/2024/03/instagram-dm-updates/"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "达人活动状态管理方法",
+          "creator campaign status system"
+        ],
+        "url": "/blog/creator-campaign-status-system/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 6,
+    "keyword": "brand monitoring",
+    "slug": "brand-monitoring-creator-mention-corrections",
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "title": [
+      "品牌监测怎样处理达人内容中的错认与误引",
+      "Brand Monitoring: Correct Misattributed Creator Mentions"
+    ],
+    "brandDecision": "Verify mention context and choose proportionate correction or no action",
+    "overlapWithExisting": "Existing social listening turns conversations into briefs; this resolves misattribution and corrections",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1600,
+    "chineseHanzi": 2663,
+    "primarySources": [
+      {
+        "id": "igReposts",
+        "url": "https://about.fb.com/news/2025/08/new-instagram-features-help-you-connect/"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "社交聆听查询验证指南",
+          "social listening query-validation guide"
+        ],
+        "url": "/blog/social-listening-query-sample-validation/#answer"
+      },
+      {
+        "terms": [
+          "达人活动状态管理方法",
+          "creator campaign status system"
+        ],
+        "url": "/blog/creator-campaign-status-system/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 7,
+    "keyword": "how to make a youtube channel on youtube",
+    "slug": "make-youtube-channel-creator-account-continuity",
+    "topic": "campaign",
+    "family": "Solo creator",
+    "title": [
+      "创建合作 YouTube 频道时，怎样避免人员变动后失去控制",
+      "Make a YouTube Channel With a Continuity Plan"
+    ],
+    "brandDecision": "Create the channel while assigning durable account responsibility and recovery ownership",
+    "overlapWithExisting": "Earlier channel articles choose series ownership and launch readiness; this addresses continuity when staff leave",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1590,
+    "chineseHanzi": 2692,
+    "primarySources": [
+      {
+        "id": "ytCreate",
+        "url": "https://support.google.com/youtube/answer/1646861?hl=en"
+      },
+      {
+        "id": "ytPermissions",
+        "url": "https://support.google.com/youtube/answer/9481328?hl=en"
+      },
+      {
+        "id": "googleRecovery",
+        "url": "https://support.google.com/accounts/answer/183723?hl=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "频道首发检查指南",
+          "channel launch-readiness guide"
+        ],
+        "url": "/blog/create-youtube-channel-collaboration-launch-check/#answer"
+      },
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 8,
+    "keyword": "how do i make a playlist on youtube",
+    "slug": "youtube-playlist-creator-learning-sequence",
+    "topic": "campaign",
+    "family": "Type / background",
+    "title": [
+      "怎样把合作 YouTube 视频整理成有用的播放列表",
+      "Make a YouTube Playlist for a Creator-Led Learning Path"
+    ],
+    "brandDecision": "Create, order and review a playlist without confusing curation with content rights",
+    "overlapWithExisting": "No dedicated playlist guide; differs from general channel setup and identity research",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1570,
+    "chineseHanzi": 2728,
+    "primarySources": [
+      {
+        "id": "ytCreate",
+        "url": "https://support.google.com/youtube/answer/1646861?hl=en"
+      },
+      {
+        "id": "ytPlaylist",
+        "url": "https://support.google.com/youtube/answer/57792?co=GENIE.Platform%3DDesktop&hl=en"
+      },
+      {
+        "id": "ytPlaylistPrivacy",
+        "url": "https://support.google.com/youtube/answer/3127309?hl=en"
+      },
+      {
+        "id": "ytPlaylistCollab",
+        "url": "https://support.google.com/youtube/answer/6109639?hl=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "频道首发检查指南",
+          "channel launch-readiness guide"
+        ],
+        "url": "/blog/create-youtube-channel-collaboration-launch-check/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 9,
+    "keyword": "how to schedule posts on facebook",
+    "slug": "facebook-scheduling-creator-event-release-clock",
+    "topic": "campaign",
+    "family": "Environment / objects",
+    "title": [
+      "Facebook 合作帖怎样围绕活动时间排期",
+      "Schedule Facebook Posts Around a Creator Event"
+    ],
+    "brandDecision": "Coordinate an event-related Facebook Page release with timezone and fallback ownership",
+    "overlapWithExisting": "Existing scheduling posts cover Instagram and cross-platform dependencies; this handles a Facebook event release clock",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1583,
+    "chineseHanzi": 2637,
+    "primarySources": [
+      {
+        "id": "metaSuiteApp",
+        "url": "https://apps.apple.com/au/app/meta-business-suite/id514643583"
+      },
+      {
+        "id": "fbVideo",
+        "url": "https://about.fb.com/news/2025/06/making-it-easier-create-videos-facebook/"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "跨平台达人排期指南",
+          "cross-platform creator scheduling guide"
+        ],
+        "url": "/blog/social-media-schedule-creator-launch-dependencies/#answer"
+      },
+      {
+        "terms": [
+          "Facebook 主页服务流程",
+          "Facebook Page service workflow"
+        ],
+        "url": "/blog/facebook-marketing-page-service-workflow/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 10,
+    "keyword": "instagram free followers",
+    "slug": "instagram-free-followers-access-recovery-handoff",
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "title": [
+      "免费 Instagram 粉丝服务接入后，品牌怎样交接账号恢复",
+      "Instagram Free Followers: Hand Over an Access Recovery"
+    ],
+    "brandDecision": "Separate account-safety recovery actions from claims about audience authenticity",
+    "overlapWithExisting": "Prior risk posts assess preflight and vendor exit; this documents recovery evidence and remaining access uncertainty",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": true,
+    "englishBodyWords": 1558,
+    "chineseHanzi": 2662,
+    "primarySources": [
+      {
+        "id": "metaClone",
+        "url": "https://about.fb.com/news/2022/07/how-meta-safeguards-people-against-clone-sites/"
+      },
+      {
+        "id": "metaSupport",
+        "url": "https://about.fb.com/news/2025/12/making-it-easier-to-access-account-support-on-facebook-and-instagram/"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "未经批准服务退出指南",
+          "unapproved-service exit guide"
+        ],
+        "url": "/blog/free-ig-followers-website-vendor-exit/#answer"
+      },
+      {
+        "terms": [
+          "社媒指标决策框架",
+          "social media metrics decision framework"
+        ],
+        "url": "/blog/social-media-metrics-creator-decision-tree/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 11,
+    "keyword": "instagram free ig followers",
+    "slug": "free-ig-followers-campaign-baseline-reset",
+    "topic": "analytics",
+    "family": "Type / background",
+    "title": [
+      "免费 IG 粉丝说法出现后，活动基线该怎样重新说明",
+      "Free IG Followers: Reframe a Campaign Baseline"
+    ],
+    "brandDecision": "Preserve before-and-after definitions without certifying an uncontaminated follower baseline",
+    "overlapWithExisting": "Prior posts discuss offer claims and like contamination; this prevents rewriting follower baseline history",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": true,
+    "englishBodyWords": 1548,
+    "chineseHanzi": 2603,
+    "primarySources": [
+      {
+        "id": "metaFake",
+        "url": "https://about.fb.com/news/2020/10/taking-action-against-fake-engagement-and-ad-scams/"
+      },
+      {
+        "id": "metaModeration",
+        "url": "https://about.fb.com/news/2024/06/protecting-athletes-and-fans-on-our-apps-during-major-sporting-events-this-summer/"
+      },
+      {
+        "id": "magenta",
+        "url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "社媒指标决策框架",
+          "social media metrics decision framework"
+        ],
+        "url": "/blog/social-media-metrics-creator-decision-tree/#answer"
+      },
+      {
+        "terms": [
+          "恢复交接指南",
+          "recovery handover guide"
+        ],
+        "url": "/blog/instagram-free-followers-access-recovery-handoff/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 12,
+    "keyword": "instagram robot followers",
+    "slug": "instagram-robot-followers-automation-boundaries",
+    "topic": "analytics",
+    "family": "Solo creator",
+    "title": [
+      "Instagram 机器人粉丝：自动化工具与虚假互动怎样区分",
+      "Instagram Robot Followers: Separate Automation From Evidence"
+    ],
+    "brandDecision": "Classify software actions, access and observed outcomes without labeling every automated account fake",
+    "overlapWithExisting": "Prior fake-follower posts cross-check anomalies; this teaches the difference between authorized workflows and artificial engagement",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": true,
+    "englishBodyWords": 1567,
+    "chineseHanzi": 2602,
+    "primarySources": [
+      {
+        "id": "metaSuiteApp",
+        "url": "https://apps.apple.com/au/app/meta-business-suite/id514643583"
+      },
+      {
+        "id": "metaFake",
+        "url": "https://about.fb.com/news/2020/10/taking-action-against-fake-engagement-and-ad-scams/"
+      },
+      {
+        "id": "metaClone",
+        "url": "https://about.fb.com/news/2022/07/how-meta-safeguards-people-against-clone-sites/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "账号恢复交接指南",
+          "account recovery handover guide"
+        ],
+        "url": "/blog/instagram-free-followers-access-recovery-handoff/#answer"
+      },
+      {
+        "terms": [
+          "活动基线说明指南",
+          "campaign baseline guide"
+        ],
+        "url": "/blog/free-ig-followers-campaign-baseline-reset/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 13,
+    "keyword": "instagram followers free",
+    "slug": "instagram-followers-free-growth-report-lineage",
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "title": [
+      "免费 Instagram 粉丝如何写进一份诚实的增长报告",
+      "Instagram Followers Free: Preserve the Growth Report Trail"
+    ],
+    "brandDecision": "Report observed, attributed and unresolved changes separately after an offer is mentioned",
+    "overlapWithExisting": "Prior education focuses risk or baselines; this writes a transparent stakeholder report without claiming causality",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": true,
+    "englishBodyWords": 1595,
+    "chineseHanzi": 2631,
+    "primarySources": [
+      {
+        "id": "metaFake",
+        "url": "https://about.fb.com/news/2020/10/taking-action-against-fake-engagement-and-ad-scams/"
+      },
+      {
+        "id": "magenta",
+        "url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "社媒指标决策框架",
+          "social media metrics decision framework"
+        ],
+        "url": "/blog/social-media-metrics-creator-decision-tree/#answer"
+      },
+      {
+        "terms": [
+          "活动基线说明指南",
+          "campaign baseline guide"
+        ],
+        "url": "/blog/free-ig-followers-campaign-baseline-reset/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 14,
+    "keyword": "ig followers",
+    "slug": "ig-followers-creator-community-question-brief",
+    "topic": "campaign",
+    "family": "Solo creator",
+    "title": [
+      "IG Followers 怎样帮助品牌设计创作者问答",
+      "IG Followers: Brief a Useful Creator Community Q&A"
+    ],
+    "brandDecision": "Turn volunteered audience questions into a bounded creator Q&A without inferring identity",
+    "overlapWithExisting": "Existing follower articles count cohorts or retain audiences; this plans a concrete question-led collaboration",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1543,
+    "chineseHanzi": 2654,
+    "primarySources": [
+      {
+        "id": "igBroadcast",
+        "url": "https://about.fb.com/news/2024/12/get-closer-to-your-community-with-replies-prompts-and-insights/"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "互动处理指南",
+          "engagement response-routing guide"
+        ],
+        "url": "/blog/creator-engagement-response-routing/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 15,
+    "keyword": "followers instagram",
+    "slug": "instagram-followers-language-context-brief",
+    "topic": "discovery",
+    "family": "Human documentary",
+    "title": [
+      "Instagram 粉丝交流怎样用于合作语言选择",
+      "Instagram Followers: Choose a Collaboration Language"
+    ],
+    "brandDecision": "Use observed language context and creator validation without treating comments as demographics",
+    "overlapWithExisting": "Existing location and follower definitions do not decide language and accessibility for an asset",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1564,
+    "chineseHanzi": 2615,
+    "primarySources": [
+      {
+        "id": "igTranslation",
+        "url": "https://about.fb.com/news/2025/10/translate-dub-and-lip-sync-your-reels-between-hindi-and-english-now-on-instagram-and-facebook/"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "多语言 Brief 对齐指南",
+          "multilingual brief-alignment guide"
+        ],
+        "url": "/blog/definition-influencer-multilingual-brief-glossary/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 16,
+    "keyword": "how to get sponsored as an influencer",
+    "slug": "creator-sponsorship-proposal-brand-review",
+    "topic": "commercial",
+    "family": "Type / background",
+    "title": [
+      "创作者怎样准备品牌可以评估的赞助提案",
+      "Get Sponsored as an Influencer: Build a Reviewable Proposal"
+    ],
+    "brandDecision": "Prepare a scoped sponsorship proposal grounded in actual work and separable rights",
+    "overlapWithExisting": "Existing portfolio article shows samples; this packages a specific response to a brand opportunity",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1585,
+    "chineseHanzi": 2663,
+    "primarySources": [
+      {
+        "id": "ytPaid",
+        "url": "https://support.google.com/youtube/answer/154235?hl=en"
+      },
+      {
+        "id": "asaGuide",
+        "url": "https://www.asa.org.uk/resource/influencers-guide.html"
+      },
+      {
+        "id": "ftcScam",
+        "url": "https://consumer.ftc.gov/consumer-alerts/2024/03/influencers-spot-job-scam"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "作品集贡献说明示例",
+          "portfolio contribution example"
+        ],
+        "url": "/blog/male-creator-brand-partnership-portfolio/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 17,
+    "keyword": "tiktok likes free",
+    "slug": "tiktok-free-likes-incentive-evidence-literacy",
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "title": [
+      "免费 TikTok 点赞为什么不能证明观众认可",
+      "TikTok Likes Free: Understand Incentives and Evidence"
+    ],
+    "brandDecision": "Explain prompted interactions, task offers and measurement limits without promoting boosting",
+    "overlapWithExisting": "Prior TikTok-like posts define events; this teaches how incentives change what a count can support",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": true,
+    "englishBodyWords": 1517,
+    "chineseHanzi": 2278,
+    "primarySources": [
+      {
+        "id": "ttIntegrity",
+        "url": "https://newsroom.tiktok.com/how-tiktok-counters-deceptive-behaviour?lang=en-150"
+      },
+      {
+        "id": "metaTaskScam",
+        "url": "https://about.fb.com/news/2025/08/new-whatsapp-tools-tips-beat-messaging-scams/"
+      },
+      {
+        "id": "magenta",
+        "url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "指标决策指南",
+          "metrics decision guide"
+        ],
+        "url": "/blog/social-media-metrics-creator-decision-tree/#answer"
+      },
+      {
+        "terms": [
+          "报表口径修正方法",
+          "reporting-baseline method"
+        ],
+        "url": "/blog/free-ig-followers-campaign-baseline-reset/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 18,
+    "keyword": "ads library facebook",
+    "slug": "facebook-ad-library-sponsored-version-comparison",
+    "topic": "discovery",
+    "family": "Environment / objects",
+    "title": [
+      "Facebook 广告资料库：达人素材",
+      "Facebook Ads Library: Compare Sponsored Creative Versions"
+    ],
+    "brandDecision": "Compare observable creator ad variants while leaving spend, delivery and causality unknown",
+    "overlapWithExisting": "Existing Ad Library guide researches expressions; this designs a version comparison worksheet",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1523,
+    "chineseHanzi": 2335,
+    "primarySources": [
+      {
+        "id": "adLibraryHistory",
+        "url": "https://about.fb.com/news/2019/03/a-better-way-to-learn-about-ads/"
+      },
+      {
+        "id": "adLibraryEU",
+        "url": "https://about.fb.com/news/2023/08/new-features-and-additional-transparency-measures-as-the-digital-services-act-comes-into-effect/"
+      },
+      {
+        "id": "magenta",
+        "url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "创作者传播分工方法",
+          "creator distribution-role method"
+        ],
+        "url": "/blog/creator-media-strategy-distribution-roles/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 19,
+    "keyword": "best tiktok creator strategies",
+    "slug": "tiktok-creator-strategy-demonstration-iterations",
+    "topic": "campaign",
+    "family": "Solo creator",
+    "title": [
+      "TikTok 创作者策略怎样从一个演示问题开始",
+      "TikTok Creator Strategies: Improve One Demonstration"
+    ],
+    "brandDecision": "Plan a creator-led test around a product explanation rather than an alleged algorithm hack",
+    "overlapWithExisting": "Existing TikTok best practices and algorithm pieces do not operationalize an explanation iteration",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1550,
+    "chineseHanzi": 2309,
+    "primarySources": [
+      {
+        "id": "ttCreativeGuide",
+        "url": "https://ads.tiktok.com/business/en/guides/what-is-ad-creative-guide"
+      },
+      {
+        "id": "ttMusic",
+        "url": "https://ads.tiktok.com/resources/help/article/commercial-music-library?lang=en"
+      },
+      {
+        "id": "magenta",
+        "url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "指标决策指南",
+          "metrics decision guide"
+        ],
+        "url": "/blog/social-media-metrics-creator-decision-tree/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 20,
+    "keyword": "create facebook page",
+    "slug": "facebook-page-creator-campaign-public-home",
+    "topic": "campaign",
+    "family": "Human documentary",
+    "title": [
+      "为达人合作建立 Facebook 主页时要说明什么",
+      "Create a Facebook Page for a Creator Campaign’s Public Home"
+    ],
+    "brandDecision": "Create and verify a brand Page as a legitimate campaign destination with responsible access",
+    "overlapWithExisting": "Existing Facebook marketing covers service operations; this sets up the campaign identity and public destination",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1527,
+    "chineseHanzi": 2357,
+    "primarySources": [
+      {
+        "id": "fbPagesHistory",
+        "url": "https://about.fb.com/news/2021/01/introducing-the-new-page-experience/"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "创作者传播分工方法",
+          "creator distribution-role method"
+        ],
+        "url": "/blog/creator-media-strategy-distribution-roles/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 21,
+    "keyword": "how to get rid of followers on instagram",
+    "slug": "instagram-follower-removal-campaign-record-change",
+    "topic": "analytics",
+    "family": "Editorial collage / data art",
+    "title": [
+      "移除 Instagram 粉丝后，合作报表该怎样解释变化",
+      "Remove Instagram Followers Without Rewriting a Campaign"
+    ],
+    "brandDecision": "Separate moderation choice, reporting change and authenticity conclusions",
+    "overlapWithExisting": "Existing free-follower recovery posts do not address deliberate moderation and denominator discontinuity",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1540,
+    "chineseHanzi": 2301,
+    "primarySources": [
+      {
+        "id": "metaModeration",
+        "url": "https://about.fb.com/news/2024/06/protecting-athletes-and-fans-on-our-apps-during-major-sporting-events-this-summer/"
+      },
+      {
+        "id": "magenta",
+        "url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "指标决策指南",
+          "metrics decision guide"
+        ],
+        "url": "/blog/social-media-metrics-creator-decision-tree/#answer"
+      },
+      {
+        "terms": [
+          "报表口径修正方法",
+          "reporting-baseline method"
+        ],
+        "url": "/blog/free-ig-followers-campaign-baseline-reset/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 22,
+    "keyword": "join brands",
+    "slug": "joinbrands-content-posting-acceptance-brief",
+    "topic": "commercial",
+    "family": "Solo creator",
+    "title": [
+      "JoinBrands：内容交付与账号发布",
+      "JoinBrands: Define Content, Posting and Acceptance"
+    ],
+    "brandDecision": "Specify marketplace deliverables, approval and use rights from a concrete job",
+    "overlapWithExisting": "New marketplace-specific article; does not repeat broad creator-platform selection or quote universal rights",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1542,
+    "chineseHanzi": 2397,
+    "primarySources": [
+      {
+        "id": "joinFlow",
+        "url": "https://help.joinbrands.com/en/articles/14494347-how-joinbrands-works-for-brands"
+      },
+      {
+        "id": "joinMusic",
+        "url": "https://help.joinbrands.com/en/articles/6273214-creators-what-about-adding-music-to-my-videos"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "创作者传播分工方法",
+          "creator distribution-role method"
+        ],
+        "url": "/blog/creator-media-strategy-distribution-roles/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 23,
+    "keyword": "social snowball",
+    "slug": "social-snowball-creator-commission-release-review",
+    "topic": "commercial",
+    "family": "Environment / objects",
+    "title": [
+      "Social Snowball 怎样安排达人佣金的待付与放行",
+      "Social Snowball: Review Creator Commission Release"
+    ],
+    "brandDecision": "Design order-status and payout-maturity checks with a reviewable exception record",
+    "overlapWithExisting": "Existing Socialsnowball capability guide checks features; this tests one creator commission release process",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1567,
+    "chineseHanzi": 2328,
+    "primarySources": [
+      {
+        "id": "snowMaturity",
+        "url": "https://www.socialsnowball.io/post/use-filters-to-automate-when-affiliate-commissions-are-sent"
+      },
+      {
+        "id": "snowPayout",
+        "url": "https://help.socialsnowball.io/en/articles/5544038-setting-up-the-tremendous-integration-for-quick-and-easy-commission-payouts"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "创作者传播分工方法",
+          "creator distribution-role method"
+        ],
+        "url": "/blog/creator-media-strategy-distribution-roles/#answer"
+      },
+      {
+        "terms": [
+          "指标决策指南",
+          "metrics decision guide"
+        ],
+        "url": "/blog/social-media-metrics-creator-decision-tree/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 24,
+    "keyword": "creator iq",
+    "slug": "creatoriq-campaign-data-export-handoff",
+    "topic": "analytics",
+    "family": "Type / background",
+    "title": [
+      "CreatorIQ 数据导出与项目交接",
+      "CreatorIQ: Plan a Campaign Data Handoff"
+    ],
+    "brandDecision": "Request and reconcile an export for ongoing creator work without promising every field or plan",
+    "overlapWithExisting": "Previous CreatorIQ articles review creator rate systems and pricing scope; this assesses data continuity and portability",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1530,
+    "chineseHanzi": 2324,
+    "primarySources": [
+      {
+        "id": "ciqExport",
+        "url": "https://www.creatoriq.com/influencer-marketing-solution/measureiq"
+      },
+      {
+        "id": "ciqDefinitions",
+        "url": "https://www.creatoriq.com/whats-new-in-creatoriq/views-to-impressions"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人项目状态方法",
+          "creator campaign-status method"
+        ],
+        "url": "/blog/creator-campaign-status-system/#answer"
+      },
+      {
+        "terms": [
+          "指标决策指南",
+          "metrics decision guide"
+        ],
+        "url": "/blog/social-media-metrics-creator-decision-tree/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 25,
+    "keyword": "instagram updates october 2025",
+    "slug": "instagram-october-2025-updates-campaign-retrospective",
+    "topic": "campaign",
+    "family": "Editorial collage / data art",
+    "title": [
+      "回看 2025 年 10 月 Instagram 更新，品牌能引用什么",
+      "Instagram Updates in October 2025: Read the Dates"
+    ],
+    "brandDecision": "Separate dated announcements, rollout scope and expiring features from current campaign requirements",
+    "overlapWithExisting": "Existing Instagram update article is general; this treats a specific historical month and avoids present-tense extrapolation",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1543,
+    "chineseHanzi": 2275,
+    "primarySources": [
+      {
+        "id": "metaAI2025",
+        "url": "https://about.fb.com/news/2025/10/improving-your-recommendations-apps-ai-meta/"
+      },
+      {
+        "id": "igTranslation",
+        "url": "https://about.fb.com/news/2025/10/translate-dub-and-lip-sync-your-reels-between-hindi-and-english-now-on-instagram-and-facebook/"
+      },
+      {
+        "id": "igDiwali2025",
+        "url": "https://about.fb.com/news/2025/10/add-sparkle-to-your-diwali-content-with-instagrams-fresh-festive-updates/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "指标决策指南",
+          "metrics decision guide"
+        ],
+        "url": "/blog/social-media-metrics-creator-decision-tree/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 26,
+    "keyword": "tiktok trends right now",
+    "slug": "tiktok-trends-live-brief-recheck-window",
+    "topic": "campaign",
+    "family": "Solo creator",
+    "title": [
+      "TikTok 当下趋势：交稿前复核",
+      "TikTok Trends Right Now: Recheck Before the Brief Goes Live"
+    ],
+    "brandDecision": "Define a live-trend evidence and expiry check at production handoff",
+    "overlapWithExisting": "Yesterday trends-today assesses relevance; this handles evidence freshness and whether a brief is still valid",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1539,
+    "chineseHanzi": 2221,
+    "primarySources": [
+      {
+        "id": "ttCreative",
+        "url": "https://ads.tiktok.com/help/article/about-the-creative-tips-finder"
+      },
+      {
+        "id": "ttTrends",
+        "url": "https://ads.tiktok.com/resources/help/article/how-to-use-trends?redirected=2"
+      },
+      {
+        "id": "ttMusic",
+        "url": "https://ads.tiktok.com/resources/help/article/commercial-music-library?lang=en"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "单项演示迭代方法",
+          "single-demonstration iteration method"
+        ],
+        "url": "/blog/tiktok-creator-strategy-demonstration-iterations/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 27,
+    "keyword": "link in bio tools",
+    "slug": "creator-link-bio-tools-destination-ownership",
+    "topic": "commercial",
+    "family": "Type / background",
+    "title": [
+      "Link in Bio 工具怎样保留合作落地页的控制权",
+      "Link in Bio Tools: Keep Control of the Campaign Destination"
+    ],
+    "brandDecision": "Compare routing, destination editing and handoff needs across tools without invented rankings",
+    "overlapWithExisting": "Existing bio tools and redirect pieces test clicks; this chooses for destination ownership and exit continuity",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1532,
+    "chineseHanzi": 2288,
+    "primarySources": [
+      {
+        "id": "linktreeDomain",
+        "url": "https://linktr.ee/help/articles/6571689-about-custom-domains"
+      },
+      {
+        "id": "laterBio",
+        "url": "https://help.later.com/hc/en-us/articles/4409203074967-What-is-Link-in-Bio"
+      },
+      {
+        "id": "linktreeArchive",
+        "url": "https://linktr.ee/help/articles/5434146-how-to-hide-archive-or-delete-your-links"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "指标决策指南",
+          "metrics decision guide"
+        ],
+        "url": "/blog/social-media-metrics-creator-decision-tree/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 28,
+    "keyword": "how to add music to instagram post",
+    "slug": "instagram-post-music-sponsored-rights-route",
+    "topic": "commercial",
+    "family": "Solo creator",
+    "title": [
+      "给 Instagram 合作帖加音乐前，要先确认哪条使用路径",
+      "Add Music to an Instagram Post With a Rights Plan"
+    ],
+    "brandDecision": "Choose a cleared audio path for organic creator posting and intended reuse",
+    "overlapWithExisting": "Existing music sponsorship and Canva rights articles do not address an Instagram post audio decision",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1552,
+    "chineseHanzi": 2322,
+    "primarySources": [
+      {
+        "id": "igMusicPhotos",
+        "url": "https://about.fb.com/news/2023/08/music-and-collabs-on-instagram/amp/"
+      },
+      {
+        "id": "copyrightMusic",
+        "url": "https://www.copyright.gov/register/pa-sr.html"
+      },
+      {
+        "id": "metaRights",
+        "url": "https://about.fb.com/news/2023/01/helping-creators-and-publishers-manage-intellectual-property/"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "创作者传播分工方法",
+          "creator distribution-role method"
+        ],
+        "url": "/blog/creator-media-strategy-distribution-roles/#answer"
+      },
+      {
+        "terms": [
+          "Instagram 排期条件检查方法",
+          "Instagram scheduling-condition check"
+        ],
+        "url": "/blog/instagram-scheduling-format-capability-check/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 29,
+    "keyword": "can you schedule posts on instagram",
+    "slug": "instagram-scheduling-format-capability-check",
+    "topic": "campaign",
+    "family": "Human documentary",
+    "title": [
+      "Instagram 合作帖能排期吗？先检查这条内容的条件",
+      "Can You Schedule Instagram Posts? Check This Asset"
+    ],
+    "brandDecision": "Verify account-and-format capability before promising a scheduled creator deliverable",
+    "overlapWithExisting": "Earlier scheduling posts freeze approved versions and set cutoffs; this decides whether this format can use scheduling at all",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1524,
+    "chineseHanzi": 2331,
+    "primarySources": [
+      {
+        "id": "metaSuiteApp",
+        "url": "https://apps.apple.com/au/app/meta-business-suite/id514643583"
+      },
+      {
+        "id": "metaOne",
+        "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/amp/"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "Instagram 合作帖音乐计划",
+          "Instagram creator-post music plan"
+        ],
+        "url": "/blog/instagram-post-music-sponsored-rights-route/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  },
+  {
+    "id": 30,
+    "keyword": "tiktok stories",
+    "slug": "tiktok-stories-creator-campaign-expiry-evidence",
+    "topic": "campaign",
+    "family": "Solo creator",
+    "title": [
+      "TikTok Stories 合作怎样在短窗口里完成说明与留证",
+      "TikTok Stories: Plan a Creator Campaign’s Short Window"
+    ],
+    "brandDecision": "Brief a useful expiring story with visibility checks, contextual disclosure and evidence retention",
+    "overlapWithExisting": "Existing Instagram Stories sequences are platform-specific; this covers TikTok Story expiry and evidence limits",
+    "searchIntent": "Creator-marketing education and execution for brands and agencies",
+    "reviewedAt": "2026-11-13",
+    "status": "bilingual-body-audit-passed",
+    "educationOnly": false,
+    "englishBodyWords": 1528,
+    "chineseHanzi": 2265,
+    "primarySources": [
+      {
+        "id": "ttStories",
+        "url": "https://support.tiktok.com/en/using-tiktok/creating-videos/tiktok-stories"
+      },
+      {
+        "id": "ftcDisclosure",
+        "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+      },
+      {
+        "id": "ftcPrivacy",
+        "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business"
+      }
+    ],
+    "contextualInternalLinks": [
+      {
+        "terms": [
+          "达人 Brief",
+          "creator brief"
+        ],
+        "url": "/blog/write-a-useful-campaign-brief/#answer"
+      },
+      {
+        "terms": [
+          "达人内容发布时钟方法",
+          "creator release-clock method"
+        ],
+        "url": "/blog/facebook-scheduling-creator-event-release-clock/#answer"
+      }
+    ],
+    "localPreviewIntegrated": true
+  }
+]

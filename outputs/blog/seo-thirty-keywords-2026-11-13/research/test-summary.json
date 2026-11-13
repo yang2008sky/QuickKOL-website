@@ -1,0 +1,6 @@
+{
+  "tests": 61,
+  "pass": 60,
+  "fail": 1,
+  "limitation": "Previously existing English glossary contains Chinese terms; not changed."
+}
