@@ -18,6 +18,7 @@ test('English is the default and Chinese uses the zh prefix', () => {
     { language: 'zh-CN', path: '/zh/' },
     { language: 'en', path: '/' },
     { language: 'x-default', path: '/' },
+    ...['vi', 'id', 'hi', 'bn'].map((language) => ({ language, path: `/${language}/` })),
   ]);
 });
 
@@ -36,7 +37,12 @@ test('pilot language links only advertise available article and archive routes',
     assert.equal(languageSwitchPath(article + '?ref=mail#answer', language), `/${language}${article}?ref=mail#answer`);
     assert.equal(languageSwitchPath('/blog/create-youtube-channel-collaboration-launch-check/', language), `/${language}/blog/`);
     assert.equal(languageSwitchPath('/blog/page/43/', language), `/${language}/blog/`);
-    assert.equal(languageSwitchPath('/', language), `/${language}/blog/`);
+    assert.equal(languageSwitchPath('/', language), `/${language}/`);
+    assert.equal(languageSwitchPath('/#top', language), `/${language}/#top`);
+    assert.equal(languageSwitchPath('/zh/?ref=menu#top', language), `/${language}/?ref=menu#top`);
+    assert.equal(localizedPath('/', language), `/${language}/`);
+    assert.equal(localizedPath(`/${language}/#capabilities`, 'en'), '/#capabilities');
+    assert.ok(languageAlternates(`/${language}/`).some((alternate) => alternate.language === language && alternate.path === `/${language}/`));
     assert.equal(localizedPath('/about/', language), '/about/');
     assert.ok(languageAlternates(article).some((alternate) => alternate.language === language));
     assert.ok(!languageAlternates('/blog/create-youtube-channel-collaboration-launch-check/').some((alternate) => alternate.language === language));

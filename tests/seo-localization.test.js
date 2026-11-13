@@ -87,6 +87,10 @@ test('legacy pagination and aliases redirect once while preserving filters and t
     ['/zh/privacy-policy/', '/zh/privacy.html'],
     ['/en/blog/page/2/', '/blog/page/2/'],
     ['/zh', '/zh/'],
+    ...['vi', 'id', 'hi', 'bn'].flatMap((language) => [
+      [`/${language}`, `/${language}/`],
+      [`/${language}/index.html?ref=launch`, `/${language}/?ref=launch`],
+    ]),
     ['/zh/index.html?ref=launch', '/zh/?ref=launch'],
     ['/zh/blog/?page=2&q=creator', '/zh/blog/page/2/?q=creator'],
     ['/zh/blog/topic/discovery?page=2&q=creator', '/zh/blog/topic/discovery/page/2/?q=creator'],
@@ -105,7 +109,7 @@ test('legacy pagination and aliases redirect once while preserving filters and t
     assert.equal(response.headers.get('location'), `https://www.quickkol.com${target}`, source);
     assert.equal(middleware(new Request(response.headers.get('location'))).headers.get('location'), null, `redirect loop: ${source}`);
   }
-  for (const path of ['/terms.html', '/privacy.html', '/zh/privacy.html', '/blog/?page=0', '/blog/?page=-2', '/blog/?page=2.5', '/blog/?page=abc', '/blog/?q=creator']) {
+  for (const path of ['/vi/', '/id/', '/hi/', '/bn/', '/terms.html', '/privacy.html', '/zh/privacy.html', '/blog/?page=0', '/blog/?page=-2', '/blog/?page=2.5', '/blog/?page=abc', '/blog/?q=creator']) {
     assert.equal(middleware(new Request(`https://www.quickkol.com${path}`)).headers.get('location'), null, path);
   }
 });

@@ -9,7 +9,7 @@ export default function middleware(request) {
   const original = url.href;
   url.pathname = url.pathname.replace(/^\/en(?=\/|$)/, '') || '/';
   url.pathname = url.pathname.replace(/\/index\.html$/, '/');
-  url.pathname = url.pathname.replace(/^\/(vi|id|hi|bn)\/?$/, '/$1/blog/');
+  url.pathname = url.pathname.replace(/^\/(vi|id|hi|bn)$/, '/$1/');
   url.pathname = url.pathname.replace(/^(\/zh)?\/privacy-policy\/?$/, '$1/privacy.html');
   if (/^\/zh\/tools\/invoice-generator\/?$/.test(url.pathname)) url.pathname = '/tools/invoice-generator/';
   if (/^\/(?:(?:zh|vi|id|hi|bn)(?:\/|$))?(?:blog(?:\/|$)|tools\/|about\/?$|pricing\/?$|contact\/?$|faq\/?$|$)/.test(url.pathname)

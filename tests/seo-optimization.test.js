@@ -13,6 +13,33 @@ async function withPage(path, check) {
   }
 }
 
+test('pilot homepages ship translated content and keep navigation in the selected language', async () => {
+  const sitemap = await readFile('dist/sitemap.xml', 'utf8');
+  const english = await readFile('dist/index.html', 'utf8');
+  for (const language of ['vi', 'id', 'hi', 'bn']) {
+    const catalog = JSON.parse(await readFile(`src/locales/${language}.json`, 'utf8'));
+    await withPage(`/${language}/`, (document) => {
+      assert.equal(document.documentElement.lang, language);
+      assert.ok(document.querySelector('h1').textContent.includes(catalog['Find the right creators,']));
+      assert.ok(document.querySelector('h1').textContent.includes(catalog['reach them faster']));
+      assert.ok(document.querySelector('.hero [data-start]').textContent.includes(catalog['Start free']));
+      assert.equal(document.querySelector('.brand').href, `https://www.quickkol.com/${language}/#top`);
+      assert.ok(document.querySelector(`.desktop-nav a[href="/${language}/blog/"]`));
+      assert.equal(document.querySelector(`a[data-language-option="${language}"]`).getAttribute('href'), `/${language}/`);
+      assert.equal(document.querySelector('a[data-language-option="en"]').getAttribute('href'), '/');
+      assert.equal(document.querySelector('a[data-language-option="zh-CN"]').getAttribute('href'), '/zh/');
+      assert.equal(document.querySelector('link[rel="canonical"]').href, `https://www.quickkol.com/${language}/`);
+      assert.equal(document.querySelectorAll('link[hreflang]').length, 7);
+      assert.notEqual(document.title, english.match(/<title>(.*?)<\/title>/)[1]);
+      assert.doesNotMatch(document.querySelector('main').textContent, /[\u3400-\u9fff]/);
+      for (const source of ['CREATOR INTELLIGENCE', 'Your Campaign', 'PROOF FROM THE FIELD', 'BEFORE YOU START', 'YOUR NEXT CREATOR CAMPAIGN', 'AI for your next creator campaign.']) {
+        assert.ok(!document.querySelector('#app').textContent.includes(source), `${language}: untranslated ${source}`);
+      }
+      assert.ok(sitemap.includes(`<loc>https://www.quickkol.com/${language}/</loc>`));
+    });
+  }
+});
+
 test('blog pagination exposes every article without JavaScript', async () => {
   const sitemap = await readFile('dist/sitemap.xml', 'utf8');
   const articles = [...sitemap.matchAll(/<loc>https:\/\/www.quickkol.com(\/blog\/[^/]+\/)<\/loc>/g)].map((match) => match[1]);

@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+Bengali:wght@400;500;600;700;800;900&family=Noto+Sans+Devanagari:wght@400;500;600;700;800;900&family=Noto+Sans+SC:wght@400;500;600;700;800;900&display=swap");
 
 :root {
   color-scheme: light;
@@ -39,6 +39,10 @@ html[data-theme="dark"] {
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
+html[lang="hi"] { font-family: "Manrope", "Noto Sans Devanagari", sans-serif; }
+html[lang="bn"] { font-family: "Manrope", "Noto Sans Bengali", sans-serif; }
+html:is([lang="hi"], [lang="bn"]) :is(h1, h2, h3, h4) { letter-spacing: normal; line-height: 1.35; }
+html:is([lang="hi"], [lang="bn"]) :is(.eyebrow, .testimonial-context, .testimonial-card blockquote, .faq-question > b, .footer-column > span) { letter-spacing: normal; }
 body { margin: 0; min-width: 320px; background: var(--bg); color: var(--text); -webkit-font-smoothing: antialiased; transition: background-color .35s ease, color .35s ease; }
 button, textarea, input { font: inherit; }
 button, a { -webkit-tap-highlight-color: transparent; }

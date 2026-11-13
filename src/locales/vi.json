@@ -250,7 +250,7 @@
   "Switch to light mode": "Chuyển sang chế độ ánh sáng",
   "Switch to dark mode": "Chuyển sang chế độ tối",
   "Choose language": "Chọn ngôn ngữ",
-  "Find the right creators,": "Tìm người sáng tạo phù hợp,",
+  "Find the right creators,": "Tìm nhà sáng tạo phù hợp,",
   "reach them faster": "tiếp cận họ nhanh hơn",
   "From one brief to a campaign plan, creator shortlist, and personalized outreach, QuickKOL helps you move it forward.": "Từ bản tóm tắt đến kế hoạch chiến dịch, danh sách rút gọn của người sáng tạo và hoạt động tiếp cận được cá nhân hóa, QuickKOL sẽ giúp bạn phát triển chiến dịch.",
   "Add to Chrome": "Thêm vào Chrome",
@@ -6171,5 +6171,17 @@
   "THE QUICKKOL": "NHANH CHÓNG",
   "QUICKKOL / INSIGHTS": "QUICKKOL / THÔNG TIN CHI TIẾT",
   "BLOG.": "BLOG.",
-  "QUICKKOL BLOG /": "BLOG NHANH CHÓNG /"
+  "QUICKKOL BLOG /": "BLOG NHANH CHÓNG /",
+  "Top 5": "Top 5",
+  "CREATOR INTELLIGENCE": "TRÍ TUỆ CỦA NGƯỜI SÁNG TẠO",
+  "AI Discovery": "Khám phá AI",
+  "AI Agent": "Đặc vụ AI",
+  "QUICKKOL AI AGENT": "ĐẠI LÝ AI QUICKKOL",
+  "Your Campaign": "Chiến dịch của bạn",
+  "AI Agent Campaign brief": "Tóm tắt chiến dịch đại lý AI",
+  "BEFORE YOU START": "TRƯỚC KHI BẠN BẮT ĐẦU",
+  "PROOF FROM THE FIELD": "BẰNG CHỨNG TỪ TRƯỜNG",
+  "YOUR NEXT CREATOR CAMPAIGN": "CHIẾN DỊCH NGƯỜI SÁNG TẠO TIẾP THEO CỦA BẠN",
+  "AI for your next creator campaign.": "AI cho chiến dịch sáng tạo tiếp theo của bạn.",
+  "© 2026 QuickKOL. All rights reserved.": "© 2026 QuickKOL. Mọi quyền được bảo lưu."
 }

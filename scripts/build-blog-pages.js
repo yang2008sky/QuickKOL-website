@@ -83,9 +83,10 @@ for (const filename of ['index.html', 'terms.html', 'privacy.html']) {
   const source = await readFile(file, 'utf8');
   const path = filename === 'index.html' ? '/' : `/${filename}`;
   await mkdir(new URL('../dist/zh/', import.meta.url), { recursive: true });
-  for (const language of ['zh-CN', 'en']) {
+  for (const language of ['zh-CN', 'en', ...(filename === 'index.html' ? blogLanguages : [])]) {
     const target = localizedPath(path, language);
     const output = new URL(`../dist${target.endsWith('/') ? `${target}index.html` : target}`, import.meta.url);
+    await mkdir(new URL('./', output), { recursive: true });
     await writeFile(output, await prerender(pageHtml(source, {
       path: target,
       title: source.match(/<title>([^<]*)<\/title>/)[1],
@@ -93,10 +94,11 @@ for (const filename of ['index.html', 'terms.html', 'privacy.html']) {
     }), target));
   }
 }
-console.log(`Generated ${localizedPages.length + 6} Chinese/English site, tool and blog entry points.`);
+console.log(`Generated ${localizedPages.length + 6 + blogLanguages.length} localized site, tool and blog entry points.`);
 
 const sitemapPages = [
   ...['/', '/terms.html', '/privacy.html', '/zh/', '/zh/terms.html', '/zh/privacy.html'].map((path) => ({ path })),
+  ...blogLanguages.map((language) => ({ path: `/${language}/` })),
   ...localizedPages.map(({ path, lastmod }) => ({ path: `/${path}/`, lastmod })),
 ];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>

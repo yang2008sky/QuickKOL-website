@@ -26,16 +26,20 @@ export function pathLocale(path) {
   return prefix === 'zh' ? 'zh-CN' : prefix || 'en';
 }
 
+function hasLocalizedPage(path) {
+  return routePath(path).split(/[?#]/)[0] === '/' || hasLocalizedBlogPath(path);
+}
+
 export function localizedPath(path, language) {
   const base = routePath(path);
   if (base.split(/[?#]/)[0] === '/tools/invoice-generator/') return base;
-  if (isBlogLanguage(language)) return hasLocalizedBlogPath(base) ? `/${language}${base}` : base;
+  if (isBlogLanguage(language)) return hasLocalizedPage(base) ? `/${language}${base}` : base;
   return language === 'zh-CN' ? `/zh${base}` : base;
 }
 
 export function languageSwitchPath(path, language) {
   const target = localizedPath(path, language);
-  return isBlogLanguage(language) && !hasLocalizedBlogPath(path) ? `/${language}/blog/` : target;
+  return isBlogLanguage(language) && !hasLocalizedPage(path) ? `/${language}/blog/` : target;
 }
 
 export function languageAlternates(path) {
@@ -45,6 +49,6 @@ export function languageAlternates(path) {
     { language: 'zh-CN', path: localizedPath(path, 'zh-CN') },
     { language: 'en', path: localizedPath(path, 'en') },
     { language: 'x-default', path: localizedPath(path, 'en') },
-    ...(hasLocalizedBlogPath(path) ? blogLanguages.map((language) => ({ language, path: localizedPath(path, language) })) : []),
+    ...(hasLocalizedPage(path) ? blogLanguages.map((language) => ({ language, path: localizedPath(path, language) })) : []),
   ];
 }
