@@ -1,10 +1,14 @@
 import englishCatalog from "./locales/en.json";
 import chineseCatalog from "./locales/zh-CN.json";
-import { localizedPath, pathLocale, routePath } from './localized-paths.js';
+import { languageSwitchPath, localizedPath, pathLocale, routePath } from './localized-paths.js';
 
 export const languages = [
   { code: "en", label: "English", shortLabel: "EN" },
   { code: "zh-CN", label: "简体中文", shortLabel: "中文" },
+  { code: "vi", label: "Tiếng Việt", shortLabel: "VI" },
+  { code: "id", label: "Bahasa Indonesia", shortLabel: "ID" },
+  { code: "hi", label: "हिन्दी", shortLabel: "HI" },
+  { code: "bn", label: "বাংলা", shortLabel: "BN" },
   { code: "ja", label: "日本語", shortLabel: "JA" },
   { code: "ko", label: "한국어", shortLabel: "KO" },
   { code: "de", label: "Deutsch", shortLabel: "DE" },
@@ -14,6 +18,10 @@ export const languages = [
 ];
 const catalogs = { "zh-CN": chineseCatalog };
 const catalogLoaders = {
+  vi: () => import("./locales/vi.json"),
+  id: () => import("./locales/id.json"),
+  hi: () => import("./locales/hi.json"),
+  bn: () => import("./locales/bn.json"),
   ja: () => import("./locales/ja.json"),
   ko: () => import("./locales/ko.json"),
   de: () => import("./locales/de.json"),
@@ -182,7 +190,7 @@ export function applyTranslations(root = document.body) {
     if (!/^\/(?:$|[?#]|blog(?:\/|$)|tools\/|pricing(?:\/|$)|about(?:\/|$)|contact(?:\/|$)|faq(?:\/|$)|(?:privacy|terms)\.html(?:[?#]|$))/.test(base)) continue;
     const language = link.dataset.languageOption || pathLocale(window.location.pathname);
     const target = link.dataset.languageOption
-      ? localizedPath(window.location.pathname, language) + window.location.search + window.location.hash
+      ? languageSwitchPath(window.location.pathname + window.location.search + window.location.hash, language)
       : localizedPath(href, language);
     if (href !== target) link.setAttribute('href', target);
   }

@@ -3,7 +3,7 @@ import test from 'node:test';
 import { readFile, access } from 'node:fs/promises';
 import { Window } from 'happy-dom';
 import middleware from '../middleware.js';
-import { localizedPath, routePath } from '../src/localized-paths.js';
+import { languageAlternates, localizedPath, pathLocale, routePath } from '../src/localized-paths.js';
 
 test('translated HTML, language pairs, author identity and share images agree across the sitemap', async () => {
   const sitemap = await readFile('dist/sitemap.xml', 'utf8');
@@ -20,14 +20,15 @@ test('translated HTML, language pairs, author identity and share images agree ac
       window.document.write(await readFile(`dist${path.endsWith('/') ? `${path}index.html` : path}`, 'utf8'));
       const document = window.document;
       const invoice = path === '/tools/invoice-generator/';
-      const english = !path.startsWith('/zh/');
-      assert.equal(document.documentElement.lang, english || invoice ? 'en' : 'zh-CN', path);
+      const language = pathLocale(path);
+      const english = language === 'en';
+      assert.equal(document.documentElement.lang, invoice ? 'en' : language, path);
       const alternates = [...document.querySelectorAll('link[rel="alternate"][hreflang]')];
-      assert.equal(alternates.length, invoice ? 0 : 3, path);
+      assert.equal(alternates.length, languageAlternates(path).length, path);
       for (const link of alternates) {
         assert.ok(urlSet.has(link.href), `${path}: missing alternate ${link.href}`);
-        const language = link.hreflang === 'zh-CN' ? 'zh-CN' : 'en';
-        assert.equal(new URL(link.href).pathname, localizedPath(path, language), path);
+        const alternateLanguage = link.hreflang === 'x-default' ? 'en' : link.hreflang;
+        assert.equal(new URL(link.href).pathname, localizedPath(path, alternateLanguage), path);
       }
       if (english) {
         assert.doesNotMatch(document.querySelector('main').textContent, /[\u3400-\u9fff]/, path);
@@ -45,7 +46,7 @@ test('translated HTML, language pairs, author identity and share images agree ac
           const target = new URL(link.getAttribute('href'), url);
           assert.ok(urlSet.has(target.href), `${path}: related article ${target.href}`);
           assert.notEqual(target.href, url, path);
-          assert.equal(target.pathname.startsWith('/zh/'), !english, path);
+          assert.equal(pathLocale(target.pathname), language, path);
           relatedTargets.add(target.href);
         }
         const schema = JSON.parse(document.querySelector('script[data-blog-structured]').textContent);
@@ -56,7 +57,7 @@ test('translated HTML, language pairs, author identity and share images agree ac
         assert.equal(schema.inLanguage, document.documentElement.lang, path);
         assert.equal(schema.author['@type'], 'Person', path);
         assert.equal(schema.author.name, 'Daniel Craig', path);
-        assert.equal(schema.author.url, `https://www.quickkol.com${localizedPath('/about/', english ? 'en' : 'zh-CN')}#daniel-craig`, path);
+        assert.equal(schema.author.url, `https://www.quickkol.com${localizedPath('/about/', language)}#daniel-craig`, path);
         assert.equal(document.querySelector('[rel="author"]').textContent, 'Daniel Craig', path);
         const image = document.querySelector('meta[property="og:image"]').content;
         assert.equal(schema.image, image, path);

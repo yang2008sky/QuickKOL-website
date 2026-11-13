@@ -1,7 +1,7 @@
 import { next } from '@vercel/functions';
 
 export const config = {
-  matcher: ['/en/:path*', '/zh/:path*', '/blog/:path*', '/tools/:path*', '/about/:path*', '/pricing/:path*', '/contact/:path*', '/faq/:path*', '/privacy-policy/:path*', '/index.html'],
+  matcher: ['/en/:path*', '/zh/:path*', '/vi/:path*', '/id/:path*', '/hi/:path*', '/bn/:path*', '/blog/:path*', '/tools/:path*', '/about/:path*', '/pricing/:path*', '/contact/:path*', '/faq/:path*', '/privacy-policy/:path*', '/index.html'],
 };
 
 export default function middleware(request) {
@@ -9,14 +9,15 @@ export default function middleware(request) {
   const original = url.href;
   url.pathname = url.pathname.replace(/^\/en(?=\/|$)/, '') || '/';
   url.pathname = url.pathname.replace(/\/index\.html$/, '/');
+  url.pathname = url.pathname.replace(/^\/(vi|id|hi|bn)\/?$/, '/$1/blog/');
   url.pathname = url.pathname.replace(/^(\/zh)?\/privacy-policy\/?$/, '$1/privacy.html');
   if (/^\/zh\/tools\/invoice-generator\/?$/.test(url.pathname)) url.pathname = '/tools/invoice-generator/';
-  if (/^\/(?:zh(?:\/|$))?(?:blog(?:\/|$)|tools\/|about\/?$|pricing\/?$|contact\/?$|faq\/?$|$)/.test(url.pathname)
+  if (/^\/(?:(?:zh|vi|id|hi|bn)(?:\/|$))?(?:blog(?:\/|$)|tools\/|about\/?$|pricing\/?$|contact\/?$|faq\/?$|$)/.test(url.pathname)
       && !url.pathname.endsWith('/') && !url.pathname.split('/').pop().includes('.')) {
     url.pathname += '/';
   }
   const page = url.searchParams.get('page');
-  if (/^\/(?:zh\/)?blog\/(?:topic\/[a-z-]+\/)?$/.test(url.pathname) && /^[1-9]\d*$/.test(page || '')) {
+  if (/^\/(?:(?:zh|vi|id|hi|bn)\/)?blog\/(?:topic\/[a-z-]+\/)?$/.test(url.pathname) && /^[1-9]\d*$/.test(page || '')) {
     if (page !== '1') url.pathname += `page/${page}/`;
     url.searchParams.delete('page');
   }

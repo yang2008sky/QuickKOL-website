@@ -1,5 +1,5 @@
 import "./styles.css";
-import { routePath, pathLocale, localizedPath } from "./localized-paths.js";
+import { routePath, pathLocale, localizedPath, isBlogLanguage, languageSwitchPath } from "./localized-paths.js";
 import { initSeo } from "./seo.js";
 import { renderCreatorShowcase, mountCreatorShowcase } from "./creator-showcase.js";
 import { createCampaignWorkflow } from "./campaign-workflow.js";
@@ -212,9 +212,9 @@ const footerAiLinks = {
 };
 
 const renderLanguageOptions = () => languages.map((language) => {
-  const linked = language.code === 'en' || language.code === 'zh-CN';
+  const linked = language.code === 'en' || language.code === 'zh-CN' || isBlogLanguage(language.code);
   const tag = linked ? 'a' : 'button';
-  const target = localizedPath(window.location.pathname, language.code) + window.location.search + window.location.hash;
+  const target = languageSwitchPath(window.location.pathname + window.location.search + window.location.hash, language.code);
   return `
   <${tag} class="language-option ${language.code === currentLanguage ? "is-active" : ""}" ${linked ? `href="${target.replace(/&/g, '&amp;').replace(/"/g, '&quot;')}"` : 'type="button"'} role="option" data-language-option="${language.code}" aria-selected="${language.code === currentLanguage}" ${isLocaleAvailable(language.code) ? "" : "disabled"}>
     <span data-i18n-ignore>${language.label}</span>

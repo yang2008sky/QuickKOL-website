@@ -27,7 +27,8 @@ import { semrushBlogPosts } from '../src/blog-semrush-posts.js';
 import { semrushBatchTwoPosts } from '../src/blog-semrush-b2-posts.js';
 import { semrushBatchThreePosts } from '../src/blog-semrush-b3-posts.js';
 import { renderSeoTags, siteOrigin, articleShareImage } from '../src/seo.js';
-import { localizedPath } from '../src/localized-paths.js';
+import { hasLocalizedBlogPath, localizedPath } from '../src/localized-paths.js';
+import { blogLanguages } from '../src/blog-localization-manifest.js';
 import { createPrerenderer } from './prerender.js';
 import { BLOG_PAGE_SIZE, blogPagePath } from '../src/blog-pagination.js';
 
@@ -66,7 +67,11 @@ const pages = [
 ];
 const localizedPages = pages.flatMap((page) => {
   const chinese = localizedPath(`/${page.path}/`, 'zh-CN').slice(1, -1);
-  return chinese === page.path ? [page] : [page, { ...page, path: chinese }];
+  const entries = chinese === page.path ? [page] : [page, { ...page, path: chinese }];
+  if (hasLocalizedBlogPath(`/${page.path}/`)) {
+    entries.push(...blogLanguages.map((language) => ({ ...page, path: `${language}/${page.path}` })));
+  }
+  return entries;
 });
 for (const page of localizedPages) {
   const dir = new URL(`../dist/${page.path}/`, import.meta.url);
