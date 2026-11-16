@@ -1,0 +1,649 @@
+{
+  "batch": "seo-thirty-keywords-2026-11-16",
+  "branch": "seo-blog",
+  "baseRevision": "184a8b0276084522237a91a2a5d5b91ae160bb20",
+  "articleCount": 30,
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "contentModule": "src/blog-november-sixteenth.js",
+  "exportName": "novemberSixteenthPosts",
+  "draftDate": "2026-11-16",
+  "status": "awaiting-maintainer-integration-and-publication",
+  "excludedAtUserRequest": [
+    "addgram followers.com"
+  ],
+  "articles": [
+    {
+      "order": 1,
+      "originalId": 1,
+      "keyword": "canva for instagram carousel",
+      "slug": "canva-carousel-creator-explanation-page-order",
+      "title": [
+        "Canva 轮播怎样排清达人演示",
+        "Canva for Instagram Carousel: Order a Creator Explanation"
+      ],
+      "brandDecision": "Design page order, export sequence, factual approval and accessibility for an explanatory sponsored carousel; old Canva kit covers reusable template licensing.",
+      "educationOnly": false,
+      "englishBodyWords": 1549,
+      "cover": "canva-carousel-creator-explanation-page-order.jpg",
+      "bodyFigures": [
+        "canva-carousel-page-order-workbench.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/canva-carousel-creator-explanation-page-order/",
+        "zh": "https://www.quickkol.com/zh/blog/canva-carousel-creator-explanation-page-order/"
+      }
+    },
+    {
+      "order": 2,
+      "originalId": 2,
+      "keyword": "how to get monetized on tiktok",
+      "slug": "tiktok-monetization-sponsored-work-eligibility",
+      "title": [
+        "TikTok 变现怎样准备合作收入计划",
+        "Get Monetized on TikTok: Build a Brand-Ready Revenue Plan"
+      ],
+      "brandDecision": "Build a creator monetization plan with separate payers, scoped work, program conditions and payment states; the older Creator Rewards article focuses video eligibility.",
+      "educationOnly": false,
+      "englishBodyWords": 1537,
+      "cover": "tiktok-monetization-sponsored-work-eligibility.jpg",
+      "bodyFigures": [
+        "tiktok-monetization-separate-routes.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-monetization-sponsored-work-eligibility/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-monetization-sponsored-work-eligibility/"
+      }
+    },
+    {
+      "order": 3,
+      "originalId": 3,
+      "keyword": "linktreee",
+      "slug": "linktree-spelling-sponsored-link-labels",
+      "title": [
+        "Linktree 合作入口怎样命名清楚",
+        "Linktreee: Clear Creator Links"
+      ],
+      "brandDecision": "Resolve Linktree spelling and label meaning; compare sponsor link labels with actual destinations rather than repeat ownership/exit guide.",
+      "educationOnly": false,
+      "englishBodyWords": 1562,
+      "cover": "linktree-spelling-sponsored-link-labels.jpg",
+      "bodyFigures": [
+        "linktree-sponsored-label-destination.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/linktree-spelling-sponsored-link-labels/",
+        "zh": "https://www.quickkol.com/zh/blog/linktree-spelling-sponsored-link-labels/"
+      }
+    },
+    {
+      "order": 4,
+      "originalId": 4,
+      "keyword": "tiktok filters",
+      "slug": "tiktok-filters-sponsored-product-appearance",
+      "title": [
+        "TikTok 滤镜怎样保留真实产品表现",
+        "TikTok Filters: Keep Sponsored Product Appearance Honest"
+      ],
+      "brandDecision": "Evaluate visual transformations for sponsored product demonstrations, preserving material appearance and comparison conditions.",
+      "educationOnly": false,
+      "englishBodyWords": 1549,
+      "cover": "tiktok-filters-sponsored-product-appearance.jpg",
+      "bodyFigures": [
+        "filter-product-lighting-reference.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-filters-sponsored-product-appearance/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-filters-sponsored-product-appearance/"
+      }
+    },
+    {
+      "order": 5,
+      "originalId": 5,
+      "keyword": "tik tok trends",
+      "slug": "tiktok-trend-format-creator-contribution",
+      "title": [
+        "TikTok 趋势里谁贡献了创意",
+        "Tik Tok Trends: Identify the Creator Contribution"
+      ],
+      "brandDecision": "Distinguish a recurring format from a specific creator contribution; attribute source ideas and brief original adaptation, rather than refresh ranking or fit calendar.",
+      "educationOnly": false,
+      "englishBodyWords": 1549,
+      "cover": "tiktok-trend-format-creator-contribution.jpg",
+      "bodyFigures": [
+        "trend-format-creator-contribution.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-trend-format-creator-contribution/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-trend-format-creator-contribution/"
+      }
+    },
+    {
+      "order": 6,
+      "originalId": 6,
+      "keyword": "youtube ad revenue",
+      "slug": "youtube-ad-revenue-sponsorship-scope",
+      "title": [
+        "YouTube 广告收入与赞助费",
+        "YouTube Ad Revenue: Keep Sponsorship Economics Separate"
+      ],
+      "brandDecision": "Define ads revenue, RPM and creator-brand fees with official bases; do not infer private earnings or set a follower salary.",
+      "educationOnly": false,
+      "englishBodyWords": 1567,
+      "cover": "youtube-ad-revenue-sponsorship-scope.jpg",
+      "bodyFigures": [
+        "youtube-revenue-sponsorship-bases.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-ad-revenue-sponsorship-scope/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-ad-revenue-sponsorship-scope/"
+      }
+    },
+    {
+      "order": 7,
+      "originalId": 7,
+      "keyword": "instagram followers the most",
+      "slug": "instagram-most-followed-creator-reach-brief",
+      "title": [
+        "超大 Instagram 账号怎样写提案",
+        "Instagram Followers the Most: Brief a High-Profile Collaboration"
+      ],
+      "brandDecision": "Use a short dated record answer, then design a high-profile collaboration proposal around specific expression, placement, approval roles and permitted adaptations; do not repeat existing ranking construction, reach estimation or audience-fit guides.",
+      "educationOnly": false,
+      "englishBodyWords": 1514,
+      "cover": "instagram-most-followed-creator-reach-brief.jpg",
+      "bodyFigures": [
+        "instagram-scale-fit-scope.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-most-followed-creator-reach-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-most-followed-creator-reach-brief/"
+      }
+    },
+    {
+      "order": 8,
+      "originalId": 8,
+      "keyword": "playboard",
+      "slug": "playboard-super-chat-sponsor-evidence",
+      "title": [
+        "Playboard 数据能说明多少赞助价值",
+        "Playboard: Read Super Chat Data for Sponsor Research"
+      ],
+      "brandDecision": "Explain publicly observed paid fan support versus ad income and sponsor outcomes; scope provider metrics, not vendor ranking.",
+      "educationOnly": false,
+      "englishBodyWords": 1527,
+      "cover": "playboard-super-chat-sponsor-evidence.jpg",
+      "bodyFigures": [
+        "playboard-support-revenue-outcomes.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/playboard-super-chat-sponsor-evidence/",
+        "zh": "https://www.quickkol.com/zh/blog/playboard-super-chat-sponsor-evidence/"
+      }
+    },
+    {
+      "order": 9,
+      "originalId": 9,
+      "keyword": "count views",
+      "slug": "youtube-sponsored-view-count-reconciliation",
+      "title": [
+        "核对达人视频观看数",
+        "Count Views: YouTube Reporting for Brands"
+      ],
+      "brandDecision": "Reconcile public, realtime estimated and reporting-window YouTube counts at closing; not old TikTok counting definition.",
+      "educationOnly": false,
+      "englishBodyWords": 1514,
+      "cover": "youtube-sponsored-view-count-reconciliation.jpg",
+      "bodyFigures": [
+        "youtube-view-count-source-windows.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-sponsored-view-count-reconciliation/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-sponsored-view-count-reconciliation/"
+      }
+    },
+    {
+      "order": 10,
+      "originalId": 10,
+      "keyword": "streamer charts",
+      "slug": "streams-charts-live-demo-duration",
+      "title": [
+        "Streams Charts 怎样解释直播观看时长",
+        "Streamer Charts: Read the Duration Behind a Live Demo"
+      ],
+      "brandDecision": "Disambiguate Streams Charts and use its Hours Watched formula to distinguish airtime and average concurrent audience for sponsor planning.",
+      "educationOnly": false,
+      "englishBodyWords": 1505,
+      "cover": "streams-charts-live-demo-duration.jpg",
+      "bodyFigures": [
+        "live-hours-average-airtime.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/streams-charts-live-demo-duration/",
+        "zh": "https://www.quickkol.com/zh/blog/streams-charts-live-demo-duration/"
+      }
+    },
+    {
+      "order": 11,
+      "originalId": 11,
+      "keyword": "track instagram followers",
+      "slug": "instagram-follower-tracking-campaign-event-log",
+      "title": [
+        "团队怎样共用 Instagram 粉丝记录",
+        "Track Instagram Followers Across a Campaign Team"
+      ],
+      "brandDecision": "Focus on a multi-team aggregate follower-record handoff: ownership, shared event labels, simultaneous campaigns, late corrections and limited sharing; old article already covers observation windows and a basic event log.",
+      "educationOnly": false,
+      "englishBodyWords": 1511,
+      "cover": "instagram-follower-tracking-campaign-event-log.jpg",
+      "bodyFigures": [
+        "instagram-follower-count-event-context.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-follower-tracking-campaign-event-log/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-follower-tracking-campaign-event-log/"
+      }
+    },
+    {
+      "order": 12,
+      "originalId": 12,
+      "keyword": "youtube watch rewards tracker",
+      "slug": "youtube-watch-reward-claim-verification",
+      "title": [
+        "YouTube 观看奖励承诺该怎样核验",
+        "YouTube Watch Rewards Tracker: Check the Claim"
+      ],
+      "brandDecision": "Clarify ambiguous viewer-reward claim, creator monetization and brand-run incentivized viewing; no invented official viewer-pay program or earnings tutorial.",
+      "educationOnly": true,
+      "englishBodyWords": 1508,
+      "cover": "youtube-watch-reward-claim-verification.jpg",
+      "bodyFigures": [
+        "watch-reward-payer-claim-check.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-watch-reward-claim-verification/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-watch-reward-claim-verification/"
+      }
+    },
+    {
+      "order": 13,
+      "originalId": 13,
+      "keyword": "views en youtube",
+      "slug": "youtube-views-spanish-reporting-glossary",
+      "title": [
+        "YouTube 西语观看字段怎样对齐",
+        "Views en YouTube: Align a Multilingual Sponsor Report"
+      ],
+      "brandDecision": "Define visualizaciones, unique viewers and watch time in an EN/ZH brand-report glossary with Spanish labels; not a translated generic growth guide.",
+      "educationOnly": false,
+      "englishBodyWords": 1509,
+      "cover": "youtube-views-spanish-reporting-glossary.jpg",
+      "bodyFigures": [
+        "youtube-spanish-metric-map.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-views-spanish-reporting-glossary/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-views-spanish-reporting-glossary/"
+      }
+    },
+    {
+      "order": 14,
+      "originalId": 15,
+      "keyword": "instagram bot followers",
+      "slug": "instagram-bot-followers-signal-triangulation",
+      "title": [
+        "机器人粉丝信号怎样交叉复核",
+        "Instagram Bot Followers: Triangulate Suspicious Signals"
+      ],
+      "brandDecision": "Education: triangulate aggregate growth, content and source-window discrepancies without classifying people; distinguish account automation from audience manipulation.",
+      "educationOnly": true,
+      "englishBodyWords": 1518,
+      "cover": "instagram-bot-followers-signal-triangulation.jpg",
+      "bodyFigures": [
+        "bot-follower-signals-cross-check.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-bot-followers-signal-triangulation/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-bot-followers-signal-triangulation/"
+      }
+    },
+    {
+      "order": 15,
+      "originalId": 16,
+      "keyword": "instagram follower bot",
+      "slug": "instagram-follower-bot-authorization-review",
+      "title": [
+        "涨粉自动化工具怎样检查授权",
+        "Instagram Follower Bot: Review Authorization and Actions"
+      ],
+      "brandDecision": "Before any connection, distinguish proposed task, requested capability, granted access and observed action; business approval is separate from a login consent screen. Focus pre-connection decision, not repeat existing service-exit/recovery procedures.",
+      "educationOnly": true,
+      "englishBodyWords": 1509,
+      "cover": "instagram-follower-bot-authorization-review.jpg",
+      "bodyFigures": [
+        "follower-tool-access-action-review.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-follower-bot-authorization-review/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-follower-bot-authorization-review/"
+      }
+    },
+    {
+      "order": 16,
+      "originalId": 17,
+      "keyword": "free followers",
+      "slug": "free-followers-contract-metric-incentives",
+      "title": [
+        "免费粉丝承诺怎样影响合作目标",
+        "Free Followers: Remove Incentives to Inflate a Brief"
+      ],
+      "brandDecision": "Education: audit brand incentives and contractual follower guarantees; replace count pressure with assessable deliverables, no free growth vendors.",
+      "educationOnly": true,
+      "englishBodyWords": 1514,
+      "cover": "free-followers-contract-metric-incentives.jpg",
+      "bodyFigures": [
+        "follower-brief-incentive-reset.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-followers-contract-metric-incentives/",
+        "zh": "https://www.quickkol.com/zh/blog/free-followers-contract-metric-incentives/"
+      }
+    },
+    {
+      "order": 17,
+      "originalId": 18,
+      "keyword": "skier guy",
+      "slug": "ski-creator-terrain-filming-role-brief",
+      "title": [
+        "滑雪达人怎样按拍摄任务合作",
+        "Skier Guy: Brief a Ski Creator by Role and Terrain"
+      ],
+      "brandDecision": "Descriptor, not identity search: choose ski demonstration/presentation roles, terrain/site permissions and professional safety responsibilities; no private-person guessing or skiing instruction.",
+      "educationOnly": false,
+      "englishBodyWords": 1510,
+      "cover": "ski-creator-terrain-filming-role-brief.jpg",
+      "bodyFigures": [
+        "ski-creator-stationary-camera-check.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/ski-creator-terrain-filming-role-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/ski-creator-terrain-filming-role-brief/"
+      }
+    },
+    {
+      "order": 18,
+      "originalId": 19,
+      "keyword": "fitness girl",
+      "slug": "women-fitness-creators-demo-credentials-brief",
+      "title": [
+        "女性健身达人怎样分清演示与指导",
+        "Fitness Girl: Scope a Women-Led Creator Demonstration"
+      ],
+      "brandDecision": "Adult women creators, product demonstration versus coaching expertise and health claims; avoid body ranking, prior female-model guide focuses rights.",
+      "educationOnly": false,
+      "englishBodyWords": 1520,
+      "cover": "women-fitness-creators-demo-credentials-brief.jpg",
+      "bodyFigures": [
+        "fitness-product-demo-camera-distance.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/women-fitness-creators-demo-credentials-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/women-fitness-creators-demo-credentials-brief/"
+      }
+    },
+    {
+      "order": 19,
+      "originalId": 20,
+      "keyword": "butterly",
+      "slug": "butterly-product-trial-creator-reuse-brief",
+      "title": [
+        "Butterly 合作怎样保留真实意见",
+        "Butterly: Plan a Product Trial"
+      ],
+      "brandDecision": "User confirmed platform angle: separate trial, honest reviews, social content and paid reuse using provider scope plus Canadian official guidance.",
+      "educationOnly": false,
+      "englishBodyWords": 1507,
+      "cover": "butterly-product-trial-creator-reuse-brief.jpg",
+      "bodyFigures": [
+        "product-trial-observation-desk.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/butterly-product-trial-creator-reuse-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/butterly-product-trial-creator-reuse-brief/"
+      }
+    },
+    {
+      "order": 20,
+      "originalId": 21,
+      "keyword": "free likes tiktok",
+      "slug": "free-tiktok-likes-observation-not-approval",
+      "title": [
+        "免费点赞怎样影响品牌内容测试",
+        "Free Likes TikTok: Protect a Creator Content Test"
+      ],
+      "brandDecision": "Education: compromised experiment/intervention measurement; distinguish like actions from preference, assess test usability, not track suspect individuals.",
+      "educationOnly": true,
+      "englishBodyWords": 1511,
+      "cover": "free-tiktok-likes-observation-not-approval.jpg",
+      "bodyFigures": [
+        "likes-content-test-comparison-limits.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-tiktok-likes-observation-not-approval/",
+        "zh": "https://www.quickkol.com/zh/blog/free-tiktok-likes-observation-not-approval/"
+      }
+    },
+    {
+      "order": 21,
+      "originalId": 22,
+      "keyword": "free tiktok like",
+      "slug": "free-tiktok-like-request-security-triage",
+      "title": [
+        "免费点赞请求怎样判断账号风险",
+        "Free TikTok Like: Triage an Access Request"
+      ],
+      "brandDecision": "Education: unexpected offer, permissions versus credentials and independent verification; protect accounts without executing or judging providers.",
+      "educationOnly": true,
+      "englishBodyWords": 1516,
+      "cover": "free-tiktok-like-request-security-triage.jpg",
+      "bodyFigures": [
+        "like-offer-access-pause-verify.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-tiktok-like-request-security-triage/",
+        "zh": "https://www.quickkol.com/zh/blog/free-tiktok-like-request-security-triage/"
+      }
+    },
+    {
+      "order": 22,
+      "originalId": 23,
+      "keyword": "influenceuse belge",
+      "slug": "belgian-creator-language-market-disclosure",
+      "title": [
+        "比利时达人怎样核对市场与语言",
+        "Influenceuse Belge: Brief Language, Market and Disclosure"
+      ],
+      "brandDecision": "Belgian women creator research by language, work and intended market; Belgium official advertising recognition, no nationality/audience inference.",
+      "educationOnly": false,
+      "englishBodyWords": 1507,
+      "cover": "belgian-creator-language-market-disclosure.jpg",
+      "bodyFigures": [
+        "local-creator-language-rehearsal.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/belgian-creator-language-market-disclosure/",
+        "zh": "https://www.quickkol.com/zh/blog/belgian-creator-language-market-disclosure/"
+      }
+    },
+    {
+      "order": 23,
+      "originalId": 24,
+      "keyword": "instagram likes free",
+      "slug": "instagram-free-likes-report-correction",
+      "title": [
+        "免费点赞相关报表怎样更正",
+        "Instagram Likes Free: Keep Campaign Reports Accurate"
+      ],
+      "brandDecision": "Education: correct report claims after possible incentivized actions; preserve original count and remove unsupported business inference, not retroactive individual accusation.",
+      "educationOnly": true,
+      "englishBodyWords": 1512,
+      "cover": "instagram-free-likes-report-correction.jpg",
+      "bodyFigures": [
+        "instagram-like-report-observation-inference.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-free-likes-report-correction/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-free-likes-report-correction/"
+      }
+    },
+    {
+      "order": 24,
+      "originalId": 25,
+      "keyword": "tiktok free likes",
+      "slug": "tiktok-free-likes-provider-promise-check",
+      "title": [
+        "免费点赞服务的承诺怎样复核",
+        "TikTok Free Likes: Test the Claim, Not the Service"
+      ],
+      "brandDecision": "Education: inspect provider promises and evidence independence without purchasing, logging in or trialing service; no guaranteed true-like score.",
+      "educationOnly": true,
+      "englishBodyWords": 1503,
+      "cover": "tiktok-free-likes-provider-promise-check.jpg",
+      "bodyFigures": [
+        "like-provider-evidence-independence.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-free-likes-provider-promise-check/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-free-likes-provider-promise-check/"
+      }
+    },
+    {
+      "order": 25,
+      "originalId": 26,
+      "keyword": "free tik tok likes",
+      "slug": "free-tik-tok-likes-supplier-review-handoff",
+      "title": [
+        "免费点赞疑问怎样公平交接",
+        "Free Tik Tok Likes: Hand Over an Evidence Question"
+      ],
+      "brandDecision": "Education: fair escalation memo, source corroboration and proportionate decisions; no single-signal allegations or buying guide.",
+      "educationOnly": true,
+      "englishBodyWords": 1517,
+      "cover": "free-tik-tok-likes-supplier-review-handoff.jpg",
+      "bodyFigures": [
+        "like-evidence-review-handoff.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-tik-tok-likes-supplier-review-handoff/",
+        "zh": "https://www.quickkol.com/zh/blog/free-tik-tok-likes-supplier-review-handoff/"
+      }
+    },
+    {
+      "order": 26,
+      "originalId": 27,
+      "keyword": "channel analytics twitch",
+      "slug": "twitch-channel-analytics-sponsored-retention",
+      "title": [
+        "Twitch 频道分析怎样看赞助环节",
+        "Channel Analytics Twitch: Review a Sponsored Explanation"
+      ],
+      "brandDecision": "Review sponsored explanation and unanswered questions through source-separated channel summary, concurrent viewers and chat context; not repeated segment exposure arithmetic or inferred individual retention.",
+      "educationOnly": false,
+      "englishBodyWords": 1505,
+      "cover": "twitch-channel-analytics-sponsored-retention.jpg",
+      "bodyFigures": [
+        "livestream-demo-camera-audio-setup.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/twitch-channel-analytics-sponsored-retention/",
+        "zh": "https://www.quickkol.com/zh/blog/twitch-channel-analytics-sponsored-retention/"
+      }
+    },
+    {
+      "order": 27,
+      "originalId": 28,
+      "keyword": "biggest youtuber",
+      "slug": "biggest-youtuber-team-run-partnership",
+      "title": [
+        "头部 YouTuber 怎样对齐团队任务",
+        "Biggest YouTuber: Scope a Team-Run Partnership"
+      ],
+      "brandDecision": "Answer dated record with primary evidence then creator/company/channel and production/approval roles; not prior largest-channel purchase units.",
+      "educationOnly": false,
+      "englishBodyWords": 1507,
+      "cover": "biggest-youtuber-team-run-partnership.jpg",
+      "bodyFigures": [
+        "large-creator-team-role-map.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/biggest-youtuber-team-run-partnership/",
+        "zh": "https://www.quickkol.com/zh/blog/biggest-youtuber-team-run-partnership/"
+      }
+    },
+    {
+      "order": 28,
+      "originalId": 29,
+      "keyword": "tiktok counter",
+      "slug": "tiktok-counter-rounded-count-reporting",
+      "title": [
+        "TikTok 计数器怎样保留口径",
+        "TikTok Counter: Read Rounded and Updating Counts"
+      ],
+      "brandDecision": "Compare displayed/rounded/cached third-party counters with authorized source windows; no live realcount guarantee, no new scraping or private tracking.",
+      "educationOnly": false,
+      "englishBodyWords": 1504,
+      "cover": "tiktok-counter-rounded-count-reporting.jpg",
+      "bodyFigures": [
+        "tiktok-counter-display-source-window.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-counter-rounded-count-reporting/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-counter-rounded-count-reporting/"
+      }
+    },
+    {
+      "order": 29,
+      "originalId": 30,
+      "keyword": "famous youtuber",
+      "slug": "famous-youtuber-endorsement-context-reuse",
+      "title": [
+        "知名 YouTuber 的推荐怎样复用",
+        "Famous YouTuber: Preserve an Endorsement’s Context"
+      ],
+      "brandDecision": "Study specific relevant public work, context and permitted excerpt use; distinguish remembered fame, original recommendation and current brand relationship.",
+      "educationOnly": false,
+      "englishBodyWords": 1509,
+      "cover": "famous-youtuber-endorsement-context-reuse.jpg",
+      "bodyFigures": [
+        "youtube-endorsement-context-reuse.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/famous-youtuber-endorsement-context-reuse/",
+        "zh": "https://www.quickkol.com/zh/blog/famous-youtuber-endorsement-context-reuse/"
+      }
+    },
+    {
+      "order": 30,
+      "originalId": 31,
+      "keyword": "top sports car youtube channels",
+      "slug": "sports-car-youtube-channels-production-shortlist",
+      "title": [
+        "跑车 YouTube 频道怎样按任务筛选",
+        "Top Sports Car YouTube Channels: Build a Production Shortlist"
+      ],
+      "brandDecision": "Named primary-verified channel leads by road-test presentation, ownership explanation and studio demonstration; not live ranking, street-racing advice or car shopping.",
+      "educationOnly": false,
+      "englishBodyWords": 1515,
+      "cover": "sports-car-youtube-channels-production-shortlist.jpg",
+      "bodyFigures": [
+        "sports-car-stationary-detail-shot.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/sports-car-youtube-channels-production-shortlist/",
+        "zh": "https://www.quickkol.com/zh/blog/sports-car-youtube-channels-production-shortlist/"
+      }
+    }
+  ]
+}
