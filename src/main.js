@@ -5,7 +5,7 @@ import { renderCreatorShowcase, mountCreatorShowcase } from "./creator-showcase.
 import { createCampaignWorkflow } from "./campaign-workflow.js";
 import { renderCapabilityDemo, mountCapabilityDemo, capabilityPlaybackDuration } from "./capability-demos.js";
 import { mountHeroParticles } from "./hero-particles.js";
-import { initI18n, setPageLocale, languages, resolveLocale, localizeText, isLocaleAvailable, loadLocale, applyTranslations } from "./i18n.js";
+import { initI18n, setPageLocale, languages, resolveLocale, localizeText, isLocaleAvailable, loadLocale, applyTranslations, loadLocalizedSearch } from "./i18n.js";
 import "@phosphor-icons/web/regular";
 
 const savedTheme = window.localStorage.getItem("quickkol-theme");
@@ -212,7 +212,8 @@ const footerAiLinks = {
 };
 
 const renderLanguageOptions = () => languages.map((language) => {
-  const linked = language.code === 'en' || language.code === 'zh-CN' || isBlogLanguage(language.code);
+  const staticView = /^\/(?:$|blog(?:\/|$))/.test(routePath(window.location.pathname));
+  const linked = language.code === 'en' || language.code === 'zh-CN' || (isBlogLanguage(language.code) && staticView);
   const tag = linked ? 'a' : 'button';
   const target = languageSwitchPath(window.location.pathname + window.location.search + window.location.hash, language.code);
   return `
@@ -231,6 +232,8 @@ document.addEventListener('click', (event) => {
 const pathname = routePath(window.location.pathname);
 
 const isBlogPage = /^\/blog(?:\/|$)/.test(pathname);
+const blogModule = isBlogPage ? await import('./blog.js') : null;
+if (isBlogPage && new URLSearchParams(window.location.search).get('q')?.trim()) await loadLocalizedSearch(currentLanguage);
 const isPricingPage = /^\/pricing\/?$/.test(pathname);
 const isAboutPage = /^\/about\/?$/.test(pathname);
 const isContactPage = /^\/contact\/?$/.test(pathname);
@@ -549,8 +552,8 @@ if (isInvoiceGeneratorPage) {
   const { mountPricing } = await import("./pricing.js");
   mountPricing(currentLanguage);
 } else if (isBlogPage) {
-  const { mountBlog } = await import("./blog.js");
-  mountBlog(currentLanguage);
+  const { mountBlog } = blogModule;
+  await mountBlog(currentLanguage);
 } else {
 
 const toast = document.querySelector("[data-toast]");

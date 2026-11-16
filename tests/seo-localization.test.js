@@ -12,6 +12,7 @@ test('translated HTML, language pairs, author identity and share images agree ac
   const urlSet = new Set(urls);
   const articles = new Set();
   const relatedTargets = new Set();
+  const articleDates = new Map();
   assert.equal(urlSet.size, urls.length);
   for (const url of urls) {
     const path = new URL(url).pathname;
@@ -50,6 +51,10 @@ test('translated HTML, language pairs, author identity and share images agree ac
           relatedTargets.add(target.href);
         }
         const schema = JSON.parse(document.querySelector('script[data-blog-structured]').textContent);
+        const articlePath = routePath(path);
+        if (!articleDates.has(articlePath)) articleDates.set(articlePath, new Map());
+        articleDates.get(articlePath).set(language, JSON.stringify([schema.datePublished, schema.dateModified]));
+        assert.equal(document.querySelector('.blog-article-meta time').getAttribute('datetime'), schema.datePublished, path);
         const expectedDate = schema.dateModified > schema.datePublished ? schema.dateModified : undefined;
         assert.equal(sitemapDates.get(url), expectedDate, path);
         if (expectedDate) sitemapDates.delete(url);
@@ -72,6 +77,13 @@ test('translated HTML, language pairs, author identity and share images agree ac
   }
   for (const article of articles) {
     assert.ok(relatedTargets.has(article), `${article}: no incoming related-article link`);
+  }
+  for (const [path, dates] of articleDates) {
+    assert.ok(dates.has('en') && dates.has('zh-CN'), `${path}: original language dates are missing`);
+    assert.equal(new Set(dates.values()).size, 1, `${path}: translated publication or update dates differ from the original`);
+    for (const alternate of languageAlternates(path)) {
+      if (alternate.language !== 'x-default') assert.ok(dates.has(alternate.language), `${path}: missing ${alternate.language} article`);
+    }
   }
   assert.equal(sitemapDates.size, 0, 'Only articles with explicit updates have a sitemap lastmod');
 });
@@ -111,5 +123,24 @@ test('legacy pagination and aliases redirect once while preserving filters and t
   }
   for (const path of ['/vi/', '/id/', '/hi/', '/bn/', '/terms.html', '/privacy.html', '/zh/privacy.html', '/blog/?page=0', '/blog/?page=-2', '/blog/?page=2.5', '/blog/?page=abc', '/blog/?q=creator']) {
     assert.equal(middleware(new Request(`https://www.quickkol.com${path}`)).headers.get('location'), null, path);
+  }
+});
+
+
+test('Japanese article link labels preserve the already translated body wording', async () => {
+  const { blogPosts } = await import('../src/blog-registry.js');
+  const post = blogPosts.find(({ slug }) => slug === 'creator-portfolio-gap-analysis');
+  const catalog = JSON.parse(await readFile('src/locales/ja.json', 'utf8'));
+  const window = new Window();
+  try {
+    window.document.write(await readFile(`dist/ja/blog/${post.slug}/index.html`, 'utf8'));
+    const body = window.document.querySelector('.blog-article-content').textContent.replace(/\s+/g, ' ');
+    for (const [, pair] of post.sections) {
+      for (const paragraph of catalog[pair[1]].split(/\n\n+/)) {
+        assert.ok(body.includes(paragraph.replace(/\s+/g, ' ')), 'An inline link must not rewrite translated terminology');
+      }
+    }
+  } finally {
+    await window.happyDOM.close();
   }
 });

@@ -1,6 +1,6 @@
-export const blogLanguages = ['vi', 'id', 'hi', 'bn'];
+export const blogLanguages = ["vi","id","hi","bn","ja","ko","de","fr","es","pt"];
 
-// The pilot includes the earliest 100 articles by publication date.
+// Completed publication coverage; original dates are preserved.
 export const localizedBlogArticles = [
   {
     "slug": "creator-campaign-status-system",

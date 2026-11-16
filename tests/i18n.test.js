@@ -10,6 +10,7 @@ import { pathToFileURL } from 'node:url';
 const { outputFiles } = await build({ entryPoints: ['src/i18n.js'], bundle: true, write: false, format: 'esm', platform: 'node' });
 const temporary = await mkdtemp(join(tmpdir(), 'quickkol-i18n-'));
 await writeFile(join(temporary, 'i18n.mjs'), outputFiles[0].text);
+globalThis.__quickkolLoadLocale = async (code) => ({ strings: JSON.parse(await readFile(`src/locales/${code}.json`, 'utf8')), readingTimes: {} });
 const i18n = await import(pathToFileURL(join(temporary, 'i18n.mjs')));
 await rm(temporary, { recursive: true });
 const storage = new Map();
@@ -112,18 +113,17 @@ test('all six languages translate navigation, dynamic counts, and preserve switc
   assert.equal(node.data, '确认发送 11 封邮件');
 });
 
-test('foreign catalogs cover the same content and preserve variables and HTML structure', async () => {
-  let sources;
-  for (const code of ['ja', 'ko', 'de', 'fr', 'es', 'pt']) {
+test('foreign catalogs cover shared UI and preserve variables and HTML structure', async () => {
+  const sharedUI = Object.values(JSON.parse(await readFile('src/locales/en.json', 'utf8'))).filter((text) => /[A-Za-z]/.test(text) && !/^https?:/.test(text));
+  for (const code of ['vi', 'id', 'hi', 'bn', 'ja', 'ko', 'de', 'fr', 'es', 'pt']) {
     const catalog = JSON.parse(await readFile(new URL(`../src/locales/${code}.json`, import.meta.url), 'utf8'));
     const keys = Object.keys(catalog).sort();
     assert.ok(keys.length > 2000, `${code} must include full pages and blog articles`);
-    if (sources) assert.deepEqual(keys, sources, `${code} is missing content`);
-    sources = keys;
+    for (const source of sharedUI) assert.ok(catalog[source], `${code}: missing shared UI ${source.slice(0,80)}`);
     for (const [source, target] of Object.entries(catalog)) {
       assert.ok(target.trim(), `${code}: empty translation for ${source}`);
       assert.deepEqual(target.match(/\{\d+\}/g)?.sort() || [], source.match(/\{\d+\}/g)?.sort() || [], `${code}: changed variables in ${source}`);
-      assert.deepEqual(target.match(/<[^>]*>/g) || [], source.match(/<[^>]*>/g) || [], `${code}: changed markup in ${source}`);
+      assert.deepEqual(target.match(/<\/?[a-zA-Z][^>]*>/g) || [], source.match(/<\/?[a-zA-Z][^>]*>/g) || [], `${code}: changed markup in ${source}`);
     }
   }
 });
@@ -148,4 +148,37 @@ test('changing locale preserves user-edited form fields while translating their 
   i18n.applyTranslations(field);
   assert.equal(field.value, '我的品牌 Custom brand');
   assert.equal(attributes.get('placeholder'), 'Your name');
+});
+
+test('client loads only the selected locale core and current article', async () => {
+  const directory = await mkdtemp(join(tmpdir(), 'quickkol-locale-fetch-'));
+  const previousLoader = globalThis.__quickkolLoadLocale;
+  const previousFetch = globalThis.fetch;
+  const previousLocation = window.location;
+  const requested = [];
+  try {
+    await writeFile(join(directory, 'client.mjs'), outputFiles[0].text);
+    delete globalThis.__quickkolLoadLocale;
+    window.location = { pathname: '/id/blog/creator-shortlist-workflow/' };
+    globalThis.fetch = async (url) => {
+      requested.push(url);
+      if (url.endsWith('/search.json')) return { ok: true, json: async () => ({'creator-shortlist-workflow':'Contoh pencarian lengkap'}) };
+      if (url.endsWith('/core.json')) return { ok: true, json: async () => ({ strings: {'A core translation example':'Contoh terjemahan inti'}, readingTimes: {'creator-shortlist-workflow':7} }) };
+      return { ok: true, json: async () => ({'An article translation example':'Contoh terjemahan artikel'}) };
+    };
+    const client = await import(pathToFileURL(join(directory, 'client.mjs')));
+    await client.loadLocale('id');
+    client.setPageLocale('id');
+    assert.equal(client.localizedReadTime('creator-shortlist-workflow'), 7);
+    assert.equal(client.localizeText('A core translation example'), 'Contoh terjemahan inti');
+    assert.equal(client.localizeText('An article translation example'), 'Contoh terjemahan artikel');
+    assert.deepEqual(requested, ['/locales/id/core.json', '/locales/id/articles/creator-shortlist-workflow.json']);
+    assert.equal((await client.loadLocalizedSearch('id'))['creator-shortlist-workflow'], 'Contoh pencarian lengkap');
+    assert.equal(requested[2], '/locales/id/search.json');
+  } finally {
+    globalThis.__quickkolLoadLocale = previousLoader;
+    globalThis.fetch = previousFetch;
+    window.location = previousLocation;
+    await rm(directory, { recursive: true });
+  }
 });

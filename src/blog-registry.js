@@ -1,0 +1,38 @@
+import { novemberSixteenthPosts } from './blog-november-sixteenth.js';
+import { novemberThirteenthPosts } from './blog-november-thirteenth.js';
+import { novemberTwelfthPosts } from './blog-november-twelfth.js';
+import { novemberEleventhPosts } from './blog-november-eleventh.js';
+import { novemberNinthPosts } from './blog-november-ninth.js';
+import { novemberSixthPosts } from './blog-colleague-november-sixth.js';
+import { novemberFifthPosts } from './blog-colleague-november-fifth.js';
+import { novemberFourthPosts } from './blog-colleague-november-fourth.js';
+import { november29Posts } from './blog-colleague-november-29.js';
+import { november30Posts } from './blog-colleague-november-30.js';
+import { editorial20Posts } from './blog-colleague-twenty-posts.js';
+import { editorial9Posts } from './blog-colleague-nine-posts.js';
+import { editorial16Posts } from './blog-colleague-sixteen-posts.js';
+import { colleagueThreePosts } from './blog-colleague-three-posts.js';
+import { laInfluencerPosts } from './blog-la-influencer.js';
+import { semrushBatchFourPosts } from './blog-semrush-b4-posts.js';
+import { blogPosts as baseBlogPosts, blogTopics } from './blog-posts.js';
+import { additionalBlogPosts } from './blog-additional-posts.js';
+import { seriesBlogPosts } from './blog-series-posts.js';
+import { expansionBlogPosts } from './blog-expansion-posts.js';
+import { growthBlogPosts } from './blog-growth-posts.js';
+import { platformBlogPosts } from './blog-platform-posts.js';
+import { microBlogPosts } from './blog-micro-posts.js';
+import { programBlogPosts } from './blog-program-posts.js';
+import { toolBlogPosts } from './blog-tool-posts.js';
+import { semrushBlogPosts } from './blog-semrush-posts.js';
+import { semrushBatchTwoPosts } from './blog-semrush-b2-posts.js';
+import { semrushBatchThreePosts } from './blog-semrush-b3-posts.js';
+import { blogEnhancements } from './blog-enhancements.js';
+import { additionalBlogEnhancements } from './blog-additional-enhancements.js';
+import { seriesBlogEnhancements } from './blog-series-enhancements.js';
+import { expansionBlogEnhancements } from './blog-expansion-enhancements.js';
+import { growthBlogEnhancements } from './blog-growth-enhancements.js';
+
+const enhancements = { ...blogEnhancements, ...additionalBlogEnhancements, ...seriesBlogEnhancements, ...expansionBlogEnhancements, ...growthBlogEnhancements };
+const blogPosts = [...novemberSixteenthPosts, ...novemberThirteenthPosts, ...novemberTwelfthPosts, ...novemberEleventhPosts, ...novemberNinthPosts, ...novemberSixthPosts, ...novemberFifthPosts, ...novemberFourthPosts, ...november29Posts, ...november30Posts, ...editorial20Posts, ...editorial9Posts, ...editorial16Posts, ...colleagueThreePosts, ...laInfluencerPosts, ...semrushBatchFourPosts, ...semrushBatchThreePosts, ...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
+
+export { blogPosts, blogTopics };

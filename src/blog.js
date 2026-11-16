@@ -1,52 +1,18 @@
-import { novemberSixteenthPosts } from './blog-november-sixteenth.js';
-import { novemberThirteenthPosts } from './blog-november-thirteenth.js';
-import { novemberTwelfthPosts } from './blog-november-twelfth.js';
-import { novemberEleventhPosts } from './blog-november-eleventh.js';
-import { novemberNinthPosts } from './blog-november-ninth.js';
-import { novemberSixthPosts } from './blog-colleague-november-sixth.js';
-import { novemberFifthPosts } from './blog-colleague-november-fifth.js';
-import { novemberFourthPosts } from './blog-colleague-november-fourth.js';
-import { november29Posts } from './blog-colleague-november-29.js';
-import { november30Posts } from './blog-colleague-november-30.js';
-import { editorial20Posts } from './blog-colleague-twenty-posts.js';
-import { editorial9Posts } from './blog-colleague-nine-posts.js';
-import { editorial16Posts } from './blog-colleague-sixteen-posts.js';
-import { colleagueThreePosts } from './blog-colleague-three-posts.js';
-import { laInfluencerPosts } from './blog-la-influencer.js';
+import { localizedBlogArticles } from './blog-localization-manifest.js';
+import { blogPosts, blogTopics } from './blog-registry.js';
 import { instagramActionGoal } from './blog-instagram-goal-math.js';
-import { semrushBatchFourPosts } from './blog-semrush-b4-posts.js';
 import './blog.css';
 import { canonicalUrl, siteOrigin, articleShareImage } from './seo.js';
 import { routePath, localizedPath, pathLocale, isBlogLanguage } from './localized-paths.js';
-import { localizedBlogArticles } from './blog-localization-manifest.js';
 import { BLOG_PAGE_SIZE as PAGE_SIZE, blogPageItems, blogPagePath } from './blog-pagination.js';
-import { blogPosts as baseBlogPosts, blogTopics } from './blog-posts.js';
-import { additionalBlogPosts } from './blog-additional-posts.js';
-import { seriesBlogPosts } from './blog-series-posts.js';
-import { expansionBlogPosts } from './blog-expansion-posts.js';
-import { growthBlogPosts } from './blog-growth-posts.js';
-import { platformBlogPosts } from './blog-platform-posts.js';
-import { microBlogPosts } from './blog-micro-posts.js';
-import { programBlogPosts } from './blog-program-posts.js';
-import { toolBlogPosts } from './blog-tool-posts.js';
-import { semrushBlogPosts } from './blog-semrush-posts.js';
-import { semrushBatchTwoPosts } from './blog-semrush-b2-posts.js';
-import { semrushBatchThreePosts } from './blog-semrush-b3-posts.js';
 import { aggregateEngagement, compareEngagement, viewEngagement } from './blog-engagement-math.js';
 import { followerNetChange } from './blog-follower-math.js';
-import { blogEnhancements } from './blog-enhancements.js';
-import { additionalBlogEnhancements } from './blog-additional-enhancements.js';
-import { seriesBlogEnhancements } from './blog-series-enhancements.js';
-import { expansionBlogEnhancements } from './blog-expansion-enhancements.js';
-import { growthBlogEnhancements } from './blog-growth-enhancements.js';
-import { initI18n, setPageLocale, localizeCopy, applyTranslations, loadLocale, localizeText } from './i18n.js';
+import { initI18n, setPageLocale, localizeCopy, applyTranslations, loadLocale, localizeText, localizedReadTime, loadLocalizedSearch } from './i18n.js';
 
-const enhancements = { ...blogEnhancements, ...additionalBlogEnhancements, ...seriesBlogEnhancements, ...expansionBlogEnhancements, ...growthBlogEnhancements };
-const blogPosts = [...novemberSixteenthPosts, ...novemberThirteenthPosts, ...novemberTwelfthPosts, ...novemberEleventhPosts, ...novemberNinthPosts, ...novemberSixthPosts, ...novemberFifthPosts, ...novemberFourthPosts, ...november29Posts, ...november30Posts, ...editorial20Posts, ...editorial9Posts, ...editorial16Posts, ...colleagueThreePosts, ...laInfluencerPosts, ...semrushBatchFourPosts, ...semrushBatchThreePosts, ...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
 const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
 const arrow = '<i class="ph ph-arrow-up-right" aria-hidden="true"></i>';
 
-export function mountBlog(initialLocale) {
+export async function mountBlog(initialLocale) {
   const translatedSlugs = new Set(localizedBlogArticles.map(({ slug }) => slug));
   const availablePosts = isBlogLanguage(initialLocale) ? blogPosts.filter(({ slug }) => translatedSlugs.has(slug)) : blogPosts;
   document.documentElement.dataset.theme = window.localStorage.getItem('quickkol-blog-theme') || 'dark';
@@ -54,6 +20,7 @@ export function mountBlog(initialLocale) {
   const main = document.querySelector('#main');
   const params = new URLSearchParams(window.location.search);
   let query = params.get('q') || '';
+  let localizedSearch = query ? await loadLocalizedSearch(locale) : {};
   let tag = params.get('tag') || '';
   const pathname = routePath(window.location.pathname);
   const pageRoute = pathname.match(/^\/blog(?:\/topic\/([a-z-]+))?(?:\/page\/(\d+))?\/?$/);
@@ -73,6 +40,8 @@ export function mountBlog(initialLocale) {
   const topicName = (key) => text(blogTopics.find((item) => item.key === key).label);
   const date = (value) => new Intl.DateTimeFormat(locale, { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(new Date(`${value}T00:00:00Z`));
   const readTime = (item) => {
+    const generated = localizedReadTime(item.slug);
+    if (generated !== undefined) return generated;
     const content = [
       text(item.summary),
       text(item.answer),
@@ -212,7 +181,7 @@ export function mountBlog(initialLocale) {
       const before = escapeHtml(value.slice(cursor, match.index));
       cursor = match.end;
       const attributes = match.external ? ' target="_blank" rel="noopener noreferrer"' : '';
-      return `${before}<a class="blog-body-link${match.external ? ' is-external' : ''}" href="${escapeHtml(match.url)}"${attributes}>${escapeHtml(match.term)}</a>`;
+      return `${before}<a data-i18n-ignore class="blog-body-link${match.external ? ' is-external' : ''}" href="${escapeHtml(match.url)}"${attributes}>${escapeHtml(match.term)}</a>`;
     }).join('') + escapeHtml(value.slice(cursor));
   };
   const linkedParagraph = (item, paragraph, sourceIds = []) => {
@@ -323,7 +292,7 @@ export function mountBlog(initialLocale) {
       if ((topic && item.topic !== topic) || (tag && !item.tags.includes(tag))) return false;
       if (!terms.length) return true;
       const localizedContent = [text(item.title), text(item.summary), ...item.sections.flatMap(([heading, body]) => [text(heading), text(body)])].join(' ');
-      const searchable = (JSON.stringify(item) + ' ' + localizedContent).toLocaleLowerCase();
+      const searchable = (JSON.stringify(item) + ' ' + (localizedSearch[item.slug] || localizedContent)).toLocaleLowerCase();
       return terms.every((term) => searchable.includes(term));
     });
     const pages = Math.max(1, Math.ceil(matching.length / PAGE_SIZE));
@@ -733,7 +702,7 @@ export function mountBlog(initialLocale) {
     document.querySelector('[data-menu] i').className = 'ph ph-list';
   }
 
-  document.addEventListener('input', (event) => {
+  document.addEventListener('input', async (event) => {
     const tool = event.target.closest('[data-blog-tool]');
     if (tool) {
       updateBlogTool(tool);
@@ -742,6 +711,7 @@ export function mountBlog(initialLocale) {
     if (!event.target.matches('[data-blog-search]')) return;
     query = event.target.value;
     page = 1;
+    if (query.trim() && isBlogLanguage(locale)) localizedSearch = await loadLocalizedSearch(locale);
     renderResults();
   });
   document.addEventListener('submit', (event) => {

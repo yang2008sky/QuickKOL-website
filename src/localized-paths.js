@@ -1,6 +1,8 @@
 import { blogLanguages, localizedBlogArticles } from './blog-localization-manifest.js';
 
-const translatedSlugs = new Set(localizedBlogArticles.map(({ slug }) => slug));
+const translatedSlugs = new Set(localizedBlogArticles.map(({slug}) => slug));
+const topicCounts = new Map();
+for (const {topic} of localizedBlogArticles) topicCounts.set(topic, (topicCounts.get(topic) || 0) + 1);
 
 export function isBlogLanguage(language) {
   return blogLanguages.includes(language);
@@ -10,7 +12,7 @@ export function hasLocalizedBlogPath(path) {
   const base = routePath(path).split(/[?#]/)[0];
   const archive = base.match(/^\/blog(?:\/topic\/([a-z-]+))?(?:\/page\/(\d+))?\/?$/);
   if (archive) {
-    const count = localizedBlogArticles.filter(({ topic }) => !archive[1] || topic === archive[1]).length;
+    const count = archive[1] ? (topicCounts.get(archive[1]) || 0) : localizedBlogArticles.length;
     const page = Number(archive[2] || 1);
     return count > 0 && page >= 1 && page <= Math.ceil(count / 12);
   }
@@ -18,11 +20,11 @@ export function hasLocalizedBlogPath(path) {
 }
 
 export function routePath(path) {
-  return path.replace(/^\/(?:en|zh|vi|id|hi|bn)(?=\/|$)/, '') || '/';
+  return path.replace(/^\/(?:en|zh|vi|id|hi|bn|ja|ko|de|fr|es|pt)(?=\/|$)/, '') || '/';
 }
 
 export function pathLocale(path) {
-  const prefix = path.match(/^\/(zh|vi|id|hi|bn)(?=\/|$)/)?.[1];
+  const prefix = path.match(/^\/(zh|vi|id|hi|bn|ja|ko|de|fr|es|pt)(?=\/|$)/)?.[1];
   return prefix === 'zh' ? 'zh-CN' : prefix || 'en';
 }
 

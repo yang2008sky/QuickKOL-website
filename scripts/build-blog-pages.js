@@ -1,39 +1,11 @@
-import { novemberSixteenthPosts } from '../src/blog-november-sixteenth.js';
-import { novemberThirteenthPosts } from '../src/blog-november-thirteenth.js';
-import { novemberTwelfthPosts } from '../src/blog-november-twelfth.js';
-import { novemberEleventhPosts } from '../src/blog-november-eleventh.js';
-import { novemberNinthPosts } from '../src/blog-november-ninth.js';
-import { novemberSixthPosts } from '../src/blog-colleague-november-sixth.js';
-import { novemberFifthPosts } from '../src/blog-colleague-november-fifth.js';
-import { novemberFourthPosts } from '../src/blog-colleague-november-fourth.js';
-import { november29Posts } from '../src/blog-colleague-november-29.js';
-import { november30Posts } from '../src/blog-colleague-november-30.js';
-import { editorial20Posts } from '../src/blog-colleague-twenty-posts.js';
-import { editorial9Posts } from '../src/blog-colleague-nine-posts.js';
-import { editorial16Posts } from '../src/blog-colleague-sixteen-posts.js';
-import { colleagueThreePosts } from '../src/blog-colleague-three-posts.js';
-import { laInfluencerPosts } from '../src/blog-la-influencer.js';
-import { semrushBatchFourPosts } from '../src/blog-semrush-b4-posts.js';
+import { blogPosts, blogTopics } from '../src/blog-registry.js';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
-import { blogPosts as baseBlogPosts, blogTopics } from '../src/blog-posts.js';
-import { additionalBlogPosts } from '../src/blog-additional-posts.js';
-import { seriesBlogPosts } from '../src/blog-series-posts.js';
-import { expansionBlogPosts } from '../src/blog-expansion-posts.js';
-import { growthBlogPosts } from '../src/blog-growth-posts.js';
-import { platformBlogPosts } from '../src/blog-platform-posts.js';
-import { microBlogPosts } from '../src/blog-micro-posts.js';
-import { programBlogPosts } from '../src/blog-program-posts.js';
-import { toolBlogPosts } from '../src/blog-tool-posts.js';
-import { semrushBlogPosts } from '../src/blog-semrush-posts.js';
-import { semrushBatchTwoPosts } from '../src/blog-semrush-b2-posts.js';
-import { semrushBatchThreePosts } from '../src/blog-semrush-b3-posts.js';
 import { renderSeoTags, siteOrigin, articleShareImage } from '../src/seo.js';
 import { hasLocalizedBlogPath, localizedPath } from '../src/localized-paths.js';
 import { blogLanguages } from '../src/blog-localization-manifest.js';
 import { createPrerenderer } from './prerender.js';
 import { BLOG_PAGE_SIZE, blogPagePath } from '../src/blog-pagination.js';
 
-const blogPosts = [...novemberSixteenthPosts, ...novemberThirteenthPosts, ...novemberTwelfthPosts, ...novemberEleventhPosts, ...novemberNinthPosts, ...novemberSixthPosts, ...novemberFifthPosts, ...novemberFourthPosts, ...november29Posts, ...november30Posts, ...editorial20Posts, ...editorial9Posts, ...editorial16Posts, ...colleagueThreePosts, ...laInfluencerPosts, ...semrushBatchFourPosts, ...semrushBatchThreePosts, ...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts];
 
 // Emit real HTML entry points so static hosts do not need SPA fallback rules.
 const html = await readFile(new URL('../dist/index.html', import.meta.url), 'utf8');
@@ -69,9 +41,7 @@ const pages = [
 const localizedPages = pages.flatMap((page) => {
   const chinese = localizedPath(`/${page.path}/`, 'zh-CN').slice(1, -1);
   const entries = chinese === page.path ? [page] : [page, { ...page, path: chinese }];
-  if (hasLocalizedBlogPath(`/${page.path}/`)) {
-    entries.push(...blogLanguages.map((language) => ({ ...page, path: `${language}/${page.path}` })));
-  }
+  if (hasLocalizedBlogPath(`/${page.path}/`)) entries.push(...blogLanguages.map((language) => ({ ...page, path: `${language}/${page.path}` })));
   return entries;
 });
 for (const page of localizedPages) {

@@ -1,3 +1,4 @@
+import { generateLocaleAssets } from './scripts/build-locales.js';
 import { defineConfig } from "vite";
 import middleware from './middleware.js';
 
@@ -13,7 +14,7 @@ const redirects = (server) => {
 };
 
 export default defineConfig({
-  plugins: [{ name: 'site-redirects', configureServer: redirects, configurePreviewServer: redirects }],
+  plugins: [{ name: 'localized-catalogs', configResolved: generateLocaleAssets }, { name: 'site-redirects', configureServer: redirects, configurePreviewServer: redirects }],
   build: {
     manifest: true,
     rollupOptions: {

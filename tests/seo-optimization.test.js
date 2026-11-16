@@ -29,7 +29,7 @@ test('pilot homepages ship translated content and keep navigation in the selecte
       assert.equal(document.querySelector('a[data-language-option="en"]').getAttribute('href'), '/');
       assert.equal(document.querySelector('a[data-language-option="zh-CN"]').getAttribute('href'), '/zh/');
       assert.equal(document.querySelector('link[rel="canonical"]').href, `https://www.quickkol.com/${language}/`);
-      assert.equal(document.querySelectorAll('link[hreflang]').length, 7);
+      assert.equal(document.querySelectorAll('link[hreflang]').length, 13);
       assert.notEqual(document.title, english.match(/<title>(.*?)<\/title>/)[1]);
       assert.doesNotMatch(document.querySelector('main').textContent, /[\u3400-\u9fff]/);
       for (const source of ['CREATOR INTELLIGENCE', 'Your Campaign', 'PROOF FROM THE FIELD', 'BEFORE YOU START', 'YOUR NEXT CREATOR CAMPAIGN', 'AI for your next creator campaign.']) {

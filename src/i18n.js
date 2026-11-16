@@ -17,18 +17,26 @@ export const languages = [
   { code: "pt", label: "Português", shortLabel: "PT" },
 ];
 const catalogs = { "zh-CN": chineseCatalog };
-const catalogLoaders = {
-  vi: () => import("./locales/vi.json"),
-  id: () => import("./locales/id.json"),
-  hi: () => import("./locales/hi.json"),
-  bn: () => import("./locales/bn.json"),
-  ja: () => import("./locales/ja.json"),
-  ko: () => import("./locales/ko.json"),
-  de: () => import("./locales/de.json"),
-  fr: () => import("./locales/fr.json"),
-  es: () => import("./locales/es.json"),
-  pt: () => import("./locales/pt.json"),
-};
+const readingTimes = new Map();
+const searchLoads = new Map();
+async function pageCatalog(code) {
+  const slug = routePath(window.location?.pathname || '/').match(/^\/blog\/([^/]+)\/?$/)?.[1];
+  if (typeof globalThis.__quickkolLoadLocale === 'function') {
+    const result = await globalThis.__quickkolLoadLocale(code, slug);
+    readingTimes.set(code, result.readingTimes || {});
+    return result.strings;
+  }
+  const read = async (file, optional = false) => {
+    const response = await fetch('/locales/' + code + '/' + file);
+    if (optional && response.status === 404) return {};
+    if (!response.ok) throw new Error('Unable to load locale ' + code + ': ' + response.status);
+    return response.json();
+  };
+  const [core, article] = await Promise.all([read('core.json'), slug ? read('articles/' + slug + '.json', true) : {}]);
+  readingTimes.set(code, core.readingTimes || {});
+  return { ...core.strings, ...article };
+}
+const catalogLoaders = Object.fromEntries(languages.filter(({ code }) => !['en', 'zh-CN'].includes(code)).map(({ code }) => [code, async () => ({ default: await pageCatalog(code) })]));
 const catalogLoads = new Map();
 export function isLocaleAvailable(code) {
   return languages.some((language) => language.code === code);
@@ -298,6 +306,21 @@ export function localizeText(value) {
 
 export function localizeCopy(zh, en) {
   return locale === "zh-CN" ? zh : locale === "en" ? en : translateCatalog(en, locale);
+}
+
+export function localizedReadTime(slug) {
+  return readingTimes.get(locale)?.[slug];
+}
+
+export async function loadLocalizedSearch(code) {
+  if (!catalogLoaders[code]) return {};
+  if (!searchLoads.has(code)) searchLoads.set(code, (async () => {
+    if (typeof globalThis.__quickkolLoadSearch === 'function') return globalThis.__quickkolLoadSearch(code);
+    const response = await fetch('/locales/' + code + '/search.json');
+    if (!response.ok) throw new Error('Unable to load search for ' + code);
+    return response.json();
+  })().catch((error) => { searchLoads.delete(code); throw error; }));
+  return searchLoads.get(code);
 }
 
 export function currentLocale() {

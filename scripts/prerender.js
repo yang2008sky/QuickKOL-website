@@ -24,6 +24,14 @@ export async function createPrerenderer() {
     }],
   });
   const code = `(async () => {${bundle.outputFiles[0].text}\n})()`;
+  const localeFiles = new Map();
+  const localeFile = async (file, optional = false) => {
+    if (!localeFiles.has(file)) {
+      try { localeFiles.set(file, JSON.parse(await readFile(new URL('../public/locales/' + file, import.meta.url), 'utf8'))); }
+      catch (error) { if (!optional || error.code !== 'ENOENT') throw error; localeFiles.set(file, {}); }
+    }
+    return localeFiles.get(file);
+  };
   return async (html, path) => {
     const window = new Window({
       url: new URL(path, siteOrigin).href,
@@ -33,6 +41,11 @@ export async function createPrerenderer() {
       },
     });
     try {
+      window.__quickkolLoadLocale = async (language, slug) => {
+        const core = await localeFile(language + '/core.json');
+        return { strings: { ...core.strings, ...(slug ? await localeFile(language + '/articles/' + slug + '.json', true) : {}) }, readingTimes: core.readingTimes };
+      };
+      window.__quickkolLoadSearch = (language) => localeFile(language + '/search.json');
       window.document.write(html);
       await window.eval(code);
       const document = window.document;
