@@ -1,0 +1,728 @@
+{
+  "checkedAt": "2026-11-17",
+  "paths": 120,
+  "passed": true,
+  "failed": [],
+  "results": [
+    {
+      "path": "/blog/tiktok-live-brand-expert-guest-session/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/tiktok-live-brand-expert-guest-session/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/tiktok-live-brand-expert-guest-session.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 231006
+    },
+    {
+      "path": "/assets/blog/live-host-guest-question-routing.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 138064
+    },
+    {
+      "path": "/blog/paraguay-public-figures-brand-role-research/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/paraguay-public-figures-brand-role-research/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/paraguay-person-work-role-map.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1292
+    },
+    {
+      "path": "/assets/blog/paraguay-public-figures-brand-role-research.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 51317
+    },
+    {
+      "path": "/zh/blog/social-media-benefits-creator-contribution-chain/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/social-media-benefits-creator-contribution-chain/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/creator-benefit-observation-chain.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1322
+    },
+    {
+      "path": "/assets/blog/social-media-benefits-creator-contribution-chain.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 68163
+    },
+    {
+      "path": "/zh/blog/social-media-creator-revenue-capacity-planning/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/social-media-creator-revenue-capacity-planning/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/creator-income-work-scope-map.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1544
+    },
+    {
+      "path": "/assets/blog/social-media-creator-revenue-capacity-planning.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 253219
+    },
+    {
+      "path": "/blog/exercise-clothing-creator-sample-custody/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/exercise-clothing-creator-sample-custody/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/garment-sample-condition-handoff.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 150012
+    },
+    {
+      "path": "/assets/blog/exercise-clothing-creator-sample-custody.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 259890
+    },
+    {
+      "path": "/blog/gym-fashion-creator-wardrobe-continuity/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/gym-fashion-creator-wardrobe-continuity/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/gym-outfit-continuity-check.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 123935
+    },
+    {
+      "path": "/assets/blog/gym-fashion-creator-wardrobe-continuity.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 286053
+    },
+    {
+      "path": "/blog/active-clothes-creator-product-launch-readiness/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/active-clothes-creator-product-launch-readiness/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/activewear-launch-readiness-map.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1519
+    },
+    {
+      "path": "/assets/blog/active-clothes-creator-product-launch-readiness.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 74077
+    },
+    {
+      "path": "/zh/blog/tiktok-shop-creator-affiliate-content-route/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/tiktok-shop-creator-affiliate-content-route/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/shop-product-destination-preparation.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 148156
+    },
+    {
+      "path": "/assets/blog/tiktok-shop-creator-affiliate-content-route.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 164276
+    },
+    {
+      "path": "/blog/digital-marketing-2025-creator-tool-transition-review/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/digital-marketing-2025-creator-tool-transition-review/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/creator-tool-2025-announcement-review.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1319
+    },
+    {
+      "path": "/assets/blog/digital-marketing-2025-creator-tool-transition-review.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 67774
+    },
+    {
+      "path": "/blog/competitive-benchmarking-creator-content-mix-analysis/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/competitive-benchmarking-creator-content-mix-analysis/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/competitive-content-mix-comparison.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1525
+    },
+    {
+      "path": "/assets/blog/competitive-benchmarking-creator-content-mix-analysis.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 70392
+    },
+    {
+      "path": "/blog/social-bookmarking-creator-reference-library/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/social-bookmarking-creator-reference-library/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/bookmark-source-permission-map.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1300
+    },
+    {
+      "path": "/assets/blog/social-bookmarking-creator-reference-library.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 243843
+    },
+    {
+      "path": "/blog/media-kits-creator-proposal-version-fit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/media-kits-creator-proposal-version-fit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/creator-portfolio-task-selection.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 134204
+    },
+    {
+      "path": "/assets/blog/media-kits-creator-proposal-version-fit.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 359890
+    },
+    {
+      "path": "/assets/blog/linkedin-organic-paid-version-map.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1519
+    },
+    {
+      "path": "/blog/linkedin-ads-manager-thought-leader-review/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/linkedin-ads-manager-thought-leader-review/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/linkedin-ads-manager-thought-leader-review.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 61007
+    },
+    {
+      "path": "/blog/share-of-voice-creator-category-claim-interpretation/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/share-of-voice-creator-category-claim-interpretation/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/voice-share-category-boundary.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1313
+    },
+    {
+      "path": "/assets/blog/share-of-voice-creator-category-claim-interpretation.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 71200
+    },
+    {
+      "path": "/blog/competitive-benchmarking-definition-creator-reference/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/competitive-benchmarking-definition-creator-reference/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/benchmark-reference-target-standard.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1290
+    },
+    {
+      "path": "/assets/blog/competitive-benchmarking-definition-creator-reference.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 57787
+    },
+    {
+      "path": "/blog/youtube-playlist-multi-creator-release-maintenance/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/youtube-playlist-multi-creator-release-maintenance/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/playlist-video-owner-update-map.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1524
+    },
+    {
+      "path": "/assets/blog/youtube-playlist-multi-creator-release-maintenance.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 290521
+    },
+    {
+      "path": "/blog/shadowban-meaning-distribution-status-language/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/shadowban-meaning-distribution-status-language/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/shadowban-label-status-decision.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1302
+    },
+    {
+      "path": "/assets/blog/shadowban-meaning-distribution-status-language.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 62213
+    },
+    {
+      "path": "/blog/new-youtube-channel-creator-series-architecture/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/new-youtube-channel-creator-series-architecture/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/new-channel-series-resource-map.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1304
+    },
+    {
+      "path": "/assets/blog/new-youtube-channel-creator-series-architecture.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 242791
+    },
+    {
+      "path": "/blog/instagram-strategy-creator-explanation-followthrough/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/instagram-strategy-creator-explanation-followthrough/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/instagram-creator-question-followthrough.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 138010
+    },
+    {
+      "path": "/assets/blog/instagram-strategy-creator-explanation-followthrough.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 270825
+    },
+    {
+      "path": "/blog/tick-tock-tiktok-creator-product-vocabulary/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/tick-tock-tiktok-creator-product-vocabulary/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/tiktok-creator-product-role-map.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1511
+    },
+    {
+      "path": "/assets/blog/tick-tock-tiktok-creator-product-vocabulary.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 68452
+    },
+    {
+      "path": "/blog/multiple-social-accounts-creator-version-control/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/multiple-social-accounts-creator-version-control/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/multi-account-version-fact-map.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1302
+    },
+    {
+      "path": "/assets/blog/multiple-social-accounts-creator-version-control.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 193182
+    },
+    {
+      "path": "/blog/facebook-cover-creator-partnership-composition/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/facebook-cover-creator-partnership-composition/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/creator-cover-wide-photo-framing.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 191092
+    },
+    {
+      "path": "/assets/blog/facebook-cover-creator-partnership-composition.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 275147
+    },
+    {
+      "path": "/blog/reddit-front-page-creator-research-scope/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/reddit-front-page-creator-research-scope/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/reddit-feed-research-scope.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1291
+    },
+    {
+      "path": "/assets/blog/reddit-front-page-creator-research-scope.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 60218
+    },
+    {
+      "path": "/blog/facebook-2025-original-creator-content-review/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/facebook-2025-original-creator-content-review/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/facebook-original-creator-review.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1312
+    },
+    {
+      "path": "/assets/blog/facebook-2025-original-creator-content-review.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 82105
+    },
+    {
+      "path": "/zh/blog/instagram-ad-creator-revision-commission/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/instagram-ad-creator-revision-commission/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/creator-ad-detail-revision.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 146612
+    },
+    {
+      "path": "/assets/blog/instagram-ad-creator-revision-commission.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 265704
+    },
+    {
+      "path": "/zh/blog/ugc-platforms-assignment-type-comparison/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/ugc-platforms-assignment-type-comparison/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/ugc-platform-task-comparison.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1281
+    },
+    {
+      "path": "/assets/blog/ugc-platforms-assignment-type-comparison.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 230123
+    },
+    {
+      "path": "/blog/creatoriq-strengths-weaknesses-evidence-scope/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/creatoriq-strengths-weaknesses-evidence-scope/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/creatoriq-capability-fit-evidence.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1309
+    },
+    {
+      "path": "/assets/blog/creatoriq-strengths-weaknesses-evidence-scope.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 61924
+    },
+    {
+      "path": "/zh/blog/growthhero-marketplace-listing-partner-fit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/growthhero-marketplace-listing-partner-fit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/affiliate-listing-application-work.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1523
+    },
+    {
+      "path": "/assets/blog/growthhero-marketplace-listing-partner-fit.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 73513
+    },
+    {
+      "path": "/blog/famous-bakers-creator-demonstration-shortlist/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/famous-bakers-creator-demonstration-shortlist/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/baking-creator-camera-detail-setup.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 148824
+    },
+    {
+      "path": "/assets/blog/famous-bakers-creator-demonstration-shortlist.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 287987
+    },
+    {
+      "path": "/blog/us-streamer-brand-broadcast-market-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/us-streamer-brand-broadcast-market-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/us-streamer-brand-broadcast-market-brief.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 287113
+    },
+    {
+      "path": "/assets/blog/us-streamer-market-host-response.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1314
+    }
+  ]
+}

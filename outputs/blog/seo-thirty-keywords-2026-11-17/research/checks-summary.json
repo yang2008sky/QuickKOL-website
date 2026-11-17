@@ -1,0 +1,30 @@
+{
+  "state": "User authorized GitHub handoff; maintainer integration and publication pending.",
+  "date": "2026-11-17",
+  "checks": {
+    "drafts": true,
+    "static": true,
+    "integrity": true,
+    "assets": true,
+    "layout": true,
+    "zh_titles": true,
+    "en_titles": true,
+    "http": true,
+    "alt_recheck": true,
+    "svg_bounds": true
+  },
+  "articles": 30,
+  "languagePages": 60,
+  "httpPaths": 120,
+  "layoutPageCases": 72,
+  "screenshotsInLocalArchive": 92,
+  "nativeGraphicsBounds": 35,
+  "build": {
+    "passed": true,
+    "entryPoints": 1317,
+    "scope": "Independent local preview, not maintainer production integration."
+  },
+  "existingSuite": {
+    "note": "No new whole-site test run during upload. Prior local check had one unrelated existing English article with Chinese terms; not modified. Batch-specific language checks pass."
+  }
+}
