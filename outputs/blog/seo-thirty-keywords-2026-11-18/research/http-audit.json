@@ -1,0 +1,728 @@
+{
+  "checkedAt": "2026-11-18",
+  "paths": 120,
+  "passed": true,
+  "failed": [],
+  "results": [
+    {
+      "path": "/assets/blog/maternity-photo-public-selection.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 116872
+    },
+    {
+      "path": "/blog/maternity-photography-creator-image-selection/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/maternity-photography-creator-image-selection/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/maternity-photography-creator-image-selection.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 267764
+    },
+    {
+      "path": "/assets/blog/key-mailer-creator-request-publication-scope.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 61715
+    },
+    {
+      "path": "/blog/key-mailer-creator-request-publication-scope/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/key-request-coverage-work-scope.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1321
+    },
+    {
+      "path": "/zh/blog/key-mailer-creator-request-publication-scope/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/bread-baker-creator-process-filming/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/bread-baker-creator-process-filming/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/bread-creator-continuity-record.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 162541
+    },
+    {
+      "path": "/assets/blog/bread-baker-creator-process-filming.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 265858
+    },
+    {
+      "path": "/assets/blog/amazon-follow-object-context.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1309
+    },
+    {
+      "path": "/blog/amazon-following-profile-scope-check/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/amazon-following-profile-scope-check/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/amazon-following-profile-scope-check.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 236207
+    },
+    {
+      "path": "/assets/blog/amazon-creator-follow-recovery-research.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 64158
+    },
+    {
+      "path": "/assets/blog/amazon-creator-recovery-source-map.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1313
+    },
+    {
+      "path": "/blog/amazon-creator-follow-recovery-research/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/amazon-creator-follow-recovery-research/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/creator-review-schedule-state-map.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1526
+    },
+    {
+      "path": "/zh/blog/later-social-creator-review-publishing-state/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/later-social-creator-review-publishing-state/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/later-social-creator-review-publishing-state.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 217781
+    },
+    {
+      "path": "/assets/blog/tiktok-may-2026-evidence-window.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1306
+    },
+    {
+      "path": "/blog/tiktok-may-2026-creator-trend-retrospective/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/tiktok-may-2026-creator-trend-retrospective/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/tiktok-may-2026-creator-trend-retrospective.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 68276
+    },
+    {
+      "path": "/assets/blog/threads-creator-conversation-contribution.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1307
+    },
+    {
+      "path": "/assets/blog/threads-creator-conversation-role-brief.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 78265
+    },
+    {
+      "path": "/blog/threads-creator-conversation-role-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/threads-creator-conversation-role-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/facebook-2025-hashtag-guidance-context.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1530
+    },
+    {
+      "path": "/assets/blog/facebook-hashtags-2025-creator-caption-context.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 68750
+    },
+    {
+      "path": "/blog/facebook-hashtags-2025-creator-caption-context/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/facebook-hashtags-2025-creator-caption-context/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/automation-action-exception-owner.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1323
+    },
+    {
+      "path": "/blog/social-media-automation-creator-exception-ownership/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/social-media-automation-creator-exception-ownership/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/social-media-automation-creator-exception-ownership.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 197501
+    },
+    {
+      "path": "/assets/blog/reel-creator-action-detail-shot.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 116881
+    },
+    {
+      "path": "/zh/blog/make-a-reel-creator-explanation-shot-list/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/make-a-reel-creator-explanation-shot-list/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/make-a-reel-creator-explanation-shot-list.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 215630
+    },
+    {
+      "path": "/zh/blog/instagram-aesthetic-multi-creator-art-direction/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/instagram-aesthetic-multi-creator-art-direction/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/creator-aesthetic-material-reference.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 120798
+    },
+    {
+      "path": "/assets/blog/instagram-aesthetic-multi-creator-art-direction.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 245971
+    },
+    {
+      "path": "/zh/blog/canva-post-templates-creator-asset-slots/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/canva-post-templates-creator-asset-slots/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/post-template-creator-photo-crops.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 124438
+    },
+    {
+      "path": "/assets/blog/canva-post-templates-creator-asset-slots.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 232232
+    },
+    {
+      "path": "/assets/blog/instagram-creator-collaboration-welcome-context.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 62568
+    },
+    {
+      "path": "/assets/blog/creator-visitor-welcome-map.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1314
+    },
+    {
+      "path": "/zh/blog/instagram-creator-collaboration-welcome-context/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/instagram-creator-collaboration-welcome-context/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/threads-creator-event-followup-conversation.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 61879
+    },
+    {
+      "path": "/assets/blog/threads-event-question-followup.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1536
+    },
+    {
+      "path": "/blog/threads-creator-event-followup-conversation/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/threads-creator-event-followup-conversation/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/creator-posting-schedule-production-capacity/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/creator-posting-schedule-production-capacity/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/creator-schedule-workload-cards.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 147345
+    },
+    {
+      "path": "/assets/blog/creator-posting-schedule-production-capacity.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 304720
+    },
+    {
+      "path": "/assets/blog/instagram-collab-boost-permission-decision.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 56570
+    },
+    {
+      "path": "/assets/blog/collab-coauthor-paid-permission.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1320
+    },
+    {
+      "path": "/blog/instagram-collab-boost-permission-decision/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/instagram-collab-boost-permission-decision/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/social-media-planner-creator-learning-backlog/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/creator-planner-learning-selection.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1539
+    },
+    {
+      "path": "/zh/blog/social-media-planner-creator-learning-backlog/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/social-media-planner-creator-learning-backlog.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 250120
+    },
+    {
+      "path": "/blog/instagram-creator-series-following-choice/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/instagram-creator-series-following-choice/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/creator-series-next-installment.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 144382
+    },
+    {
+      "path": "/assets/blog/instagram-creator-series-following-choice.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 312286
+    },
+    {
+      "path": "/assets/blog/shadowbanned-meaning-creator-status-update.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 74552
+    },
+    {
+      "path": "/assets/blog/shadowbanned-report-status-language.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1322
+    },
+    {
+      "path": "/blog/shadowbanned-meaning-creator-status-update/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/shadowbanned-meaning-creator-status-update/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/tiktok-creator-issue-work-continuity.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1536
+    },
+    {
+      "path": "/assets/blog/tiktok-distribution-issue-creator-campaign-continuity.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 70073
+    },
+    {
+      "path": "/zh/blog/tiktok-distribution-issue-creator-campaign-continuity/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/tiktok-distribution-issue-creator-campaign-continuity/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/creator-follow-invitation-purpose.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1331
+    },
+    {
+      "path": "/blog/instagram-following-invitation-creator-touchpoint/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/instagram-following-invitation-creator-touchpoint/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/instagram-following-invitation-creator-touchpoint.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 236220
+    },
+    {
+      "path": "/assets/blog/tiktok-monetization-program-requirement-map.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 60660
+    },
+    {
+      "path": "/assets/blog/tiktok-program-eligibility-separation.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1306
+    },
+    {
+      "path": "/blog/tiktok-monetization-program-requirement-map/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/tiktok-monetization-program-requirement-map/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/travel-creator-story-sticker-question-design/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/travel-creator-story-sticker-question-design/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/travel-story-question-card-review.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 160750
+    },
+    {
+      "path": "/assets/blog/travel-creator-story-sticker-question-design.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 276512
+    },
+    {
+      "path": "/assets/blog/instagram-trial-reels-result-interpretation.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 64300
+    },
+    {
+      "path": "/assets/blog/trial-reels-observation-boundaries.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1333
+    },
+    {
+      "path": "/blog/instagram-trial-reels-result-interpretation/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/instagram-trial-reels-result-interpretation/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/instagram-handle-creator-identity-handoff.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 61231
+    },
+    {
+      "path": "/assets/blog/instagram-handle-name-url-identity.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1301
+    },
+    {
+      "path": "/blog/instagram-handle-creator-identity-handoff/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/instagram-handle-creator-identity-handoff/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/instagram-story-link-creator-destination-promise/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/instagram-story-link-creator-destination-promise/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/instagram-story-link-creator-destination-promise.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 233595
+    },
+    {
+      "path": "/assets/blog/creator-story-destination-material-check.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 131101
+    },
+    {
+      "path": "/assets/blog/creator-destination-lifecycle.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1305
+    },
+    {
+      "path": "/zh/blog/linktree-creator-route-lifecycle/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/blog/linktree-creator-route-lifecycle/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/linktree-creator-route-lifecycle.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 244351
+    },
+    {
+      "path": "/blog/tiktok-sounds-creator-commercial-audio-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/tiktok-sounds-creator-commercial-audio-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/assets/blog/tiktok-sounds-creator-commercial-audio-brief.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 294626
+    },
+    {
+      "path": "/assets/blog/creator-voice-music-balance-session.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 153634
+    },
+    {
+      "path": "/assets/blog/youtube-subscriber-count-reconciliation.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1530
+    },
+    {
+      "path": "/assets/blog/youtube-subscriber-tracker-campaign-reconciliation.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 77134
+    },
+    {
+      "path": "/blog/youtube-subscriber-tracker-campaign-reconciliation/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    },
+    {
+      "path": "/zh/blog/youtube-subscriber-tracker-campaign-reconciliation/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2513
+    }
+  ]
+}

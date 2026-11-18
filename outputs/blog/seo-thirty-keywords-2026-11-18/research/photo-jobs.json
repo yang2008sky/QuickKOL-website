@@ -1,0 +1,404 @@
+[
+  {
+    "key": "cover-01",
+    "id": 1,
+    "role": "cover",
+    "file": "maternity-photography-creator-image-selection.jpg",
+    "prompt": "Use case: photorealistic-natural. Asset: wide 16:9 editorial cover for QuickKOL article Maternity Photography for a Creator Campaign. A fictional adult Black pregnant creator in a modest mustard knit dress and an adult South Asian male photographer review a waist-up portrait composition in a bright cream photography studio. The creator holds an unbranded coral fabric tote, making this a real brand photography production rather than medical or posing advice. Candid capable collaboration, natural respectful expressions, believable hands, camera on stationary tripod, daylight, restrained cobalt and coral accents. Distinct faces, not any real named creator or client. No readable words, numbers, logos, watermark, AI notices, fabricated interface or metrics. Wide safe margins, intended JPEG cover 1672x941.",
+    "status": "generated",
+    "inspected": true,
+    "inspectionNote": "Viewed full generated image: respectful fictional adults, plausible hands/equipment and clear photography-review task.",
+    "originalGeneratedFilename": "exec-63bd4925-ccb9-47f2-9326-7f517da1bc23.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "maternity-photography-creator-image-selection.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "figure-01",
+    "id": 1,
+    "role": "figure",
+    "file": "maternity-photo-public-selection.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Body photo distinct from cover: Overhead adult hands compare two original fully clothed maternity portrait prints beside blank selected-image cards and a fabric tote. Image-selection work rather than a pregnancy pose tutorial.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-9101c55d-1307-48f7-970a-2034307cae8d.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "maternity-photo-public-selection-clean.png",
+      "storage": "Local authoring archive."
+    },
+    "editPrompt": "Remove camera logos and lettering only; preserve selection scene.",
+    "previousSource": "source-images/maternity-photo-public-selection.png"
+  },
+  {
+    "key": "cover-03",
+    "id": 3,
+    "role": "cover",
+    "file": "bread-baker-creator-process-filming.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: One fictional older Latino male bread creator with short gray hair in a small modern bakery, showing a plain metal dough bowl to a stationary camera, flour on a wooden workbench and covered dough tubs behind. A process-filming preparation scene, not a recipe diagram.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-f6b4dd2b-1276-4a66-bc6f-9b11fe6c8895.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "bread-baker-creator-process-filming.png",
+      "storage": "Local authoring archive."
+    },
+    "inspectionNote": "Viewed full generated output; plausible adult anatomy and equipment, clear task and suitable crop margins."
+  },
+  {
+    "key": "figure-03",
+    "id": 3,
+    "role": "figure",
+    "file": "bread-creator-continuity-record.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Body photo distinct from cover: A bread creator checks a covered dough bowl against an original earlier production photograph beside a stationary detail camera. Real process continuity and waiting-stage capture, no readable recipe or timings.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-e7af6b50-a19b-432e-b5d0-0c1d24748f20.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "bread-creator-continuity-record.png",
+      "storage": "Local authoring archive."
+    },
+    "inspectionNote": "Viewed full generated output; plausible adult anatomy and equipment, clear task and suitable crop margins."
+  },
+  {
+    "key": "cover-04",
+    "id": 4,
+    "role": "cover",
+    "file": "amazon-following-profile-scope-check.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: Overhead creator-research desk with original printed photographs of a kitchen presenter and a craft creator, blank source cards, an open blank notebook and phone facing down. Distinct source records, no Amazon logo or fake app.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-037b6610-27c7-4368-b82a-c4ab2407f6e0.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "amazon-following-profile-scope-check.png",
+      "storage": "Local authoring archive."
+    },
+    "inspectionNote": "Viewed full generated output; plausible adult anatomy and equipment, clear task and suitable crop margins."
+  },
+  {
+    "key": "cover-06",
+    "id": 6,
+    "role": "cover",
+    "file": "later-social-creator-review-publishing-state.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: An older East Asian woman producer at a coral studio desk pairs one finished original product photograph with a blank review folder, while a second closed folder and mechanical calendar block sit aside. Separate review and release work, no invented interface.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-bff1d892-b0f3-4330-b401-db7faef20025.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "later-social-creator-review-publishing-state.png",
+      "storage": "Local authoring archive."
+    },
+    "inspectionNote": "Viewed full generated output; plausible adult anatomy and equipment, clear task and suitable crop margins."
+  },
+  {
+    "key": "cover-10",
+    "id": 10,
+    "role": "cover",
+    "file": "social-media-automation-creator-exception-ownership.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: Object still life of a small camera, plain production cards sorted into three trays, a closed laptop and a phone facing down. One coral card is deliberately outside the regular tray to suggest an exception requiring a person. No dashboard or metrics.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-f83422b5-6d25-4ab6-9bac-023c5d5ae63f.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "social-media-automation-creator-exception-ownership.png",
+      "storage": "Local authoring archive."
+    },
+    "inspectionNote": "Viewed full generated output; plausible adult anatomy and equipment, clear task and suitable crop margins."
+  },
+  {
+    "key": "cover-11",
+    "id": 11,
+    "role": "cover",
+    "file": "make-a-reel-creator-explanation-shot-list.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: An adult Black male outdoor-product creator in a cobalt jacket rehearses a compact umbrella explanation at a stationary phone tripod in a bright sheltered courtyard. A producer hand holds a plain shot card. Real product explanation, not a dance or generic meeting.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-b7e563ab-c822-42f2-a1a2-f0cca5059bcb.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "make-a-reel-creator-explanation-shot-list.png",
+      "storage": "Local authoring archive."
+    },
+    "inspectionNote": "Viewed full generated output; plausible adult anatomy and equipment, clear task and suitable crop margins."
+  },
+  {
+    "key": "figure-11",
+    "id": 11,
+    "role": "figure",
+    "file": "reel-creator-action-detail-shot.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Body photo distinct from cover: Close production view of an adult creator holding a compact umbrella mechanism stationary while a camera operator checks the detail angle on a tripod. No instruction text, no unsafe movement.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-dc689ea0-1732-432c-9339-0837ef132962.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "reel-creator-action-detail-shot.png",
+      "storage": "Local authoring archive."
+    },
+    "inspectionNote": "Viewed full generated output; plausible adult anatomy and equipment, clear task and suitable crop margins."
+  },
+  {
+    "key": "cover-12",
+    "id": 12,
+    "role": "cover",
+    "file": "instagram-aesthetic-multi-creator-art-direction.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: An adult Scandinavian-looking woman creator with short red hair pins original product photographs and cream, blue and textured fabric swatches on a studio wall. A clear art-direction task with a camera nearby; no repeated cast from other images.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-6d934016-77d9-443e-9574-811d8b1491f0.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "instagram-aesthetic-multi-creator-art-direction.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "figure-12",
+    "id": 12,
+    "role": "figure",
+    "file": "creator-aesthetic-material-reference.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Body photo distinct from cover: An adult art director compares an original creator product photograph with cobalt and cream fabric swatches in daylight, with a plain neutral background card. Focus on consistent materials and framing.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-a88e6528-d05d-479d-bee9-9ffb51c0c2bc.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "creator-aesthetic-material-reference.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "cover-13",
+    "id": 13,
+    "role": "cover",
+    "file": "canva-post-templates-creator-asset-slots.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: A design workbench with four unbranded skincare product prints in different crops, open empty card frames, a coral pencil, camera lens and neutral fabric. Clear layout-slot planning, no screenshot, interface or readable labels.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-1b65b42e-8792-400c-8d92-feec6856dc41.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "canva-post-templates-creator-asset-slots.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "figure-13",
+    "id": 13,
+    "role": "figure",
+    "file": "post-template-creator-photo-crops.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Body photo distinct from cover: Overhead hands place one original unbranded skincare photograph into a blank square paper frame and a portrait paper frame. Product details remain visible, no readable software screen.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-9fb776c3-9c54-45ef-a361-83cd45d95543.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "post-template-creator-photo-crops-clean.png",
+      "storage": "Local authoring archive."
+    },
+    "previousSource": "source-images/post-template-creator-photo-crops.png",
+    "editPrompt": "Remove camera lettering only, preserve photograph."
+  },
+  {
+    "key": "cover-16",
+    "id": 16,
+    "role": "cover",
+    "file": "creator-posting-schedule-production-capacity.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: An overhead production scheduling desk in a workshop: camera batteries, three blank illustrated task cards, paper dividers and an analog clock without readable numbers. Real capacity planning rather than fake charts.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-da25db77-01b9-4267-9997-fb7bdf8e2b60.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "creator-posting-schedule-production-capacity.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "figure-16",
+    "id": 16,
+    "role": "figure",
+    "file": "creator-schedule-workload-cards.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Body photo distinct from cover: A producer sorts plain illustrated filming, editing and response cards beside charged camera batteries and a closed notebook. Physical realistic workload planning, no readable numbers.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-83ce19ad-d5ce-4fc7-b09e-b42b3bd97ed4.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "creator-schedule-workload-cards.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "cover-18",
+    "id": 18,
+    "role": "cover",
+    "file": "social-media-planner-creator-learning-backlog.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: A fictional older Latina woman with silver curls in a light blue shirt arranging blank question cards beside original maker-work photographs on a large planning wall. One useful creative backlog, not a generic calendar UI.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-63a44e3a-855f-4d98-b1b0-fc409d77a75f.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "social-media-planner-creator-learning-backlog.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "cover-19",
+    "id": 19,
+    "role": "cover",
+    "file": "instagram-creator-series-following-choice.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: A fictional adult male creator using a wheelchair and an adult female collaborator prepare a second installment of a tabletop gadget series in an accessible bright studio. A different device and two original episode stills on the desk; confident natural production work.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-1ba29ae0-db1f-4a12-95bc-9a0718c12035.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "instagram-creator-series-following-choice.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "figure-19",
+    "id": 19,
+    "role": "figure",
+    "file": "creator-series-next-installment.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Body photo distinct from cover: Adult creator hands place a different tabletop gadget beside two original previous-episode photographs while a collaborator arranges the next filming angle. New installment contribution, not engagement metrics.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-18048044-68eb-4cf0-bab3-f2bb926afdee.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "creator-series-next-installment.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "cover-22",
+    "id": 22,
+    "role": "cover",
+    "file": "instagram-following-invitation-creator-touchpoint.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: A stationary phone tripod facing away beside a creator-made ceramic object, two original explanatory prints and a small blank cobalt card on a sunlit studio shelf. A useful invitation to continue learning, no follower icons or counts.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-03416989-8b29-4beb-baeb-43ee72b9d65c.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "instagram-following-invitation-creator-touchpoint.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "cover-24",
+    "id": 24,
+    "role": "cover",
+    "file": "travel-creator-story-sticker-question-design.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: A fictional East Asian male travel creator and Black female producer review two original destination photographs beside a carry-on suitcase in a bright travel-content loft. A question-selection task, no exact travel location or personal data.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-72715c36-00e4-4de3-9ddb-c479c4a943ba.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "travel-creator-story-sticker-question-design.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "figure-24",
+    "id": 24,
+    "role": "figure",
+    "file": "travel-story-question-card-review.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Body photo distinct from cover: Adult hands choose between two original travel photographs beside a blank question card and closed suitcase. A travel-creator story question-planning scene, no map pins or personal locations.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-2b12aecd-6a33-4c1a-8458-b02a663a3032.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "travel-story-question-card-review.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "cover-27",
+    "id": 27,
+    "role": "cover",
+    "file": "instagram-story-link-creator-destination-promise.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: One fictional adult Black woman creator with short natural hair holding a phone with screen turned away, preparing a simple local-travel story beside a printed original guide photograph and a plain coral destination card. Clear story-to-information transition.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-ce5fdc41-ef32-4340-80c3-e0c78e940732.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "instagram-story-link-creator-destination-promise.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "figure-27",
+    "id": 27,
+    "role": "figure",
+    "file": "creator-story-destination-material-check.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Body photo distinct from cover: Adult creator checks a printed original local-guide photograph and plain destination card beside a phone facing away. Matching story promise to information, no fake link sticker or UI.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-11f59425-5772-4848-87c5-764b0d3d8cd3.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "creator-story-destination-material-check.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "cover-28",
+    "id": 28,
+    "role": "cover",
+    "file": "linktree-creator-route-lifecycle.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: An organized object still life of three original creator photographs, a plain closed offer card, a replacement open card and a woven link cord on a cream desk. A changing creator campaign destination, no URLs or fabricated website UI.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-919bba15-96ab-4c75-a8ce-deb8d2434a24.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "linktree-creator-route-lifecycle.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "cover-29",
+    "id": 29,
+    "role": "cover",
+    "file": "tiktok-sounds-creator-commercial-audio-brief.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Editorial cover: A fictional adult Peruvian woman creator and Korean male music producer compare a spoken product explanation with original percussion instruments in a bright recording studio. Microphone, plain headphones and unbranded instrument; believable sound-selection work, no music app interface.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-840b9e02-56ec-466d-908f-5b2d579beda2.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "tiktok-sounds-creator-commercial-audio-brief.png",
+      "storage": "Local authoring archive."
+    }
+  },
+  {
+    "key": "figure-29",
+    "id": 29,
+    "role": "figure",
+    "file": "creator-voice-music-balance-session.jpg",
+    "prompt": "Use case: photorealistic-natural. QuickKOL creator-economy editorial photography, wide 16:9, bright cream base, cobalt and restrained coral accents. Believable hands, body proportions and equipment. Fictional adult people, not any actual named creator, client or campaign. No readable words, numbers, logos, watermark, AI notices, fabricated metrics or recognizable software interface. Safe crop margins and clear practical action. Body photo distinct from cover: An adult creator at a microphone and another adult at a small unbranded audio mixer listen to a spoken product explanation beside headphones. Natural recording-room detail, no readable meter values.",
+    "status": "generated",
+    "inspected": true,
+    "originalGeneratedFilename": "exec-1c3dea27-b0d9-48fb-916a-51d27c99733a.png",
+    "originalStorage": "Original PNG retained in local authoring archive; omitted from Git handoff.",
+    "originalArchive": {
+      "filename": "creator-voice-music-balance-session.png",
+      "storage": "Local authoring archive."
+    }
+  }
+]

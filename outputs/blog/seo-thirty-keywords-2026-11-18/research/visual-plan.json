@@ -1,0 +1,512 @@
+[
+  {
+    "id": 1,
+    "role": "figure",
+    "kind": "photo",
+    "file": "maternity-photo-public-selection.jpg",
+    "afterSection": 4
+  },
+  {
+    "id": 2,
+    "role": "figure",
+    "kind": "svg",
+    "file": "key-request-coverage-work-scope.svg",
+    "labels": [
+      [
+        "申请与发放",
+        "Request and access"
+      ],
+      [
+        "实际内容任务",
+        "Actual content task"
+      ],
+      [
+        "用途与交付",
+        "Use and delivery"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "nested"
+  },
+  {
+    "id": 3,
+    "role": "figure",
+    "kind": "photo",
+    "file": "bread-creator-continuity-record.jpg",
+    "afterSection": 4
+  },
+  {
+    "id": 4,
+    "role": "figure",
+    "kind": "svg",
+    "file": "amazon-follow-object-context.svg",
+    "labels": [
+      [
+        "当前账户",
+        "Current account"
+      ],
+      [
+        "关注的对象",
+        "Object followed"
+      ],
+      [
+        "可见的入口",
+        "Available surface"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "layers"
+  },
+  {
+    "id": 5,
+    "role": "figure",
+    "kind": "svg",
+    "file": "amazon-creator-recovery-source-map.svg",
+    "labels": [
+      [
+        "原始来源",
+        "Original source"
+      ],
+      [
+        "创作者入口",
+        "Creator destination"
+      ],
+      [
+        "待确认状态",
+        "Status to confirm"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "nested"
+  },
+  {
+    "id": 6,
+    "role": "figure",
+    "kind": "svg",
+    "file": "creator-review-schedule-state-map.svg",
+    "labels": [
+      [
+        "草稿与审阅",
+        "Draft and review"
+      ],
+      [
+        "排期状态",
+        "Scheduled state"
+      ],
+      [
+        "实际发布",
+        "Actual release"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "steps"
+  },
+  {
+    "id": 7,
+    "role": "figure",
+    "kind": "svg",
+    "file": "tiktok-may-2026-evidence-window.svg",
+    "labels": [
+      [
+        "2026 年 5 月",
+        "May 2026 window"
+      ],
+      [
+        "当时来源",
+        "Source from then"
+      ],
+      [
+        "今天的复盘",
+        "Current review"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "layers"
+  },
+  {
+    "id": 8,
+    "role": "figure",
+    "kind": "svg",
+    "file": "threads-creator-conversation-contribution.svg",
+    "labels": [
+      [
+        "创作者观点",
+        "Creator perspective"
+      ],
+      [
+        "品牌事实",
+        "Brand facts"
+      ],
+      [
+        "对话接收",
+        "Conversation owner"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "nested"
+  },
+  {
+    "id": 9,
+    "role": "figure",
+    "kind": "svg",
+    "file": "facebook-2025-hashtag-guidance-context.svg",
+    "labels": [
+      [
+        "当年建议",
+        "Dated guidance"
+      ],
+      [
+        "内容相关",
+        "Content relevance"
+      ],
+      [
+        "有范围观察",
+        "Scoped observation"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "steps"
+  },
+  {
+    "id": 10,
+    "role": "figure",
+    "kind": "svg",
+    "file": "automation-action-exception-owner.svg",
+    "labels": [
+      [
+        "已定义动作",
+        "Defined action"
+      ],
+      [
+        "需要判断的变化",
+        "Change needing judgment"
+      ],
+      [
+        "例外负责人",
+        "Exception owner"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "layers"
+  },
+  {
+    "id": 11,
+    "role": "figure",
+    "kind": "photo",
+    "file": "reel-creator-action-detail-shot.jpg",
+    "afterSection": 4
+  },
+  {
+    "id": 12,
+    "role": "figure",
+    "kind": "photo",
+    "file": "creator-aesthetic-material-reference.jpg",
+    "afterSection": 4
+  },
+  {
+    "id": 13,
+    "role": "figure",
+    "kind": "photo",
+    "file": "post-template-creator-photo-crops.jpg",
+    "afterSection": 4
+  },
+  {
+    "id": 14,
+    "role": "figure",
+    "kind": "svg",
+    "file": "creator-visitor-welcome-map.svg",
+    "labels": [
+      [
+        "合作内容",
+        "Partner content"
+      ],
+      [
+        "新访客语境",
+        "Visitor context"
+      ],
+      [
+        "有意义的下一步",
+        "Useful next step"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "nested"
+  },
+  {
+    "id": 15,
+    "role": "figure",
+    "kind": "svg",
+    "file": "threads-event-question-followup.svg",
+    "labels": [
+      [
+        "活动中的问题",
+        "Event question"
+      ],
+      [
+        "事实与体验",
+        "Facts and experience"
+      ],
+      [
+        "后续回答",
+        "Owned follow-up"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "steps"
+  },
+  {
+    "id": 16,
+    "role": "figure",
+    "kind": "photo",
+    "file": "creator-schedule-workload-cards.jpg",
+    "afterSection": 4
+  },
+  {
+    "id": 17,
+    "role": "figure",
+    "kind": "svg",
+    "file": "collab-coauthor-paid-permission.svg",
+    "labels": [
+      [
+        "共创身份",
+        "Coauthor identity"
+      ],
+      [
+        "付费使用范围",
+        "Paid-use scope"
+      ],
+      [
+        "实际广告资格",
+        "Actual ad eligibility"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "nested"
+  },
+  {
+    "id": 18,
+    "role": "figure",
+    "kind": "svg",
+    "file": "creator-planner-learning-selection.svg",
+    "labels": [
+      [
+        "待解释问题",
+        "Question backlog"
+      ],
+      [
+        "创作者贡献",
+        "Creator contribution"
+      ],
+      [
+        "本轮选择",
+        "Selected assignment"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "steps"
+  },
+  {
+    "id": 19,
+    "role": "figure",
+    "kind": "photo",
+    "file": "creator-series-next-installment.jpg",
+    "afterSection": 4
+  },
+  {
+    "id": 20,
+    "role": "figure",
+    "kind": "svg",
+    "file": "shadowbanned-report-status-language.svg",
+    "labels": [
+      [
+        "对方的描述",
+        "Reported symptom"
+      ],
+      [
+        "可确认记录",
+        "Documented status"
+      ],
+      [
+        "当前合作决定",
+        "Current work decision"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "nested"
+  },
+  {
+    "id": 21,
+    "role": "figure",
+    "kind": "svg",
+    "file": "tiktok-creator-issue-work-continuity.svg",
+    "labels": [
+      [
+        "平台通知",
+        "Platform notice"
+      ],
+      [
+        "可继续的工作",
+        "Work that can continue"
+      ],
+      [
+        "待定发布",
+        "Pending release"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "steps"
+  },
+  {
+    "id": 22,
+    "role": "figure",
+    "kind": "svg",
+    "file": "creator-follow-invitation-purpose.svg",
+    "labels": [
+      [
+        "观众刚看懂什么",
+        "What viewers learned"
+      ],
+      [
+        "关注能继续看什么",
+        "What following adds"
+      ],
+      [
+        "正确账号",
+        "Correct account"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "layers"
+  },
+  {
+    "id": 23,
+    "role": "figure",
+    "kind": "svg",
+    "file": "tiktok-program-eligibility-separation.svg",
+    "labels": [
+      [
+        "创作者奖励",
+        "Creator rewards"
+      ],
+      [
+        "商品合作",
+        "Commerce program"
+      ],
+      [
+        "品牌委托",
+        "Brand commission"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "nested"
+  },
+  {
+    "id": 24,
+    "role": "figure",
+    "kind": "photo",
+    "file": "travel-story-question-card-review.jpg",
+    "afterSection": 4
+  },
+  {
+    "id": 25,
+    "role": "figure",
+    "kind": "svg",
+    "file": "trial-reels-observation-boundaries.svg",
+    "labels": [
+      [
+        "先给非关注者",
+        "Non-followers first"
+      ],
+      [
+        "具体观察窗口",
+        "Observation window"
+      ],
+      [
+        "有限结果解释",
+        "Bounded interpretation"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "layers"
+  },
+  {
+    "id": 26,
+    "role": "figure",
+    "kind": "svg",
+    "file": "instagram-handle-name-url-identity.svg",
+    "labels": [
+      [
+        "显示名称",
+        "Display name"
+      ],
+      [
+        "实际用户名",
+        "Account handle"
+      ],
+      [
+        "对应主页",
+        "Matching profile"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "nested"
+  },
+  {
+    "id": 27,
+    "role": "figure",
+    "kind": "photo",
+    "file": "creator-story-destination-material-check.jpg",
+    "afterSection": 4
+  },
+  {
+    "id": 28,
+    "role": "figure",
+    "kind": "svg",
+    "file": "creator-destination-lifecycle.svg",
+    "labels": [
+      [
+        "当前入口",
+        "Current route"
+      ],
+      [
+        "条件更新",
+        "Changed conditions"
+      ],
+      [
+        "结束与替换",
+        "End and replace"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "layers"
+  },
+  {
+    "id": 29,
+    "role": "figure",
+    "kind": "photo",
+    "file": "creator-voice-music-balance-session.jpg",
+    "afterSection": 4
+  },
+  {
+    "id": 30,
+    "role": "figure",
+    "kind": "svg",
+    "file": "youtube-subscriber-count-reconciliation.svg",
+    "labels": [
+      [
+        "公开快照",
+        "Public snapshot"
+      ],
+      [
+        "授权数据",
+        "Authorized count"
+      ],
+      [
+        "同一时间范围",
+        "Matching window"
+      ]
+    ],
+    "afterSection": 4,
+    "layout": "steps"
+  }
+]

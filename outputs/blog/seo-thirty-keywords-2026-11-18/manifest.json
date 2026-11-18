@@ -1,0 +1,616 @@
+{
+  "batch": "seo-thirty-keywords-2026-11-18",
+  "branch": "seo-blog",
+  "baseRevision": "175466fb036cbb41e0fc2bcaca08ce74ecf23357",
+  "articleCount": 30,
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "contentModule": "src/blog-november-eighteenth.js",
+  "exportName": "novemberEighteenthPosts",
+  "draftDate": "2026-11-18",
+  "status": "awaiting-maintainer-integration-and-publication",
+  "articles": [
+    {
+      "order": 1,
+      "keyword": "maternity photography",
+      "slug": "maternity-photography-creator-image-selection",
+      "title": [
+        "孕期摄影合作怎样选择公开画面",
+        "Maternity Photography for a Creator Campaign"
+      ],
+      "brandDecision": "Commission a creator maternity-photo selection around agreed narrative, image approval and real product role; no medical posing advice.",
+      "educationOnly": false,
+      "englishBodyWords": 1537,
+      "cover": "maternity-photography-creator-image-selection.jpg",
+      "bodyFigures": [
+        "maternity-photo-public-selection.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/maternity-photography-creator-image-selection/",
+        "zh": "https://www.quickkol.com/zh/blog/maternity-photography-creator-image-selection/"
+      }
+    },
+    {
+      "order": 2,
+      "keyword": "key mailer",
+      "slug": "key-mailer-creator-request-publication-scope",
+      "title": [
+        "Keymailer 申请怎样转成明确合作",
+        "Key Mailer: Define the Creator Assignment"
+      ],
+      "brandDecision": "Resolve spelling to Keymailer, request versus editorial coverage versus commissioned deliverable; not repeat key-distribution pilot.",
+      "educationOnly": false,
+      "englishBodyWords": 1545,
+      "cover": "key-mailer-creator-request-publication-scope.jpg",
+      "bodyFigures": [
+        "key-request-coverage-work-scope.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/key-mailer-creator-request-publication-scope/",
+        "zh": "https://www.quickkol.com/zh/blog/key-mailer-creator-request-publication-scope/"
+      }
+    },
+    {
+      "order": 3,
+      "keyword": "bread baker",
+      "slug": "bread-baker-creator-process-filming",
+      "title": [
+        "面包创作者合作怎样拍清制作过程",
+        "Bread Baker: Creator Production"
+      ],
+      "brandDecision": "Bread creator production roles, waiting stages, continuity and equipment claims; not bread recipe or generic famous-baker list.",
+      "educationOnly": false,
+      "englishBodyWords": 1503,
+      "cover": "bread-baker-creator-process-filming.jpg",
+      "bodyFigures": [
+        "bread-creator-continuity-record.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/bread-baker-creator-process-filming/",
+        "zh": "https://www.quickkol.com/zh/blog/bread-baker-creator-process-filming/"
+      }
+    },
+    {
+      "order": 4,
+      "keyword": "how to see who you follow on amazon",
+      "slug": "amazon-following-profile-scope-check",
+      "title": [
+        "Amazon 关注查询：确认对象",
+        "See Who You Follow on Amazon: Check the Context"
+      ],
+      "brandDecision": "Answer own-account lookup, shopping creator versus brand versus Music following, current accessible surface and unknown UI; no unsupported universal menu.",
+      "educationOnly": false,
+      "englishBodyWords": 1509,
+      "cover": "amazon-following-profile-scope-check.jpg",
+      "bodyFigures": [
+        "amazon-follow-object-context.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/amazon-following-profile-scope-check/",
+        "zh": "https://www.quickkol.com/zh/blog/amazon-following-profile-scope-check/"
+      }
+    },
+    {
+      "order": 5,
+      "keyword": "how to find who you follow on amazon",
+      "slug": "amazon-creator-follow-recovery-research",
+      "title": [
+        "怎样找回曾关注的 Amazon 创作者",
+        "Find an Amazon Creator You Previously Followed"
+      ],
+      "brandDecision": "Recover a creator through saved storefront/source links and author-owned channels; distinguish identification from follow status and brand shortlist fit.",
+      "educationOnly": false,
+      "englishBodyWords": 1502,
+      "cover": "amazon-creator-follow-recovery-research.jpg",
+      "bodyFigures": [
+        "amazon-creator-recovery-source-map.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/amazon-creator-follow-recovery-research/",
+        "zh": "https://www.quickkol.com/zh/blog/amazon-creator-follow-recovery-research/"
+      }
+    },
+    {
+      "order": 6,
+      "keyword": "later social media",
+      "slug": "later-social-creator-review-publishing-state",
+      "title": [
+        "Later 怎样连接达人审阅与发布",
+        "Later Social Media: Review Before Scheduling"
+      ],
+      "brandDecision": "Later Social approval versus draft/scheduled/published; current permission caveat and actual creator version handoff, not old product-family overview.",
+      "educationOnly": false,
+      "englishBodyWords": 1515,
+      "cover": "later-social-creator-review-publishing-state.jpg",
+      "bodyFigures": [
+        "creator-review-schedule-state-map.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/later-social-creator-review-publishing-state/",
+        "zh": "https://www.quickkol.com/zh/blog/later-social-creator-review-publishing-state/"
+      }
+    },
+    {
+      "order": 7,
+      "keyword": "current tiktok trends may 2026",
+      "slug": "tiktok-may-2026-creator-trend-retrospective",
+      "title": [
+        "2026 年 5 月 TikTok 趋势怎样复盘",
+        "May 2026 TikTok Creator Trends"
+      ],
+      "brandDecision": "Historical May2026 scoped evidence versus annual forecast/current charts; dated primary examples only, no invented monthly ranking.",
+      "educationOnly": false,
+      "englishBodyWords": 1504,
+      "cover": "tiktok-may-2026-creator-trend-retrospective.jpg",
+      "bodyFigures": [
+        "tiktok-may-2026-evidence-window.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-may-2026-creator-trend-retrospective/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-may-2026-creator-trend-retrospective/"
+      }
+    },
+    {
+      "order": 8,
+      "keyword": "threads.",
+      "slug": "threads-creator-conversation-role-brief",
+      "title": [
+        "Threads 在达人合作中的角色",
+        "Threads for Creator Partnership Conversations"
+      ],
+      "brandDecision": "Resolve punctuation, define text-conversation role for brand/creator explanation and listening; distinct from account signup/publishing roles.",
+      "educationOnly": false,
+      "englishBodyWords": 1511,
+      "cover": "threads-creator-conversation-role-brief.jpg",
+      "bodyFigures": [
+        "threads-creator-conversation-contribution.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/threads-creator-conversation-role-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/threads-creator-conversation-role-brief/"
+      }
+    },
+    {
+      "order": 9,
+      "keyword": "facebook hashtags strategy 2025 how many to use",
+      "slug": "facebook-hashtags-2025-creator-caption-context",
+      "title": [
+        "2025 Facebook 标签建议怎样应用",
+        "Facebook Hashtags in 2025: Read the Context"
+      ],
+      "brandDecision": "Read official 2025 up-to-five guidance in its dated original-content context; no universal causal optimum or current2026 rule.",
+      "educationOnly": false,
+      "englishBodyWords": 1586,
+      "cover": "facebook-hashtags-2025-creator-caption-context.jpg",
+      "bodyFigures": [
+        "facebook-2025-hashtag-guidance-context.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/facebook-hashtags-2025-creator-caption-context/",
+        "zh": "https://www.quickkol.com/zh/blog/facebook-hashtags-2025-creator-caption-context/"
+      }
+    },
+    {
+      "order": 10,
+      "keyword": "social media automation",
+      "slug": "social-media-automation-creator-exception-ownership",
+      "title": [
+        "达人内容自动化怎样处理例外",
+        "Social Media Automation With Creator Oversight"
+      ],
+      "brandDecision": "Automate defined preparation/publishing operations, explicit states and exceptions; not automate relationships or manipulate engagement.",
+      "educationOnly": false,
+      "englishBodyWords": 1570,
+      "cover": "social-media-automation-creator-exception-ownership.jpg",
+      "bodyFigures": [
+        "automation-action-exception-owner.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/social-media-automation-creator-exception-ownership/",
+        "zh": "https://www.quickkol.com/zh/blog/social-media-automation-creator-exception-ownership/"
+      }
+    },
+    {
+      "order": 11,
+      "keyword": "how to make a reel",
+      "slug": "make-a-reel-creator-explanation-shot-list",
+      "title": [
+        "怎样把达人讲解做成一条 Reel",
+        "Make a Reel Around a Creator Explanation"
+      ],
+      "brandDecision": "Specify product question, shot purpose, actual creation route, voice/caption/music and publish version; distinct from prior acceptance review.",
+      "educationOnly": false,
+      "englishBodyWords": 1525,
+      "cover": "make-a-reel-creator-explanation-shot-list.jpg",
+      "bodyFigures": [
+        "reel-creator-action-detail-shot.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/make-a-reel-creator-explanation-shot-list/",
+        "zh": "https://www.quickkol.com/zh/blog/make-a-reel-creator-explanation-shot-list/"
+      }
+    },
+    {
+      "order": 12,
+      "keyword": "how to create a cohesive instagram aesthetic",
+      "slug": "instagram-aesthetic-multi-creator-art-direction",
+      "title": [
+        "多达人内容怎样保持视觉一致",
+        "A Cohesive Instagram Aesthetic With Creators"
+      ],
+      "brandDecision": "Art direction invariants versus creator expression: palette, framing, product truth and accessible text; no uniform-face/template copying.",
+      "educationOnly": false,
+      "englishBodyWords": 1509,
+      "cover": "instagram-aesthetic-multi-creator-art-direction.jpg",
+      "bodyFigures": [
+        "creator-aesthetic-material-reference.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-aesthetic-multi-creator-art-direction/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-aesthetic-multi-creator-art-direction/"
+      }
+    },
+    {
+      "order": 13,
+      "keyword": "canva instagram post templates",
+      "slug": "canva-post-templates-creator-asset-slots",
+      "title": [
+        "Canva 帖子模板怎样接收达人素材",
+        "Canva Instagram Post Templates for Creators"
+      ],
+      "brandDecision": "Specific post layout slot requirements and variant fit, Canva content license versus creator original assets; not Story/carousel/wholebrandkit repeats.",
+      "educationOnly": false,
+      "englishBodyWords": 1540,
+      "cover": "canva-post-templates-creator-asset-slots.jpg",
+      "bodyFigures": [
+        "post-template-creator-photo-crops.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/canva-post-templates-creator-asset-slots/",
+        "zh": "https://www.quickkol.com/zh/blog/canva-post-templates-creator-asset-slots/"
+      }
+    },
+    {
+      "order": 14,
+      "keyword": "how could i get more followers on instagram",
+      "slug": "instagram-creator-collaboration-welcome-context",
+      "title": [
+        "达人合作怎样迎接新访问者",
+        "Instagram Follower Growth: Welcome New Visitors"
+      ],
+      "brandDecision": "For a brand receiving partner traffic, coauthored context and immediate useful introduction, not existing follower pilot or retention promise.",
+      "educationOnly": false,
+      "englishBodyWords": 1522,
+      "cover": "instagram-creator-collaboration-welcome-context.jpg",
+      "bodyFigures": [
+        "creator-visitor-welcome-map.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-creator-collaboration-welcome-context/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-creator-collaboration-welcome-context/"
+      }
+    },
+    {
+      "order": 15,
+      "keyword": "theeads",
+      "slug": "threads-creator-event-followup-conversation",
+      "title": [
+        "Threads 怎样承接达人活动讨论",
+        "Threads: Continue a Creator Event Conversation"
+      ],
+      "brandDecision": "Resolve typo as Threads; post-event questions, reply ownership and synthesis distinct from definition and initial collab role.",
+      "educationOnly": false,
+      "englishBodyWords": 1506,
+      "cover": "threads-creator-event-followup-conversation.jpg",
+      "bodyFigures": [
+        "threads-event-question-followup.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/threads-creator-event-followup-conversation/",
+        "zh": "https://www.quickkol.com/zh/blog/threads-creator-event-followup-conversation/"
+      }
+    },
+    {
+      "order": 16,
+      "keyword": "social media posting schedule",
+      "slug": "creator-posting-schedule-production-capacity",
+      "title": [
+        "达人发布节奏怎样对应制作容量",
+        "A Social Media Posting Schedule Creators Can Deliver"
+      ],
+      "brandDecision": "Choose cadence from task types, preparation and response workload, not universal best times or repeat launch dependencies.",
+      "educationOnly": false,
+      "englishBodyWords": 1511,
+      "cover": "creator-posting-schedule-production-capacity.jpg",
+      "bodyFigures": [
+        "creator-schedule-workload-cards.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/creator-posting-schedule-production-capacity/",
+        "zh": "https://www.quickkol.com/zh/blog/creator-posting-schedule-production-capacity/"
+      }
+    },
+    {
+      "order": 17,
+      "keyword": "can you boost collab posts on instagram",
+      "slug": "instagram-collab-boost-permission-decision",
+      "title": [
+        "Instagram 共创帖能否推广",
+        "Can You Boost Collab Posts on Instagram?"
+      ],
+      "brandDecision": "Coauthor Collab versus paid partnership and eligibility, exact account route must verify; no current universal guarantee, commercial permission separate.",
+      "educationOnly": false,
+      "englishBodyWords": 1505,
+      "cover": "instagram-collab-boost-permission-decision.jpg",
+      "bodyFigures": [
+        "collab-coauthor-paid-permission.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-collab-boost-permission-decision/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-collab-boost-permission-decision/"
+      }
+    },
+    {
+      "order": 18,
+      "keyword": "social media planner",
+      "slug": "social-media-planner-creator-learning-backlog",
+      "title": [
+        "社交规划怎样组织下一轮达人内容",
+        "A Social Media Planner for Creator Learning"
+      ],
+      "brandDecision": "Planner as question/contribution/evidence/backlog, calendar as selected committed outputs; not same as posting schedule or approval tool.",
+      "educationOnly": false,
+      "englishBodyWords": 1501,
+      "cover": "social-media-planner-creator-learning-backlog.jpg",
+      "bodyFigures": [
+        "creator-planner-learning-selection.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/social-media-planner-creator-learning-backlog/",
+        "zh": "https://www.quickkol.com/zh/blog/social-media-planner-creator-learning-backlog/"
+      }
+    },
+    {
+      "order": 19,
+      "keyword": "how do we get followers on instagram",
+      "slug": "instagram-creator-series-following-choice",
+      "title": [
+        "品牌与达人怎样安排内容系列",
+        "Get Instagram Followers Through a Useful Creator Series"
+      ],
+      "brandDecision": "Collective brand/creator series: next installment promise, contribution and welcome route; distinguish profile traffic from follows and repeat viewing.",
+      "educationOnly": false,
+      "englishBodyWords": 1503,
+      "cover": "instagram-creator-series-following-choice.jpg",
+      "bodyFigures": [
+        "creator-series-next-installment.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-creator-series-following-choice/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-creator-series-following-choice/"
+      }
+    },
+    {
+      "order": 20,
+      "keyword": "shadowbanned meaning",
+      "slug": "shadowbanned-meaning-creator-status-update",
+      "title": [
+        "达人说被限流时怎样更新合作状态",
+        "Shadowbanned Meaning in a Creator Status Update"
+      ],
+      "brandDecision": "Interpret statement for brand status communication: observed symptoms vs documented state vs next work decision; not repeat terminology taxonomy.",
+      "educationOnly": false,
+      "englishBodyWords": 1500,
+      "cover": "shadowbanned-meaning-creator-status-update.jpg",
+      "bodyFigures": [
+        "shadowbanned-report-status-language.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/shadowbanned-meaning-creator-status-update/",
+        "zh": "https://www.quickkol.com/zh/blog/shadowbanned-meaning-creator-status-update/"
+      }
+    },
+    {
+      "order": 21,
+      "keyword": "my account is shadowbanned tiktok",
+      "slug": "tiktok-distribution-issue-creator-campaign-continuity",
+      "title": [
+        "TikTok 分发异常时合作怎样继续",
+        "TikTok Distribution Issues: Continue the Creator Work"
+      ],
+      "brandDecision": "Specific campaign continuity when creator reports issue: actual platform notice and legitimate appeals, pause/revise publication obligations, no bypass or diagnosis guarantee.",
+      "educationOnly": false,
+      "englishBodyWords": 1504,
+      "cover": "tiktok-distribution-issue-creator-campaign-continuity.jpg",
+      "bodyFigures": [
+        "tiktok-creator-issue-work-continuity.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-distribution-issue-creator-campaign-continuity/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-distribution-issue-creator-campaign-continuity/"
+      }
+    },
+    {
+      "order": 22,
+      "keyword": "get instagram followers",
+      "slug": "instagram-following-invitation-creator-touchpoint",
+      "title": [
+        "达人怎样提出清楚的关注邀请",
+        "Get Instagram Followers With a Clear Invitation"
+      ],
+      "brandDecision": "Design where/why follow invitation appears in creator deliverable, accurate account identity and no engagement bait; not growth plan, co-post pilot or content-series strategy.",
+      "educationOnly": false,
+      "englishBodyWords": 1505,
+      "cover": "instagram-following-invitation-creator-touchpoint.jpg",
+      "bodyFigures": [
+        "creator-follow-invitation-purpose.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-following-invitation-creator-touchpoint/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-following-invitation-creator-touchpoint/"
+      }
+    },
+    {
+      "order": 23,
+      "keyword": "tiktok monetization requirements",
+      "slug": "tiktok-monetization-program-requirement-map",
+      "title": [
+        "TikTok 变现资格怎样按项目核对",
+        "TikTok Monetization Requirements by Program"
+      ],
+      "brandDecision": "Separate creator rewards official eligibility from Shop and brand commission; current regions/age thresholds where read, original qualifiedviews not sponsoredvideo payout promise.",
+      "educationOnly": false,
+      "englishBodyWords": 1506,
+      "cover": "tiktok-monetization-program-requirement-map.jpg",
+      "bodyFigures": [
+        "tiktok-program-eligibility-separation.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-monetization-program-requirement-map/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-monetization-program-requirement-map/"
+      }
+    },
+    {
+      "order": 24,
+      "keyword": "meta interactive stickers for travel marketing instagram stories facebook",
+      "slug": "travel-creator-story-sticker-question-design",
+      "title": [
+        "旅行达人 Story 贴纸怎样设计问题",
+        "Interactive Stickers for Travel Creator Stories"
+      ],
+      "brandDecision": "Poll/question/addyours task selection, account/platform format verification; usefulness and response not visa/medical/locationcollection or invented engagement benchmarks.",
+      "educationOnly": false,
+      "englishBodyWords": 1500,
+      "cover": "travel-creator-story-sticker-question-design.jpg",
+      "bodyFigures": [
+        "travel-story-question-card-review.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/travel-creator-story-sticker-question-design/",
+        "zh": "https://www.quickkol.com/zh/blog/travel-creator-story-sticker-question-design/"
+      }
+    },
+    {
+      "order": 25,
+      "keyword": "trial reels instagram",
+      "slug": "instagram-trial-reels-result-interpretation",
+      "title": [
+        "Trial Reels 结果怎样进入达人复盘",
+        "Instagram Trial Reels: Interpret Creator Results"
+      ],
+      "brandDecision": "Read result scope, nonfollowerfirst not private/randomized; auto72h and research400k ifrelevant scopes, distinct old concept-test design.",
+      "educationOnly": false,
+      "englishBodyWords": 1502,
+      "cover": "instagram-trial-reels-result-interpretation.jpg",
+      "bodyFigures": [
+        "trial-reels-observation-boundaries.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-trial-reels-result-interpretation/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-trial-reels-result-interpretation/"
+      }
+    },
+    {
+      "order": 26,
+      "keyword": "ig handle instagram",
+      "slug": "instagram-handle-creator-identity-handoff",
+      "title": [
+        "Instagram 用户名怎样准确交接",
+        "IG Handle: Identify the Right Creator Account"
+      ],
+      "brandDecision": "Username versus displayname versus profileURL, renaming and tagging identity, legitimate public business route; not handle availability promises.",
+      "educationOnly": false,
+      "englishBodyWords": 1502,
+      "cover": "instagram-handle-creator-identity-handoff.jpg",
+      "bodyFigures": [
+        "instagram-handle-name-url-identity.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-handle-creator-identity-handoff/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-handle-creator-identity-handoff/"
+      }
+    },
+    {
+      "order": 27,
+      "keyword": "add link to instagram story",
+      "slug": "instagram-story-link-creator-destination-promise",
+      "title": [
+        "达人 Story 链接怎样完成内容邀请",
+        "Add a Link to an Instagram Story With Purpose"
+      ],
+      "brandDecision": "Official link sticker creation steps then promised destination, label, productversion and use across story sequence; not link-in-bio guide.",
+      "educationOnly": false,
+      "englishBodyWords": 1508,
+      "cover": "instagram-story-link-creator-destination-promise.jpg",
+      "bodyFigures": [
+        "creator-story-destination-material-check.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-story-link-creator-destination-promise/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-story-link-creator-destination-promise/"
+      }
+    },
+    {
+      "order": 28,
+      "keyword": "linktr",
+      "slug": "linktree-creator-route-lifecycle",
+      "title": [
+        "Linktree 怎样维护达人合作入口",
+        "Linktree Campaign Routes for Creators"
+      ],
+      "brandDecision": "Resolve abbreviation as Linktree, start/change/end lifecycle, archivedoffers replacement and creator-specific route; not hierarchy labels redirect-audit repeats.",
+      "educationOnly": false,
+      "englishBodyWords": 1507,
+      "cover": "linktree-creator-route-lifecycle.jpg",
+      "bodyFigures": [
+        "creator-destination-lifecycle.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/linktree-creator-route-lifecycle/",
+        "zh": "https://www.quickkol.com/zh/blog/linktree-creator-route-lifecycle/"
+      }
+    },
+    {
+      "order": 29,
+      "keyword": "tiktok sounds",
+      "slug": "tiktok-sounds-creator-commercial-audio-brief",
+      "title": [
+        "TikTok 达人商业音频怎样选用",
+        "TikTok Sounds in Creator Campaigns"
+      ],
+      "brandDecision": "Commercial Music Library versus organicsound availability versus originalsound rights; voice, mastervideo and paidreuse acrossplatforms separate.",
+      "educationOnly": false,
+      "englishBodyWords": 1502,
+      "cover": "tiktok-sounds-creator-commercial-audio-brief.jpg",
+      "bodyFigures": [
+        "creator-voice-music-balance-session.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-sounds-creator-commercial-audio-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-sounds-creator-commercial-audio-brief/"
+      }
+    },
+    {
+      "order": 30,
+      "keyword": "youtube subscriber tracker",
+      "slug": "youtube-subscriber-tracker-campaign-reconciliation",
+      "title": [
+        "订阅追踪怎样对应达人项目记录",
+        "YouTube Subscriber Tracker: Reconcile the Records"
+      ],
+      "brandDecision": "Public rounded count versus authorized exact/time scopes vs thirdparty snapshots, subscription changes not alluniquepeople/campaignattribution; new reconciliation method.",
+      "educationOnly": false,
+      "englishBodyWords": 1508,
+      "cover": "youtube-subscriber-tracker-campaign-reconciliation.jpg",
+      "bodyFigures": [
+        "youtube-subscriber-count-reconciliation.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-subscriber-tracker-campaign-reconciliation/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-subscriber-tracker-campaign-reconciliation/"
+      }
+    }
+  ]
+}

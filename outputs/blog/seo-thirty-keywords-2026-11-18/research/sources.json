@@ -1,0 +1,786 @@
+{
+  "copyright": {
+    "terms": [
+      "美国版权局的版权说明",
+      "U.S. Copyright Office’s copyright overview"
+    ],
+    "label": [
+      "美国版权局的版权说明",
+      "U.S. Copyright Office’s copyright overview"
+    ],
+    "url": "https://www.copyright.gov/what-is-copyright/",
+    "claimsTheySupport": "Original photographs, video, music and expression protected; access is not all-use permission. No individual legal determination.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Opened official page and read relevant body; no private account test."
+  },
+  "ftc": {
+    "terms": [
+      "FTC 的达人披露指南",
+      "FTC’s influencer disclosure guide"
+    ],
+    "label": [
+      "FTC 的达人披露指南",
+      "FTC’s influencer disclosure guide"
+    ],
+    "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+    "claimsTheySupport": "US commercial connection, actual experience, visible video/Story disclosure and livestream context; no universal global legal conclusion.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Opened official page and read relevant body; no private account test."
+  },
+  "adobeMaternity": {
+    "terms": [
+      "Adobe 的孕期摄影指南",
+      "Adobe’s maternity-photography guide"
+    ],
+    "label": [
+      "Adobe 的孕期摄影指南",
+      "Adobe’s maternity-photography guide"
+    ],
+    "url": "https://www.adobe.com/creativecloud/photography/discover/maternity-photography.html",
+    "claimsTheySupport": "Preparation, communication and comfort in a photo session; not medical timing, universal safety or posing advice.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Opened official page and read relevant body; no private account test."
+  },
+  "keymailer": {
+    "terms": [
+      "Keymailer 的官方问答",
+      "Keymailer’s official FAQ"
+    ],
+    "label": [
+      "Keymailer 的官方问答",
+      "Keymailer’s official FAQ"
+    ],
+    "url": "https://www.keymailer.co/allfaq",
+    "claimsTheySupport": "Requests and allocation differ from guaranteed keys/coverage; committedchannel versus actual agreement; conflicting deadline/general no-obligation statements do not become universal deliverable promise. FAQ includes general no-obligation wording, deadline wording and minimum coverage wording; article must not flatten these into guaranteed coverage or an unconditional no-obligation promise.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Opened official page and read relevant body; no private account test."
+  },
+  "breadCreator": {
+    "terms": [
+      "The Perfect Loaf 的官方介绍",
+      "The Perfect Loaf’s official introduction"
+    ],
+    "label": [
+      "The Perfect Loaf 的官方介绍",
+      "The Perfect Loaf’s official introduction"
+    ],
+    "url": "https://www.theperfectloaf.com/about/",
+    "claimsTheySupport": "Maurizio Leo creator/author teaching breadwork; only work lead, no follower totals or current partnership confirmation. Prep/waiting recommendation is editorial not copied recipe timing.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Opened official page and read relevant body; no private account test."
+  },
+  "ytBranded": {
+    "terms": [
+      "YouTube 的商业内容标注说明",
+      "YouTube’s branded-content disclosure guide"
+    ],
+    "label": [
+      "YouTube：商业内容限制与标注",
+      "YouTube: branded-content restrictions and labels"
+    ],
+    "url": "https://support.google.com/youtube/answer/154235?hl=en",
+    "claimsTheySupport": "Creators tell platform using paid promotion button; platform label and applicable obligations are separate. No 2026 fixedlabelwording or allrequirementscomplete claim.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read official indexed body and opened current official article."
+  },
+  "amazonProgram": {
+    "terms": [
+      "Amazon 的创作者项目说明",
+      "Amazon’s influencer-program guide"
+    ],
+    "label": [
+      "Amazon 的创作者项目说明",
+      "Amazon’s influencer-program guide"
+    ],
+    "url": "https://affiliate-program.amazon.com/help/node/topic/GTP6NKQ2GXPZL7AT/",
+    "claimsTheySupport": "Creator storefront and vanity URL; no universal current shopping following-list navigation.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read official relevant indexed body and/or opened public official guide; no signed-in shopping account test."
+  },
+  "amazonAbout2026": {
+    "terms": [
+      "Amazon 的 2026 年项目介绍",
+      "Amazon’s 2026 program introduction"
+    ],
+    "label": [
+      "Amazon 的 2026 年项目介绍",
+      "Amazon’s 2026 program introduction"
+    ],
+    "url": "https://www.aboutamazon.com/news/retail/how-amazon-influencer-program-works",
+    "claimsTheySupport": "Sep16,2026 personalized storefront, lists/photos/video and commissionable links. No allcountriescurrentclaims, not following-list UI instructions.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read official relevant indexed body and/or opened public official guide; no signed-in shopping account test."
+  },
+  "amazonMusic": {
+    "terms": [
+      "Amazon Music 的个人资料说明",
+      "Amazon Music’s profile guide"
+    ],
+    "label": [
+      "Amazon Music 的个人资料说明",
+      "Amazon Music’s profile guide"
+    ],
+    "url": "https://digprjsurvey.amazon.com/csad/help/node/T8J9ByrxyYYYFfux6S",
+    "claimsTheySupport": "Music profile includes following/followers/publicplaylists underprivacy; not Amazon shoppingcreatorfollowinglist.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read official relevant indexed body and/or opened public official guide; no signed-in shopping account test."
+  },
+  "amazonBrand2021": {
+    "terms": [
+      "Amazon 的 2021 年品牌关注公告",
+      "Amazon’s 2021 Brand Follow announcement"
+    ],
+    "label": [
+      "Amazon 的 2021 年品牌关注公告",
+      "Amazon’s 2021 Brand Follow announcement"
+    ],
+    "url": "https://advertising.amazon.com/resources/whats-new/brand-follow",
+    "claimsTheySupport": "Oct26,2021 US BrandFollow acrossStores/Posts/Live historical, not current2026 UI/retiredPosts access or creatorlist.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read official relevant indexed body and/or opened public official guide; no signed-in shopping account test."
+  },
+  "amazonLive": {
+    "terms": [
+      "Amazon 的 Live 创作者说明",
+      "Amazon’s Live creator guide"
+    ],
+    "label": [
+      "Amazon 的 Live 创作者说明",
+      "Amazon’s Live creator guide"
+    ],
+    "url": "https://affiliate-program.amazon.com/help/node/topic/GE3Y6X7JFDSTFA7C",
+    "claimsTheySupport": "Live creator follow button and notification options, distinct from storefrontidentity and viewing others completefollowinglist; actualcurrentaccountcontrolsnot tested.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read official relevant indexed body and/or opened public official guide; no signed-in shopping account test."
+  },
+  "laterApproval": {
+    "terms": [
+      "Later 的团队审批说明",
+      "Later’s team-approval guide"
+    ],
+    "label": [
+      "Later 的团队审批说明",
+      "Later’s team-approval guide"
+    ],
+    "url": "https://help.later.com/hc/en-us/articles/40954654500375-Team-Collaboration-and-Content-Approvals",
+    "claimsTheySupport": "July 8 2026 guide: scheduled posts publish regardless of approval; draft and relevant publishing permissions; desktop and supported format restrictions.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read full official article body; no signed-in Later account test."
+  },
+  "laterFormats": {
+    "terms": [
+      "Later 的平台与格式说明",
+      "Later’s platform-and-format guide"
+    ],
+    "label": [
+      "Later 的平台与格式说明",
+      "Later’s platform-and-format guide"
+    ],
+    "url": "https://help.later.com/hc/en-us/articles/360060842914-Supported-Social-Platforms-Post-Types",
+    "claimsTheySupport": "October 21 2026 table: supported platform/account/format restrictions, Instagram native effects not supported; not universal native platform limits.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read full official relevant article body."
+  },
+  "laterSchedule": {
+    "terms": [
+      "Later 的网页排期说明",
+      "Later’s web-scheduling guide"
+    ],
+    "label": [
+      "Later 的网页排期说明",
+      "Later’s web-scheduling guide"
+    ],
+    "url": "https://help.later.com/hc/en-us/articles/1500010572781-Schedule-Copy-Posts-With-Later-on-the-Web",
+    "claimsTheySupport": "February 2025 guide: profile/media/caption, draft versus scheduled, auto versus notification publishing; older platform references not current compatibility proof.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read full official relevant article body."
+  },
+  "tiktokMayCommerce": {
+    "terms": [
+      "TikTok 的 5 月商业研究公告",
+      "TikTok’s May commerce-research announcement"
+    ],
+    "label": [
+      "TikTok 的 5 月商业研究公告",
+      "TikTok’s May commerce-research announcement"
+    ],
+    "url": "https://newsroom.tiktok.com/watch-it-love-it-want-it-how-tiktok-is-blending-discovery-connection-and-commerce?lang=en-150",
+    "claimsTheySupport": "Published May5 2026. Ipsos x TikTok 9000 social users 12markets self-report research; not monthly trend census or creator campaign guarantee.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read full official article body including dated source notes; no invented historical platform extraction."
+  },
+  "tiktokMaySmall": {
+    "terms": [
+      "TikTok 的 5 月小企业展示",
+      "TikTok’s May small-business showcase"
+    ],
+    "label": [
+      "TikTok 的 5 月小企业展示",
+      "TikTok’s May small-business showcase"
+    ],
+    "url": "https://newsroom.tiktok.com/built-on-tiktok-celebrating-the-thriving-small-business-community?lang=en",
+    "claimsTheySupport": "Published May19 2026 selected named examples, not representative monthly performance ranking; Q1 and2025statistics are not May counts.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read full official article body including dated source notes; no invented historical platform extraction."
+  },
+  "tiktokNext": {
+    "terms": [
+      "TikTok 的 2026 年年度趋势预测",
+      "TikTok’s 2026 annual trend forecast"
+    ],
+    "label": [
+      "TikTok 的 2026 年年度趋势预测",
+      "TikTok’s 2026 annual trend forecast"
+    ],
+    "url": "https://newsroom.tiktok.com/introducing-tiktok-next-2026-our-trend-forecast-for-marketers-for-the-year-ahead?lang=en",
+    "claimsTheySupport": "Published Jan14 2026 forecast Reali-TEA Curiosity Detours EmotionalROI, not observed May ranking. Older supporting studies distinct.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read full official article body including dated source notes; no invented historical platform extraction."
+  },
+  "threadsUpdates": {
+    "terms": [
+      "Meta 的 Threads 功能更新",
+      "Meta’s Threads feature updates"
+    ],
+    "label": [
+      "Meta 的 Threads 功能更新",
+      "Meta’s Threads feature updates"
+    ],
+    "url": "https://about.fb.com/news/2025/03/new-threads-features-more-personalized-experience-you-control/",
+    "claimsTheySupport": "2025 dated March/May/July/October updates: profile links, insights and reply controls, no guarantee identical current account UI or causal impact.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official article body with dated updates; no signed-in account test."
+  },
+  "threadsBusiness": {
+    "terms": [
+      "Meta 的 Threads 创作者说明",
+      "Meta’s Threads creator guide"
+    ],
+    "label": [
+      "Meta 的 Threads 创作者说明",
+      "Meta’s Threads creator guide"
+    ],
+    "url": "https://about.fb.com/news/2024/08/new-threads-features-for-creators-and-businesses/amp/",
+    "claimsTheySupport": "2024 dated insights/drafts/scheduling rollout; historical background, not every current feature/account guarantee.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official article body with dated updates; no signed-in account test."
+  },
+  "threadsFeeds": {
+    "terms": [
+      "Meta 的 Threads 自定义信息流说明",
+      "Meta’s Threads custom-feed guide"
+    ],
+    "label": [
+      "Meta 的 Threads 自定义信息流说明",
+      "Meta’s Threads custom-feed guide"
+    ],
+    "url": "https://about.fb.com/news/2025/02/share-custom-feeds-on-threads/",
+    "claimsTheySupport": "2025 dated public custom feeds sharing, discovery of selected profiles/topics not representative market census.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official article body with dated updates; no signed-in account test."
+  },
+  "facebookJuly2025": {
+    "terms": [
+      "Meta 的 2025 年原创内容建议",
+      "Meta’s 2025 original-content guidance"
+    ],
+    "label": [
+      "Meta 的 2025 年原创内容建议",
+      "Meta’s 2025 original-content guidance"
+    ],
+    "url": "https://about.fb.com/br/news/2025/07/combatendo-conteudo-nao-original-para-proteger-e-elevar-criadores-no-facebook/amp/",
+    "claimsTheySupport": "Dated July2025 Portuguese official advice: relevant captions/hashtags, at most5hashtags in grouped performance observation; no causal optimal count or current universal hard limit.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read full relevant official Portuguese article body; interpreted date and claim scope separately."
+  },
+  "facebookSpam2025": {
+    "terms": [
+      "Meta 的 2025 年反垃圾内容公告",
+      "Meta’s 2025 anti-spam announcement"
+    ],
+    "label": [
+      "Meta 的 2025 年反垃圾内容公告",
+      "Meta’s 2025 anti-spam announcement"
+    ],
+    "url": "https://about.fb.com/br/news/2025/04/reduzindo-conteudo-com-spam-no-facebook/",
+    "claimsTheySupport": "April24 2025 excessive hashtags and unrelated captions in spam context; not proof one post or sixth tag causes sanctions.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read full relevant official Portuguese article body; interpreted date and claim scope separately."
+  },
+  "metaEdits2026": {
+    "terms": [
+      "Meta 的 2026 年 Edits 创作说明",
+      "Meta’s 2026 Edits creation guide"
+    ],
+    "label": [
+      "Meta 的 2026 年 Edits 创作说明",
+      "Meta’s 2026 Edits creation guide"
+    ],
+    "url": "https://about.fb.com/news/2026/04/one-year-of-edits-built-for-and-with-creators/",
+    "claimsTheySupport": "April22 2026: mobile recording/editing workflow and teleprompter/Ideas; promised future upgrades not represented as already universal.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official article body and dated scope; no signed-in product test."
+  },
+  "adobeProduct": {
+    "terms": [
+      "Adobe 的产品摄影指南",
+      "Adobe’s product-photography guide"
+    ],
+    "label": [
+      "Adobe 的产品摄影指南",
+      "Adobe’s product-photography guide"
+    ],
+    "url": "https://www.adobe.com/creativecloud/photography/type/product-photography.html",
+    "claimsTheySupport": "Product-only versus lifestyle, planning angles, controlled light/color/white balance; editorial brand application distinct, no camera gear guarantee.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official article body and dated scope; no signed-in product test."
+  },
+  "canvaLicense": {
+    "terms": [
+      "Canva 的素材授权说明",
+      "Canva’s content-licensing explanation"
+    ],
+    "label": [
+      "Canva 的素材授权说明",
+      "Canva’s content-licensing explanation"
+    ],
+    "url": "https://www.canva.com/licensing-explained/",
+    "claimsTheySupport": "Read licensing body: Free/Pro rights depend on use; no standalone redistribution, template restrictions, Popular Music separate. No all-assets unlimited client reuse guarantee.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official article body and dated scope; no signed-in product test."
+  },
+  "canvaAgreement": {
+    "terms": [
+      "Canva 的内容许可协议",
+      "Canva’s Content License Agreement"
+    ],
+    "label": [
+      "Canva 的内容许可协议",
+      "Canva’s Content License Agreement"
+    ],
+    "url": "https://www.canva.com/policies/content-license-agreement/",
+    "claimsTheySupport": "Read actual terms sections1–5,4A,9. Client design transfer conditions, content categories and standalone restrictions; not individualized legal advice.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official article body and dated scope; no signed-in product test."
+  },
+  "w3cContrast": {
+    "terms": [
+      "W3C 的文字对比度说明",
+      "W3C’s text-contrast explanation"
+    ],
+    "label": [
+      "W3C 的文字对比度说明",
+      "W3C’s text-contrast explanation"
+    ],
+    "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+    "claimsTheySupport": "WCAG2.2 text-background contrast purpose; threshold exceptions not generalized as Instagram platform rules.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official W3C understanding document body."
+  },
+  "w3cColor": {
+    "terms": [
+      "W3C 的颜色使用说明",
+      "W3C’s use-of-color explanation"
+    ],
+    "label": [
+      "W3C 的颜色使用说明",
+      "W3C’s use-of-color explanation"
+    ],
+    "url": "https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html",
+    "claimsTheySupport": "Color not only means of conveying meaningful information; web accessibility principle applied editorially to creator graphics, not platform certification.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official W3C understanding document body."
+  },
+  "igBestPractices": {
+    "terms": [
+      "Meta 的 Instagram 创作者建议入口",
+      "Meta’s Instagram creator-guidance announcement"
+    ],
+    "label": [
+      "Meta 的 Instagram 创作者建议入口",
+      "Meta’s Instagram creator-guidance announcement"
+    ],
+    "url": "https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/",
+    "claimsTheySupport": "Dated2024 launch of dashboard BestPractices areas and personalized guidance; not universal cadence/followergrowth promise.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official article body and dated scope."
+  },
+  "igReposts2025": {
+    "terms": [
+      "Meta 的 2025 年 Instagram 分享功能说明",
+      "Meta’s 2025 Instagram sharing-feature guide"
+    ],
+    "label": [
+      "Meta 的 2025 年 Instagram 分享功能说明",
+      "Meta’s 2025 Instagram sharing-feature guide"
+    ],
+    "url": "https://about.fb.com/news/2025/08/new-instagram-features-help-you-connect/amp/",
+    "claimsTheySupport": "Dated2025 reposts of publicposts/reels credited original and mayberecommendedbeyondfollowers; no guaranteedviews/follows, map optional not usedasgrowthrequirement.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official article body and dated scope."
+  },
+  "laterQuick": {
+    "terms": [
+      "Later 的每周快速排期说明",
+      "Later’s weekly Quick Schedule guide"
+    ],
+    "label": [
+      "Later 的每周快速排期说明",
+      "Later’s weekly Quick Schedule guide"
+    ],
+    "url": "https://help.later.com/hc/en-us/articles/360043243793-How-to-Quick-Schedule-Your-Week-of-Posts",
+    "claimsTheySupport": "October26 2026: recurring weeklyslots, changing slot does not move already scheduled post; notification default for IG/TikTok, current format scope.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read full relevant official article body."
+  },
+  "laterEdit": {
+    "terms": [
+      "Later 的帖子修改说明",
+      "Later’s post-editing guide"
+    ],
+    "label": [
+      "Later 的帖子修改说明",
+      "Later’s post-editing guide"
+    ],
+    "url": "https://help.later.com/hc/en-us/articles/360043245633-Edit-or-Delete-a-Post",
+    "claimsTheySupport": "July28 2025: edit draft/futurescheduled or notmarkedposted; alreadypublished notdeletableinLater; not universal socialnativeediting scope.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read full relevant official article body."
+  },
+  "igCollabs": {
+    "terms": [
+      "Meta 的 Instagram 共创说明",
+      "Meta’s Instagram Collabs announcement"
+    ],
+    "label": [
+      "Meta 的 Instagram 共创说明",
+      "Meta’s Instagram Collabs announcement"
+    ],
+    "url": "https://about.fb.com/news/2023/08/music-and-collabs-on-instagram/amp/",
+    "claimsTheySupport": "2023 coauthorfeed/carousel/reel acceptance and shared profile context; then3notcurrentmaximum.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official body including dated update and product distinctions; no signed-in ad-account test."
+  },
+  "metaPartnershipAds": {
+    "terms": [
+      "Meta 的合作广告介绍",
+      "Meta’s partnership-ad introduction"
+    ],
+    "label": [
+      "Meta 的合作广告介绍",
+      "Meta’s partnership-ad introduction"
+    ],
+    "url": "https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/",
+    "claimsTheySupport": "2024 partnership ads amplifycontent withcreatorhandle, existingorganic ornewAdsManager routes; not guaranteeeveryCollabhasBoost.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official body including dated update and product distinctions; no signed-in ad-account test."
+  },
+  "metaPartnerHub": {
+    "terms": [
+      "Meta 的合作广告内容中心更新",
+      "Meta’s partnership-content hub update"
+    ],
+    "label": [
+      "Meta 的合作广告内容中心更新",
+      "Meta’s partnership-content hub update"
+    ],
+    "url": "https://about.fb.com/br/news/2025/12/novas-ferramentas-com-ia-para-escalar-parcerias-entre-criadores-e-marcas/amp/",
+    "claimsTheySupport": "Dec11 2025 Jan30 2026update; Collabs/brandedcontent addedrecommendedhub, permissionworkflowseparate; FBproactiveadcode cannotbeassigneduniversallyIG; no performance %copied.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official body including dated update and product distinctions; no signed-in ad-account test."
+  },
+  "metaRecommendations": {
+    "terms": [
+      "Meta 的推荐资格说明",
+      "Meta’s recommendation-eligibility explanation"
+    ],
+    "label": [
+      "Meta 的推荐资格说明",
+      "Meta’s recommendation-eligibility explanation"
+    ],
+    "url": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "claimsTheySupport": "2020 published distinction: content allowed but not eligible for recommendation; historical conceptual explanation not current account diagnosis.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official body or full relevant indexed help-body sections; TikTok direct pages sometimes have no readable lines. No account-specific diagnosis or signed-in test."
+  },
+  "tiktokModeration": {
+    "terms": [
+      "TikTok 的内容处理与申诉说明",
+      "TikTok’s content-action and appeal guide"
+    ],
+    "label": [
+      "TikTok 的内容处理与申诉说明",
+      "TikTok’s content-action and appeal guide"
+    ],
+    "url": "https://support.tiktok.com/en/safety-hc/account-and-user-safety/content-violations-and-bans",
+    "claimsTheySupport": "Read relevant full official indexed body: removal versus FYF-ineligibility; notices and legitimate appeal; deletion does not remove strikes; no guaranteed recovery.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official body or full relevant indexed help-body sections; TikTok direct pages sometimes have no readable lines. No account-specific diagnosis or signed-in test."
+  },
+  "tiktokRecommendations": {
+    "terms": [
+      "TikTok 的内容推荐说明",
+      "TikTok’s content-recommendation guide"
+    ],
+    "label": [
+      "TikTok 的内容推荐说明",
+      "TikTok’s content-recommendation guide"
+    ],
+    "url": "https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content",
+    "claimsTheySupport": "Relevant full official indexed sections: personalized Following/ForYou, allowed content maynotFYFeligible; lowcountsnotdiagnosis. No guarantee recommendations for eligible content.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official body or full relevant indexed help-body sections; TikTok direct pages sometimes have no readable lines. No account-specific diagnosis or signed-in test."
+  },
+  "tiktokEnforcement2023": {
+    "terms": [
+      "TikTok 的账户处理系统公告",
+      "TikTok’s account-enforcement system announcement"
+    ],
+    "label": [
+      "TikTok 的账户处理系统公告",
+      "TikTok’s account-enforcement system announcement"
+    ],
+    "url": "https://newsroom.tiktok.com/supporting-creators-with-an-updated-account-enforcement-system-ca?lang=en-CA",
+    "claimsTheySupport": "February2 2023 announcement about notices/account-enforcement context, historical not guaranteed current UI or recovery duration.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official announcement body and indexed full relevant sections."
+  },
+  "tiktokRewardsDifference": {
+    "terms": [
+      "TikTok 的 Rewards 与旧基金差异说明",
+      "TikTok’s Rewards-versus-Fund explanation"
+    ],
+    "label": [
+      "TikTok 的 Rewards 与旧基金差异说明",
+      "TikTok’s Rewards-versus-Fund explanation"
+    ],
+    "url": "https://support.tiktok.com/en/business-and-creator/creator-rewards-program/how-is-the-creator-rewards-program-different-from-the-tiktok-creator-fund",
+    "claimsTheySupport": "Full relevant official indexed body: original/highquality longerthan1min; DuetStitchsponsored excluded in definition. MainRewardseligibility directunreadable; do notinventcompletecurrentcrossregionthresholds.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read full relevant official indexed help-body sections and/or opened official policy body. Anonymous browser did not render Rewards main page; no claim of account eligibility test."
+  },
+  "tiktokOne": {
+    "terms": [
+      "TikTok One 的资格说明",
+      "TikTok One’s eligibility guide"
+    ],
+    "label": [
+      "TikTok One 的资格说明",
+      "TikTok One’s eligibility guide"
+    ],
+    "url": "https://support.tiktok.com/en/business-and-creator/tiktok-one",
+    "claimsTheySupport": "Full relevant official indexed body: goodstanding,18age regionalvariation,10kfollowers regionalvariation,1000postviews30d,3posts30d. Not CreatorRewardsorShopthreshold.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read full relevant official indexed help-body sections and/or opened official policy body. Anonymous browser did not render Rewards main page; no claim of account eligibility test."
+  },
+  "tiktokShopUS": {
+    "terms": [
+      "TikTok Shop 美国创作者资格政策",
+      "TikTok Shop’s US creator-eligibility policy"
+    ],
+    "label": [
+      "TikTok Shop 美国创作者资格政策",
+      "TikTok Shop’s US creator-eligibility policy"
+    ],
+    "url": "https://seller-us.tiktok.com/university/essay?knowledge_id=6939143037667118&lang=en",
+    "claimsTheySupport": "September25 2026 USonly: Affiliate1000minfollowers,official/marketingbinddifferent;18+USbased; identitycompliance,Affiliateunder5000pilotmin30drestrictions. Do not universalizeglobalorallcreatorroles.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read full relevant official indexed help-body sections and/or opened official policy body. Anonymous browser did not render Rewards main page; no claim of account eligibility test."
+  },
+  "igStickers2024": {
+    "terms": [
+      "Meta 的 Instagram Story 贴纸公告",
+      "Meta’s Instagram Story sticker announcement"
+    ],
+    "label": [
+      "Meta 的 Instagram Story 贴纸公告",
+      "Meta’s Instagram Story sticker announcement"
+    ],
+    "url": "https://about.fb.com/news/2024/05/new-stickers-in-instagram-stories/",
+    "claimsTheySupport": "May2024 AddYoursMusic Frames Reveal Cutouts; Instagram specific not Facebook parity, commercial music rights separate.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official announcement body and indexed substantive sections with dates."
+  },
+  "igLink2021": {
+    "terms": [
+      "Meta 的 2021 年 Story 链接贴纸说明",
+      "Meta’s 2021 Story link-sticker guide"
+    ],
+    "label": [
+      "Meta 的 2021 年 Story 链接贴纸说明",
+      "Meta’s 2021 Story link-sticker guide"
+    ],
+    "url": "https://about.fb.com/ja/news/2021/10/linkaccessstickers/",
+    "claimsTheySupport": "October2021 Japanese official guide: create/importStoryopenstickertrayLinkinputDoneplacepublish, broaderrolloutwithexceptions; not identicalcurrentmenusnorFacebookinstructions.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official announcement body and indexed substantive sections with dates."
+  },
+  "igTrial": {
+    "terms": [
+      "Meta 的 Trial Reels 官方说明",
+      "Meta’s official Trial Reels guide"
+    ],
+    "label": [
+      "Meta 的 Trial Reels 官方说明",
+      "Meta’s official Trial Reels guide"
+    ],
+    "url": "https://about.fb.com/news/2024/12/trial-reels-try-content-non-followers-first-see-what-perfoms-best/",
+    "claimsTheySupport": "2024announcement updated2025: nonfollowersfirst notprivate followersmayseeviaDM/audio/location/filter, metrics~24hoptionalauto-shareviewsfirst72h; no randomizedtest orguarantee.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read official relevant body including scope exceptions and methodology note; no account-specific test."
+  },
+  "igTrialResearch": {
+    "terms": [
+      "Meta 的 2025 年 Trial Reels 分析",
+      "Meta’s 2025 Trial Reels analysis"
+    ],
+    "label": [
+      "Meta 的 2025 年 Trial Reels 分析",
+      "Meta’s 2025 Trial Reels analysis"
+    ],
+    "url": "https://about.fb.com/news/2025/06/inspiring-creativity-that-brings-people-together/",
+    "claimsTheySupport": "June2025internalanalysis400k+activecreators one-month beforeafterconfoundercontrols,40%postmore andofthose80%increasedunconnectedreach; no causality universalguarantee.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read official relevant body including scope exceptions and methodology note; no account-specific test."
+  },
+  "igDMNames": {
+    "terms": [
+      "Meta 的 Instagram 私信昵称说明",
+      "Meta’s Instagram DM-nickname guide"
+    ],
+    "label": [
+      "Meta 的 Instagram 私信昵称说明",
+      "Meta’s Instagram DM-nickname guide"
+    ],
+    "url": "https://about.fb.com/news/2024/11/new-ways-to-connect-through-dms/",
+    "claimsTheySupport": "November2024 June2025updated: DMnicknames onlywithinchat do notchangeusernameelsewhere; not publicidentityorcollaborationpermission.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read official relevant body lines256–259 and dated scope."
+  },
+  "linktreeCreate": {
+    "terms": [
+      "Linktree 的创建链接指南",
+      "Linktree’s link-creation guide"
+    ],
+    "url": "https://linktr.ee/help/articles/5434135-create-link",
+    "claimsTheySupport": "Updated2026-10-14: add URL/title; completing creation makes link live. Not a private draft guarantee.",
+    "label": [
+      "Linktree 的创建链接指南",
+      "Linktree’s link-creation guide"
+    ],
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official body through web page or substantive indexed source text; no signed-in account test."
+  },
+  "linktreeHide": {
+    "terms": [
+      "Linktree 的隐藏链接指南",
+      "Linktree’s hide-link guide"
+    ],
+    "url": "https://linktr.ee/help/articles/5434145-how-to-hide-or-make-a-link-inactive",
+    "claimsTheySupport": "Updated2026-10-27: hidden link removed from visitor-facing page without deletion and can be shown again.",
+    "label": [
+      "Linktree 的隐藏链接指南",
+      "Linktree’s hide-link guide"
+    ],
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official body through web page or substantive indexed source text; no signed-in account test."
+  },
+  "linktreeArchive": {
+    "terms": [
+      "Linktree 的归档与删除说明",
+      "Linktree’s archive-and-delete guide"
+    ],
+    "url": "https://linktr.ee/help/articles/5434146-how-to-archive-or-delete-your-links",
+    "claimsTheySupport": "Updated2026-10-14: archive retains Insights and restorable; delete from archive permanently removes link/Insights.",
+    "label": [
+      "Linktree 的归档与删除说明",
+      "Linktree’s archive-and-delete guide"
+    ],
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official body through web page or substantive indexed source text; no signed-in account test."
+  },
+  "tiktokCML": {
+    "terms": [
+      "TikTok 的商业音乐库使用指南",
+      "TikTok’s Commercial Music Library guide"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/how-to-use-the-commercial-music-library",
+    "claimsTheySupport": "July2026: account-specific sound access; select campaign region and usable placements; CommercialSounds organic or paid on TikTok. Not universal licensing.",
+    "label": [
+      "TikTok 的商业音乐库使用指南",
+      "TikTok’s Commercial Music Library guide"
+    ],
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official body through web page or substantive indexed source text; no signed-in account test."
+  },
+  "tiktokOneMusic": {
+    "terms": [
+      "TikTok One 的合作音乐版权说明",
+      "TikTok One’s collaboration-music guide"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/about-music-copyright-for-tiktok-one-creator-collaborations?lang=en",
+    "claimsTheySupport": "October2026: review may reject unlicensed collaboration music; useCommercialSounds or verifyembeddedmusic; revise rejected work; do not repost CML onotherplatforms; rights varytrack/region/account/campaign.",
+    "label": [
+      "TikTok One 的合作音乐版权说明",
+      "TikTok One’s collaboration-music guide"
+    ],
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official body through web page or substantive indexed source text; no signed-in account test."
+  },
+  "ytCount": {
+    "terms": [
+      "YouTube 的订阅数说明",
+      "YouTube’s subscriber-count guide"
+    ],
+    "url": "https://support.google.com/youtube/answer/6051134?hl=en",
+    "claimsTheySupport": "Publicshortenedcounts and ownerStudio livecount;1234shown1.23K; legitimateverification/spamclosedaccountcorrections.",
+    "label": [
+      "YouTube 的订阅数说明",
+      "YouTube’s subscriber-count guide"
+    ],
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official body through web page or substantive indexed source text; no signed-in account test."
+  },
+  "ytDataCount": {
+    "terms": [
+      "YouTube Data API 的频道定义",
+      "YouTube Data API’s channel definition"
+    ],
+    "url": "https://developers.google.com/youtube/data/reference/rest/v3/channels",
+    "claimsTheySupport": "statistics.subscriberCount roundeddown3significantfigures. Do notinfer exactownerdata merelyfromAPI.",
+    "label": [
+      "YouTube Data API 的频道定义",
+      "YouTube Data API’s channel definition"
+    ],
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official body through web page or substantive indexed source text; no signed-in account test."
+  },
+  "ytSubscriberMetrics": {
+    "terms": [
+      "YouTube Analytics 的订阅指标定义",
+      "YouTube Analytics’ subscriber-metric definitions"
+    ],
+    "url": "https://developers.google.com/youtube/analytics/metrics",
+    "claimsTheySupport": "Gained/lost actions; channelallplaces vsvideodimension/filteronlyspecifiedvideowatchpage, notattributedallcampaigngain.",
+    "label": [
+      "YouTube Analytics 的订阅指标定义",
+      "YouTube Analytics’ subscriber-metric definitions"
+    ],
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read relevant official body through web page or substantive indexed source text; no signed-in account test."
+  },
+  "tiktokCommercialMusic": {
+    "terms": [
+      "TikTok 的商业用音说明",
+      "TikTok’s commercial-music explanation"
+    ],
+    "label": [
+      "TikTok 的商业用音说明",
+      "TikTok’s commercial-music explanation"
+    ],
+    "url": "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/commercial-use-of-music-on-tiktok?lang=en",
+    "claimsTheySupport": "CMLrecommendedforbrandpromotion; outsideCMLplatformlicensesdonotcovercommercialuse; original/nonCMLMusicUsageConfirmationwhencontentdisclosureenabled, allnecessaryrightsrequired.",
+    "reviewedAt": "2026-11-18",
+    "reviewMethod": "Read substantive official indexed body; direct page returned no readable lines. No signed-in test."
+  }
+}
