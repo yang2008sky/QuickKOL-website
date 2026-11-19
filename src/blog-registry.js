@@ -1,3 +1,4 @@
+import { novemberNineteenthPosts } from './blog-november-nineteenth.js';
 import { novemberEighteenthPosts } from './blog-november-eighteenth.js';
 import { novemberSeventeenthPosts } from './blog-november-seventeenth.js';
 import { novemberSixteenthPosts } from './blog-november-sixteenth.js';
@@ -35,6 +36,6 @@ import { expansionBlogEnhancements } from './blog-expansion-enhancements.js';
 import { growthBlogEnhancements } from './blog-growth-enhancements.js';
 
 const enhancements = { ...blogEnhancements, ...additionalBlogEnhancements, ...seriesBlogEnhancements, ...expansionBlogEnhancements, ...growthBlogEnhancements };
-const blogPosts = [...novemberEighteenthPosts, ...novemberSeventeenthPosts, ...novemberSixteenthPosts, ...novemberThirteenthPosts, ...novemberTwelfthPosts, ...novemberEleventhPosts, ...novemberNinthPosts, ...novemberSixthPosts, ...novemberFifthPosts, ...novemberFourthPosts, ...november29Posts, ...november30Posts, ...editorial20Posts, ...editorial9Posts, ...editorial16Posts, ...colleagueThreePosts, ...laInfluencerPosts, ...semrushBatchFourPosts, ...semrushBatchThreePosts, ...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
+const blogPosts = [...novemberNineteenthPosts, ...novemberEighteenthPosts, ...novemberSeventeenthPosts, ...novemberSixteenthPosts, ...novemberThirteenthPosts, ...novemberTwelfthPosts, ...novemberEleventhPosts, ...novemberNinthPosts, ...novemberSixthPosts, ...novemberFifthPosts, ...novemberFourthPosts, ...november29Posts, ...november30Posts, ...editorial20Posts, ...editorial9Posts, ...editorial16Posts, ...colleagueThreePosts, ...laInfluencerPosts, ...semrushBatchFourPosts, ...semrushBatchThreePosts, ...semrushBatchTwoPosts, ...semrushBlogPosts, ...toolBlogPosts, ...programBlogPosts, ...microBlogPosts, ...platformBlogPosts, ...growthBlogPosts, ...expansionBlogPosts, ...seriesBlogPosts, ...additionalBlogPosts, ...baseBlogPosts].map((post) => ({ ...post, ...enhancements[post.slug] }));
 
 export { blogPosts, blogTopics };
