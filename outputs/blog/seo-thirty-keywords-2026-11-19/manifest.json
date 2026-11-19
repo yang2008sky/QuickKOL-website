@@ -1,0 +1,616 @@
+{
+  "batch": "seo-thirty-keywords-2026-11-19",
+  "branch": "seo-blog",
+  "baseRevision": "213c602a96c2552501f2730519918df228157bc0",
+  "articleCount": 30,
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "contentModule": "src/blog-november-nineteenth.js",
+  "exportName": "novemberNineteenthPosts",
+  "draftDate": "2026-11-19",
+  "status": "awaiting-maintainer-integration-and-publication",
+  "articles": [
+    {
+      "order": 1,
+      "keyword": "youtube subscriber tracker",
+      "slug": "youtube-subscription-source-creator-series-review",
+      "title": [
+        "订阅来源怎样帮助复盘达人系列",
+        "YouTube Subscriber Tracker: Review a Creator Series"
+      ],
+      "brandDecision": "Use subscription-source and content-format context to review a continuing sponsored series; yesterday reconciled count precision, this compares observation windows and editorial changes.",
+      "educationOnly": false,
+      "englishBodyWords": 1527,
+      "cover": "youtube-subscription-source-creator-series-review.jpg",
+      "bodyFigures": [
+        "youtube-subscription-source-creator-series-review-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-subscription-source-creator-series-review/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-subscription-source-creator-series-review/"
+      }
+    },
+    {
+      "order": 2,
+      "keyword": "channels of youtube",
+      "slug": "youtube-channel-editorial-promise-brand-fit",
+      "title": [
+        "YouTube 频道怎样按内容承诺筛选",
+        "Channels of YouTube: Match the Editorial Promise"
+      ],
+      "brandDecision": "Channel editorial promise versus playlist and corporate channel family; create a role-based candidate comparison without generic channel-creation instructions.",
+      "educationOnly": false,
+      "englishBodyWords": 1522,
+      "cover": "youtube-channel-editorial-promise-brand-fit.jpg",
+      "bodyFigures": [
+        "youtube-channel-editorial-promise-brand-fit-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-channel-editorial-promise-brand-fit/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-channel-editorial-promise-brand-fit/"
+      }
+    },
+    {
+      "order": 3,
+      "keyword": "get free instagram followers",
+      "slug": "free-instagram-follower-offer-risk-triage",
+      "title": [
+        "免费涨粉承诺怎样分级复核",
+        "Get Free Instagram Followers? Assess the Evidence"
+      ],
+      "brandDecision": "Educational triage of promise, credential/permissions request and delivery claim; risk observations not recommendations or accusations.",
+      "educationOnly": true,
+      "englishBodyWords": 1504,
+      "cover": "free-instagram-follower-offer-risk-triage.jpg",
+      "bodyFigures": [
+        "free-instagram-follower-offer-risk-triage-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-instagram-follower-offer-risk-triage/",
+        "zh": "https://www.quickkol.com/zh/blog/free-instagram-follower-offer-risk-triage/"
+      }
+    },
+    {
+      "order": 4,
+      "keyword": "free instagram followers for free",
+      "slug": "free-follower-demo-evidence-literacy",
+      "title": [
+        "免费涨粉演示怎样辨认证据",
+        "Free Follower Demos: Read the Evidence"
+      ],
+      "brandDecision": "Educational supplier demonstration: screenshot, counter animation, native record and stated outcome are different evidence levels; not previous baseline reset or claim-conditions guide.",
+      "educationOnly": true,
+      "englishBodyWords": 1509,
+      "cover": "free-follower-demo-evidence-literacy.jpg",
+      "bodyFigures": [
+        "free-follower-demo-evidence-literacy-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-follower-demo-evidence-literacy/",
+        "zh": "https://www.quickkol.com/zh/blog/free-follower-demo-evidence-literacy/"
+      }
+    },
+    {
+      "order": 5,
+      "keyword": "website for instagram followers for free",
+      "slug": "free-follower-website-agency-client-authority",
+      "title": [
+        "免费涨粉网站：谁有权授权",
+        "Free-Follower Websites: Who Can Authorize Access?"
+      ],
+      "brandDecision": "Educational agency-client permission literacy: operator ability versus client authorization and third-party access, no service directory or account-operation instructions.",
+      "educationOnly": true,
+      "englishBodyWords": 1526,
+      "cover": "free-follower-website-agency-client-authority.jpg",
+      "bodyFigures": [
+        "free-follower-website-agency-client-authority-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-follower-website-agency-client-authority/",
+        "zh": "https://www.quickkol.com/zh/blog/free-follower-website-agency-client-authority/"
+      }
+    },
+    {
+      "order": 6,
+      "keyword": "ig views",
+      "slug": "instagram-views-creator-format-comparison",
+      "title": [
+        "Instagram 观看数怎样跨内容比较",
+        "IG Views: Compare Creator Formats Carefully"
+      ],
+      "brandDecision": "Read views versus accounts reached, repeats and reporting windows for comparable creator deliverables; not follower engagement-rate guide.",
+      "educationOnly": false,
+      "englishBodyWords": 1510,
+      "cover": "instagram-views-creator-format-comparison.jpg",
+      "bodyFigures": [
+        "instagram-views-creator-format-comparison-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-views-creator-format-comparison/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-views-creator-format-comparison/"
+      }
+    },
+    {
+      "order": 7,
+      "keyword": "avantlink",
+      "slug": "avantlink-creator-merchant-application-fit",
+      "title": [
+        "AvantLink 怎样核对达人与商家匹配",
+        "AvantLink for Creator Partnerships"
+      ],
+      "brandDecision": "Network application versus individual merchant agreement, authorized promotion, market/currency and evidence of approval. No income/acceptance guarantee.",
+      "educationOnly": false,
+      "englishBodyWords": 1510,
+      "cover": "avantlink-creator-merchant-application-fit.jpg",
+      "bodyFigures": [
+        "avantlink-creator-merchant-application-fit-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/avantlink-creator-merchant-application-fit/",
+        "zh": "https://www.quickkol.com/zh/blog/avantlink-creator-merchant-application-fit/"
+      }
+    },
+    {
+      "order": 8,
+      "keyword": "how to become a tiktok influencer",
+      "slug": "tiktok-creator-brand-ready-evidence-portfolio",
+      "title": [
+        "TikTok 创作者怎样准备合作证据",
+        "Become a TikTok Influencer: Build Brand-Ready Work"
+      ],
+      "brandDecision": "Demonstrable subject contribution, portfolio and bounded commercial proposal; not popularity guarantees or repeat male-influencer career guide.",
+      "educationOnly": false,
+      "englishBodyWords": 1537,
+      "cover": "tiktok-creator-brand-ready-evidence-portfolio.jpg",
+      "bodyFigures": [
+        "creator-portfolio-demonstration-session.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-creator-brand-ready-evidence-portfolio/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-creator-brand-ready-evidence-portfolio/"
+      }
+    },
+    {
+      "order": 9,
+      "keyword": "instagram free likes",
+      "slug": "free-instagram-likes-creative-test-integrity",
+      "title": [
+        "免费点赞为何不能验证创意",
+        "Instagram Free Likes: Keep Tests Credible"
+      ],
+      "brandDecision": "Educational why purchased/exchanged engagement cannot validate a creator creative test; isolate exposure, unsupported signal and subsequent clean comparison.",
+      "educationOnly": true,
+      "englishBodyWords": 1557,
+      "cover": "free-instagram-likes-creative-test-integrity.jpg",
+      "bodyFigures": [
+        "free-instagram-likes-creative-test-integrity-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-instagram-likes-creative-test-integrity/",
+        "zh": "https://www.quickkol.com/zh/blog/free-instagram-likes-creative-test-integrity/"
+      }
+    },
+    {
+      "order": 10,
+      "keyword": "free instagram likes followers",
+      "slug": "free-likes-followers-evidence-separation",
+      "title": [
+        "免费点赞与粉丝怎样分别复核",
+        "Free Likes and Followers: Separate the Evidence"
+      ],
+      "brandDecision": "Educational separate account stock, content actions, permission risks and campaign outcome; do not combine unknowns into fraud score.",
+      "educationOnly": true,
+      "englishBodyWords": 1526,
+      "cover": "free-likes-followers-evidence-separation.jpg",
+      "bodyFigures": [
+        "free-likes-followers-evidence-separation-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/free-likes-followers-evidence-separation/",
+        "zh": "https://www.quickkol.com/zh/blog/free-likes-followers-evidence-separation/"
+      }
+    },
+    {
+      "order": 11,
+      "keyword": "instagram most popular accounts",
+      "slug": "popular-instagram-creator-campaign-response-capacity",
+      "title": [
+        "热门 Instagram 账号怎样匹配合作",
+        "Popular Instagram Accounts: Check Campaign Fit"
+      ],
+      "brandDecision": "Popularity definition and creator/brand accounts; workload, language and response capacity for a proposed campaign, not another live ranking.",
+      "educationOnly": false,
+      "englishBodyWords": 1517,
+      "cover": "popular-instagram-creator-campaign-response-capacity.jpg",
+      "bodyFigures": [
+        "popular-instagram-creator-campaign-response-capacity-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/popular-instagram-creator-campaign-response-capacity/",
+        "zh": "https://www.quickkol.com/zh/blog/popular-instagram-creator-campaign-response-capacity/"
+      }
+    },
+    {
+      "order": 12,
+      "keyword": "most subbed youtube channels",
+      "slug": "most-subscribed-youtube-channel-catalog-fit",
+      "title": [
+        "高订阅频道怎样核对节目目录",
+        "Most-Subbed YouTube Channels: Review the Catalogue"
+      ],
+      "brandDecision": "High-subscription channel catalog/series/format freshness and actual programme to sponsor; not biggest-team or scale-to-reach forecast repeat.",
+      "educationOnly": false,
+      "englishBodyWords": 1532,
+      "cover": "most-subscribed-youtube-channel-catalog-fit.jpg",
+      "bodyFigures": [
+        "most-subscribed-youtube-channel-catalog-fit-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/most-subscribed-youtube-channel-catalog-fit/",
+        "zh": "https://www.quickkol.com/zh/blog/most-subscribed-youtube-channel-catalog-fit/"
+      }
+    },
+    {
+      "order": 13,
+      "keyword": "how many youtube channels are there",
+      "slug": "youtube-channel-count-research-denominator",
+      "title": [
+        "YouTube 频道总数怎样用于研究",
+        "How Many YouTube Channels Are There?"
+      ],
+      "brandDecision": "No verified current official universal total; define created/active/uploading/monetized and population limitations for creator market sizing; do not invent count.",
+      "educationOnly": false,
+      "englishBodyWords": 1505,
+      "cover": "youtube-channel-count-research-denominator.jpg",
+      "bodyFigures": [
+        "youtube-channel-count-research-denominator-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-channel-count-research-denominator/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-channel-count-research-denominator/"
+      }
+    },
+    {
+      "order": 14,
+      "keyword": "who is the best youtuber",
+      "slug": "best-youtuber-brand-task-scorecard",
+      "title": [
+        "最佳 YouTuber 怎样按品牌任务判断",
+        "Who Is the Best YouTuber for Your Brief?"
+      ],
+      "brandDecision": "Explicit weighted task rubric and evidence standards for explanation/entertainment/qualification, no universal list or fabricated scores.",
+      "educationOnly": false,
+      "englishBodyWords": 1514,
+      "cover": "best-youtuber-brand-task-scorecard.jpg",
+      "bodyFigures": [
+        "best-youtuber-brand-task-scorecard-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/best-youtuber-brand-task-scorecard/",
+        "zh": "https://www.quickkol.com/zh/blog/best-youtuber-brand-task-scorecard/"
+      }
+    },
+    {
+      "order": 15,
+      "keyword": "how to sell on instagram",
+      "slug": "instagram-creator-commerce-question-to-product",
+      "title": [
+        "Instagram 达人内容与商品问题",
+        "Sell on Instagram Through Clear Creator Content"
+      ],
+      "brandDecision": "Connect creator product explanation to brand-controlled purchase information; current shopping availability not assumed; no store-only generic ecommerce tutorial.",
+      "educationOnly": false,
+      "englishBodyWords": 1507,
+      "cover": "instagram-creator-commerce-question-to-product.jpg",
+      "bodyFigures": [
+        "creator-product-question-demonstration.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-creator-commerce-question-to-product/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-creator-commerce-question-to-product/"
+      }
+    },
+    {
+      "order": 16,
+      "keyword": "how to hide instagram likes",
+      "slug": "instagram-like-count-hiding-review-record",
+      "title": [
+        "隐藏点赞后怎样保留合作复盘",
+        "Hide Instagram Likes Without Losing Review Context"
+      ],
+      "brandDecision": "Creator/brand agreement for public like-count visibility versus authorized metrics; viewer setting vs own post controls verified; no engagement improvement claim.",
+      "educationOnly": false,
+      "englishBodyWords": 1509,
+      "cover": "instagram-like-count-hiding-review-record.jpg",
+      "bodyFigures": [
+        "instagram-like-count-hiding-review-record-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/instagram-like-count-hiding-review-record/",
+        "zh": "https://www.quickkol.com/zh/blog/instagram-like-count-hiding-review-record/"
+      }
+    },
+    {
+      "order": 17,
+      "keyword": "how to get subscribers on youtube",
+      "slug": "youtube-creator-series-subscription-invitation",
+      "title": [
+        "YouTube 达人系列的订阅邀请",
+        "Get YouTube Subscribers With a Clear Series Promise"
+      ],
+      "brandDecision": "Brand-sponsored recurring show: subscription invitation belongs to continuing editorial promise, no exchange/paid manipulation, distinguish actions from loyalty.",
+      "educationOnly": false,
+      "englishBodyWords": 1503,
+      "cover": "youtube-creator-series-subscription-invitation.jpg",
+      "bodyFigures": [
+        "youtube-creator-series-subscription-invitation-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/youtube-creator-series-subscription-invitation/",
+        "zh": "https://www.quickkol.com/zh/blog/youtube-creator-series-subscription-invitation/"
+      }
+    },
+    {
+      "order": 18,
+      "keyword": "como monetizar tiktok",
+      "slug": "tiktok-spanish-market-creator-income-brief",
+      "title": [
+        "西语 TikTok 合作怎样讨论收入来源",
+        "Cómo Monetizar TikTok Across Markets"
+      ],
+      "brandDecision": "Interpret Spanish search for creator-marketing teams; programme earnings versus brand fee/affiliate income and local eligibility; no globally uniform rewards thresholds.",
+      "educationOnly": false,
+      "englishBodyWords": 1501,
+      "cover": "tiktok-spanish-market-creator-income-brief.jpg",
+      "bodyFigures": [
+        "tiktok-spanish-market-creator-income-brief-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/tiktok-spanish-market-creator-income-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/tiktok-spanish-market-creator-income-brief/"
+      }
+    },
+    {
+      "order": 19,
+      "keyword": "gym apparel brands",
+      "slug": "gym-apparel-creator-fit-session-brief",
+      "title": [
+        "健身服品牌怎样安排达人试穿沟通",
+        "Gym Apparel Brands: Plan a Creator Fit Conversation"
+      ],
+      "brandDecision": "Separate private creator fitting feedback from a filmed/public endorsement; plan question ownership, wearer choice and what may be shared. Earlier article runs a documented fit test.",
+      "educationOnly": false,
+      "englishBodyWords": 1514,
+      "cover": "gym-apparel-creator-fit-session-brief.jpg",
+      "bodyFigures": [
+        "creator-garment-fit-observation.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/gym-apparel-creator-fit-session-brief/",
+        "zh": "https://www.quickkol.com/zh/blog/gym-apparel-creator-fit-session-brief/"
+      }
+    },
+    {
+      "order": 20,
+      "keyword": "fitness apparel brands",
+      "slug": "fitness-apparel-creator-use-case-coverage",
+      "title": [
+        "运动服合作怎样覆盖实际使用场景",
+        "Fitness Apparel Brands: Map Creator Use Cases"
+      ],
+      "brandDecision": "Portfolio of use cases across warmup/training/commute, subject skills and product claims; no generic brand ranking or health guarantees.",
+      "educationOnly": false,
+      "englishBodyWords": 1508,
+      "cover": "fitness-apparel-creator-use-case-coverage.jpg",
+      "bodyFigures": [
+        "fitness-apparel-creator-use-case-coverage-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/fitness-apparel-creator-use-case-coverage/",
+        "zh": "https://www.quickkol.com/zh/blog/fitness-apparel-creator-use-case-coverage/"
+      }
+    },
+    {
+      "order": 21,
+      "keyword": "gym wear brands",
+      "slug": "gym-wear-creator-colour-size-version",
+      "title": [
+        "健身服达人素材怎样对应颜色尺码",
+        "Gym Wear Brands: Keep Product Versions Clear"
+      ],
+      "brandDecision": "Match garment color/size/style identifiers to creator media and market page; not launch availability or wardrobe continuity repeat.",
+      "educationOnly": false,
+      "englishBodyWords": 1511,
+      "cover": "gym-wear-creator-colour-size-version.jpg",
+      "bodyFigures": [
+        "creator-garment-swatch-version-check.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/gym-wear-creator-colour-size-version/",
+        "zh": "https://www.quickkol.com/zh/blog/gym-wear-creator-colour-size-version/"
+      }
+    },
+    {
+      "order": 22,
+      "keyword": "clickbank reviews",
+      "slug": "clickbank-review-creator-offer-evidence",
+      "title": [
+        "ClickBank 评价怎样转成合作核验",
+        "ClickBank Reviews for Creator Partnerships"
+      ],
+      "brandDecision": "Vendor/platform/customer-review evidence distinct; product-specific claims and return rules, no personal-use fiction or blanket endorsement.",
+      "educationOnly": false,
+      "englishBodyWords": 1510,
+      "cover": "clickbank-review-creator-offer-evidence.jpg",
+      "bodyFigures": [
+        "clickbank-review-creator-offer-evidence-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/clickbank-review-creator-offer-evidence/",
+        "zh": "https://www.quickkol.com/zh/blog/clickbank-review-creator-offer-evidence/"
+      }
+    },
+    {
+      "order": 23,
+      "keyword": "workout clothes brands",
+      "slug": "workout-clothes-creator-wear-test-observation",
+      "title": [
+        "运动服体验怎样写成可信达人内容",
+        "Workout Clothes Brands: Frame a Wear Observation"
+      ],
+      "brandDecision": "Bounded firsthand garment observation across actual sessions with conditions, not lab certification/medical claims or unsupported durability evidence.",
+      "educationOnly": false,
+      "englishBodyWords": 1502,
+      "cover": "workout-clothes-creator-wear-test-observation.jpg",
+      "bodyFigures": [
+        "creator-post-session-garment-notes.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/workout-clothes-creator-wear-test-observation/",
+        "zh": "https://www.quickkol.com/zh/blog/workout-clothes-creator-wear-test-observation/"
+      }
+    },
+    {
+      "order": 24,
+      "keyword": "sports clothing brands",
+      "slug": "sports-clothing-creator-sport-context",
+      "title": [
+        "运动服品牌怎样核对专项达人",
+        "Sports Clothing Brands: Match the Sport Context"
+      ],
+      "brandDecision": "Match skill, setting, filming and product role by sport; identity versus qualification and no appearance ranking.",
+      "educationOnly": false,
+      "englishBodyWords": 1505,
+      "cover": "sports-clothing-creator-sport-context.jpg",
+      "bodyFigures": [
+        "sports-clothing-creator-sport-context-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/sports-clothing-creator-sport-context/",
+        "zh": "https://www.quickkol.com/zh/blog/sports-clothing-creator-sport-context/"
+      }
+    },
+    {
+      "order": 25,
+      "keyword": "clickbank.com",
+      "slug": "clickbank-com-creator-offer-route",
+      "title": [
+        "ClickBank 入口怎样接入达人合作",
+        "ClickBank.com: Map a Creator Offer Route"
+      ],
+      "brandDecision": "Canonical platform role seller/affiliate/customer, marketplace to offer review and explicit commission arrangement; no recommendation to login/send credentials.",
+      "educationOnly": false,
+      "englishBodyWords": 1502,
+      "cover": "clickbank-com-creator-offer-route.jpg",
+      "bodyFigures": [
+        "clickbank-com-creator-offer-route-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/clickbank-com-creator-offer-route/",
+        "zh": "https://www.quickkol.com/zh/blog/clickbank-com-creator-offer-route/"
+      }
+    },
+    {
+      "order": 26,
+      "keyword": "popular pays",
+      "slug": "popular-pays-creator-proposal-acceptance",
+      "title": [
+        "Popular Pays 怎样核对提案",
+        "Popular Pays: Clarify the Creator Assignment"
+      ],
+      "brandDecision": "Current public product claims matched to application/proposal/content/use acceptance; not purported test/pricing ranking.",
+      "educationOnly": false,
+      "englishBodyWords": 1506,
+      "cover": "popular-pays-creator-proposal-acceptance.jpg",
+      "bodyFigures": [
+        "popular-pays-creator-proposal-acceptance-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/popular-pays-creator-proposal-acceptance/",
+        "zh": "https://www.quickkol.com/zh/blog/popular-pays-creator-proposal-acceptance/"
+      }
+    },
+    {
+      "order": 27,
+      "keyword": "what is bluesky social",
+      "slug": "bluesky-creator-public-conversation-context",
+      "title": [
+        "Bluesky 怎样用于达人公开讨论",
+        "What Is Bluesky Social for Creator Work?"
+      ],
+      "brandDecision": "Commission a creator-led public explanation thread while preserving original/reply/quote context and distinguishing audience contributions from sponsored creator work.",
+      "educationOnly": false,
+      "englishBodyWords": 1501,
+      "cover": "bluesky-creator-public-conversation-context.jpg",
+      "bodyFigures": [
+        "creator-topic-conversation-preparation.jpg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/bluesky-creator-public-conversation-context/",
+        "zh": "https://www.quickkol.com/zh/blog/bluesky-creator-public-conversation-context/"
+      }
+    },
+    {
+      "order": 28,
+      "keyword": "creator marketplace",
+      "slug": "creator-marketplace-proposal-to-contract",
+      "title": [
+        "达人市场怎样从发现走到明确合作",
+        "Creator Marketplace: From Discovery to Agreement"
+      ],
+      "brandDecision": "Discovery/application/platformmessage versus creator acceptance/deliverable/rights; officialInstagram/TikTokOne current contexts, not a top-platform list.",
+      "educationOnly": false,
+      "englishBodyWords": 1501,
+      "cover": "creator-marketplace-proposal-to-contract.jpg",
+      "bodyFigures": [
+        "creator-marketplace-proposal-to-contract-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/creator-marketplace-proposal-to-contract/",
+        "zh": "https://www.quickkol.com/zh/blog/creator-marketplace-proposal-to-contract/"
+      }
+    },
+    {
+      "order": 29,
+      "keyword": "is bluesky worth it",
+      "slug": "bluesky-creator-pilot-opportunity-cost",
+      "title": [
+        "Bluesky 是否值得做达人合作试点",
+        "Is Bluesky Worth a Creator Partnership Pilot?"
+      ],
+      "brandDecision": "Record marginal creator and brand working time and displaced work for a channel decision; explicit hypothetical hours, no ROI forecast.",
+      "educationOnly": false,
+      "englishBodyWords": 1508,
+      "cover": "bluesky-creator-pilot-opportunity-cost.jpg",
+      "bodyFigures": [
+        "bluesky-creator-pilot-opportunity-cost-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/bluesky-creator-pilot-opportunity-cost/",
+        "zh": "https://www.quickkol.com/zh/blog/bluesky-creator-pilot-opportunity-cost/"
+      }
+    },
+    {
+      "order": 30,
+      "keyword": "andromeda meta",
+      "slug": "meta-andromeda-creator-creative-interpretation",
+      "title": [
+        "Andromeda 怎样影响达人广告理解",
+        "Meta Andromeda: Interpret Creator Ad Implications"
+      ],
+      "brandDecision": "Separate actualretrievalengineering2024/2026updates from inventedcreativequantityrules; commissioned creator concepts, permissions and meaningfultests notguaranteedperformance.",
+      "educationOnly": false,
+      "englishBodyWords": 1503,
+      "cover": "meta-andromeda-creator-creative-interpretation.jpg",
+      "bodyFigures": [
+        "meta-andromeda-creator-creative-interpretation-framework.svg"
+      ],
+      "urls": {
+        "en": "https://www.quickkol.com/blog/meta-andromeda-creator-creative-interpretation/",
+        "zh": "https://www.quickkol.com/zh/blog/meta-andromeda-creator-creative-interpretation/"
+      }
+    }
+  ]
+}
