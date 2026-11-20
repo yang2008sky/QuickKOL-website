@@ -18,7 +18,7 @@ The question may require more than one item from a series. If a creator introduc
 
 If the content is inaccessible, retain a limited state. A screenshot can provide a lead while omitting a correction, irony or important condition. Do not confidently supply context that was never reviewed.
 
-This first reading keeps research close to the creator’s work. The useful finding may be a specific question, an unresolved product condition or a relevant demonstration. None requires the team to declare that the creator supports the brand before it has understood what the person actually said and why the reference appeared. 
+This first reading keeps research close to the creator’s work. The useful finding may be a specific question, an unresolved product condition or a relevant demonstration. None requires the team to declare that the creator supports the brand before it has understood what the person actually said and why the reference appeared.
 
 ## Separate the discovery route from complete coverage
 
