@@ -1,0 +1,688 @@
+{
+  "andromeda26": {
+    "terms": [
+      "Meta 2026 检索技术说明",
+      "Meta’s 2026 retrieval explanation"
+    ],
+    "label": [
+      "Meta 2026 检索技术说明",
+      "Meta’s 2026 retrieval explanation"
+    ],
+    "url": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+    "claimsTheySupport": "Oct28,2026: retrieval first, later ranking; model/system/GPU co-design. No prescribed creator quota or guarantee for an individual campaign.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "andromeda24": {
+    "terms": [
+      "Meta 2024 Andromeda 说明",
+      "Meta’s 2024 Andromeda explanation"
+    ],
+    "label": [
+      "Meta 2024 Andromeda 说明",
+      "Meta’s 2024 Andromeda explanation"
+    ],
+    "url": "https://engineering.fb.com/2024/12/02/production-engineering/meta-andromeda-advantage-automation-next-gen-personalized-ads-retrieval-engine/",
+    "claimsTheySupport": "Dec2,2024: multi-stage personalized ad retrieval. Technical system disclosures are not creator commissioning rules.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "metaRanking": {
+    "terms": [
+      "Meta 排序透明度说明",
+      "Meta’s ranking transparency explanation"
+    ],
+    "label": [
+      "Meta 排序透明度说明",
+      "Meta’s ranking transparency explanation"
+    ],
+    "url": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
+    "claimsTheySupport": "June29,2023:22systemcards; Feed/Stories/Reels and connected/unconnected recommendations, predictions/signals and user controls. Historical explanation not complete live formula.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "bskyFeeds": {
+    "terms": [
+      "Bluesky 自定义信息流说明",
+      "Bluesky’s custom-feed explanation"
+    ],
+    "label": [
+      "Bluesky 自定义信息流说明",
+      "Bluesky’s custom-feed explanation"
+    ],
+    "url": "https://bsky.social/about/blog/7-27-2023-custom-feeds",
+    "claimsTheySupport": "July27,2023,updatedAug17: choice of feeds built by third parties; historicalDiscover description; not a representative creator census.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "bskyWelcome": {
+    "terms": [
+      "Bluesky 平台与域名说明",
+      "Bluesky’s platform and domain explanation"
+    ],
+    "label": [
+      "Bluesky 平台与域名说明",
+      "Bluesky’s platform and domain explanation"
+    ],
+    "url": "https://bsky.social/about/blog/09-04-2024-welcome",
+    "claimsTheySupport": "Sep4,2024: app/open ATProtocol ecosystem, Following/Discover/customfeeds; domain username is one identity signal, no commercial authority or audience portability to unrelated platforms.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "bskyVerify": {
+    "terms": [
+      "Bluesky 认证说明",
+      "Bluesky’s verification explanation"
+    ],
+    "label": [
+      "Bluesky 认证说明",
+      "Bluesky’s verification explanation"
+    ],
+    "url": "https://bsky.social/about/blog/04-21-2025-verification",
+    "claimsTheySupport": "Apr21,2025: domain handles plus visual badges, Bluesky and TrustedVerifiers;270000domains is dated announcement count, not today. Badge origin inspectable.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "brandTracking": {
+    "terms": [
+      "Qualtrics 品牌追踪说明",
+      "Qualtrics’ brand-tracking explanation"
+    ],
+    "label": [
+      "Qualtrics 品牌追踪说明",
+      "Qualtrics’ brand-tracking explanation"
+    ],
+    "url": "https://www.qualtrics.com/articles/strategy-research/brand-tracking-guide/",
+    "claimsTheySupport": "Jun19,2026: repeated audience-representative survey questions and awareness/associations/consideration; vendor methodology description not causal proof or tool performance test.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "brandFunnel": {
+    "terms": [
+      "Qualtrics 品牌漏斗说明",
+      "Qualtrics’ brand-funnel explanation"
+    ],
+    "label": [
+      "Qualtrics 品牌漏斗说明",
+      "Qualtrics’ brand-funnel explanation"
+    ],
+    "url": "https://www.qualtrics.com/support/brand-experience/common-use-cases-bx/conversion-funnel-reporting-bx/",
+    "claimsTheySupport": "Survey-defined awareness, consideration, usage etc; denominator and ordering matter; not social engagement funnel by automatic equivalence.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "sbaMarket": {
+    "terms": [
+      "SBA 市场研究说明",
+      "SBA’s market-research explanation"
+    ],
+    "label": [
+      "SBA 市场研究说明",
+      "SBA’s market-research explanation"
+    ],
+    "url": "https://www.sba.gov/counseling/plan-your-business/",
+    "claimsTheySupport": "Page now includes market research section; demand/alternatives/secondary vsdirect research surveys/interviews; USsmallbusinessguidance, no creator-specific prescription.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "salesforceCRM": {
+    "terms": [
+      "Salesforce CRM 说明",
+      "Salesforce’s CRM explanation"
+    ],
+    "label": [
+      "Salesforce CRM 说明",
+      "Salesforce’s CRM explanation"
+    ],
+    "url": "https://www.salesforce.com/crm/what-is-crm/",
+    "claimsTheySupport": "Vendor describes relationship information/touchpoints; historical social-crm URLredirects here. No claim QuickKOL integrates with Salesforce or tested vendor features.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "icoMin": {
+    "terms": [
+      "ICO 数据最小化说明",
+      "the ICO’s data-minimisation guidance"
+    ],
+    "label": [
+      "ICO 数据最小化说明",
+      "the ICO’s data-minimisation guidance"
+    ],
+    "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/data-minimisation/",
+    "claimsTheySupport": "UKGDPR adequate/relevant/necessary data; page under review following DataUseAccessAct. Not universal legal advice or complete lawful-processing basis.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "bbbCause": {
+    "terms": [
+      "BBB 公益营销披露标准",
+      "BBB’s cause-marketing disclosure standard"
+    ],
+    "label": [
+      "BBB 公益营销披露标准",
+      "BBB’s cause-marketing disclosure standard"
+    ],
+    "url": "https://give.org/bbb-standards-for-charity-accountability",
+    "claimsTheySupport": "BBBWiseGivingAlliance standard19:donationportion,duration,cap/minimum at solicitation; watchdog standard not globalstatute or campaigncertification.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "ftcFAQ": {
+    "terms": [
+      "FTC 代言问答",
+      "the FTC’s endorsement FAQ"
+    ],
+    "label": [
+      "FTC 代言问答",
+      "the FTC’s endorsement FAQ"
+    ],
+    "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+    "claimsTheySupport": "USendorsements guidance:charitable-reviewincentives mayaffectcredibility; disclosure when material; new endorsements needowncontext. No internationallegalcertification.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "ftcDisclosure": {
+    "terms": [
+      "FTC 达人披露说明",
+      "the FTC’s influencer-disclosure guide"
+    ],
+    "label": [
+      "FTC 达人披露说明",
+      "the FTC’s influencer-disclosure guide"
+    ],
+    "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+    "claimsTheySupport": "USstaffguide:materialrelationships include paid/free/discountedbenefits; discloseobviously andnearendorsement; no personalexperiencefiction.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "ytPermissions": {
+    "terms": [
+      "YouTube 频道权限说明",
+      "YouTube’s channel-permission guide"
+    ],
+    "label": [
+      "YouTube 频道权限说明",
+      "YouTube’s channel-permission guide"
+    ],
+    "url": "https://support.google.com/youtube/answer/9481328?hl=en",
+    "claimsTheySupport": "ChannelpermissionssupportdelegationwithoutGooglepassword;differentroles capabilities; ownerrolecannottransferownership viachannelpermissions. No universalaccesseveryfeature.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "ytCreate": {
+    "terms": [
+      "YouTube 频道创建说明",
+      "YouTube’s channel-creation guide"
+    ],
+    "label": [
+      "YouTube 频道创建说明",
+      "YouTube’s channel-creation guide"
+    ],
+    "url": "https://support.google.com/youtube/answer/1646861?hl=en-ca",
+    "claimsTheySupport": "Googleaccountwatching/subscribing vschannelpublicpresence/upload/comments/playlists;personalvsbusinessnamecreation. Read en-ca actualbody; envarianttimedout.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "ytComments": {
+    "terms": [
+      "YouTube 评论设置说明",
+      "YouTube’s comment-setting guide"
+    ],
+    "label": [
+      "YouTube 评论设置说明",
+      "YouTube’s comment-setting guide"
+    ],
+    "url": "https://support.google.com/youtube/answer/9482556?hl=en",
+    "claimsTheySupport": "IndividualvideoStudioContentthumbnailShowmoreCommentsandratingsSave. Defaultsnewnotexisting. Madeforkids/private/supervisedconstraints; unlistednotprivacyguarantee.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "ytKit": {
+    "terms": [
+      "YouTube 媒体包说明",
+      "YouTube’s Media Kit guide"
+    ],
+    "label": [
+      "YouTube 媒体包说明",
+      "YouTube’s Media Kit guide"
+    ],
+    "url": "https://support.google.com/youtube/answer/11322980?hl=en",
+    "claimsTheySupport": "YPPcreators,desktopStudioEarn/CreatorPartnershipsMediaKit;estimatedaudiencesegments;recipientdata-sharingchoice; customizable/hiddennotcompleteexport.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "metaOriginal": {
+    "terms": [
+      "Meta 2026 原创内容说明",
+      "Meta’s 2026 original-content explanation"
+    ],
+    "label": [
+      "Meta 2026 原创内容说明",
+      "Meta’s 2026 original-content explanation"
+    ],
+    "url": "https://about.fb.com/news/2026/03/rewarding-original-creators-on-facebook/",
+    "claimsTheySupport": "March2026originalityguidance:directproduction/substantialanalysisvsminorlicensededits; H22025originalReelsviews/watchtime~doubledvsH22024 aggregatecompanydisclosure. Appealavailable. Licensealone≠originality.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "metaQualified": {
+    "terms": [
+      "Meta 创作者变现指标说明",
+      "Meta’s creator-monetization metric explanation"
+    ],
+    "label": [
+      "Meta 创作者变现指标说明",
+      "Meta’s creator-monetization metric explanation"
+    ],
+    "url": "https://about.fb.com/news/2026/03/creator-fast-track-grow-your-audience-earn-money-on-facebook/",
+    "claimsTheySupport": "March2026announcementupdatedNov13:qualifiedviewspossiblemonetization,earningsrateper1000qualifiedviews; notsales/uniquereachorcreatorbrandfee.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "metaInsights": {
+    "terms": [
+      "Meta Insights 概览",
+      "Meta’s Insights overview"
+    ],
+    "label": [
+      "Meta Insights 概览",
+      "Meta’s Insights overview"
+    ],
+    "url": "https://developers.facebook.com/docs/insights/overview",
+    "claimsTheySupport": "Specificnodes/metrics/permissionsandANALYZEtask; currentAPIreference not allnativeaccountfields. Readsubstantiveofficialindexedbody.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read substantive text indexed for the exact official page via web search; direct retrieval limited; no signed-in account test."
+  },
+  "metaInsightEndpoints": {
+    "terms": [
+      "Meta Insights 对象说明",
+      "Meta’s Insights endpoint reference"
+    ],
+    "label": [
+      "Meta Insights 对象说明",
+      "Meta’s Insights endpoint reference"
+    ],
+    "url": "https://developers.facebook.com/docs/insights/references",
+    "claimsTheySupport": "Page/media/adsendpointsspecificobjects; notinterchangeablereports. Readsubstantiveofficialindexedbody.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read substantive text indexed for the exact official page via web search; direct retrieval limited; no signed-in account test."
+  },
+  "metaAdInsights": {
+    "terms": [
+      "Meta 广告指标说明",
+      "Meta’s ad-insight reference"
+    ],
+    "label": [
+      "Meta 广告指标说明",
+      "Meta’s ad-insight reference"
+    ],
+    "url": "https://developers.facebook.com/docs/graph-api/reference/adaccount/insights",
+    "claimsTheySupport": "Estimated/in-developmentmetricsdirectional andmaychange; differentattributioncontexts cannotblindsum. Notallorganicmetricsestimated. Readofficialindexedbody.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read substantive text indexed for the exact official page via web search; direct retrieval limited; no signed-in account test."
+  },
+  "metaPagePicture": {
+    "terms": [
+      "Meta 主页头像对象说明",
+      "Meta’s Page-picture reference"
+    ],
+    "label": [
+      "Meta 主页头像对象说明",
+      "Meta’s Page-picture reference"
+    ],
+    "url": "https://developers.facebook.com/docs/graph-api/reference/v3.2/page/picture",
+    "claimsTheySupport": "Currentv27reference despiteoldpath:Pagepicture width/type/cropandpermissions; notuniversalnativeuploadrecommendation. Readofficialindexedbody.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read substantive text indexed for the exact official page via web search; direct retrieval limited; no signed-in account test."
+  },
+  "metaPictureSource": {
+    "terms": [
+      "Meta 图片尺寸字段说明",
+      "Meta’s profile-picture source reference"
+    ],
+    "label": [
+      "Meta 图片尺寸字段说明",
+      "Meta’s profile-picture source reference"
+    ],
+    "url": "https://developers.facebook.com/docs/graph-api/reference/profile-picture-source/",
+    "claimsTheySupport": "Returnedpicturewidth/heightvsupload/crop;URLexpires. Readofficialindexedbody;notfixednativepixelspec.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read substantive text indexed for the exact official page via web search; direct retrieval limited; no signed-in account test."
+  },
+  "metaPhotos": {
+    "terms": [
+      "Meta 主页照片说明",
+      "Meta’s Page-photo reference"
+    ],
+    "label": [
+      "Meta 主页照片说明",
+      "Meta’s Page-photo reference"
+    ],
+    "url": "https://developers.facebook.com/docs/graph-api/reference/page/photos/",
+    "claimsTheySupport": "Metaresizesimagesformultipledisplays;APIphotoformatsandlimitsnotuniversalnativeprofilepicturelimits. Readofficialindexedbody.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read substantive text indexed for the exact official page via web search; direct retrieval limited; no signed-in account test."
+  },
+  "metaVerify": {
+    "terms": [
+      "Meta Verified 产品说明",
+      "Meta’s Verified product explanation"
+    ],
+    "label": [
+      "Meta Verified 产品说明",
+      "Meta’s Verified product explanation"
+    ],
+    "url": "https://www.meta.com/meta-verified/",
+    "claimsTheySupport": "Official product page:badge means profile verified based on activity or supplied information/documents;region/app/accountfeaturesvary;existingpriorbadgesremain. Doesnotestablishpartnershipauthority;no priceclaims.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "metaTrial": {
+    "terms": [
+      "Meta Trial Reels 说明",
+      "Meta’s Trial Reels explanation"
+    ],
+    "label": [
+      "Meta Trial Reels 说明",
+      "Meta’s Trial Reels explanation"
+    ],
+    "url": "https://about.fb.com/news/2024/12/trial-reels-try-content-non-followers-first-see-what-perfoms-best/",
+    "claimsTheySupport": "Dec10,2024updatedJune26,2025:nonfollowersfirst,manualorautomaticwiderrelease;notprivate/notrandomizedA/Bbydefault.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "metaCreative": {
+    "terms": [
+      "Meta 创作支持说明",
+      "Meta’s creator-support explanation"
+    ],
+    "label": [
+      "Meta 创作支持说明",
+      "Meta’s creator-support explanation"
+    ],
+    "url": "https://about.fb.com/news/2025/06/inspiring-creativity-that-brings-people-together/",
+    "claimsTheySupport": "June12/26,2025:TrialReelsexpansion;claimed40%triedmoreoftenshared;metricsneedexactscope ifused. Readbodybeforequantification.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "tiktokProjects": {
+    "terms": [
+      "TikTok One 项目类型说明",
+      "TikTok One’s project-type guide"
+    ],
+    "label": [
+      "TikTok One 项目类型说明",
+      "TikTok One’s project-type guide"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/types-of-projects-for-tiktok-one-creators?lang=en",
+    "claimsTheySupport": "UpdatedNov2026:4types CreatorMarketingflatfee;BrandedBuzzperformancecashpool;SparkOpportunityauthorizeexistingvideos;CreativeChallengeadspendcommission. No universalpaypromise.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "tiktokJoin": {
+    "terms": [
+      "TikTok One 注册说明",
+      "TikTok One’s registration guide"
+    ],
+    "label": [
+      "TikTok One 注册说明",
+      "TikTok One’s registration guide"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/how-creators-can-sign-up-for-tiktok-one?lang=en",
+    "claimsTheySupport": "UpdatedJuly2026:regionalavailability,18+,policies;projectparticipation1000+andotherrequirements vary/change. Signupnotprojectacceptance.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "tiktokStudio": {
+    "terms": [
+      "TikTok Studio 发布说明",
+      "TikTok Studio’s launch explanation"
+    ],
+    "label": [
+      "TikTok Studio 发布说明",
+      "TikTok Studio’s launch explanation"
+    ],
+    "url": "https://newsroom.tiktok.com/helping-creators-bring-creativity-to-life-with-tiktok-studio?lang=en",
+    "claimsTheySupport": "May24,2024:create/manage/analyze;scheduled/publishedpostsandprivacy/communitycontrols;availabilityvary. No currentlyuniformschedulewindow.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "tiktokScheduler": {
+    "terms": [
+      "TikTok 网页排期说明",
+      "TikTok’s web-scheduler explanation"
+    ],
+    "label": [
+      "TikTok 网页排期说明",
+      "TikTok’s web-scheduler explanation"
+    ],
+    "url": "https://ads.tiktok.com/business/en-US/blog/introducing-video-scheduler-now-you-can-plan-tiktoks-in-advance",
+    "claimsTheySupport": "Publicschedulerlauncharticle describes15minutes–10days,computerzone,delete/reuploadforchange; internallymixedCreator/Businesswording. NotuniversalcurrentStudioallaccountlimit.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "tiktokRecommend": {
+    "terms": [
+      "TikTok 推荐机制说明",
+      "TikTok’s recommendation explanation"
+    ],
+    "label": [
+      "TikTok 推荐机制说明",
+      "TikTok’s recommendation explanation"
+    ],
+    "url": "https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content?traffic_source=Direct",
+    "claimsTheySupport": "Officialindexedsubstantivebody:interactions/content/userinfo,watchingimportantformost;followingfeedpersonalized. No fixedformula orguaranteedcommentreward.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read substantive text indexed for the exact official page via web search; direct retrieval limited; no signed-in account test."
+  },
+  "tiktokDisclosure": {
+    "terms": [
+      "TikTok 商业内容说明",
+      "TikTok’s commercial-content guide"
+    ],
+    "label": [
+      "TikTok 商业内容说明",
+      "TikTok’s commercial-content guide"
+    ],
+    "url": "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service?from=HN",
+    "claimsTheySupport": "Readofficialindexedsubstantivebody:ownbusiness/thirdpartypromotionrequiresdisclosuresetting;privateexactaccessnottested.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read substantive text indexed for the exact official page via web search; direct retrieval limited; no signed-in account test."
+  },
+  "redditChange": {
+    "terms": [
+      "Reddit 2026 信息流更新",
+      "Reddit’s 2026 feed update"
+    ],
+    "label": [
+      "Reddit 2026 信息流更新",
+      "Reddit’s 2026 feed update"
+    ],
+    "url": "https://support.reddithelp.com/hc/en-us/articles/55472297340308-Changelog-November-10-2026",
+    "claimsTheySupport": "Nov10:ForYou/FollowingrolloutstartedOct27;Followingjoinedcommunities,ForYourecommendations;Popularplacementexperimentlimitedsubset;notidenticalallclients.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "redditFeeds": {
+    "terms": [
+      "Reddit 信息流入口说明",
+      "Reddit’s feed-entry guide"
+    ],
+    "label": [
+      "Reddit 信息流入口说明",
+      "Reddit’s feed-entry guide"
+    ],
+    "url": "https://support.reddithelp.com/hc/en-us/articles/9124397463572-How-do-I-access-r-all-r-popular-news-latest-or-my-home-feed",
+    "claimsTheySupport": "UpdatedOct28,2026:platformdependententry;oldreddit/r/allloggedin;avoidoutdateduniversalfrontpageUI.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "redditRules": {
+    "terms": [
+      "Reddit 社区干扰规则",
+      "Reddit’s community-disruption rules"
+    ],
+    "label": [
+      "Reddit 社区干扰规则",
+      "Reddit’s community-disruption rules"
+    ],
+    "url": "https://support.reddithelp.com/hc/en-us/articles/360043066412-Disrupting-Communities",
+    "claimsTheySupport": "UpdatedOct30:communityspecificrulesandno coordinatedvotes/banevasion/unsoliciteddisruption;readbody.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "eventChanges": {
+    "terms": [
+      "Eventbrite 改期说明",
+      "Eventbrite’s rescheduling guide"
+    ],
+    "label": [
+      "Eventbrite 改期说明",
+      "Eventbrite’s rescheduling guide"
+    ],
+    "url": "https://www.eventbrite.com.au/help/en-au/articles/267763/how-to-postpone-or-reschedule-an-event/",
+    "claimsTheySupport": "Officialindexedbody:reviewplatformpostponementpolicy,notifyattendees;platformspecificnotglobaleventlaw. USvariant429;useAUreadscope.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read substantive text indexed for the exact official page via web search; direct retrieval returned429; no signed-in account test."
+  },
+  "igPublish": {
+    "terms": [
+      "Meta 轮播发布说明",
+      "Meta’s carousel-publishing guide"
+    ],
+    "label": [
+      "Meta 轮播发布说明",
+      "Meta’s carousel-publishing guide"
+    ],
+    "url": "https://developers.facebook.com/documentation/instagram-platform/content-publishing",
+    "claimsTheySupport": "OfficialAPIguide definescarouselmultipleimages/videos,professionalaccountrequirementsandstatuschecking;notnativeapplimitsoruniversalfeatureavailability.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "metaCollab": {
+    "terms": [
+      "Meta 2023 共创与轮播说明",
+      "Meta’s 2023 collaboration-and-carousel announcement"
+    ],
+    "label": [
+      "Meta 2023 共创与轮播说明",
+      "Meta’s 2023 collaboration-and-carousel announcement"
+    ],
+    "url": "https://about.fb.com/news/2023/08/music-and-collabs-on-instagram/",
+    "claimsTheySupport": "Aug11,2023musiccarouselsandCollabsannouncement;historicalnotcurrentglobalpermissionorreachguarantee.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "metaStudy": {
+    "terms": [
+      "Meta Blueprint 研究类型说明",
+      "Meta Blueprint’s study-type overview"
+    ],
+    "label": [
+      "Meta Blueprint 研究类型说明",
+      "Meta Blueprint’s study-type overview"
+    ],
+    "url": "https://www.facebookblueprint.com/student/path/219763-ab-test-conversion-brand-lift-course",
+    "claimsTheySupport": "Officialcourseoverview distinguishesA/B,creativetests,conversionlift,brandlift;notcompletedcourseoraccessedspecificexperimentaltool.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "photoCopyright": {
+    "terms": [
+      "美国版权局摄影说明",
+      "the U.S. Copyright Office’s photography guide"
+    ],
+    "label": [
+      "美国版权局：摄影与版权",
+      "U.S. Copyright Office: photography and copyright"
+    ],
+    "url": "https://www.copyright.gov/engage/photographers/",
+    "claimsTheySupport": "UScontext:originalphotographsprotectedwhenfixed;photographergenerallyinitialownerwithlimitedworkmadeforhireexception;publicavailabilitynotblanketlicense. Notgloballegaladvice.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "eventPolicy": {
+    "terms": [
+      "Eventbrite 延期政策",
+      "Eventbrite’s postponed-event policy"
+    ],
+    "label": [
+      "Eventbrite：延期政策",
+      "Eventbrite: postponed-event policy"
+    ],
+    "url": "https://www.eventbrite.com/help/en-nz/articles/169121/eventbrites-postponed-event-policy/",
+    "claimsTheySupport": "Policyappliestoeventspostponedon/afterApr1,2023;postponedfuturedateunknownvsreschedulednewdatecommunicated;platformspecificnotallorganizerslaw.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read substantive text indexed for the exact official page via web search; direct retrieval returned429; no signed-in account test."
+  },
+  "metaSuite": {
+    "terms": [
+      "Meta Business Suite 推出说明",
+      "Meta’s Business Suite launch explanation"
+    ],
+    "label": [
+      "Meta Business Suite 推出说明",
+      "Meta’s Business Suite launch explanation"
+    ],
+    "url": "https://about.fb.com/news/2020/09/a-faster-and-easier-way-to-manage-your-business-on-facebook-and-instagram/",
+    "claimsTheySupport": "Sep17,2020historicalannouncementmanagepages/profiles,publish/schedule;notcurrentallaccountmenuorpermissionconfirmation.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "metaPageFeed": {
+    "terms": [
+      "Meta 主页发布接口说明",
+      "Meta’s Page-feed publishing reference"
+    ],
+    "label": [
+      "Meta 主页发布接口说明",
+      "Meta’s Page-feed publishing reference"
+    ],
+    "url": "https://developers.facebook.com/docs/graph-api/reference/page/feed/",
+    "claimsTheySupport": "Currentv27APIpublishedandscheduled_publish_time,Page/tasks/permissions;API10min75daysrangeNOTnativeBusinessSuitelimit. No instructions toimplementAPI orclaimnativeidentical.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "icoAccuracy": {
+    "terms": [
+      "ICO 准确性说明",
+      "the ICO’s accuracy guidance"
+    ],
+    "label": [
+      "ICO：准确性原则",
+      "ICO: accuracy principle"
+    ],
+    "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/accuracy/",
+    "claimsTheySupport": "UKGDPRcontext:source/statusclear,reasonableaccuracysteps,correctmisleadingdata,distinguishopinion/historicalrecord;underreviewafterDataUseAccessAct. Notuniversallegalconclusion.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "ytModeration": {
+    "terms": [
+      "YouTube 评论审核说明",
+      "YouTube’s comment-moderation explanation"
+    ],
+    "label": [
+      "YouTube 评论审核说明",
+      "YouTube’s comment-moderation explanation"
+    ],
+    "url": "https://support.google.com/youtube/answer/9483359?hl=en",
+    "claimsTheySupport": "CurrentvideoOn/Pause/Off,heldcommentsnotpublicunlessapproved,defaultnewuploadsnotexisting;automaticfilteringnotinfallible. ReadfullbodyNov20.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  },
+  "tiktokWebDisclosure": {
+    "terms": [
+      "TikTok 网页商业披露步骤",
+      "TikTok’s web-disclosure instructions"
+    ],
+    "label": [
+      "TikTok 网页商业披露步骤",
+      "TikTok’s web-disclosure instructions"
+    ],
+    "url": "https://ads.tiktok.com/resources/help/article/how-to-turn-on-the-commercial-content-disclosure-setting-in-tiktok?lang=en-GB",
+    "claimsTheySupport": "UpdatedJanuary2026:webUpload>Selectvideos>Showmore>Disclosecommercialcontent>ownbrand/branded;Oneauto-manageddisclosure,notallscheduledaccountcapabilityorcurrentnativegloballimits.",
+    "reviewedAt": "2026-11-20",
+    "reviewMethod": "Read relevant official page body using web tool; no signed-in account test."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-11-20",
+  "passed": true,
+  "allAssetsReviewed": 63,
+  "coverContactSheets": 4,
+  "diagramContactSheets": 10,
+  "representativeScreenshotsViewed": [
+    "zh-1-desktop-top.jpg",
+    "zh-1-mobile-top.jpg",
+    "en-10-mobile-top.jpg",
+    "en-23-desktop-top.jpg",
+    "zh-23-mobile-figure-creator-original-demonstration-camera-position.jpg",
+    "zh-28-mobile-figure-creator-profile-portrait-crop-mats.jpg",
+    "zh-30-mobile-figure-creator-comment-response-topic-review.jpg",
+    "zh-28-mobile-table.jpg",
+    "zh-list-1-1440.jpg",
+    "en-list-1-390.jpg",
+    "zh-11-mobile-downloads.jpg"
+  ],
+  "notes": [
+    "Reviewed all covers and body diagrams in contact sheets, plus individual generated scenes and three body-photo placements.",
+    "Corrected artificial camera lettering in cover 7; all public captions and alt contain no AI production notice.",
+    "Representative desktop/mobile article and list views are readable without horizontal page overflow. Tables intentionally scroll within their container.",
+    "Real Chinese and English CSV links clicked from both language pages; all four downloads valid.",
+    "Automated page checks cover all new language pages; visual review is representative rather than every long article at every scroll position."
+  ]
+}

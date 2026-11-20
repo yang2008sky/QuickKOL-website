@@ -1,0 +1,34 @@
+{
+  "checkedAt": "2026-11-20",
+  "passed": true,
+  "records": [
+    {
+      "route": "/zh/blog/creator-brief-positioning-statement-proof/",
+      "href": "/downloads/creator-positioning-brief-2026-11-20.zh.csv",
+      "filename": "creator-positioning-brief-2026-11-20.zh.csv",
+      "bytes": 232,
+      "pass": true
+    },
+    {
+      "route": "/zh/blog/creator-brief-positioning-statement-proof/",
+      "href": "/downloads/creator-positioning-brief-2026-11-20.en.csv",
+      "filename": "creator-positioning-brief-2026-11-20.en.csv",
+      "bytes": 273,
+      "pass": true
+    },
+    {
+      "route": "/blog/creator-brief-positioning-statement-proof/",
+      "href": "/downloads/creator-positioning-brief-2026-11-20.zh.csv",
+      "filename": "creator-positioning-brief-2026-11-20.zh.csv",
+      "bytes": 232,
+      "pass": true
+    },
+    {
+      "route": "/blog/creator-brief-positioning-statement-proof/",
+      "href": "/downloads/creator-positioning-brief-2026-11-20.en.csv",
+      "filename": "creator-positioning-brief-2026-11-20.en.csv",
+      "bytes": 273,
+      "pass": true
+    }
+  ]
+}

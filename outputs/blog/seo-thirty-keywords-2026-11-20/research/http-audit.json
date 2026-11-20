@@ -1,0 +1,764 @@
+{
+  "checkedAt": "2026-11-20",
+  "paths": 125,
+  "passed": true,
+  "failed": [],
+  "results": [
+    {
+      "path": "/assets/blog/meta-andromeda-creator-concept-test-design.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 88142
+    },
+    {
+      "path": "/assets/blog/meta-andromeda-creator-concept-test-design-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1649
+    },
+    {
+      "path": "/blog/meta-andromeda-creator-concept-test-design/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/meta-andromeda-creator-concept-test-design/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/bluesky-creator-credibility-cross-platform/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/bluesky-creator-credibility-cross-platform-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1656
+    },
+    {
+      "path": "/blog/bluesky-creator-credibility-cross-platform/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/bluesky-creator-credibility-cross-platform.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 227655
+    },
+    {
+      "path": "/blog/instagram-ranking-creator-format-commission/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/instagram-ranking-creator-format-commission/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/instagram-ranking-creator-format-commission.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 67365
+    },
+    {
+      "path": "/assets/blog/instagram-ranking-creator-format-commission-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1647
+    },
+    {
+      "path": "/blog/blueskt-creator-contact-record-correction/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/blueskt-creator-contact-record-correction/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/blueskt-creator-contact-record-correction-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1653
+    },
+    {
+      "path": "/assets/blog/blueskt-creator-contact-record-correction.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 266008
+    },
+    {
+      "path": "/assets/blog/brand-research-platform-creator-question-fit-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1660
+    },
+    {
+      "path": "/blog/brand-research-platform-creator-question-fit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/brand-research-platform-creator-question-fit/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/brand-research-platform-creator-question-fit.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 257010
+    },
+    {
+      "path": "/blog/cause-marketing-creator-donation-claim/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/cause-marketing-creator-donation-claim/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/cause-marketing-creator-donation-claim-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1655
+    },
+    {
+      "path": "/assets/blog/cause-marketing-creator-donation-claim.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 86814
+    },
+    {
+      "path": "/zh/blog/carousel-post-creator-self-contained-pages/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/blog/carousel-post-creator-self-contained-pages/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/carousel-post-creator-self-contained-pages-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1663
+    },
+    {
+      "path": "/assets/blog/carousel-post-creator-self-contained-pages.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 223250
+    },
+    {
+      "path": "/assets/blog/newsfeeds-creator-observation-comparison-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1660
+    },
+    {
+      "path": "/blog/newsfeeds-creator-observation-comparison/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/newsfeeds-creator-observation-comparison/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/newsfeeds-creator-observation-comparison.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 66005
+    },
+    {
+      "path": "/blog/instagram-creator-co-promotion-audience-choice/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/instagram-creator-co-promotion-audience-choice/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/instagram-creator-co-promotion-audience-choice-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1669
+    },
+    {
+      "path": "/assets/blog/instagram-creator-co-promotion-audience-choice.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 319829
+    },
+    {
+      "path": "/blog/creator-presence-cross-channel-proof-map/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/creator-presence-cross-channel-proof-map/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/creator-presence-cross-channel-proof-map-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1665
+    },
+    {
+      "path": "/assets/blog/creator-presence-cross-channel-proof-map.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 257603
+    },
+    {
+      "path": "/blog/creator-brief-positioning-statement-proof/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/creator-brief-positioning-statement-proof/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/creator-brief-positioning-statement-proof-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1655
+    },
+    {
+      "path": "/assets/blog/creator-brief-positioning-statement-proof.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 88830
+    },
+    {
+      "path": "/downloads/creator-positioning-brief-2026-11-20.zh.csv",
+      "status": 200,
+      "type": "text/csv",
+      "bytes": 232,
+      "utf8BOM": true,
+      "hasCR": false,
+      "lines": 11
+    },
+    {
+      "path": "/downloads/creator-positioning-brief-2026-11-20.en.csv",
+      "status": 200,
+      "type": "text/csv",
+      "bytes": 273,
+      "utf8BOM": true,
+      "hasCR": false,
+      "lines": 11
+    },
+    {
+      "path": "/blog/creator-media-kit-press-kit-recipient-scope/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/creator-media-kit-press-kit-recipient-scope/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/creator-media-kit-press-kit-recipient-scope-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1660
+    },
+    {
+      "path": "/zh/blog/instagram-collaboration-following-aftercare/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/creator-media-kit-press-kit-recipient-scope.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 238993
+    },
+    {
+      "path": "/blog/instagram-collaboration-following-aftercare/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/instagram-collaboration-following-aftercare-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1665
+    },
+    {
+      "path": "/blog/youtube-channel-creator-commission-request/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/youtube-channel-creator-commission-request/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/instagram-collaboration-following-aftercare.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 288971
+    },
+    {
+      "path": "/assets/blog/youtube-channel-creator-commission-request-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1657
+    },
+    {
+      "path": "/blog/event-news-creator-brief-change-verification/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/event-news-creator-brief-change-verification/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/youtube-channel-creator-commission-request.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 228292
+    },
+    {
+      "path": "/blog/brand-health-creator-message-associations/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/brand-health-creator-message-associations/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/event-news-creator-brief-change-verification-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1661
+    },
+    {
+      "path": "/assets/blog/event-news-creator-brief-change-verification.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 67578
+    },
+    {
+      "path": "/assets/blog/brand-health-creator-message-associations-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1661
+    },
+    {
+      "path": "/blog/social-kpi-creator-decision-contract/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/social-kpi-creator-decision-contract/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/brand-health-creator-message-associations.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 300969
+    },
+    {
+      "path": "/assets/blog/social-kpi-creator-decision-contract-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1657
+    },
+    {
+      "path": "/assets/blog/social-kpi-creator-decision-contract.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 83226
+    },
+    {
+      "path": "/blog/facebook-creator-schedule-change-dependencies/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/facebook-creator-schedule-change-dependencies/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/facebook-creator-schedule-change-dependencies-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1662
+    },
+    {
+      "path": "/blog/social-crm-creator-relationship-boundaries/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/social-crm-creator-relationship-boundaries/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/facebook-creator-schedule-change-dependencies.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 194614
+    },
+    {
+      "path": "/assets/blog/social-crm-creator-relationship-boundaries-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1681
+    },
+    {
+      "path": "/blog/facebook-creator-local-language-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/facebook-creator-local-language-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/social-crm-creator-relationship-boundaries.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 213603
+    },
+    {
+      "path": "/assets/blog/facebook-creator-local-language-brief-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1659
+    },
+    {
+      "path": "/blog/tiktok-creator-response-to-next-demonstration/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/tiktok-creator-response-to-next-demonstration/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/facebook-creator-local-language-brief.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 240581
+    },
+    {
+      "path": "/assets/blog/tiktok-creator-response-to-next-demonstration-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1656
+    },
+    {
+      "path": "/blog/reddit-front-page-creator-topic-correction/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/reddit-front-page-creator-topic-correction/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/tiktok-creator-response-to-next-demonstration.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 74922
+    },
+    {
+      "path": "/assets/blog/reddit-front-page-creator-topic-correction-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1666
+    },
+    {
+      "path": "/blog/facebook-creator-original-contribution-review/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/facebook-creator-original-contribution-review/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/reddit-front-page-creator-topic-correction.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 79475
+    },
+    {
+      "path": "/assets/blog/facebook-creator-original-contribution-review-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1661
+    },
+    {
+      "path": "/blog/tiktok-creator-program-project-acceptance/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/creator-original-demonstration-camera-position.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 139984
+    },
+    {
+      "path": "/assets/blog/facebook-creator-original-contribution-review.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 234435
+    },
+    {
+      "path": "/assets/blog/tiktok-creator-program-project-acceptance-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1671
+    },
+    {
+      "path": "/zh/blog/tiktok-creator-program-project-acceptance/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/blog/tiktok-scheduled-creator-content-release-gates/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/tiktok-creator-program-project-acceptance.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 289849
+    },
+    {
+      "path": "/assets/blog/tiktok-scheduled-creator-content-release-gates-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1665
+    },
+    {
+      "path": "/zh/blog/tiktok-scheduled-creator-content-release-gates/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/blog/facebook-insights-creator-post-scope-ledger/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/tiktok-scheduled-creator-content-release-gates.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 167496
+    },
+    {
+      "path": "/assets/blog/facebook-insights-creator-post-scope-ledger.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 79285
+    },
+    {
+      "path": "/assets/blog/facebook-insights-creator-post-scope-ledger-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1652
+    },
+    {
+      "path": "/zh/blog/facebook-insights-creator-post-scope-ledger/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/blog/instagram-verification-partnership-authority/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/instagram-verification-partnership-authority-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1661
+    },
+    {
+      "path": "/assets/blog/instagram-verification-partnership-authority.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 91077
+    },
+    {
+      "path": "/zh/blog/instagram-verification-partnership-authority/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/blog/facebook-profile-picture-creator-crop-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/facebook-profile-picture-creator-crop-brief/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/facebook-profile-picture-creator-crop-brief-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1656
+    },
+    {
+      "path": "/assets/blog/creator-profile-portrait-crop-mats.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 113343
+    },
+    {
+      "path": "/assets/blog/facebook-profile-picture-creator-crop-brief.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 170633
+    },
+    {
+      "path": "/zh/blog/brand-mentions-creator-reference-interpretation/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/blog/brand-mentions-creator-reference-interpretation/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/brand-mentions-creator-reference-interpretation-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1656
+    },
+    {
+      "path": "/assets/blog/brand-mentions-creator-reference-interpretation.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 316984
+    },
+    {
+      "path": "/assets/blog/youtube-comments-creator-release-settings-framework.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 1664
+    },
+    {
+      "path": "/blog/youtube-comments-creator-release-settings/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/zh/blog/youtube-comments-creator-release-settings/",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 2497
+    },
+    {
+      "path": "/assets/blog/youtube-comments-creator-release-settings.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 245366
+    },
+    {
+      "path": "/assets/blog/creator-comment-response-topic-review.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 172653
+    }
+  ]
+}

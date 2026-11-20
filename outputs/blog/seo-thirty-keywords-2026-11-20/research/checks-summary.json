@@ -1,0 +1,25 @@
+{
+  "state": "User authorized GitHub handoff; maintainer integration and publication pending.",
+  "date": "2026-11-20",
+  "articles": 30,
+  "languagePages": 60,
+  "assets": 63,
+  "httpPaths": 125,
+  "layoutPageCases": 132,
+  "screenshotsInLayoutAudit": 138,
+  "nativeGraphicsBounds": 41,
+  "allListPageCases": 116,
+  "actualDownloadChecks": 4,
+  "build": {
+    "passed": true,
+    "entryPoints": 1513,
+    "scope": "Independent local preview, not production integration."
+  },
+  "existingSuite": {
+    "tests": 7,
+    "passed": 6,
+    "failed": 1,
+    "note": "Existing Oct30 English article definition-influencer-multilingual-brief-glossary contains Chinese terms. Not modified. All60 batch language pages pass separate audit."
+  },
+  "visualReview": "All63 assets reviewed in contact sheets and relevant individual views. All60 language article pages programmatically checked at mobile and desktop sizes. Representative page screenshots manually viewed; not every scroll position of every long article."
+}

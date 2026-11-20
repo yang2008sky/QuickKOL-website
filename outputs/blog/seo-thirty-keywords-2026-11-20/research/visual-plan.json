@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "role": "body",
+    "kind": "svg",
+    "file": "meta-andromeda-creator-concept-test-design-framework.svg",
+    "labels": [
+      [
+        "概念",
+        "Concept"
+      ],
+      [
+        "文件版本",
+        "File version"
+      ],
+      [
+        "分发条件",
+        "Delivery"
+      ],
+      [
+        "有限结论",
+        "Conclusion"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 2,
+    "role": "body",
+    "kind": "svg",
+    "file": "bluesky-creator-credibility-cross-platform-framework.svg",
+    "labels": [
+      [
+        "身份连接",
+        "Identity"
+      ],
+      [
+        "原作贡献",
+        "Original work"
+      ],
+      [
+        "各自受众",
+        "Audience"
+      ],
+      [
+        "合作权限",
+        "Authority"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 3,
+    "role": "body",
+    "kind": "svg",
+    "file": "instagram-ranking-creator-format-commission-framework.svg",
+    "labels": [
+      [
+        "观看背景",
+        "Context"
+      ],
+      [
+        "解释任务",
+        "Task"
+      ],
+      [
+        "制作版本",
+        "Version"
+      ],
+      [
+        "实际观察",
+        "Observation"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 4,
+    "role": "body",
+    "kind": "svg",
+    "file": "blueskt-creator-contact-record-correction-framework.svg",
+    "labels": [
+      [
+        "平台标签",
+        "Platform"
+      ],
+      [
+        "实际账号",
+        "Account"
+      ],
+      [
+        "人物对象",
+        "Person"
+      ],
+      [
+        "代表关系",
+        "Representation"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 5,
+    "role": "body",
+    "kind": "svg",
+    "file": "brand-research-platform-creator-question-fit-framework.svg",
+    "labels": [
+      [
+        "调查题目",
+        "Survey"
+      ],
+      [
+        "公开讨论",
+        "Conversation"
+      ],
+      [
+        "创作者作品",
+        "Creator work"
+      ],
+      [
+        "授权分析",
+        "Analytics"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 6,
+    "role": "body",
+    "kind": "svg",
+    "file": "cause-marketing-creator-donation-claim-framework.svg",
+    "labels": [
+      [
+        "公开承诺",
+        "Promise"
+      ],
+      [
+        "资格计算",
+        "Eligibility"
+      ],
+      [
+        "完成捐赠",
+        "Contribution"
+      ],
+      [
+        "公益结果",
+        "Outcome"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 7,
+    "role": "body",
+    "kind": "svg",
+    "file": "carousel-post-creator-self-contained-pages-framework.svg",
+    "labels": [
+      [
+        "完整轮播",
+        "Complete set"
+      ],
+      [
+        "单页主张",
+        "Page claim"
+      ],
+      [
+        "重要前提",
+        "Conditions"
+      ],
+      [
+        "摘用范围",
+        "Excerpt scope"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 8,
+    "role": "body",
+    "kind": "svg",
+    "file": "newsfeeds-creator-observation-comparison-framework.svg",
+    "labels": [
+      [
+        "观察路径甲",
+        "Route A"
+      ],
+      [
+        "观察路径乙",
+        "Route B"
+      ],
+      [
+        "同一对象",
+        "Same object"
+      ],
+      [
+        "保留差异",
+        "Differences"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 9,
+    "role": "body",
+    "kind": "svg",
+    "file": "instagram-creator-co-promotion-audience-choice-framework.svg",
+    "labels": [
+      [
+        "相关理由",
+        "Relevance"
+      ],
+      [
+        "明确推荐",
+        "Recommendation"
+      ],
+      [
+        "自主选择",
+        "Viewer choice"
+      ],
+      [
+        "持续内容",
+        "Continuing work"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 10,
+    "role": "body",
+    "kind": "svg",
+    "file": "creator-presence-cross-channel-proof-map-framework.svg",
+    "labels": [
+      [
+        "共同专长",
+        "Expertise"
+      ],
+      [
+        "不同任务",
+        "Channel roles"
+      ],
+      [
+        "原作依据",
+        "Original proof"
+      ],
+      [
+        "各自用途",
+        "Usage scope"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 11,
+    "role": "body",
+    "kind": "svg",
+    "file": "creator-brief-positioning-statement-proof-framework.svg",
+    "labels": [
+      [
+        "目标人群",
+        "Audience"
+      ],
+      [
+        "现实替代",
+        "Alternative"
+      ],
+      [
+        "相关差异",
+        "Difference"
+      ],
+      [
+        "证据边界",
+        "Evidence"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 12,
+    "role": "body",
+    "kind": "svg",
+    "file": "creator-media-kit-press-kit-recipient-scope-framework.svg",
+    "labels": [
+      [
+        "评估资料",
+        "Evaluation"
+      ],
+      [
+        "公开事实",
+        "Public facts"
+      ],
+      [
+        "素材条件",
+        "Asset terms"
+      ],
+      [
+        "接收对象",
+        "Recipient"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 13,
+    "role": "body",
+    "kind": "svg",
+    "file": "instagram-collaboration-following-aftercare-framework.svg",
+    "labels": [
+      [
+        "原来邀请",
+        "Invitation"
+      ],
+      [
+        "合作结束",
+        "Campaign end"
+      ],
+      [
+        "仍有效内容",
+        "Valid content"
+      ],
+      [
+        "后续责任",
+        "Aftercare"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 14,
+    "role": "body",
+    "kind": "svg",
+    "file": "youtube-channel-creator-commission-request-framework.svg",
+    "labels": [
+      [
+        "实际需求",
+        "Need"
+      ],
+      [
+        "发布角色",
+        "Publish role"
+      ],
+      [
+        "管理能力",
+        "Manage role"
+      ],
+      [
+        "必要权限",
+        "Access scope"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 15,
+    "role": "body",
+    "kind": "svg",
+    "file": "event-news-creator-brief-change-verification-framework.svg",
+    "labels": [
+      [
+        "组织方确认",
+        "Organizer"
+      ],
+      [
+        "活动变化",
+        "Change"
+      ],
+      [
+        "观众行动",
+        "Audience action"
+      ],
+      [
+        "同步更正",
+        "Correction"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 16,
+    "role": "body",
+    "kind": "svg",
+    "file": "brand-health-creator-message-associations-framework.svg",
+    "labels": [
+      [
+        "相同问题",
+        "Same questions"
+      ],
+      [
+        "可比样本",
+        "Sample"
+      ],
+      [
+        "品牌联想",
+        "Associations"
+      ],
+      [
+        "归因边界",
+        "Attribution"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 17,
+    "role": "body",
+    "kind": "svg",
+    "file": "social-kpi-creator-decision-contract-framework.svg",
+    "labels": [
+      [
+        "需要的决定",
+        "Decision"
+      ],
+      [
+        "实际指标",
+        "Measure"
+      ],
+      [
+        "观察窗口",
+        "Window"
+      ],
+      [
+        "行动条件",
+        "Action criteria"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 18,
+    "role": "body",
+    "kind": "svg",
+    "file": "facebook-creator-schedule-change-dependencies-framework.svg",
+    "labels": [
+      [
+        "确认变更",
+        "Change"
+      ],
+      [
+        "达人内容",
+        "Creator copy"
+      ],
+      [
+        "实际队列",
+        "Actual queue"
+      ],
+      [
+        "目的地信息",
+        "Destination"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 19,
+    "role": "body",
+    "kind": "svg",
+    "file": "social-crm-creator-relationship-boundaries-framework.svg",
+    "labels": [
+      [
+        "达人关系",
+        "Creator partner"
+      ],
+      [
+        "观众咨询",
+        "Audience inquiry"
+      ],
+      [
+        "业务记录",
+        "Customer record"
+      ],
+      [
+        "访问与目的",
+        "Access purpose"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 20,
+    "role": "body",
+    "kind": "svg",
+    "file": "facebook-creator-local-language-brief-framework.svg",
+    "labels": [
+      [
+        "原始事实",
+        "Facts"
+      ],
+      [
+        "本地表达",
+        "Local phrasing"
+      ],
+      [
+        "反向复核",
+        "Review meaning"
+      ],
+      [
+        "回复语言",
+        "Response"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 21,
+    "role": "body",
+    "kind": "svg",
+    "file": "tiktok-creator-response-to-next-demonstration-framework.svg",
+    "labels": [
+      [
+        "真实问题",
+        "Question"
+      ],
+      [
+        "合适回应",
+        "Response"
+      ],
+      [
+        "新的演示",
+        "Demonstration"
+      ],
+      [
+        "观察与调整",
+        "Review"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 22,
+    "role": "body",
+    "kind": "svg",
+    "file": "reddit-front-page-creator-topic-correction-framework.svg",
+    "labels": [
+      [
+        "热帖线索",
+        "Thread lead"
+      ],
+      [
+        "社区语境",
+        "Community"
+      ],
+      [
+        "问题修正",
+        "Brief revision"
+      ],
+      [
+        "独立委托",
+        "New commission"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 23,
+    "role": "body",
+    "kind": "svg",
+    "file": "facebook-creator-original-contribution-review-framework.svg",
+    "labels": [
+      [
+        "实际制作",
+        "Production"
+      ],
+      [
+        "实质贡献",
+        "Contribution"
+      ],
+      [
+        "素材许可",
+        "Permission"
+      ],
+      [
+        "有限观察",
+        "Observation"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 24,
+    "role": "body",
+    "kind": "svg",
+    "file": "tiktok-creator-program-project-acceptance-framework.svg",
+    "labels": [
+      [
+        "项目类型",
+        "Project type"
+      ],
+      [
+        "申请与邀请",
+        "Application"
+      ],
+      [
+        "明确接受",
+        "Acceptance"
+      ],
+      [
+        "工作与用途",
+        "Work and usage"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 25,
+    "role": "body",
+    "kind": "svg",
+    "file": "tiktok-scheduled-creator-content-release-gates-framework.svg",
+    "labels": [
+      [
+        "账号能力",
+        "Capability"
+      ],
+      [
+        "内容条件",
+        "Content gates"
+      ],
+      [
+        "暂停责任",
+        "Hold owner"
+      ],
+      [
+        "实际发布",
+        "Actual release"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 26,
+    "role": "body",
+    "kind": "svg",
+    "file": "facebook-insights-creator-post-scope-ledger-framework.svg",
+    "labels": [
+      [
+        "实际对象",
+        "Object"
+      ],
+      [
+        "分发来源",
+        "Distribution"
+      ],
+      [
+        "共同窗口",
+        "Window"
+      ],
+      [
+        "指标含义",
+        "Definition"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 27,
+    "role": "body",
+    "kind": "svg",
+    "file": "instagram-verification-partnership-authority-framework.svg",
+    "labels": [
+      [
+        "认证信号",
+        "Badge signal"
+      ],
+      [
+        "实际本人",
+        "Identity"
+      ],
+      [
+        "商业代表",
+        "Representation"
+      ],
+      [
+        "本次权限",
+        "Authority"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 28,
+    "role": "body",
+    "kind": "svg",
+    "file": "facebook-profile-picture-creator-crop-brief-framework.svg",
+    "labels": [
+      [
+        "源文件",
+        "Source file"
+      ],
+      [
+        "实际裁切",
+        "Crop"
+      ],
+      [
+        "显示尺寸",
+        "Display"
+      ],
+      [
+        "识别与许可",
+        "Identity and use"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 29,
+    "role": "body",
+    "kind": "svg",
+    "file": "brand-mentions-creator-reference-interpretation-framework.svg",
+    "labels": [
+      [
+        "偶然提及",
+        "Reference"
+      ],
+      [
+        "实际体验",
+        "Experience"
+      ],
+      [
+        "批评意见",
+        "Critique"
+      ],
+      [
+        "委托代言",
+        "Endorsement"
+      ]
+    ],
+    "layout": "grid"
+  },
+  {
+    "id": 30,
+    "role": "body",
+    "kind": "svg",
+    "file": "youtube-comments-creator-release-settings-framework.svg",
+    "labels": [
+      [
+        "单条设置",
+        "Video setting"
+      ],
+      [
+        "默认设置",
+        "Defaults"
+      ],
+      [
+        "限制条件",
+        "Constraints"
+      ],
+      [
+        "回复安排",
+        "Response owner"
+      ]
+    ],
+    "layout": "grid"
+  }
+]
