@@ -1,0 +1,221 @@
+[
+  {
+    "input_id": 1,
+    "original_keyword": "how to get verified on facebook",
+    "competitor_url": null,
+    "metric_source": null,
+    "observed_at": "2026-11-23",
+    "market": "Global English approximation; no country-specific Google rank claim",
+    "language": [
+      "zh",
+      "en"
+    ],
+    "priority": "优先",
+    "reason": "Relevant creator-marketing task with distinct deliverable",
+    "cluster": "commercial",
+    "primary_keyword": "how to get verified on facebook",
+    "related_keywords": [],
+    "reader": "Brand and agency creator-marketing teams; creator operators where relevant",
+    "core_question": "Route selection and official application entry. Includes July2026 free Facebook Verified exclusions, paid creator subscription and existing badges; distinct from Instagram identity/authority pages.",
+    "page_type": "tutorial",
+    "existing_pages": [
+      "instagram-verification-partnership-authority"
+    ],
+    "differentiation": "Route selection and official application entry. Includes July2026 free Facebook Verified exclusions, paid creator subscription and existing badges; distinct from Instagram identity/authority pages.",
+    "action": "new",
+    "target_slug": "facebook-verification-creator-account-routes",
+    "title": [
+      "Facebook 创作者怎样选择认证方式",
+      "How to Get Verified on Facebook as a Creator"
+    ],
+    "family": "Editorial collage",
+    "word_plan": "1500–2000 English answer+sections words; equivalent Chinese, task-led sections.",
+    "evidence": [
+      "free",
+      "verified",
+      "quickkol"
+    ],
+    "unique_value": "Route selection and official application entry. Includes July2026 free Facebook Verified exclusions, paid creator subscription and existing badges; distinct from Instagram identity/authority pages.",
+    "product_next_step": "Research relevant creator work using verified QuickKOL discovery capabilities; no Facebook/WhatsApp publishing or verification claim",
+    "status": "local-preview-integrated",
+    "deliverable": "src/post-01.mjs",
+    "word_actual": 1535,
+    "chinese_scope": "Complete equivalent facts, steps and examples; concise Chinese prose below initial3000-Han planning range rather than padding to a mechanical conversion."
+  },
+  {
+    "input_id": 2,
+    "original_keyword": "how to schedule facebook posts",
+    "competitor_url": null,
+    "metric_source": null,
+    "observed_at": "2026-11-23",
+    "market": "Global English approximation; no country-specific Google rank claim",
+    "language": [
+      "zh",
+      "en"
+    ],
+    "priority": "优先",
+    "reason": "Relevant creator-marketing task with distinct deliverable",
+    "cluster": "campaign",
+    "primary_keyword": "how to schedule facebook posts",
+    "related_keywords": [],
+    "reader": "Brand and agency creator-marketing teams; creator operators where relevant",
+    "core_question": "Beginner Page-post creation and scheduling walkthrough with concrete example output; existing event clock and change-dependency articles handle campaign coordination rather than this task.",
+    "page_type": "tutorial",
+    "existing_pages": [
+      "facebook-scheduling-creator-event-release-clock",
+      "facebook-creator-schedule-change-dependencies"
+    ],
+    "differentiation": "Beginner Page-post creation and scheduling walkthrough with concrete example output; existing event clock and change-dependency articles handle campaign coordination rather than this task.",
+    "action": "new",
+    "target_slug": "facebook-page-post-scheduling-steps",
+    "title": [
+      "怎样排期发布 Facebook 合作帖子",
+      "How to Schedule Facebook Posts for Creator Campaigns"
+    ],
+    "family": "Environment / objects",
+    "word_plan": "1500–2000 English answer+sections words; equivalent Chinese, task-led sections.",
+    "evidence": [
+      "suite",
+      "landcare",
+      "blueprint",
+      "quickkol"
+    ],
+    "unique_value": "Beginner Page-post creation and scheduling walkthrough with concrete example output; existing event clock and change-dependency articles handle campaign coordination rather than this task.",
+    "product_next_step": "Research relevant creator work using verified QuickKOL discovery capabilities; no Facebook/WhatsApp publishing or verification claim",
+    "status": "local-preview-integrated",
+    "deliverable": "src/post-02.mjs",
+    "word_actual": 1505,
+    "chinese_scope": "Complete equivalent facts, steps and examples; concise Chinese prose below initial3000-Han planning range rather than padding to a mechanical conversion."
+  },
+  {
+    "input_id": 3,
+    "original_keyword": "whats appbusiness",
+    "competitor_url": null,
+    "metric_source": null,
+    "observed_at": "2026-11-23",
+    "market": "Global English approximation; no country-specific Google rank claim",
+    "language": [
+      "zh",
+      "en"
+    ],
+    "priority": "优先",
+    "reason": "Relevant creator-marketing task with distinct deliverable",
+    "cluster": "outreach",
+    "primary_keyword": "whats appbusiness",
+    "related_keywords": [],
+    "reader": "Brand and agency creator-marketing teams; creator operators where relevant",
+    "core_question": "Actual app setup, short link, quick reply and lists pilot; previous handoff article covers staffing, permissions and campaign routing rather than hands-on app setup.",
+    "page_type": "tutorial",
+    "existing_pages": [
+      "whatsapp-business-creator-conversation-handoff"
+    ],
+    "differentiation": "Actual app setup, short link, quick reply and lists pilot; previous handoff article covers staffing, permissions and campaign routing rather than hands-on app setup.",
+    "action": "new",
+    "target_slug": "whatsapp-business-app-creator-enquiry-setup",
+    "title": [
+      "WhatsApp Business 怎样设置合作咨询入口",
+      "WhatsApp Business Setup for Creator Campaign Enquiries"
+    ],
+    "family": "Human documentary",
+    "word_plan": "1500–2000 English answer+sections words; equivalent Chinese, task-led sections.",
+    "evidence": [
+      "waFeatures",
+      "waStart",
+      "waLink",
+      "waReply",
+      "waLists"
+    ],
+    "unique_value": "Actual app setup, short link, quick reply and lists pilot; previous handoff article covers staffing, permissions and campaign routing rather than hands-on app setup.",
+    "product_next_step": "Research relevant creator work using verified QuickKOL discovery capabilities; no Facebook/WhatsApp publishing or verification claim",
+    "status": "local-preview-integrated",
+    "deliverable": "src/post-03.mjs",
+    "word_actual": 1512,
+    "chinese_scope": "Complete equivalent facts, steps and examples; concise Chinese prose below initial3000-Han planning range rather than padding to a mechanical conversion."
+  },
+  {
+    "input_id": 4,
+    "original_keyword": "facebook story",
+    "competitor_url": null,
+    "metric_source": null,
+    "observed_at": "2026-11-23",
+    "market": "Global English approximation; no country-specific Google rank claim",
+    "language": [
+      "zh",
+      "en"
+    ],
+    "priority": "优先",
+    "reason": "Relevant creator-marketing task with distinct deliverable",
+    "cluster": "campaign",
+    "primary_keyword": "facebook story",
+    "related_keywords": [],
+    "reader": "Brand and agency creator-marketing teams; creator operators where relevant",
+    "core_question": "Format definition and concrete three-frame creator demonstration with publishing checks; not a feed-post or Instagram-story duplicate.",
+    "page_type": "tutorial",
+    "existing_pages": [],
+    "differentiation": "Format definition and concrete three-frame creator demonstration with publishing checks; not a feed-post or Instagram-story duplicate.",
+    "action": "new",
+    "target_slug": "facebook-story-creator-collaboration-guide",
+    "title": [
+      "Facebook Story 怎样讲清达人合作",
+      "Facebook Story: A Practical Guide to Creator Content"
+    ],
+    "family": "Solo creator",
+    "word_plan": "1500–2000 English answer+sections words; equivalent Chinese, task-led sections.",
+    "evidence": [
+      "storyLaunch",
+      "metaOne",
+      "suite",
+      "composer",
+      "quickkol"
+    ],
+    "unique_value": "Format definition and concrete three-frame creator demonstration with publishing checks; not a feed-post or Instagram-story duplicate.",
+    "product_next_step": "Research relevant creator work using verified QuickKOL discovery capabilities; no Facebook/WhatsApp publishing or verification claim",
+    "status": "local-preview-integrated",
+    "deliverable": "src/post-04.mjs",
+    "word_actual": 1522,
+    "chinese_scope": "Complete equivalent facts, steps and examples; concise Chinese prose below initial3000-Han planning range rather than padding to a mechanical conversion."
+  },
+  {
+    "input_id": 5,
+    "original_keyword": "captiv8",
+    "competitor_url": null,
+    "metric_source": null,
+    "observed_at": "2026-11-23",
+    "market": "Global English approximation; no country-specific Google rank claim",
+    "language": [
+      "zh",
+      "en"
+    ],
+    "priority": "优先",
+    "reason": "Relevant creator-marketing task with distinct deliverable",
+    "cluster": "discovery",
+    "primary_keyword": "captiv8",
+    "related_keywords": [],
+    "reader": "Brand and agency creator-marketing teams; creator operators where relevant",
+    "core_question": "Current vendor overview and demo evaluation after integration into Influential; no unsupported price, independent testing or stale standalone-vendor assumption.",
+    "page_type": "product overview",
+    "existing_pages": [],
+    "differentiation": "Current vendor overview and demo evaluation after integration into Influential; no unsupported price, independent testing or stale standalone-vendor assumption.",
+    "action": "new",
+    "target_slug": "captiv8-influential-platform-brand-guide",
+    "title": [
+      "Captiv8 现状与达人营销选型指南",
+      "Captiv8 and Influential: A Brand’s Platform Guide"
+    ],
+    "family": "Type / background",
+    "word_plan": "1500–2000 English answer+sections words; equivalent Chinese, task-led sections.",
+    "evidence": [
+      "captiv8",
+      "publicis",
+      "captiv8Suite",
+      "influential",
+      "quickkol"
+    ],
+    "unique_value": "Current vendor overview and demo evaluation after integration into Influential; no unsupported price, independent testing or stale standalone-vendor assumption.",
+    "product_next_step": "Research relevant creator work using verified QuickKOL discovery capabilities; no Facebook/WhatsApp publishing or verification claim",
+    "status": "local-preview-integrated",
+    "deliverable": "src/post-05.mjs",
+    "word_actual": 1524,
+    "chinese_scope": "Complete equivalent facts, steps and examples; concise Chinese prose below initial3000-Han planning range rather than padding to a mechanical conversion."
+  }
+]

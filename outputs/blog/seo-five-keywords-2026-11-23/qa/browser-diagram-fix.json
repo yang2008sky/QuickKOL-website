@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-23",
+  "signed_in_platform_test": false,
+  "scope": "Story contrast-fix recheck in both languages and viewports",
+  "results": [
+    {
+      "device": "desktop",
+      "lang": "zh",
+      "order": 4,
+      "path": "http://127.0.0.1:5174/zh/blog/facebook-story-creator-collaboration-guide/",
+      "overflow": false,
+      "loaded_images": [
+        {
+          "alt": "创作者在厨房用竖放手机拍摄手冲咖啡动作",
+          "loaded": true,
+          "width": 800,
+          "lazy": "auto"
+        },
+        {
+          "alt": "问题、可见演示和回应入口组成的三段 Story 编辑示例",
+          "loaded": true,
+          "width": 800,
+          "lazy": "lazy"
+        },
+        {
+          "alt": "竖放手机对准壶嘴和滤杯，创作者从侧面完成注水动作",
+          "loaded": true,
+          "width": 800,
+          "lazy": "lazy"
+        }
+      ],
+      "table": false,
+      "downloaded": [],
+      "toc": "passed",
+      "cta": "passed"
+    },
+    {
+      "device": "desktop",
+      "lang": "en",
+      "order": 4,
+      "path": "http://127.0.0.1:5174/blog/facebook-story-creator-collaboration-guide/",
+      "overflow": false,
+      "loaded_images": [
+        {
+          "alt": "Creator films a coffee-pouring demonstration with a vertically mounted phone in a kitchen",
+          "loaded": true,
+          "width": 800,
+          "lazy": "auto"
+        },
+        {
+          "alt": "Three-frame editorial example: question, visible demonstration and response route",
+          "loaded": true,
+          "width": 800,
+          "lazy": "lazy"
+        },
+        {
+          "alt": "A vertically mounted phone faces the spout and dripper while the creator pours from the side",
+          "loaded": true,
+          "width": 800,
+          "lazy": "lazy"
+        }
+      ],
+      "table": false,
+      "downloaded": [],
+      "toc": "passed",
+      "cta": "passed"
+    },
+    {
+      "device": "mobile",
+      "lang": "zh",
+      "order": 4,
+      "path": "http://127.0.0.1:5174/zh/blog/facebook-story-creator-collaboration-guide/",
+      "overflow": false,
+      "loaded_images": [
+        {
+          "alt": "创作者在厨房用竖放手机拍摄手冲咖啡动作",
+          "loaded": true,
+          "width": 350,
+          "lazy": "auto"
+        },
+        {
+          "alt": "问题、可见演示和回应入口组成的三段 Story 编辑示例",
+          "loaded": true,
+          "width": 350,
+          "lazy": "lazy"
+        },
+        {
+          "alt": "竖放手机对准壶嘴和滤杯，创作者从侧面完成注水动作",
+          "loaded": true,
+          "width": 350,
+          "lazy": "lazy"
+        }
+      ],
+      "table": false,
+      "downloaded": [],
+      "toc": "passed",
+      "cta": "passed"
+    },
+    {
+      "device": "mobile",
+      "lang": "en",
+      "order": 4,
+      "path": "http://127.0.0.1:5174/blog/facebook-story-creator-collaboration-guide/",
+      "overflow": false,
+      "loaded_images": [
+        {
+          "alt": "Creator films a coffee-pouring demonstration with a vertically mounted phone in a kitchen",
+          "loaded": true,
+          "width": 350,
+          "lazy": "auto"
+        },
+        {
+          "alt": "Three-frame editorial example: question, visible demonstration and response route",
+          "loaded": true,
+          "width": 350,
+          "lazy": "lazy"
+        },
+        {
+          "alt": "A vertically mounted phone faces the spout and dripper while the creator pours from the side",
+          "loaded": true,
+          "width": 350,
+          "lazy": "lazy"
+        }
+      ],
+      "table": false,
+      "downloaded": [],
+      "toc": "passed",
+      "cta": "passed"
+    }
+  ],
+  "page_errors": []
+}

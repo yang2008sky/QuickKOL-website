@@ -1,0 +1,11 @@
+{
+  "id": 4,
+  "role": "cover",
+  "file": "facebook-story-creator-collaboration-guide.jpg",
+  "source": "source-images/facebook-story-creator-collaboration-guide.png",
+  "origin": "Original generated PNG retained in the local authoring archive; final JPEG supplied in public/assets/blog.",
+  "prompt": "Use case: photorealistic-natural. Wide 16:9 editorial cover for QuickKOL creator-marketing blog. Solo creator: a fictional adult woman of Mediterranean appearance with short wavy dark hair in a coral overshirt filming a coffee-pour demonstration in a bright home studio. Her unbranded phone is mounted vertically on a small tripod and seen from behind. Hands naturally pour from a small kettle into a coffee dripper, equipment physically plausible. Side angle, not looking at viewer. Bright contemporary natural light, cream and black with restrained cobalt and coral accents. Generous safe crop margins, specific useful action. No readable text, logos, equipment model names, numbers, watermark, AI notices, fake metrics or platform interface. Credible anatomy and real materials.",
+  "inspected": true,
+  "tool": "built-in imagegen",
+  "inspection": "Source and final cover/card crop visually reviewed."
+}

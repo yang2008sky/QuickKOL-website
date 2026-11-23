@@ -1,0 +1,10 @@
+{
+  "role": "body",
+  "article": 4,
+  "file": "facebook-story-camera-sightline.jpg",
+  "origin": "Original generated PNG retained in the local authoring archive; final JPEG supplied in public/assets/blog.",
+  "prompt": "Use case: photorealistic-natural. Asset: wide editorial body photograph for an influencer-marketing tutorial about filming a clear coffee demonstration. Close side view of a fictional adult creator's hands pouring a thin continuous stream from an unbranded gooseneck kettle into a paper-filter coffee dripper resting on a glass carafe. A vertically mounted unbranded phone seen from behind is visible at the left edge, its lens aimed at the hands; composition demonstrates unobstructed sightlines and stable camera placement. The pouring hand is ABOVE the kettle handle, other hand resting safely on counter, plausible anatomy and equipment, no face needed. Bright natural daylight, cream counter, restrained cobalt towel, real materials, landscape 16:9. No text, numbers, interface, logos, watermark or AI labels. This is an illustrative editorial scene, no fabricated customer claims.",
+  "inspected": true,
+  "assessment": "Plausible thin stream, clear spout/dripper sightline, stable vertical camera, natural hands. Fictional illustrative scene, not real client evidence.",
+  "tool": "built-in imagegen"
+}

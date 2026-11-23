@@ -1,0 +1,107 @@
+[
+  {
+    "order": 1,
+    "keyword": "how to get verified on facebook",
+    "slug": "facebook-verification-creator-account-routes",
+    "title": [
+      "Facebook 创作者怎样选择认证方式",
+      "How to Get Verified on Facebook as a Creator"
+    ],
+    "english_body_words": 1535,
+    "chinese_body_han": 2125,
+    "preview": {
+      "en": "http://127.0.0.1:5174/blog/facebook-verification-creator-account-routes/",
+      "zh": "http://127.0.0.1:5174/zh/blog/facebook-verification-creator-account-routes/"
+    },
+    "intended_production": {
+      "en": "https://www.quickkol.com/blog/facebook-verification-creator-account-routes/",
+      "zh": "https://www.quickkol.com/zh/blog/facebook-verification-creator-account-routes/"
+    },
+    "status": "authorized-content-handoff",
+    "production_published": false
+  },
+  {
+    "order": 2,
+    "keyword": "how to schedule facebook posts",
+    "slug": "facebook-page-post-scheduling-steps",
+    "title": [
+      "怎样排期发布 Facebook 合作帖子",
+      "How to Schedule Facebook Posts for Creator Campaigns"
+    ],
+    "english_body_words": 1505,
+    "chinese_body_han": 2393,
+    "preview": {
+      "en": "http://127.0.0.1:5174/blog/facebook-page-post-scheduling-steps/",
+      "zh": "http://127.0.0.1:5174/zh/blog/facebook-page-post-scheduling-steps/"
+    },
+    "intended_production": {
+      "en": "https://www.quickkol.com/blog/facebook-page-post-scheduling-steps/",
+      "zh": "https://www.quickkol.com/zh/blog/facebook-page-post-scheduling-steps/"
+    },
+    "status": "authorized-content-handoff",
+    "production_published": false
+  },
+  {
+    "order": 3,
+    "keyword": "whats appbusiness",
+    "slug": "whatsapp-business-app-creator-enquiry-setup",
+    "title": [
+      "WhatsApp Business 怎样设置合作咨询入口",
+      "WhatsApp Business Setup for Creator Campaign Enquiries"
+    ],
+    "english_body_words": 1512,
+    "chinese_body_han": 2053,
+    "preview": {
+      "en": "http://127.0.0.1:5174/blog/whatsapp-business-app-creator-enquiry-setup/",
+      "zh": "http://127.0.0.1:5174/zh/blog/whatsapp-business-app-creator-enquiry-setup/"
+    },
+    "intended_production": {
+      "en": "https://www.quickkol.com/blog/whatsapp-business-app-creator-enquiry-setup/",
+      "zh": "https://www.quickkol.com/zh/blog/whatsapp-business-app-creator-enquiry-setup/"
+    },
+    "status": "authorized-content-handoff",
+    "production_published": false
+  },
+  {
+    "order": 4,
+    "keyword": "facebook story",
+    "slug": "facebook-story-creator-collaboration-guide",
+    "title": [
+      "Facebook Story 怎样讲清达人合作",
+      "Facebook Story: A Practical Guide to Creator Content"
+    ],
+    "english_body_words": 1522,
+    "chinese_body_han": 2509,
+    "preview": {
+      "en": "http://127.0.0.1:5174/blog/facebook-story-creator-collaboration-guide/",
+      "zh": "http://127.0.0.1:5174/zh/blog/facebook-story-creator-collaboration-guide/"
+    },
+    "intended_production": {
+      "en": "https://www.quickkol.com/blog/facebook-story-creator-collaboration-guide/",
+      "zh": "https://www.quickkol.com/zh/blog/facebook-story-creator-collaboration-guide/"
+    },
+    "status": "authorized-content-handoff",
+    "production_published": false
+  },
+  {
+    "order": 5,
+    "keyword": "captiv8",
+    "slug": "captiv8-influential-platform-brand-guide",
+    "title": [
+      "Captiv8 现状与达人营销选型指南",
+      "Captiv8 and Influential: A Brand’s Platform Guide"
+    ],
+    "english_body_words": 1524,
+    "chinese_body_han": 2106,
+    "preview": {
+      "en": "http://127.0.0.1:5174/blog/captiv8-influential-platform-brand-guide/",
+      "zh": "http://127.0.0.1:5174/zh/blog/captiv8-influential-platform-brand-guide/"
+    },
+    "intended_production": {
+      "en": "https://www.quickkol.com/blog/captiv8-influential-platform-brand-guide/",
+      "zh": "https://www.quickkol.com/zh/blog/captiv8-influential-platform-brand-guide/"
+    },
+    "status": "authorized-content-handoff",
+    "production_published": false
+  }
+]

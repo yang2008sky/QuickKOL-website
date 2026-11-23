@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "role": "cover",
+  "file": "whatsapp-business-app-creator-enquiry-setup.jpg",
+  "source": "source-images/whatsapp-business-app-creator-enquiry-setup.png",
+  "origin": "Original generated PNG retained in the local authoring archive; final JPEG supplied in public/assets/blog.",
+  "prompt": "Use case: photorealistic-natural. Wide 16:9 editorial cover for QuickKOL creator-marketing blog. Human documentary: a fictional middle-aged Black female small-business owner in a cobalt apron and an adult East Asian male food creator in a cream shirt at a bright independent bakery counter. The owner holds an unbranded smartphone with its back facing the camera; the creator points to a plain box of baked goods. Natural business discussion about a customer question, unequal candid poses. No screens or paperwork with writing. Bright contemporary natural light, cream and black with restrained cobalt and coral accents. Generous safe crop margins, specific useful action. No readable text, logos, equipment model names, numbers, watermark, AI notices, fake metrics or platform interface. Credible anatomy and real materials.",
+  "inspected": true,
+  "tool": "built-in imagegen",
+  "inspection": "Source and final cover/card crop visually reviewed."
+}

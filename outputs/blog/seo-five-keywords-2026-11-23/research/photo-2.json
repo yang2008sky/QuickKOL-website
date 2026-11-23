@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "role": "cover",
+  "file": "facebook-page-post-scheduling-steps.jpg",
+  "source": "source-images/facebook-page-post-scheduling-steps.png",
+  "origin": "Original generated PNG retained in the local authoring archive; final JPEG supplied in public/assets/blog.",
+  "prompt": "Use case: photorealistic-natural. Wide 16:9 editorial cover for QuickKOL creator-marketing blog. Environment / objects: overhead close view of a compact unbranded camera, a cream paper calendar with a simple empty grid but no numbers or lettering, three coral and cobalt physical paper tabs and a small analog clock without numerals, all on a natural wood editing bench. No hands or people. Practical content planning rather than a digital dashboard. Bright contemporary natural light, cream and black with restrained cobalt and coral accents. Generous safe crop margins, specific useful action. No readable text, logos, equipment model names, numbers, watermark, AI notices, fake metrics or platform interface. Credible anatomy and real materials.",
+  "inspected": true,
+  "tool": "built-in imagegen",
+  "inspection": "Source and final cover/card crop visually reviewed."
+}

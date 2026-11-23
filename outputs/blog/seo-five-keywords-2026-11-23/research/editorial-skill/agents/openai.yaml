@@ -1,0 +1,4 @@
+interface:
+  display_name: "quickkol-blog"
+  short_description: "QuickKOL keyword planning, blog writing and batch QA"
+  default_prompt: "使用 $quickkol-blog 处理这批 QuickKOL 关键词：先判断相关性、搜索意图和已有覆盖，再研究写作并完成批次验收。"

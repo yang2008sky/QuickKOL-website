@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-23",
+  "scope": "5 new articles, 10 language pages, 2 lists; no claim to all-site editorial review",
+  "results": [
+    {
+      "order": 1,
+      "lang": "zh",
+      "path": "/zh/blog/facebook-verification-creator-account-routes/",
+      "h1": "Facebook 创作者怎样选择认证方式",
+      "inline_citation_sources": 3,
+      "context_internal_links": 4,
+      "figures": 1,
+      "downloads": 0,
+      "metadata": "passed",
+      "assets": "passed"
+    },
+    {
+      "order": 1,
+      "lang": "en",
+      "path": "/blog/facebook-verification-creator-account-routes/",
+      "h1": "How to Get Verified on Facebook as a Creator",
+      "inline_citation_sources": 3,
+      "context_internal_links": 7,
+      "figures": 1,
+      "downloads": 0,
+      "metadata": "passed",
+      "assets": "passed"
+    },
+    {
+      "order": 2,
+      "lang": "zh",
+      "path": "/zh/blog/facebook-page-post-scheduling-steps/",
+      "h1": "怎样排期发布 Facebook 合作帖子",
+      "inline_citation_sources": 4,
+      "context_internal_links": 3,
+      "figures": 1,
+      "downloads": 0,
+      "metadata": "passed",
+      "assets": "passed"
+    },
+    {
+      "order": 2,
+      "lang": "en",
+      "path": "/blog/facebook-page-post-scheduling-steps/",
+      "h1": "How to Schedule Facebook Posts for Creator Campaigns",
+      "inline_citation_sources": 4,
+      "context_internal_links": 4,
+      "figures": 1,
+      "downloads": 0,
+      "metadata": "passed",
+      "assets": "passed"
+    },
+    {
+      "order": 3,
+      "lang": "zh",
+      "path": "/zh/blog/whatsapp-business-app-creator-enquiry-setup/",
+      "h1": "WhatsApp Business 怎样设置合作咨询入口",
+      "inline_citation_sources": 5,
+      "context_internal_links": 4,
+      "figures": 1,
+      "downloads": 2,
+      "metadata": "passed",
+      "assets": "passed"
+    },
+    {
+      "order": 3,
+      "lang": "en",
+      "path": "/blog/whatsapp-business-app-creator-enquiry-setup/",
+      "h1": "WhatsApp Business Setup for Creator Campaign Enquiries",
+      "inline_citation_sources": 5,
+      "context_internal_links": 5,
+      "figures": 1,
+      "downloads": 2,
+      "metadata": "passed",
+      "assets": "passed"
+    },
+    {
+      "order": 4,
+      "lang": "zh",
+      "path": "/zh/blog/facebook-story-creator-collaboration-guide/",
+      "h1": "Facebook Story 怎样讲清达人合作",
+      "inline_citation_sources": 5,
+      "context_internal_links": 3,
+      "figures": 2,
+      "downloads": 0,
+      "metadata": "passed",
+      "assets": "passed"
+    },
+    {
+      "order": 4,
+      "lang": "en",
+      "path": "/blog/facebook-story-creator-collaboration-guide/",
+      "h1": "Facebook Story: A Practical Guide to Creator Content",
+      "inline_citation_sources": 5,
+      "context_internal_links": 6,
+      "figures": 2,
+      "downloads": 0,
+      "metadata": "passed",
+      "assets": "passed"
+    },
+    {
+      "order": 5,
+      "lang": "zh",
+      "path": "/zh/blog/captiv8-influential-platform-brand-guide/",
+      "h1": "Captiv8 现状与达人营销选型指南",
+      "inline_citation_sources": 5,
+      "context_internal_links": 6,
+      "figures": 1,
+      "downloads": 0,
+      "metadata": "passed",
+      "assets": "passed"
+    },
+    {
+      "order": 5,
+      "lang": "en",
+      "path": "/blog/captiv8-influential-platform-brand-guide/",
+      "h1": "Captiv8 and Influential: A Brand’s Platform Guide",
+      "inline_citation_sources": 5,
+      "context_internal_links": 5,
+      "figures": 1,
+      "downloads": 0,
+      "metadata": "passed",
+      "assets": "passed"
+    }
+  ]
+}
