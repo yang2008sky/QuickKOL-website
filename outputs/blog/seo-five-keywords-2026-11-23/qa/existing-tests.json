@@ -1,8 +1,0 @@
-{
-  "exit_code": 1,
-  "files": [
-    "generated-html.test.js",
-    "seo-localization.test.js",
-    "localized-paths.test.js"
-  ]
-}
