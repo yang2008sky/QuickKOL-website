@@ -501,5 +501,20 @@ export const localizedBlogArticles = [
     "slug": "influencer-campaign-platforms-approval-handoffs",
     "date": "2026-10-15",
     "topic": "campaign"
+  },
+  {
+    "slug": "influencer-gifting-platform-product-fit",
+    "date": "2026-10-15",
+    "topic": "campaign"
+  },
+  {
+    "slug": "brand-ambassador-platform-program-design",
+    "date": "2026-10-15",
+    "topic": "outreach"
+  },
+  {
+    "slug": "b2b-influencer-platform-expertise-coverage",
+    "date": "2026-10-15",
+    "topic": "discovery"
   }
 ];
