@@ -174,7 +174,6 @@ export const novemberTwentyThirdPosts = [
     ],
     "figures": [
       {
-        "file": "facebook-verification-routes.svg",
         "afterSection": 1,
         "alt": [
           "普通资料、专业模式与主页对应不同认证问题",
@@ -183,6 +182,53 @@ export const novemberTwentyThirdPosts = [
         "caption": [
           "按账号类型选路径，不将相似名称当作同一产品。",
           "Choose by account type rather than treating similar names as one product."
+        ],
+        "kind": "comparison-table",
+        "headers": [
+          [
+            "账号类型",
+            "Account type"
+          ],
+          [
+            "核对路线",
+            "Route to check"
+          ]
+        ],
+        "rows": [
+          [
+            [
+              "普通个人资料",
+              "Ordinary profile"
+            ],
+            [
+              "免费认证路线资格",
+              "Free-route eligibility"
+            ]
+          ],
+          [
+            [
+              "专业模式",
+              "Professional mode"
+            ],
+            [
+              "创作者订阅",
+              "Creator subscription offer"
+            ]
+          ],
+          [
+            [
+              "公共主页",
+              "Page"
+            ],
+            [
+              "商家适用路线",
+              "Applicable business route"
+            ]
+          ]
+        ],
+        "title": [
+          "先分清你需要哪一种认证",
+          "Choose the route for the account you actually use"
         ]
       }
     ],
@@ -295,7 +341,8 @@ export const novemberTwentyThirdPosts = [
         "Explore creator discovery"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "facebook-page-post-scheduling-steps",
@@ -483,7 +530,6 @@ export const novemberTwentyThirdPosts = [
     ],
     "figures": [
       {
-        "file": "facebook-schedule-output-check.svg",
         "afterSection": 4,
         "alt": [
           "从创建帖子到确认排期记录与实际发布的操作流程",
@@ -492,6 +538,29 @@ export const novemberTwentyThirdPosts = [
         "caption": [
           "排期教程的输出是一条可重新打开的任务；实际发布仍需到时核对。",
           "The scheduling output is a retrievable task; publication needs a separate check at the intended time."
+        ],
+        "kind": "process-flow",
+        "steps": [
+          [
+            "创建",
+            "Create"
+          ],
+          [
+            "预览",
+            "Preview"
+          ],
+          [
+            "排期并找回记录",
+            "Schedule and find the record"
+          ],
+          [
+            "核对实际帖子",
+            "Check the live post"
+          ]
+        ],
+        "title": [
+          "第三步：设定日期、时间与发布状态",
+          "Step 3: Choose the later publication time"
         ]
       }
     ],
@@ -522,7 +591,8 @@ export const novemberTwentyThirdPosts = [
         "Explore QuickKOL"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "whatsapp-business-app-creator-enquiry-setup",
@@ -724,7 +794,6 @@ export const novemberTwentyThirdPosts = [
     ],
     "figures": [
       {
-        "file": "whatsapp-quick-reply-flow.svg",
         "afterSection": 4,
         "alt": [
           "先写事实依据，再设快捷短语，发送前修改，最后记录待办",
@@ -733,6 +802,29 @@ export const novemberTwentyThirdPosts = [
         "caption": [
           "快捷回复提供可复用文字，具体答案仍要看本次问题。",
           "A quick reply supplies reusable wording; the specific question still needs judgment."
+        ],
+        "kind": "process-flow",
+        "steps": [
+          [
+            "准备回复依据",
+            "Prepare factual support"
+          ],
+          [
+            "保存快捷短语",
+            "Save a shortcut"
+          ],
+          [
+            "发送前修改",
+            "Edit before sending"
+          ],
+          [
+            "记录后续待办",
+            "Record follow-up"
+          ]
+        ],
+        "title": [
+          "用快捷回复准备可直接修改的答案",
+          "Prepare quick replies that can be edited before sending"
         ]
       }
     ],
@@ -880,7 +972,8 @@ export const novemberTwentyThirdPosts = [
         "Explore creator research"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "facebook-story-creator-collaboration-guide",
@@ -1087,7 +1180,6 @@ export const novemberTwentyThirdPosts = [
     ],
     "figures": [
       {
-        "file": "facebook-story-three-frame-brief.svg",
         "afterSection": 2,
         "alt": [
           "问题、可见演示和回应入口组成的三段 Story 编辑示例",
@@ -1096,6 +1188,25 @@ export const novemberTwentyThirdPosts = [
         "caption": [
           "咖啡合作的假设示例：每段承担一个任务，实际段数按内容需要调整。",
           "Hypothetical coffee collaboration: each frame has a job; choose the actual sequence length to suit the content."
+        ],
+        "kind": "process-flow",
+        "steps": [
+          [
+            "问题：怎样注水？",
+            "Question: How should I pour?"
+          ],
+          [
+            "动作：看清停顿",
+            "Action: Show the pause"
+          ],
+          [
+            "回应：邀请具体问题",
+            "Response: Invite a specific question"
+          ]
+        ],
+        "title": [
+          "把简报写成能拍出来的三段内容",
+          "Turn the brief into three filmable frames"
         ]
       },
       {
@@ -1138,7 +1249,8 @@ export const novemberTwentyThirdPosts = [
         "Explore QuickKOL"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "captiv8-influential-platform-brand-guide",
@@ -1339,7 +1451,6 @@ export const novemberTwentyThirdPosts = [
     ],
     "figures": [
       {
-        "file": "captiv8-demo-task-map.svg",
         "afterSection": 2,
         "alt": [
           "同一份 Brief 连接发现、合作执行与结果解释的演示问题",
@@ -1348,6 +1459,53 @@ export const novemberTwentyThirdPosts = [
         "caption": [
           "比较同一工作范围，区分公开描述与实际演示结果。",
           "Compare the same scope and distinguish public descriptions from demonstrated results."
+        ],
+        "kind": "comparison-table",
+        "headers": [
+          [
+            "工作环节",
+            "Task"
+          ],
+          [
+            "演示中要回答的问题",
+            "Question for the demo"
+          ]
+        ],
+        "rows": [
+          [
+            [
+              "发现",
+              "Discovery"
+            ],
+            [
+              "为什么选择这些达人？",
+              "Why these creators?"
+            ]
+          ],
+          [
+            [
+              "执行",
+              "Execution"
+            ],
+            [
+              "谁负责下一步？",
+              "Who owns the next step?"
+            ]
+          ],
+          [
+            [
+              "衡量",
+              "Measurement"
+            ],
+            [
+              "数据能说明什么？",
+              "What can the data show?"
+            ]
+          ]
+        ],
+        "title": [
+          "把发现需求写成可演示的 Brief",
+          "Turn discovery needs into a demonstrable brief"
         ]
       }
     ],
@@ -1460,6 +1618,7 @@ export const novemberTwentyThirdPosts = [
         "Start research from a brief"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   }
 ];

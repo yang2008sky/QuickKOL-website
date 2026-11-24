@@ -1,0 +1,147 @@
+
+.blog-reading-v11 {
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+.blog-reading-v11,
+.blog-reading-v11,
+.blog-reading-v11 .blog-article-hero,
+.blog-reading-v11 .blog-article-layout {
+  background: #fff;
+  color: #20211f;
+}
+.blog-reading-v11 .blog-article-hero h1 {
+  color: #20211f;
+  font-size: clamp(35px, 4.5vw, 54px);
+  line-height: 1.12;
+  font-weight: 750;
+  letter-spacing: -.045em;
+  margin: 20px 0;
+}
+.blog-reading-v11 .blog-article-hero .blog-intro {
+  color: #666963;
+  font-size: 20px;
+  line-height: 1.55;
+  margin-bottom: 25px;
+}
+.blog-reading-v11 .blog-back,
+.blog-reading-v11 .blog-article-meta { color: #777b72; }
+.blog-reading-v11 .blog-back:hover { color: #2359dc; }
+.blog-reading-v11 .blog-article-meta { font-size: 12px; }
+.blog-reading-v11 .blog-article-meta a { color: #3b3e38; }
+.blog-reading-v11 .blog-article-content h2 {
+  color: #20211f;
+  font-size: 29px;
+  line-height: 1.25;
+  font-weight: 730;
+  letter-spacing: -.025em;
+  margin: 48px 0 19px;
+}
+.blog-reading-v11 .blog-article-content h3 {
+  color: #20211f;
+  font-size: 24px;
+  line-height: 1.4;
+  font-weight: 700;
+  letter-spacing: -.015em;
+  margin: 27px 0 10px;
+}
+.blog-reading-v11 .blog-article-content > section:not(.blog-answer) p {
+  color: #20211f;
+  font-size: 18px;
+  line-height: 1.78;
+  letter-spacing: -.012em;
+  margin: 0 0 20px;
+}
+.blog-reading-v11 .blog-answer p:not(.blog-answer-label) {
+  font-family: inherit;
+  color: #20211f;
+  font-size: 21px;
+  line-height: 1.6;
+  font-weight: 400;
+  letter-spacing: -.018em;
+}
+.blog-reading-v11 .blog-answer .blog-answer-label {
+  font-family: inherit;
+  color: #2359dc;
+  font-size: 11px;
+}
+.blog-reading-v11 .blog-toc { min-width: 0; }
+.blog-reading-v11 .blog-toc > p { margin: 0 0 12px; }
+.blog-reading-v11 .blog-toc a { margin-top: 0; padding: 6px 0 6px 12px; color: #6d7068; font-size: 12px; line-height: 1.45; border-left-color: #e5e6e1; }
+.blog-reading-v11 .blog-toc a:hover { color: #2359dc; }
+.blog-reading-v11 .blog-toc a[aria-current='true'],
+.blog-reading-v11 .blog-toc a[aria-current='location'] { color: #2359dc; border-left-color: #2359dc; }
+.blog-reading-v11 .blog-body-link { color: #2359dc; }
+.blog-reading-v11 .blog-cover-credit,
+.blog-reading-v11 .blog-inline-figure figcaption { color: #666963; font-size: 13px; }
+.blog-reading-v11 .blog-article-content .blog-product-note h2 { color: #f5f6f8; }
+.blog-reading-v11 .blog-table-scroll { background: #fff; border-color: #e5e6e1; }
+.blog-reading-v11 .blog-table-scroll thead th { background: #f4f5f1; }
+.blog-reading-v11 .blog-table-scroll th,
+.blog-reading-v11 .blog-table-scroll td { border-color: #e5e6e1; }
+.blog-reading-v11 .blog-tool { border-color: #e5e6e1; }
+.blog-reading-v11 .blog-tool-control input[type='number'] { background: #f6f7f4; border-color: #dfe2da; }
+html[lang^='zh'] .blog-reading-v11 .blog-article-hero h1 { font-size: clamp(33px, 4.3vw, 49px); line-height: 1.3; letter-spacing: -.015em; text-wrap: balance; }
+html[lang^='zh'] .blog-reading-v11 .blog-article-content h2 { line-height: 1.45; letter-spacing: 0; }
+html[lang^='zh'] .blog-reading-v11 .blog-article-content > section:not(.blog-answer) p { line-height: 1.9; letter-spacing: 0; }
+@media(max-width:760px) {
+.blog-reading-v11 .blog-article-hero h1 { font-size: 36px; line-height: 1.15; letter-spacing: -.035em; }
+.blog-reading-v11 .blog-article-hero .blog-intro { font-size: 17px; line-height: 1.65; }
+.blog-reading-v11 .blog-article-content h2 { font-size: 26px; margin-top: 38px; }
+.blog-reading-v11 .blog-article-content h3 { font-size: 22px; }
+.blog-reading-v11 .blog-article-content > section:not(.blog-answer) p { font-size: 17px; line-height: 1.8; }
+.blog-reading-v11 .blog-answer p:not(.blog-answer-label) { font-size: 19px; }
+}
+
+.blog-reading-v11 .blog-article-layout { border-color: #e5e6e1; }
+.blog-reading-v11 .blog-article-hero h1 { text-wrap: balance; }
+.blog-reading-v11 .blog-toc { border-left: 1px solid #e5e6e1; }
+.blog-reading-v11 .blog-toc a { border-left: 0; }
+.blog-reading-v11 .blog-tool { background: #f7f8fa; color: #20211f; }
+.blog-reading-v11 .blog-product-note { color: #f5f6f8; }
+.blog-reading-v11 .blog-inline-figure img { display: block; width: 100%; max-width: 600px; margin-inline: auto; height: auto; }
+@media(max-width:760px) { html[lang^="zh"] .blog-reading-v11 .blog-article-hero h1 { font-size: 33px; line-height: 1.3; } }
+
+/* A compact, semantic comparison for the three partner roles. */
+.blog-reading-v11 .blog-comparison-figure { margin: 30px 0 38px; }
+.blog-reading-v11 .blog-comparison-scroll { overflow-x: auto; border: 1px solid #e2e6ed; border-radius: 12px; background: #fff; }
+.blog-reading-v11 .blog-comparison-scroll:focus-visible { outline: 2px solid #2359dc; outline-offset: 3px; }
+.blog-reading-v11 .blog-comparison-figure table { width: 100%; min-width: 530px; border-collapse: collapse; table-layout: fixed; font-size: 14px; line-height: 1.6; text-align: left; }
+.blog-reading-v11 .blog-comparison-figure caption { padding: 20px 22px 18px; color: #20211f; font-size: 20px; font-weight: 650; line-height: 1.35; text-align: left; }
+.blog-reading-v11 .blog-comparison-figure thead { background: #f6f8fb; }
+.blog-reading-v11 .blog-comparison-figure thead th { padding: 11px 18px; color: #697386; font-size: 11px; font-weight: 600; letter-spacing: .025em; }
+.blog-reading-v11 .blog-comparison-figure th:first-child { width: 27%; }
+.blog-reading-v11 .blog-comparison-figure th:nth-child(2) { width: 28%; }
+.blog-reading-v11 .blog-comparison-figure tbody th,
+.blog-reading-v11 .blog-comparison-figure td { padding: 20px 18px; vertical-align: top; border-top: 1px solid #e9edf2; color: #5e6673; font-weight: 400; }
+.blog-reading-v11 .blog-comparison-figure td.blog-comparison-name { color: #20211f; font-weight: 600; }
+.blog-reading-v11 .blog-comparison-role { display: block; padding-left: 10px; border-left: 3px solid #2359dc; color: #244daa; font-size: 13px; font-weight: 600; line-height: 1.5; }
+.blog-reading-v11 .blog-comparison-role.role-2 { color: #965843; border-color: #d88369; }
+.blog-reading-v11 .blog-comparison-role.role-3 { color: #3a7463; border-color: #68a18f; }
+.blog-reading-v11 .blog-comparison-figure figcaption { margin-top: 10px; color: #777b83; font-size: 12px; line-height: 1.65; }
+@media (max-width:760px) {
+  .blog-reading-v11 .blog-comparison-figure caption { padding: 16px; font-size: 18px; }
+  .blog-reading-v11 .blog-comparison-figure table { font-size: 13px; }
+  .blog-reading-v11 .blog-comparison-figure tbody th,
+  .blog-reading-v11 .blog-comparison-figure td { padding: 16px 14px; }
+}
+@media (max-width:760px) {
+  .blog-reading-v11 .blog-comparison-figure caption::after { content: 'Swipe to view all columns →'; display: block; margin-top: 8px; color: #777b83; font-size: 11px; font-weight: 400; }
+  html[lang^='zh'] .blog-reading-v11 .blog-comparison-figure caption::after { content: '左右滑动查看完整表格 →'; }
+}
+
+.blog-reading-v11 .blog-process-figure { margin: 30px 0 38px; padding: 22px; border: 1px solid #e2e6ed; border-radius: 12px; background: #f8faff; }
+.blog-reading-v11 .blog-process-figure h3 { margin: 0 0 22px; font-size: 20px; line-height: 1.4; }
+.blog-reading-v11 .blog-process-figure ol { display: flex; gap: 24px; list-style: none; margin: 0; padding: 0; }
+.blog-reading-v11 .blog-process-figure li { position: relative; flex: 1; min-width: 0; }
+.blog-reading-v11 .blog-process-figure li:not(:last-child)::after { content: '→'; position: absolute; top: 6px; right: -18px; color: #9aa9c4; }
+.blog-reading-v11 .blog-process-figure li > span { display: grid; place-items: center; width: 30px; height: 30px; border-radius: 50%; background: #e6eeff; color: #2359dc; font-size: 11px; font-weight: 700; }
+.blog-reading-v11 .blog-process-figure li p { margin: 12px 0 0; color: #313a4a; font-size: 14px; line-height: 1.6; }
+.blog-reading-v11 .blog-process-figure figcaption { margin-top: 20px; color: #777b83; font-size: 12px; line-height: 1.65; }
+@media (max-width:760px) {
+ .blog-reading-v11 .blog-process-figure { padding: 18px; }
+ .blog-reading-v11 .blog-process-figure ol { flex-direction: column; gap: 20px; }
+ .blog-reading-v11 .blog-process-figure li { display: flex; align-items: center; gap: 14px; }
+ .blog-reading-v11 .blog-process-figure li > span { flex-shrink: 0; }
+ .blog-reading-v11 .blog-process-figure li p { margin: 0; font-size: 13px; }
+ .blog-reading-v11 .blog-process-figure li:not(:last-child)::after { content: ''; top: 34px; left: 14px; width: 1px; height: 12px; background: #c5d3ec; }
+}

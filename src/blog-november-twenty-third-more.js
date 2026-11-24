@@ -189,7 +189,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "famoid-claim-evidence-boundaries.svg",
         "afterSection": 5,
         "alt": [
           "网页主张、实际观察与商业结论分三层呈现",
@@ -198,6 +197,53 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "教学示例中的计数差值不能自动变成已归因的目标客户。",
           "A count difference in a teaching example does not automatically become attributed target customers."
+        ],
+        "kind": "comparison-table",
+        "headers": [
+          [
+            "证据层次",
+            "Evidence layer"
+          ],
+          [
+            "核对内容",
+            "What to examine"
+          ]
+        ],
+        "rows": [
+          [
+            [
+              "提供方主张",
+              "Provider claims"
+            ],
+            [
+              "说明、条款与适用范围",
+              "Descriptions, terms and scope"
+            ]
+          ],
+          [
+            [
+              "实际观察",
+              "Observed evidence"
+            ],
+            [
+              "可追溯记录、来源与未知项",
+              "Traceable records, sources and unknowns"
+            ]
+          ],
+          [
+            [
+              "商业结论",
+              "Business conclusion"
+            ],
+            [
+              "证据能够支持的有限判断",
+              "Only the conclusion supported by the evidence"
+            ]
+          ]
+        ],
+        "title": [
+          "用一个增长算例看清推断的边界",
+          "Use a growth example to test the inference"
         ]
       }
     ],
@@ -296,7 +342,8 @@ export const novemberTwentyThirdMorePosts = [
         "Explore QuickKOL"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "hoo-be-creator-campaign-link-guide",
@@ -485,7 +532,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "hoo-be-campaign-destination-map.svg",
         "afterSection": 2,
         "alt": [
           "音乐创作者页面分别承接完整演示、设备信息与活动安排",
@@ -494,6 +540,53 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "编辑示例：按观众的问题命名入口，再放入真实地址。",
           "Editorial example: label entries around viewer questions, then supply the real destinations."
+        ],
+        "kind": "comparison-table",
+        "headers": [
+          [
+            "访问需求",
+            "Visitor task"
+          ],
+          [
+            "对应入口",
+            "Destination"
+          ]
+        ],
+        "rows": [
+          [
+            [
+              "看作品",
+              "View the work"
+            ],
+            [
+              "完整演示与作品示例",
+              "Full demonstrations and work samples"
+            ]
+          ],
+          [
+            [
+              "找合作",
+              "Discuss a partnership"
+            ],
+            [
+              "合作联系与项目资料",
+              "Contact route and project information"
+            ]
+          ],
+          [
+            [
+              "看商品",
+              "Explore products"
+            ],
+            [
+              "实际商品或设备信息",
+              "Relevant products or equipment information"
+            ]
+          ]
+        ],
+        "title": [
+          "把合作内容放在可识别的位置",
+          "Give the partnership an identifiable place"
         ]
       }
     ],
@@ -562,7 +655,7 @@ export const novemberTwentyThirdMorePosts = [
       ],
       "note": [
         "来源：2026年11月23日读取的官方价格页。交易条件与实际结算须另行确认。",
-        "Source: official pricing page read November23,2026. Confirm actual checkout and transaction conditions separately."
+        "Source: official pricing page read November 23, 2026. Confirm actual checkout and transaction conditions separately."
       ]
     },
     "deepDive": [
@@ -592,7 +685,8 @@ export const novemberTwentyThirdMorePosts = [
         "Explore QuickKOL"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "plus-size-fashionista-creator-examples",
@@ -781,7 +875,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "plus-size-fashion-creator-role-map.svg",
         "afterSection": 4,
         "alt": [
           "将穿搭演示、品牌策略与编辑媒体分为三种合作贡献",
@@ -790,6 +883,69 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "先确认任务，再研究对象；三类贡献不能按同一帖子规格购买。",
           "Define the task before researching the partner; these contributions do not share one post specification."
+        ],
+        "kind": "comparison-table",
+        "title": [
+          "三种贡献，对应不同的合作需求",
+          "Three contributions. Different briefs."
+        ],
+        "headers": [
+          [
+            "合作方向",
+            "Contribution"
+          ],
+          [
+            "研究对象",
+            "Research example"
+          ],
+          [
+            "Brief 要明确什么",
+            "Define in the brief"
+          ]
+        ],
+        "rows": [
+          [
+            [
+              "穿搭与使用",
+              "Styling & use"
+            ],
+            [
+              "Caralyn Mirand",
+              "Caralyn Mirand"
+            ],
+            [
+              "需要演示哪件服装、使用场景和细节？",
+              "Which garment, situation and details should be shown?"
+            ]
+          ],
+          [
+            [
+              "策略与内容",
+              "Strategy & content"
+            ],
+            [
+              "Nicolette Mason",
+              "Nicolette Mason"
+            ],
+            [
+              "创意方向需要回答什么问题？",
+              "What question should the creative direction answer?"
+            ]
+          ],
+          [
+            [
+              "编辑与社群",
+              "Editorial & community"
+            ],
+            [
+              "The Curvy Fashionista",
+              "The Curvy Fashionista"
+            ],
+            [
+              "聚焦哪个编辑主题与读者群体？",
+              "Which editorial topic and reader group are relevant?"
+            ]
+          ]
         ]
       }
     ],
@@ -858,7 +1014,7 @@ export const novemberTwentyThirdMorePosts = [
       ],
       "note": [
         "依据2026年11月23日读取的各方自有页面；顺序不表示排名，未核验实时受众或当前档期。",
-        "Based on owned pages reviewed November23,2026. Order is not a ranking; live audience data and availability were not verified."
+        "Based on owned pages reviewed November 23, 2026. Order is not a ranking; live audience data and availability were not verified."
       ]
     },
     "deepDive": [
@@ -888,7 +1044,8 @@ export const novemberTwentyThirdMorePosts = [
         "Explore QuickKOL"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "partnerize-creator-affiliate-partnership-guide",
@@ -1102,7 +1259,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "partnerize-creator-commission-workflow.svg",
         "afterSection": 4,
         "alt": [
           "内容交付、交易记录、佣金确认与实际付款分开呈现",
@@ -1111,6 +1267,25 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "教学流程：记录了一笔交易，不等于内容、佣金与付款的全部条件都已完成。",
           "Teaching workflow: recording a transaction does not complete every content, commission or payment condition."
+        ],
+        "kind": "process-flow",
+        "steps": [
+          [
+            "申请与确认资格",
+            "Apply and confirm eligibility"
+          ],
+          [
+            "记录符合条件的交易",
+            "Record eligible transactions"
+          ],
+          [
+            "确认佣金与实际付款",
+            "Validate commission and payment"
+          ]
+        ],
+        "title": [
+          "把佣金条件写成能核对的算例",
+          "Make commission conditions inspectable"
         ]
       }
     ],
@@ -1141,7 +1316,8 @@ export const novemberTwentyThirdMorePosts = [
         "Explore QuickKOL"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "instagram-remove-follower-account-steps",
@@ -1161,7 +1337,7 @@ export const novemberTwentyThirdMorePosts = [
       "CreatorOperations"
     ],
     "date": "2026-11-23",
-    "updatedDate": "2026-11-23",
+    "updatedDate": "2026-11-24",
     "cover": "instagram-remove-follower-account-steps.jpg",
     "coverAlt": [
       "两张方向相反的账号关系卡，清楚区分关注别人和被别人关注",
@@ -1240,6 +1416,17 @@ export const novemberTwentyThirdMorePosts = [
           "A brand may need to know that account management occurred during a reporting window without receiving the removed person’s private details. Retain the necessary time, action type and affected interpretation rather than circulate a personal list in an external report.\n\nThe follower-removal and campaign-record guide addresses denominator changes and history. This article focuses on the target and operation. One fewer follower does not establish weaker content, and one removal does not certify an entirely clean audience.\n\nClose by confirming the correct account, intended person and either the result or a clear reason the task remains incomplete. The creator continues managing their community while the brand evaluates relevant work and task evidence. Both activities can retain their appropriate boundaries."
         ],
         []
+      ],
+      [
+        [
+          "示例：处理一次被误读的合作请求",
+          "Example: resolve one ambiguous account request"
+        ],
+        [
+          "假设品牌同事发来一句“把这个账号移除”。先把这句话改成明确的操作对象：从哪个已授权管理的账号中，移除哪个完整用户名，以及对方指的是粉丝关系还是评论处理。显示名称可能重复，应以准确用户名和主页核对；不需要在项目群转发对方的私人信息。\n\n如果对方其实希望停止收到评论，把需求交回负责账号的人，先确认适当的控制方式，而不是执行一次无关的粉丝移除。只有需求明确、操作权限合适时，再按照实际界面完成相应步骤。\n\n完成后留下最少必要的工作记录，例如账号、操作时间、请求范围和结果是否已确认。不要复制完整粉丝名单作为证明。若操作对象错误或结果仍不明确，及时告知负责人，并把问题保留为待处理，避免为了得到一个“完成”状态继续批量操作。",
+          "Imagine a brand colleague sends the instruction “remove this account.” Turn it into a precise request before touching a control: which account are you authorized to manage, what is the exact username, and does removal refer to a follower relationship or to comments? Display names can repeat. Compare the username and profile rather than forwarding private information into a project chat.\n\nIf the actual concern is unwanted comments, return the request to the account owner to choose an appropriate control. An unrelated follower-removal action would not answer that request. Proceed through the available interface only after the intended outcome and authority are clear.\n\nKeep a minimal work record: the managed account, action time, agreed scope and whether the result was confirmed. A complete follower-list export is unnecessary evidence. If the wrong person was selected or the result remains unclear, tell the responsible person and leave the item open for correction. Repeated bulk actions are not a substitute for understanding an ambiguous request."
+        ],
+        []
       ]
     ],
     "sources": [
@@ -1298,7 +1485,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "instagram-follower-removal-directions.svg",
         "afterSection": 1,
         "alt": [
           "粉丝指向你的账号，关注列表则从你的账号指向别人",
@@ -1307,6 +1493,43 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "操作前先确认关系方向，避免把移除粉丝变成取消自己的关注。",
           "Confirm the relationship direction before acting so follower removal does not become an unintended unfollow."
+        ],
+        "kind": "comparison-table",
+        "headers": [
+          [
+            "关系方向",
+            "Relationship"
+          ],
+          [
+            "对应操作",
+            "Action"
+          ]
+        ],
+        "rows": [
+          [
+            [
+              "对方关注你",
+              "They follow you"
+            ],
+            [
+              "移除粉丝",
+              "Remove follower"
+            ]
+          ],
+          [
+            [
+              "你关注对方",
+              "You follow them"
+            ],
+            [
+              "取消关注",
+              "Unfollow"
+            ]
+          ]
+        ],
+        "title": [
+          "先确认你要改变哪一段关系",
+          "Identify the relationship you intend to change"
         ]
       }
     ],
@@ -1318,7 +1541,7 @@ export const novemberTwentyThirdMorePosts = [
         ],
         "body": [
           "核验于2026年11月23日。Instagram当前帮助页无法读取，采用可读取的较早 Instagram／Internet Matters 操作资料和 Meta 安全说明。未登录账号测试，不承诺所有当前菜单位置、通知行为或公开账号条件一致。",
-          "Reviewed November23,2026. The current Instagram help page was inaccessible; this guide uses an accessible earlier Instagram/Internet Matters operating document and Meta safety material. No signed-in test was performed; identical current menus, notification behavior and public-account conditions are not promised."
+          "Reviewed November 23, 2026. The current Instagram help page was inaccessible; this guide uses an accessible earlier Instagram/Internet Matters operating document and Meta safety material. No signed-in test was performed; identical current menus, notification behavior and public-account conditions are not promised."
         ],
         "citations": []
       }
@@ -1337,7 +1560,8 @@ export const novemberTwentyThirdMorePosts = [
         "Explore QuickKOL"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "facebook-algorithm-2026-creator-ranking-guide",
@@ -1551,7 +1775,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "facebook-candidate-prediction-order.svg",
         "afterSection": 2,
         "alt": [
           "候选内容、个人预测和最终排序的三层关系，不表示固定权重",
@@ -1560,6 +1783,25 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "流程是理解机制的简图，不是 Facebook 内部界面或公开权重公式。",
           "A conceptual process diagram, not an internal Facebook interface or a disclosed weighting formula."
+        ],
+        "kind": "process-flow",
+        "steps": [
+          [
+            "候选内容",
+            "Candidate selection"
+          ],
+          [
+            "个人预测",
+            "Personal predictions"
+          ],
+          [
+            "上下文排序",
+            "Ordering in context"
+          ]
+        ],
+        "title": [
+          "候选内容与最终展示是两件事",
+          "Candidate retrieval is different from final exposure"
         ]
       }
     ],
@@ -1590,7 +1832,8 @@ export const novemberTwentyThirdMorePosts = [
         "Research creators with QuickKOL"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "social-media-report-template-creator-campaigns",
@@ -1790,7 +2033,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "creator-report-example-denominators.svg",
         "afterSection": 4,
         "alt": [
           "假设200次互动分别除以8000展示和5000触达，得到2.5%与4%",
@@ -1799,6 +2041,55 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "同一假设互动数，分母不同，指标含义也不同。CSV 为可编辑模板，示例结果是静态值。",
           "One hypothetical engagement total, two denominators and two meanings. CSV examples contain static values."
+        ],
+        "kind": "comparison-table",
+        "headers": [
+          [
+            "假设互动数",
+            "Hypothetical engagements"
+          ],
+          [
+            "分母",
+            "Denominator"
+          ],
+          [
+            "计算结果",
+            "Result"
+          ]
+        ],
+        "rows": [
+          [
+            [
+              "200",
+              "200"
+            ],
+            [
+              "8,000 次展示",
+              "8,000 impressions"
+            ],
+            [
+              "2.5%",
+              "2.5%"
+            ]
+          ],
+          [
+            [
+              "200",
+              "200"
+            ],
+            [
+              "5,000 触达",
+              "5,000 reach"
+            ],
+            [
+              "4%",
+              "4%"
+            ]
+          ]
+        ],
+        "title": [
+          "按示例核对一次互动率",
+          "Work through the engagement example"
         ]
       }
     ],
@@ -1898,7 +2189,8 @@ export const novemberTwentyThirdMorePosts = [
         "Research the next creator partnership"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "current-tiktok-trends-november-2026-formats",
@@ -1914,7 +2206,7 @@ export const novemberTwentyThirdMorePosts = [
       "CreatorOperations"
     ],
     "date": "2026-11-23",
-    "updatedDate": "2026-11-23",
+    "updatedDate": "2026-11-24",
     "cover": "current-tiktok-trends-november-2026-formats.jpg",
     "coverAlt": [
       "两位成年创作者在明亮服装工作室排练一段短视频动作",
@@ -2016,6 +2308,17 @@ export const novemberTwentyThirdMorePosts = [
         [
           "quickkol"
         ]
+      ],
+      [
+        [
+          "示例：把对照形式改成一个可拍摄任务",
+          "Example: turn a contrast format into a shootable brief"
+        ],
+        [
+          "假设一家软件品牌想采用“两面生活”的对照形式。先定义一个观众能看到的差别：同一个演示任务在缺少整理信息和准备好信息时分别怎样展开。画面应展示实际输入与动作，避免用虚构节省时间或夸张结果代替解释。\n\n可以先交付三格文字分镜：第一格提出具体问题，第二格呈现处理过程，第三格说明观众可以尝试的下一步。让创作者提出自己的表达方式，品牌只核对产品事实与演示条件。拍摄前再决定声音、披露、输出格式和谁负责最终检查。\n\n这只是本篇的假设合作方案，不证明该形式仍在每个市场流行。若声音或原始作品语境已经改变，保留有用的叙事动作，重新设计表达；不要把昨天的趋势名称当作今天必须使用的创意。",
+          "Imagine a software brand considering a “two sides of life” contrast. Define a difference viewers can actually see: how the same demonstration task unfolds with disorganized inputs and with prepared inputs. Show the inputs and actions. Invented time savings or exaggerated outcomes would weaken an otherwise understandable explanation.\n\nStart with a three-frame written storyboard. The first frame introduces a specific question, the second shows the process, and the third offers a next step viewers can try. Invite the creator to propose their own expression while the brand checks product facts and demonstration conditions. Agree sound, disclosure, output format and final review responsibility before recording.\n\nThis is a hypothetical commission for this article, not evidence that the format remains popular in every market. If a sound or the surrounding context has changed, retain the useful narrative action and design a fresh execution. A previously observed trend name does not make yesterday’s creative choice mandatory today."
+        ],
+        []
       ]
     ],
     "sources": [
@@ -2086,7 +2389,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "tiktok-three-format-storyboards.svg",
         "afterSection": 4,
         "alt": [
           "对照、手艺过程与幽默转折三种短视频分镜",
@@ -2095,6 +2397,53 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "分镜为本文假设合作方案，不是原始趋势视频截图。",
           "Storyboards illustrate this article’s hypothetical commissions, rather than screenshots of original trend videos."
+        ],
+        "kind": "comparison-table",
+        "title": [
+          "第三种：让幽默转折与产品有关",
+          "Format three: make the humorous reveal relevant"
+        ],
+        "headers": [
+          [
+            "叙事形式",
+            "Format"
+          ],
+          [
+            "编辑任务",
+            "Creative task"
+          ]
+        ],
+        "rows": [
+          [
+            [
+              "对照",
+              "Contrast"
+            ],
+            [
+              "解释两种情境之间的差别",
+              "Explain the difference between two situations"
+            ]
+          ],
+          [
+            [
+              "手艺过程",
+              "Process"
+            ],
+            [
+              "展示人的工作与具体动作",
+              "Show human contribution and practical actions"
+            ]
+          ],
+          [
+            [
+              "幽默反转",
+              "Reveal"
+            ],
+            [
+              "让反转服务观众正在理解的问题",
+              "Connect the reveal to the viewer’s question"
+            ]
+          ]
         ]
       }
     ],
@@ -2125,7 +2474,8 @@ export const novemberTwentyThirdMorePosts = [
         "Start creator research"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "instagram-seo-keywords-hashtags-creator-guide",
@@ -2338,7 +2688,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "instagram-search-caption-rewrite.svg",
         "afterSection": 4,
         "alt": [
           "把空泛赞美词改写成问题、演示与使用条件的作品说明",
@@ -2347,6 +2696,53 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "改写示例用于假设的租房收纳合作，不代表实际账号或排名测试。",
           "An editorial rewrite for a hypothetical rental-storage collaboration, not an account or ranking test."
+        ],
+        "kind": "comparison-table",
+        "headers": [
+          [
+            "写法",
+            "Caption element"
+          ],
+          [
+            "示例",
+            "Example"
+          ]
+        ],
+        "rows": [
+          [
+            [
+              "空泛赞美",
+              "Vague praise"
+            ],
+            [
+              "“好用！必备！”",
+              "“So useful! A must-have!”"
+            ]
+          ],
+          [
+            [
+              "具体问题",
+              "Specific question"
+            ],
+            [
+              "租房玄关怎样放湿伞？",
+              "Where can wet umbrellas go in a rental entryway?"
+            ]
+          ],
+          [
+            [
+              "有用说明",
+              "Useful explanation"
+            ],
+            [
+              "演示动作，并保留使用条件",
+              "Demonstrate the action and explain use conditions"
+            ]
+          ]
+        ],
+        "title": [
+          "把关键词放进完整答案，而不是词串",
+          "Write a useful caption instead of a term list"
         ]
       }
     ],
@@ -2377,7 +2773,8 @@ export const novemberTwentyThirdMorePosts = [
         "Research creators with QuickKOL"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "creator-income-london-partnership-models",
@@ -2588,7 +2985,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "creator-income-work-rights-transactions.svg",
         "afterSection": 4,
         "alt": [
           "制作、发布、授权与佣金分别对应工作、受众、使用权限和有效交易",
@@ -2597,6 +2993,63 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "收入类别是商业安排，不是个人收入预测；佣金算例中的8%与£600均为假设。",
           "These are commercial arrangements, not personal income forecasts. The 8% rate and £600 sales example are hypothetical."
+        ],
+        "kind": "comparison-table",
+        "headers": [
+          [
+            "收入类别",
+            "Income type"
+          ],
+          [
+            "对应工作",
+            "What is purchased"
+          ]
+        ],
+        "rows": [
+          [
+            [
+              "制作",
+              "Production"
+            ],
+            [
+              "完成约定作品",
+              "Defined assets"
+            ]
+          ],
+          [
+            [
+              "发布",
+              "Publication"
+            ],
+            [
+              "账号上的表达与发布",
+              "Account-based expression and publication"
+            ]
+          ],
+          [
+            [
+              "授权",
+              "Licensing"
+            ],
+            [
+              "约定渠道与使用期限",
+              "Specified channels and duration"
+            ]
+          ],
+          [
+            [
+              "佣金",
+              "Commission"
+            ],
+            [
+              "符合条件的交易",
+              "Eligible transactions"
+            ]
+          ]
+        ],
+        "title": [
+          "联盟收入取决于已约定的交易条件",
+          "Affiliate income depends on transaction terms"
         ]
       }
     ],
@@ -2627,7 +3080,8 @@ export const novemberTwentyThirdMorePosts = [
         "Start creator research"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "instagram-schedule-posts-native-guide",
@@ -2830,7 +3284,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "instagram-suite-scheduling-checkpoints.svg",
         "afterSection": 4,
         "alt": [
           "账号、目标、素材、时间、排期状态和实际发布六个核对节点",
@@ -2839,6 +3292,29 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "功能检查路线，不是当前 Business Suite 界面的仿制截图。",
           "A functional checking route, not a replica of the current Business Suite interface."
+        ],
+        "kind": "process-flow",
+        "steps": [
+          [
+            "确认账号与目标",
+            "Account and destination"
+          ],
+          [
+            "核对素材与时间",
+            "Asset and time"
+          ],
+          [
+            "找回排期记录",
+            "Saved scheduled item"
+          ],
+          [
+            "查看实际作品",
+            "Actual published post"
+          ]
+        ],
+        "title": [
+          "步骤三：设置时间并完成确认",
+          "Step three: set the time and confirm scheduling"
         ]
       }
     ],
@@ -2869,7 +3345,8 @@ export const novemberTwentyThirdMorePosts = [
         "Research creators with QuickKOL"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "beacons-ai-creator-brand-partnership-guide",
@@ -2885,7 +3362,7 @@ export const novemberTwentyThirdMorePosts = [
       "CreatorOperations"
     ],
     "date": "2026-11-23",
-    "updatedDate": "2026-11-23",
+    "updatedDate": "2026-11-24",
     "cover": "beacons-ai-creator-brand-partnership-guide.jpg",
     "coverAlt": [
       "Beacons 字样与链接、作品、资料和商店四种入口的明亮文字拼贴",
@@ -2988,6 +3465,17 @@ export const novemberTwentyThirdMorePosts = [
         [
           "quickkol"
         ]
+      ],
+      [
+        [
+          "示例：上线前走完一次合作咨询路径",
+          "Example: walk through a partnership inquiry"
+        ],
+        [
+          "假设创作者页面同时有作品、教程商品和合作咨询入口。请一个不熟悉页面的同事，只根据“我想邀请这位创作者演示产品”完成一次检查。他应该能找到相关作品、看懂合作联系入口，并知道咨询需要提供哪些基本信息。\n\n使用虚构项目资料测试自己的表单时，标明测试目的，避免误发给他人。核对必填字段是否真的有用：项目目标、内容形式、时间范围和适合回复的联系路径，通常比要求对方一次提供大量敏感信息更容易处理。这里是编辑检查建议，不代表 Beacons 所有计划都提供相同表单能力。\n\n分别检查手机阅读、目的地址和后续负责人。商品按钮进入商品路径，合作按钮进入咨询路径，不能因为都能打开页面就判定任务完成。记录一项明确的改进，再测试修改后的同一路径。",
+          "Imagine a creator page with separate destinations for work samples, tutorial products and partnership inquiries. Ask a colleague unfamiliar with the page to follow one brief: “I want to invite this creator to demonstrate a product.” They should find relevant work, recognize the commercial contact route and understand what information an inquiry needs.\n\nIf testing your own form with fictional project details, label the test and avoid sending it to someone else inadvertently. Check whether required fields serve the task. A project goal, content format, approximate timing and a suitable reply route are more manageable than a demand for extensive sensitive information. This is an editorial review suggestion, not a claim that every Beacons plan includes identical form capabilities.\n\nCheck mobile reading, destination and follow-up ownership separately. A product button should reach the product journey and a partnership button the inquiry journey. A successful page load alone does not complete either task. Record one concrete improvement, then repeat the same route after the change."
+        ],
+        []
       ]
     ],
     "sources": [
@@ -3058,7 +3546,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "beacons-creator-hub-audience-paths.svg",
         "afterSection": 4,
         "alt": [
           "作品、品牌合作和自有教程三种访问需求通向不同入口",
@@ -3067,6 +3554,53 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "假设页面组织方案，不是 Beacons 真实界面截图。",
           "A hypothetical information structure, not a screenshot of the Beacons interface."
+        ],
+        "kind": "comparison-table",
+        "headers": [
+          [
+            "访问需求",
+            "Visitor need"
+          ],
+          [
+            "页面入口",
+            "Page destination"
+          ]
+        ],
+        "rows": [
+          [
+            [
+              "了解作品",
+              "Understand the work"
+            ],
+            [
+              "作品展示",
+              "Work samples"
+            ]
+          ],
+          [
+            [
+              "提出品牌合作",
+              "Propose a partnership"
+            ],
+            [
+              "合作咨询",
+              "Partnership inquiry"
+            ]
+          ],
+          [
+            [
+              "购买教程",
+              "Buy a tutorial"
+            ],
+            [
+              "自有教程商品",
+              "Tutorial product"
+            ]
+          ]
+        ],
+        "title": [
+          "示例：为家居创作者整理三个入口",
+          "Example: organize three destinations for a home creator"
         ]
       }
     ],
@@ -3179,7 +3713,8 @@ export const novemberTwentyThirdMorePosts = [
         "Research creators with QuickKOL"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "instagram-marketing-news-november-2026",
@@ -3195,7 +3730,7 @@ export const novemberTwentyThirdMorePosts = [
       "CreatorOperations"
     ],
     "date": "2026-11-23",
-    "updatedDate": "2026-11-23",
+    "updatedDate": "2026-11-24",
     "cover": "instagram-marketing-news-november-2026.jpg",
     "coverAlt": [
       "三张带日期的新闻卡分别标注印度、Direct 测试和青少年保护",
@@ -3287,6 +3822,17 @@ export const novemberTwentyThirdMorePosts = [
         [
           "quickkol"
         ]
+      ],
+      [
+        [
+          "示例：把一条新闻改成项目更新",
+          "Example: turn one announcement into a project update"
+        ],
+        [
+          "假设同事把一条地区测试新闻转发给全球项目团队。先保存来源与核验日期，再用一句话写清已知变化、适用地区和仍未确认的事项。不要只转发一个会让所有人以为功能已全面可用的标题。\n\n在合作 Brief 中，将观察到的变化与需要做的决定分开。当地沟通负责人可以检查相关账号的实际情况；其他市场继续使用已经确认可用的联系路径。这里描述的是假设的项目处理方法，不代表任何特定账号已获得测试资格。\n\n更新记录应包含下一次检查由谁负责，以及什么情况会改变当前决定。若后续公告扩大范围，追加来源和变更说明；若暂无新证据，就保留原有范围。这样团队能复用一条经过解释的项目记录，而不是把不完整消息反复转成新的承诺。",
+          "Imagine a colleague forwards news of a regional test to a global project team. Save the source and review date, then summarize the known change, applicable market and unresolved availability in one sentence. A headline alone may lead recipients to assume a worldwide release.\n\nSeparate the observed development from the decision in the partnership brief. A local communications owner can check the relevant account’s actual situation. Other markets can continue using contact routes already confirmed for the project. This is a hypothetical operating method, not evidence that any particular account has access to a test.\n\nName the person responsible for the next check and explain what new information would change the current decision. If a later announcement expands availability, add the source and a change note. If evidence remains unchanged, retain the original scope. The team can then reuse an explained project record instead of repeatedly turning an incomplete announcement into a fresh promise."
+        ],
+        []
       ]
     ],
     "sources": [
@@ -3357,7 +3903,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "instagram-november-news-scope-map.svg",
         "afterSection": 3,
         "alt": [
           "印度推荐、土耳其和泰国测试、全球年龄估算三项新闻的不同范围",
@@ -3366,6 +3911,53 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "截至2026年11月23日的来源快照；全球年龄估算扩展不表示各地所有功能相同。",
           "Source snapshot as of November 23, 2026. Global age-estimation expansion does not mean identical features in every location."
+        ],
+        "kind": "comparison-table",
+        "headers": [
+          [
+            "范围",
+            "Scope"
+          ],
+          [
+            "新闻内容",
+            "Development"
+          ]
+        ],
+        "rows": [
+          [
+            [
+              "印度",
+              "India"
+            ],
+            [
+              "推荐调整",
+              "Recommendations"
+            ]
+          ],
+          [
+            [
+              "土耳其与泰国",
+              "Türkiye and Thailand"
+            ],
+            [
+              "Direct 应用测试",
+              "Direct app test"
+            ]
+          ],
+          [
+            [
+              "全球扩展",
+              "Global expansion"
+            ],
+            [
+              "年龄估算技术",
+              "Age estimation"
+            ]
+          ]
+        ],
+        "title": [
+          "11月上旬：青少年保护继续扩展",
+          "Early November: expanded teen protections"
         ]
       }
     ],
@@ -3396,7 +3988,8 @@ export const novemberTwentyThirdMorePosts = [
         "Start creator research"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "social-media-marketing-packages-creator-scope",
@@ -3617,7 +4210,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "creator-package-scope-layers.svg",
         "afterSection": 5,
         "alt": [
           "制作、发布、授权、媒体预算与报告是套餐中的不同范围",
@@ -3626,6 +4218,73 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "比较时先对齐工作范围，再看报价总额。",
           "Align the work being purchased before comparing quotation totals."
+        ],
+        "kind": "comparison-table",
+        "headers": [
+          [
+            "套餐项目",
+            "Component"
+          ],
+          [
+            "比较时明确",
+            "Define before comparing"
+          ]
+        ],
+        "rows": [
+          [
+            [
+              "制作",
+              "Production"
+            ],
+            [
+              "作品与交付格式",
+              "Assets and delivery format"
+            ]
+          ],
+          [
+            [
+              "发布",
+              "Publication"
+            ],
+            [
+              "发布账号与内容",
+              "Publishing account and content"
+            ]
+          ],
+          [
+            [
+              "授权",
+              "Usage rights"
+            ],
+            [
+              "渠道与期限",
+              "Channels and duration"
+            ]
+          ],
+          [
+            [
+              "媒体预算",
+              "Media spend"
+            ],
+            [
+              "独立列出的投放支出",
+              "Separately stated advertising spend"
+            ]
+          ],
+          [
+            [
+              "报告",
+              "Reporting"
+            ],
+            [
+              "报告范围与数据口径",
+              "Reporting scope and metric definitions"
+            ]
+          ]
+        ],
+        "title": [
+          "费用表至少分出这几项",
+          "Make the quotation explain the cost components"
         ]
       }
     ],
@@ -3724,7 +4383,8 @@ export const novemberTwentyThirdMorePosts = [
         "Research creators with QuickKOL"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   },
   {
     "slug": "pinterest-business-account-creator-setup",
@@ -3935,7 +4595,6 @@ export const novemberTwentyThirdMorePosts = [
     ],
     "figures": [
       {
-        "file": "pinterest-account-pin-destination.svg",
         "afterSection": 5,
         "alt": [
           "商业账号身份、已授权作品、Pin 与目标页面连接的四步流程",
@@ -3944,6 +4603,29 @@ export const novemberTwentyThirdMorePosts = [
         "caption": [
           "假设家居合作的功能路线，不是 Pinterest 当前界面截图。",
           "A functional route for a hypothetical home collaboration, not a screenshot of the current Pinterest interface."
+        ],
+        "kind": "process-flow",
+        "steps": [
+          [
+            "商业主体",
+            "Business identity"
+          ],
+          [
+            "作品使用许可",
+            "Asset permission"
+          ],
+          [
+            "Pin 内容",
+            "Pin content"
+          ],
+          [
+            "目标页面",
+            "Destination page"
+          ]
+        ],
+        "title": [
+          "创建、预览与发布",
+          "Create, inspect and publish"
         ]
       }
     ],
@@ -3974,6 +4656,7 @@ export const novemberTwentyThirdMorePosts = [
         "Research creators with QuickKOL"
       ],
       "href": "https://www.quickkol.com/"
-    }
+    },
+    "readingStyle": "v1.1"
   }
 ];
